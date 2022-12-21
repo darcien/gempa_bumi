@@ -190,5 +190,17 @@
     "bmkgEarthquakeId": "20221221121827",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221221121827.mmi.jpg",
     "fingerprintSha1": "53a05d50976402d3932422fb0e324163d2549982"
+  },
+  {
+    "earthquakeAt": "2022-12-21T08:59:21.000Z",
+    "latitude": -6.82,
+    "longitude": 107.09,
+    "magnitude": 2.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km barat laut kab.Cianjur",
+    "feltOnStations": "II - III Karangtengah, II - III Ciherang, II - III Cianjur, II - III Cugenang, II - III Cipanas, II - III Cilaku, II - III Warungkondang, II - III Bayongbong",
+    "bmkgEarthquakeId": "20221221155921",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221221155921.mmi.jpg",
+    "fingerprintSha1": "d4a5a27fdd9665783d04836a71256840b40ce60d"
   }
 ]
