@@ -25,7 +25,6 @@ export type BmkgEarthquakeId = string & {
 function padTimeComponent(part: number) {
   return String(part).padStart(2, "0");
 }
-// TODO: Elaborate the id here
 export function computeBmkgEarthquakeId(earthquakeAt: Date): BmkgEarthquakeId {
   const wibDate = new Date(earthquakeAt.getTime() + WIB_OFFSET);
   return [

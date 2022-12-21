@@ -1,7 +1,7 @@
 # gempa_bumi
 
 Unofficial historical data of earthquakes from [Indonesia's BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)](https://www.bmkg.go.id/).
-The oldest data is earthquake on 2022-12-13.
+The oldest data is earthquake on 2022-12-14.
 
 ## Quick links
 
@@ -13,4 +13,4 @@ The oldest data is earthquake on 2022-12-13.
 
 ## Inspiration
 
-Inspiration from [previous attempt](https://github.com/darcien/kapan_diskon) and all works listed in it.
+Inspiration from [previous attempt on git scraping](https://github.com/darcien/kapan_diskon) and all works listed in it.
