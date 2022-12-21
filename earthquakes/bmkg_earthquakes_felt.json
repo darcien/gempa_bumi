@@ -202,5 +202,17 @@
     "bmkgEarthquakeId": "20221221155921",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221221155921.mmi.jpg",
     "fingerprintSha1": "d4a5a27fdd9665783d04836a71256840b40ce60d"
+  },
+  {
+    "earthquakeAt": "2022-12-21T21:18:28.000Z",
+    "latitude": -6.99,
+    "longitude": 108.48,
+    "magnitude": 3.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km BaratDaya Kab. Kuningan",
+    "feltOnStations": "III Kuningan, II - III Cirebon, II - III Majalengka",
+    "bmkgEarthquakeId": "20221222041828",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221222041828.mmi.jpg",
+    "fingerprintSha1": "a049a8146851dfbc1f1ec01b6206c937f84b4b73"
   }
 ]
