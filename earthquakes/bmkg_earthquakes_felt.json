@@ -238,5 +238,17 @@
     "bmkgEarthquakeId": "20221222142140",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221222142140.mmi.jpg",
     "fingerprintSha1": "fa164e7946082bc8d655f6d23084eddd23b477b3"
+  },
+  {
+    "earthquakeAt": "2022-12-22T09:21:08.000Z",
+    "latitude": -1.55,
+    "longitude": 120.12,
+    "magnitude": 4.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km timur laut Lawua, Kab. Sigi",
+    "feltOnStations": "II - III Kulawi",
+    "bmkgEarthquakeId": "20221222162108",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221222162108.mmi.jpg",
+    "fingerprintSha1": "1635c321a72bfd1415e6258b33e791885888b063"
   }
 ]
