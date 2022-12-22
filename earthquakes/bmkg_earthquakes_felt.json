@@ -226,5 +226,17 @@
     "bmkgEarthquakeId": "20221222120040",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221222120040.mmi.jpg",
     "fingerprintSha1": "23b27c98a930e9afbd630ac7a029645a7b6505ba"
+  },
+  {
+    "earthquakeAt": "2022-12-22T07:21:40.000Z",
+    "latitude": -6.8,
+    "longitude": 107.1,
+    "magnitude": 2.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km Barat Laut Cianjur",
+    "feltOnStations": "II Pacet",
+    "bmkgEarthquakeId": "20221222142140",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221222142140.mmi.jpg",
+    "fingerprintSha1": "fa164e7946082bc8d655f6d23084eddd23b477b3"
   }
 ]
