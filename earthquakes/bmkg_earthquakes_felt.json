@@ -214,5 +214,17 @@
     "bmkgEarthquakeId": "20221222041828",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221222041828.mmi.jpg",
     "fingerprintSha1": "a049a8146851dfbc1f1ec01b6206c937f84b4b73"
+  },
+  {
+    "earthquakeAt": "2022-12-22T05:00:40.000Z",
+    "latitude": -4.44,
+    "longitude": 122.61,
+    "magnitude": 4.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 5 km tenggara Lainea, Kab. Konawe Selatan",
+    "feltOnStations": "II - III Kendari, II - III Konawe Selatan, II Konawe Kepulauan",
+    "bmkgEarthquakeId": "20221222120040",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221222120040.mmi.jpg",
+    "fingerprintSha1": "23b27c98a930e9afbd630ac7a029645a7b6505ba"
   }
 ]
