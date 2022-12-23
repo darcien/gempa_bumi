@@ -250,5 +250,17 @@
     "bmkgEarthquakeId": "20221222162108",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221222162108.mmi.jpg",
     "fingerprintSha1": "1635c321a72bfd1415e6258b33e791885888b063"
+  },
+  {
+    "earthquakeAt": "2022-12-23T00:52:09.000Z",
+    "latitude": -2.74,
+    "longitude": 127.81,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 55 km barat laut Seram Bagian Barat",
+    "feltOnStations": "II Kairatu",
+    "bmkgEarthquakeId": "20221223075209",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221223075209.mmi.jpg",
+    "fingerprintSha1": "16146e501186a7e5b757ef98b0fc65e4c2026b71"
   }
 ]
