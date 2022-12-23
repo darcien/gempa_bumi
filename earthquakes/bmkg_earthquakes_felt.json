@@ -274,5 +274,17 @@
     "bmkgEarthquakeId": "20221223084220",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221223084220.mmi.jpg",
     "fingerprintSha1": "be452ba073fe816a6233f37a9d91a00f6e4a86d3"
+  },
+  {
+    "earthquakeAt": "2022-12-23T11:41:23.000Z",
+    "latitude": -6.77,
+    "longitude": 107.1,
+    "magnitude": 2.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km Baratlaut Kab. Cianjur",
+    "feltOnStations": "III Cugenang, III Cipanas, II Kota Cianjur",
+    "bmkgEarthquakeId": "20221223184123",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221223184123.mmi.jpg",
+    "fingerprintSha1": "7dd74892869f2b149ed7edcf4438339e195bc121"
   }
 ]
