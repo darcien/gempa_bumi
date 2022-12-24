@@ -298,5 +298,17 @@
     "bmkgEarthquakeId": "20221223195604",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221223195604.mmi.jpg",
     "fingerprintSha1": "48584cdb8f59738c81532a7c6bef8099c506a035"
+  },
+  {
+    "earthquakeAt": "2022-12-24T05:43:05.000Z",
+    "latitude": -6.79,
+    "longitude": 107.09,
+    "magnitude": 2.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di Darat 6 km BaratLaut Cianjur",
+    "feltOnStations": "III Cipanas, II Cugenang, II Ciseupan, II Sukaresmi",
+    "bmkgEarthquakeId": "20221224124305",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221224124305.mmi.jpg",
+    "fingerprintSha1": "ab499103cfbc63f410693ff8fc8e73a174853325"
   }
 ]
