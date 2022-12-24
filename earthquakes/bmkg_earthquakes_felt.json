@@ -322,5 +322,17 @@
     "bmkgEarthquakeId": "20221224190726",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221224190726.mmi.jpg",
     "fingerprintSha1": "bfd133346bf4a958dc98e65a8d5a167c97e95c08"
+  },
+  {
+    "earthquakeAt": "2022-12-24T20:57:27.000Z",
+    "latitude": -9.44,
+    "longitude": 109.16,
+    "magnitude": 5.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 191 km Tenggara Cilacap",
+    "feltOnStations": "II Kebumen",
+    "bmkgEarthquakeId": "20221225035727",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221225035727.mmi.jpg",
+    "fingerprintSha1": "7cfe481d8cbcc607fbe661a62bb382e51052b744"
   }
 ]
