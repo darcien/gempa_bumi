@@ -310,5 +310,17 @@
     "bmkgEarthquakeId": "20221224124305",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221224124305.mmi.jpg",
     "fingerprintSha1": "ab499103cfbc63f410693ff8fc8e73a174853325"
+  },
+  {
+    "earthquakeAt": "2022-12-24T12:07:26.000Z",
+    "latitude": -8.2,
+    "longitude": 115.58,
+    "magnitude": 3.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 17 km timur laut Karangasem",
+    "feltOnStations": "II Kubu",
+    "bmkgEarthquakeId": "20221224190726",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221224190726.mmi.jpg",
+    "fingerprintSha1": "bfd133346bf4a958dc98e65a8d5a167c97e95c08"
   }
 ]
