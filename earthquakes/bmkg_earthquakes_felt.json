@@ -346,5 +346,17 @@
     "bmkgEarthquakeId": "20221226053854",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221226053854.mmi.jpg",
     "fingerprintSha1": "535e60cf115a2d101b6224c7451076ba3bde7ced"
+  },
+  {
+    "earthquakeAt": "2022-12-27T18:45:45.000Z",
+    "latitude": -8.14,
+    "longitude": 107.9,
+    "magnitude": 4.5,
+    "depthInKm": 25,
+    "locationInIndonesian": "Pusat gempa berada di laut 82 km Barat Daya Kabupaten Pangandaran",
+    "feltOnStations": "II - III Garut",
+    "bmkgEarthquakeId": "20221228014545",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221228014545.mmi.jpg",
+    "fingerprintSha1": "543b9587598ea51a2ee5317461d79f916b63f208"
   }
 ]
