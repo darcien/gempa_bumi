@@ -370,5 +370,17 @@
     "bmkgEarthquakeId": "20221228192223",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221228192223.mmi.jpg",
     "fingerprintSha1": "2c52e1de6796df1c2308cbf4cb44e6e01628847f"
+  },
+  {
+    "earthquakeAt": "2022-12-28T23:07:37.000Z",
+    "latitude": -0.6,
+    "longitude": 127.43,
+    "magnitude": 3.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km BaratLaut Labuha",
+    "feltOnStations": "II-III Labuha",
+    "bmkgEarthquakeId": "20221229060737",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221229060737.mmi.jpg",
+    "fingerprintSha1": "9eac32f35ad172ce41c63b02b4bbbbc7a576a842"
   }
 ]
