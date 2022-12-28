@@ -358,5 +358,17 @@
     "bmkgEarthquakeId": "20221228014545",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221228014545.mmi.jpg",
     "fingerprintSha1": "543b9587598ea51a2ee5317461d79f916b63f208"
+  },
+  {
+    "earthquakeAt": "2022-12-28T12:22:23.000Z",
+    "latitude": -2.68,
+    "longitude": 141.06,
+    "magnitude": 4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 51 km Tenggara Kota Jayapura",
+    "feltOnStations": "II - III Kota Jayapura",
+    "bmkgEarthquakeId": "20221228192223",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221228192223.mmi.jpg",
+    "fingerprintSha1": "2c52e1de6796df1c2308cbf4cb44e6e01628847f"
   }
 ]
