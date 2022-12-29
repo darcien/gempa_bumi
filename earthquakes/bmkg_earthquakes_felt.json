@@ -382,5 +382,17 @@
     "bmkgEarthquakeId": "20221229060737",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221229060737.mmi.jpg",
     "fingerprintSha1": "9eac32f35ad172ce41c63b02b4bbbbc7a576a842"
+  },
+  {
+    "earthquakeAt": "2022-12-29T16:17:54.000Z",
+    "latitude": -3.41,
+    "longitude": 119.15,
+    "magnitude": 2.3,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 22 km barat Polewali Mandar",
+    "feltOnStations": "II Polewali Mandar",
+    "bmkgEarthquakeId": "20221229231754",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221229231754.mmi.jpg",
+    "fingerprintSha1": "66625c8134fe9080f5ffe259dc91dac87dd9fee1"
   }
 ]
