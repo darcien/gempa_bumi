@@ -394,5 +394,17 @@
     "bmkgEarthquakeId": "20221229231754",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221229231754.mmi.jpg",
     "fingerprintSha1": "66625c8134fe9080f5ffe259dc91dac87dd9fee1"
+  },
+  {
+    "earthquakeAt": "2022-12-30T03:51:21.000Z",
+    "latitude": -7.24,
+    "longitude": 107.75,
+    "magnitude": 3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 Km Baratdaya Garut",
+    "feltOnStations": "II Pangalengan, II Paseh, II Pasirwangi, II Darajat",
+    "bmkgEarthquakeId": "20221230105121",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221230105121.mmi.jpg",
+    "fingerprintSha1": "3c378b18dd46c6fbc57d5ec2a0131786c54095fd"
   }
 ]
