@@ -418,5 +418,17 @@
     "bmkgEarthquakeId": "20221231111248",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20221231111248.mmi.jpg",
     "fingerprintSha1": "2a2c9c80372bfc2deba8cd792e42b24333797b60"
+  },
+  {
+    "earthquakeAt": "2022-12-31T17:22:07.000Z",
+    "latitude": 5.29,
+    "longitude": 95.69,
+    "magnitude": 3.7,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada didarat 10 km TimurLaut Jantho-Aceh Besar",
+    "feltOnStations": "II - III Sigli",
+    "bmkgEarthquakeId": "202311002207",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202311002207.mmi.jpg",
+    "fingerprintSha1": "109d1326ec7846eda9e7d120baa41c8d8fd53db3"
   }
 ]
