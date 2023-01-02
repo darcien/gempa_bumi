@@ -490,5 +490,17 @@
     "bmkgEarthquakeId": "202312110655",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202312110655.mmi.jpg",
     "fingerprintSha1": "acfaf9f307c04a2768add300404cf202d2bdd942"
+  },
+  {
+    "earthquakeAt": "2023-01-02T10:40:02.000Z",
+    "latitude": 5.41,
+    "longitude": 96.99,
+    "magnitude": 4.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 29 Km Barat Laut Kota Lhoksemauwe",
+    "feltOnStations": "III Lhokseumawe, II - III Aceh Utara",
+    "bmkgEarthquakeId": "202312174002",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202312174002.mmi.jpg",
+    "fingerprintSha1": "487908d914ee5f404197ee7ca5d34846adf14868"
   }
 ]
