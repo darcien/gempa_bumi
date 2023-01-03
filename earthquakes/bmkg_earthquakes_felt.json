@@ -682,5 +682,29 @@
     "bmkgEarthquakeId": "202313160752",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313160752.mmi.jpg",
     "fingerprintSha1": "b5f19721f93f0b79ae2c0d35f15b7accbb84b538"
+  },
+  {
+    "earthquakeAt": "2023-01-03T09:34:47.000Z",
+    "latitude": -2.45,
+    "longitude": 140.73,
+    "magnitude": 3.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 18 km TimurLaut Kota Jayapura",
+    "feltOnStations": "II Kota Jayapura",
+    "bmkgEarthquakeId": "202313163447",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313163447.mmi.jpg",
+    "fingerprintSha1": "a4f7e0668273cd51d9e4d3d977ef1f70d9006fff"
+  },
+  {
+    "earthquakeAt": "2023-01-03T09:32:26.000Z",
+    "latitude": -3.67,
+    "longitude": 133.46,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 68 km BaratDaya Kaimana",
+    "feltOnStations": "II - III Kaimana",
+    "bmkgEarthquakeId": "202313163226",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313163226.mmi.jpg",
+    "fingerprintSha1": "4563c3483d097ace3e9ae734ec56c19ec8d46c1d"
   }
 ]
