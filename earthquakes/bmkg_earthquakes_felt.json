@@ -790,5 +790,29 @@
     "bmkgEarthquakeId": "202313195521",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313195521.mmi.jpg",
     "fingerprintSha1": "48e3dd23b97d66b7a686f00b3e71aedb772b5887"
+  },
+  {
+    "earthquakeAt": "2023-01-03T15:55:49.000Z",
+    "latitude": -2.43,
+    "longitude": 140.7,
+    "magnitude": 3.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 18 km TimurLaut Kota Jayapura",
+    "feltOnStations": "II - III Kota Jayapura",
+    "bmkgEarthquakeId": "202313225549",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313225549.mmi.jpg",
+    "fingerprintSha1": "02b7cd61228a61255249ab41a9d2393bd850f391"
+  },
+  {
+    "earthquakeAt": "2023-01-03T15:46:19.000Z",
+    "latitude": -2.9,
+    "longitude": 134.11,
+    "magnitude": 4.7,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 24 km BaratDaya Teluk Wondama",
+    "feltOnStations": "II Nabire",
+    "bmkgEarthquakeId": "202313224619",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313224619.mmi.jpg",
+    "fingerprintSha1": "04a094f85519ae0b85f8de8d79562fcebe955cc6"
   }
 ]
