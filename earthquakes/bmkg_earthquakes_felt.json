@@ -869,10 +869,34 @@
     "longitude": 140.51,
     "magnitude": 3.2,
     "depthInKm": 20,
-    "locationInIndonesian": "Pusat gempa berada di darat 2i km Tenggara Kab. Jayapura",
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km Tenggara Kab. Jayapura",
     "feltOnStations": "II Kab. Jayapura",
     "bmkgEarthquakeId": "202314070330",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202314070330.mmi.jpg",
     "fingerprintSha1": "9ea471cb2e1f395db14f7ac53efa1a4bbf139a8a"
+  },
+  {
+    "earthquakeAt": "2023-01-04T01:42:59.000Z",
+    "latitude": -2.36,
+    "longitude": 140.72,
+    "magnitude": 3.6,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di laut 26 km TimurLaut Kota Jayapura",
+    "feltOnStations": "II - III Kota Jayapura",
+    "bmkgEarthquakeId": "202314084259",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202314084259.mmi.jpg",
+    "fingerprintSha1": "08a61bcbf1460ac3f8b31ca79557635d7a7c4e66"
+  },
+  {
+    "earthquakeAt": "2023-01-04T01:39:41.000Z",
+    "latitude": -2.46,
+    "longitude": 140.69,
+    "magnitude": 4.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 15 km TimurLaut Kota Jayapura",
+    "feltOnStations": "III - IV Kota Jayapura, III - IV Kabupaten Jayapura",
+    "bmkgEarthquakeId": "202314083941",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202314083941.mmi.jpg",
+    "fingerprintSha1": "213fe5bdb452b554ef2a1254e56e9fb59ffccaf1"
   }
 ]
