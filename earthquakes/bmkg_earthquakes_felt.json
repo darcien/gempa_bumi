@@ -1090,5 +1090,17 @@
     "bmkgEarthquakeId": "202316234821",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202316234821.mmi.jpg",
     "fingerprintSha1": "ae81069669dd41225b854cb733031e00c250a756"
+  },
+  {
+    "earthquakeAt": "2023-01-06T22:27:53.000Z",
+    "latitude": -10.78,
+    "longitude": 112.54,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 293 km BaratDaya Kab. Malang",
+    "feltOnStations": "II Dinoyo",
+    "bmkgEarthquakeId": "202317052753",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202317052753.mmi.jpg",
+    "fingerprintSha1": "54dc276341834c0b5cbbaac0d07bdc9a32b2a9e6"
   }
 ]
