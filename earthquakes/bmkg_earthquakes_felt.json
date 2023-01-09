@@ -1198,5 +1198,17 @@
     "bmkgEarthquakeId": "202319164640",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202319164640.mmi.jpg",
     "fingerprintSha1": "60a090bfddb3d48219ca13b0bddb670dff35c953"
+  },
+  {
+    "earthquakeAt": "2023-01-09T12:26:31.000Z",
+    "latitude": -8.99,
+    "longitude": 111.16,
+    "magnitude": 5.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 90 km Tenggara Pacitan",
+    "feltOnStations": "II-III Pacitan, II-III Gunungkidul, II-III Bantul, II-III Kota Yogyakarta, II-III Sleman, II-III Kulonprogo, II-III Wonogiri, II-III Purworejo, II-III Cilacap, II - III Nganjuk, II - III Kediri, II - III Tulungagung, II - III Trenggalek, II Banjarnegara, II Wonosobo, II Karangkates, II Kebumen, II - III Blitar",
+    "bmkgEarthquakeId": "202319192631",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202319192631.mmi.jpg",
+    "fingerprintSha1": "d86dbd9b2e52b65f78f0be18d0a33d0b6d03b05c"
   }
 ]
