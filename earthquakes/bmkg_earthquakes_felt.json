@@ -1174,5 +1174,17 @@
     "bmkgEarthquakeId": "202318212720",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202318212720.mmi.jpg",
     "fingerprintSha1": "54e64bd9b185337f279415a2236e67325dde5bfd"
+  },
+  {
+    "earthquakeAt": "2023-01-08T22:41:06.000Z",
+    "latitude": -8,
+    "longitude": 110.42,
+    "magnitude": 3.1,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di Darat 13 km Tenggara Bantul",
+    "feltOnStations": "II Bantul",
+    "bmkgEarthquakeId": "202319054106",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202319054106.mmi.jpg",
+    "fingerprintSha1": "1d6a463829f480c58bd6ddef02e477de104b95db"
   }
 ]
