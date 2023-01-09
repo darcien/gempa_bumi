@@ -1210,5 +1210,17 @@
     "bmkgEarthquakeId": "202319192631",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202319192631.mmi.jpg",
     "fingerprintSha1": "d86dbd9b2e52b65f78f0be18d0a33d0b6d03b05c"
+  },
+  {
+    "earthquakeAt": "2023-01-09T17:47:34.000Z",
+    "latitude": -7.25,
+    "longitude": 130.18,
+    "magnitude": 7.9,
+    "depthInKm": 131,
+    "locationInIndonesian": "Pusat gempa berada di laut 148 km BaratLaut MALUKUTENGGARABRT",
+    "feltOnStations": "V Saumlaki, III-IV Sorong, III-IV Kaimana, II-III Merauke, II-III Nabire, II-III Tanah Merah, II-III Wamena, II-III Bakunase, II-III Kolhua, II-III Sabu, II-III Rote, II-III Ende, II-III Amarasi Selatan, II-III Kota Kupang",
+    "bmkgEarthquakeId": "2023110004734",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023110004734.mmi.jpg",
+    "fingerprintSha1": "42cbbc05140a6b6a281d259eeaff0687b33cc815"
   }
 ]
