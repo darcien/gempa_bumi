@@ -1218,7 +1218,7 @@
     "magnitude": 7.9,
     "depthInKm": 131,
     "locationInIndonesian": "Pusat gempa berada di laut 148 km BaratLaut MALUKUTENGGARABRT",
-    "feltOnStations": "V Saumlaki, III-IV Sorong, III-IV Kaimana, II-III Merauke, II-III Nabire, II-III Tanah Merah, II-III Wamena, II-III Bakunase, II-III Kolhua, II-III Sabu, II-III Rote, II-III Ende, II-III Amarasi Selatan, II-III Kota Kupang",
+    "feltOnStations": "V Saumlaki, III-IV Sorong, III-IV Kaimana, II-III Merauke, II-III Nabire, II-III Tanah Merah, II-III Wamena, II-III Bakunase, II-III Kolhua, II-III Sabu, II-III Rote, II-III Ende, II-III Amarasi Selatan, II-III Kota Kupang, III-IV Alor, III-IV Waingapu, III-IV Waijelu, III-IV Lembata, II Ambon, II Piru, IV Dobo, IV Tiakur",
     "bmkgEarthquakeId": "2023110004734",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023110004734.mmi.jpg",
     "fingerprintSha1": "42cbbc05140a6b6a281d259eeaff0687b33cc815"
