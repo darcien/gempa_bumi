@@ -1186,5 +1186,17 @@
     "bmkgEarthquakeId": "202319054106",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202319054106.mmi.jpg",
     "fingerprintSha1": "1d6a463829f480c58bd6ddef02e477de104b95db"
+  },
+  {
+    "earthquakeAt": "2023-01-09T09:46:40.000Z",
+    "latitude": -6.93,
+    "longitude": 105.26,
+    "magnitude": 3.6,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di laut 46 km barat daya Sumur",
+    "feltOnStations": "II-III Cibaliung",
+    "bmkgEarthquakeId": "202319164640",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202319164640.mmi.jpg",
+    "fingerprintSha1": "60a090bfddb3d48219ca13b0bddb670dff35c953"
   }
 ]
