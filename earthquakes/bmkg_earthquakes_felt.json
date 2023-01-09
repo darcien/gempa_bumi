@@ -1234,5 +1234,17 @@
     "bmkgEarthquakeId": "2023110035219",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023110035219.mmi.jpg",
     "fingerprintSha1": "92064363840ddf50fb2d5fb81c7fce75d1935ac7"
+  },
+  {
+    "earthquakeAt": "2023-01-09T22:41:26.000Z",
+    "latitude": -6.51,
+    "longitude": 104.69,
+    "magnitude": 4.8,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 99 km barat laut Sumur",
+    "feltOnStations": "II Liwa",
+    "bmkgEarthquakeId": "2023110054126",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023110054126.mmi.jpg",
+    "fingerprintSha1": "cf66cf86cce70e7685909933237952e690735a64"
   }
 ]
