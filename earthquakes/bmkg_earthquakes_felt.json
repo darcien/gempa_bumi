@@ -1270,5 +1270,17 @@
     "bmkgEarthquakeId": "2023110133532",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023110133532.mmi.jpg",
     "fingerprintSha1": "58ae8c6d04457f853f973ea48c3e13d8ebe73c4b"
+  },
+  {
+    "earthquakeAt": "2023-01-10T09:23:19.000Z",
+    "latitude": -8.11,
+    "longitude": 107.95,
+    "magnitude": 4.3,
+    "depthInKm": 26,
+    "locationInIndonesian": "Pusat gempa berada di laut 75 km BaratDaya Kab. Pangandaran",
+    "feltOnStations": "II - III Garut, II - III Pangandaran, II - III Tasikmalaya",
+    "bmkgEarthquakeId": "2023110162319",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023110162319.mmi.jpg",
+    "fingerprintSha1": "9d109d857989d24ef4e3f6f079de8c2235480d93"
   }
 ]
