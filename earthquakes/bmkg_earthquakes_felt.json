@@ -1330,5 +1330,17 @@
     "bmkgEarthquakeId": "2023111145923",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023111145923.mmi.jpg",
     "fingerprintSha1": "f8c856b8734bb0b40a30048a0a6ca4e65bc436a7"
+  },
+  {
+    "earthquakeAt": "2023-01-11T08:48:22.000Z",
+    "latitude": -6.65,
+    "longitude": 107.01,
+    "magnitude": 2.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di 11 km Timur Laut Kota Sukabumi",
+    "feltOnStations": "II Sukabumi, II Sukaraja, II Cisarua, II Sukalarang, II Kab. Sukabumi",
+    "bmkgEarthquakeId": "2023111154822",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023111154822.mmi.jpg",
+    "fingerprintSha1": "f0ebfb569c568349eb0b7eb2f879b62142ea9217"
   }
 ]
