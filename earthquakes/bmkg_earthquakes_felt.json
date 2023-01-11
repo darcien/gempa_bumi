@@ -1342,5 +1342,17 @@
     "bmkgEarthquakeId": "2023111154822",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023111154822.mmi.jpg",
     "fingerprintSha1": "f0ebfb569c568349eb0b7eb2f879b62142ea9217"
+  },
+  {
+    "earthquakeAt": "2023-01-11T11:53:30.000Z",
+    "latitude": -6.81,
+    "longitude": 131.53,
+    "magnitude": 4.8,
+    "depthInKm": 56,
+    "locationInIndonesian": "Pusat gempa berada di laut 43 km Barat Laut Larat - Kep. Tanimbar",
+    "feltOnStations": "II-III Molu Maru",
+    "bmkgEarthquakeId": "2023111185330",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023111185330.mmi.jpg",
+    "fingerprintSha1": "eb991dd15801e120a0953dc44194d9c10d1fe9a4"
   }
 ]
