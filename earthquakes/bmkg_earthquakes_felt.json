@@ -1318,5 +1318,17 @@
     "bmkgEarthquakeId": "2023110232121",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023110232121.mmi.jpg",
     "fingerprintSha1": "7e029565f5106577e0475360ef15a27ab8acc98f"
+  },
+  {
+    "earthquakeAt": "2023-01-11T07:59:23.000Z",
+    "latitude": -2.64,
+    "longitude": 137.02,
+    "magnitude": 5.1,
+    "depthInKm": 60,
+    "locationInIndonesian": "Pusat gempa berada di darat 44 km Timur Laut Waropen",
+    "feltOnStations": "III Nabire",
+    "bmkgEarthquakeId": "2023111145923",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023111145923.mmi.jpg",
+    "fingerprintSha1": "f8c856b8734bb0b40a30048a0a6ca4e65bc436a7"
   }
 ]
