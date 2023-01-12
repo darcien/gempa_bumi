@@ -1354,5 +1354,17 @@
     "bmkgEarthquakeId": "2023111185330",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023111185330.mmi.jpg",
     "fingerprintSha1": "eb991dd15801e120a0953dc44194d9c10d1fe9a4"
+  },
+  {
+    "earthquakeAt": "2023-01-11T23:25:00.000Z",
+    "latitude": -3.81,
+    "longitude": 136.35,
+    "magnitude": 3.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km barat daya Paniai",
+    "feltOnStations": "II-III Enarotali",
+    "bmkgEarthquakeId": "2023112062500",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023112062500.mmi.jpg",
+    "fingerprintSha1": "de4f2afdcc6e9c0401da47ac7d43c6ff00388ecc"
   }
 ]
