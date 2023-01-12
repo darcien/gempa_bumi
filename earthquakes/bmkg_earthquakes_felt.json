@@ -1378,5 +1378,17 @@
     "bmkgEarthquakeId": "2023113031824",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113031824.mmi.jpg",
     "fingerprintSha1": "4143b022efdaf1b4c6b31872e8d579c145455399"
+  },
+  {
+    "earthquakeAt": "2023-01-12T21:48:19.000Z",
+    "latitude": 2.16,
+    "longitude": 125.81,
+    "magnitude": 4.9,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di laut 82 km Tenggara Ondong Siau",
+    "feltOnStations": "II-III Manado, II-III Bitung",
+    "bmkgEarthquakeId": "2023113044819",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113044819.mmi.jpg",
+    "fingerprintSha1": "bf62aee644a0f1a54211079c2ad8b4c72bae7c7a"
   }
 ]
