@@ -1402,5 +1402,17 @@
     "bmkgEarthquakeId": "2023113065644",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113065644.mmi.jpg",
     "fingerprintSha1": "2d01c5c838d6fe8c94322632ae41aa67cb8f2a5a"
+  },
+  {
+    "earthquakeAt": "2023-01-13T01:19:30.000Z",
+    "latitude": -0.29,
+    "longitude": 129.67,
+    "magnitude": 4.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 188 km Tenggara Maba",
+    "feltOnStations": "II Halmahera Tengah",
+    "bmkgEarthquakeId": "2023113081930",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113081930.mmi.jpg",
+    "fingerprintSha1": "2616dfaf8e543768474e122bb4cd8b98a09725ae"
   }
 ]
