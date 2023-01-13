@@ -1462,5 +1462,17 @@
     "bmkgEarthquakeId": "2023113132701",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113132701.mmi.jpg",
     "fingerprintSha1": "788590a6f5dd6d07df3400f34daa0dac7880c7b2"
+  },
+  {
+    "earthquakeAt": "2023-01-13T12:44:51.000Z",
+    "latitude": -7.13,
+    "longitude": 130.5,
+    "magnitude": 5.1,
+    "depthInKm": 101,
+    "locationInIndonesian": "Pusat gempa berada di laut 130 km BaratLaut Saumlaki",
+    "feltOnStations": "II - III Molomaru",
+    "bmkgEarthquakeId": "2023113194451",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113194451.mmi.jpg",
+    "fingerprintSha1": "c28d14d0d1d387c0a04895e3275b6f7a8a0ca671"
   }
 ]
