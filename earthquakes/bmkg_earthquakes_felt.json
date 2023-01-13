@@ -1474,5 +1474,17 @@
     "bmkgEarthquakeId": "2023113194451",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113194451.mmi.jpg",
     "fingerprintSha1": "c28d14d0d1d387c0a04895e3275b6f7a8a0ca671"
+  },
+  {
+    "earthquakeAt": "2023-01-13T15:41:45.000Z",
+    "latitude": -2.44,
+    "longitude": 138.59,
+    "magnitude": 5,
+    "depthInKm": 54,
+    "locationInIndonesian": "Pusat gempa berada di darat 31 km Tenggara Mamberotengah",
+    "feltOnStations": "III Sarmi",
+    "bmkgEarthquakeId": "2023113224145",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113224145.mmi.jpg",
+    "fingerprintSha1": "2741b99802e8e36f39bbbfb421958d55d885ebc6"
   }
 ]
