@@ -1486,5 +1486,17 @@
     "bmkgEarthquakeId": "2023113224145",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113224145.mmi.jpg",
     "fingerprintSha1": "2741b99802e8e36f39bbbfb421958d55d885ebc6"
+  },
+  {
+    "earthquakeAt": "2023-01-13T22:41:00.000Z",
+    "latitude": -5.14,
+    "longitude": 102.99,
+    "magnitude": 5.3,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di laut 55 km BaratDaya Kaur",
+    "feltOnStations": "III-IV Kaur, III Kota Bengkulu, III Argamakmur, II - III Kepahiang, III Oku Selatan, III Liwa, II Sekincau",
+    "bmkgEarthquakeId": "2023114054100",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023114054100.mmi.jpg",
+    "fingerprintSha1": "bd008c9ac12289ed6f0a63a93ad2908d109f5729"
   }
 ]
