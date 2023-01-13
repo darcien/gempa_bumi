@@ -1422,7 +1422,7 @@
     "magnitude": 3.6,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 16 km TimurLaut Karangasem",
-    "feltOnStations": "2 Karangasem",
+    "feltOnStations": "II Karangasem, II Abang, II Kubu, II Bebandem, II Selat",
     "bmkgEarthquakeId": "2023113111453",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113111453.mmi.jpg",
     "fingerprintSha1": "54b09b47fbe64fd34d6b5774fc04f7ce39078704"
