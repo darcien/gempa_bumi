@@ -1426,5 +1426,41 @@
     "bmkgEarthquakeId": "2023113111453",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113111453.mmi.jpg",
     "fingerprintSha1": "54b09b47fbe64fd34d6b5774fc04f7ce39078704"
+  },
+  {
+    "earthquakeAt": "2023-01-13T11:54:18.000Z",
+    "latitude": -3.78,
+    "longitude": 133.55,
+    "magnitude": 4.1,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di laut 70 km BaratDaya Kaimana",
+    "feltOnStations": "III Kaimana",
+    "bmkgEarthquakeId": "2023113185418",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113185418.mmi.jpg",
+    "fingerprintSha1": "35a614b77d62240100f14ec39d396b9f9e899109"
+  },
+  {
+    "earthquakeAt": "2023-01-13T11:46:44.000Z",
+    "latitude": -7.24,
+    "longitude": 109.81,
+    "magnitude": 3.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km BaratLaut Wonosobo",
+    "feltOnStations": "III Wonosobo, II - III Banjarnegara, II-III Batur",
+    "bmkgEarthquakeId": "2023113184644",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113184644.mmi.jpg",
+    "fingerprintSha1": "71587ff1984477da7ae4752f99b091fbca18dffb"
+  },
+  {
+    "earthquakeAt": "2023-01-13T06:27:01.000Z",
+    "latitude": -2.44,
+    "longitude": 140.72,
+    "magnitude": 3.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 18 km TimurLaut Kota Jayapura",
+    "feltOnStations": "III Kota Jayapura",
+    "bmkgEarthquakeId": "2023113132701",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113132701.mmi.jpg",
+    "fingerprintSha1": "788590a6f5dd6d07df3400f34daa0dac7880c7b2"
   }
 ]
