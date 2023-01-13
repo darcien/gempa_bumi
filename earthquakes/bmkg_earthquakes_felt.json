@@ -1414,5 +1414,17 @@
     "bmkgEarthquakeId": "2023113081930",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113081930.mmi.jpg",
     "fingerprintSha1": "2616dfaf8e543768474e122bb4cd8b98a09725ae"
+  },
+  {
+    "earthquakeAt": "2023-01-13T04:14:53.000Z",
+    "latitude": -8.22,
+    "longitude": 115.59,
+    "magnitude": 3.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 16 km TimurLaut Karangasem",
+    "feltOnStations": "2 Karangasem",
+    "bmkgEarthquakeId": "2023113111453",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113111453.mmi.jpg",
+    "fingerprintSha1": "54b09b47fbe64fd34d6b5774fc04f7ce39078704"
   }
 ]
