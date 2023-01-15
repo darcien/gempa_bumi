@@ -1546,5 +1546,17 @@
     "bmkgEarthquakeId": "2023115082009",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023115082009.mmi.jpg",
     "fingerprintSha1": "59496b26dd68b7e08dec8d87c23c37a241023f69"
+  },
+  {
+    "earthquakeAt": "2023-01-15T22:30:01.000Z",
+    "latitude": 1.91,
+    "longitude": 97.83,
+    "magnitude": 6.2,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di laut 47 km Tenggara Kab. Aceh Singkil",
+    "feltOnStations": "IV Gunung Sitoli, III - IV Subulussalam, II - III Padang Sidempuan, III - IV Aceh Selatan",
+    "bmkgEarthquakeId": "2023116053001",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023116053001.mmi.jpg",
+    "fingerprintSha1": "0a41fd3a22513c1eb07f07dde5e9a48ce015d8f0"
   }
 ]
