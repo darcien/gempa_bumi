@@ -1554,7 +1554,7 @@
     "magnitude": 6.2,
     "depthInKm": 23,
     "locationInIndonesian": "Pusat gempa berada di laut 47 km Tenggara Kab. Aceh Singkil",
-    "feltOnStations": "IV Gunung Sitoli, III - IV Subulussalam, II - III Padang Sidempuan, III - IV Aceh Selatan",
+    "feltOnStations": "IV Gunung Sitoli, III Subulussalam, III Padang Sidempuan, III - IV Aceh Selatan, IV Nias Utara, IV Nias Barat, IV Nias Selatan, II Tapanuli Utara, IV Aceh Singkil, II Sibolga, IV Kepulauan Banyak",
     "bmkgEarthquakeId": "2023116053001",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023116053001.mmi.jpg",
     "fingerprintSha1": "0a41fd3a22513c1eb07f07dde5e9a48ce015d8f0"
