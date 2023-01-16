@@ -1570,5 +1570,17 @@
     "bmkgEarthquakeId": "2023116121115",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023116121115.mmi.jpg",
     "fingerprintSha1": "4346cc7ea142edc1d575d66ab59253e032e27ba0"
+  },
+  {
+    "earthquakeAt": "2023-01-16T13:10:04.000Z",
+    "latitude": -9.32,
+    "longitude": 115.49,
+    "magnitude": 4.6,
+    "depthInKm": 69,
+    "locationInIndonesian": "Pusat gempa berada di laut 65 km Tenggara KUTASELATAN",
+    "feltOnStations": "II Denpasar, II Kuta Selatan, II Jimbaran, II Karangasem",
+    "bmkgEarthquakeId": "2023116201004",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023116201004.mmi.jpg",
+    "fingerprintSha1": "73275a81f7d7cf76b359013412d4c45762deb8f3"
   }
 ]
