@@ -1578,7 +1578,7 @@
     "magnitude": 4.6,
     "depthInKm": 69,
     "locationInIndonesian": "Pusat gempa berada di laut 65 km Tenggara KUTASELATAN",
-    "feltOnStations": "II Denpasar, II Kuta Selatan, II Jimbaran, II Karangasem",
+    "feltOnStations": "II Denpasar, II Kuta Selatan, II Jimbaran, II Karangasem, II Gianyar, II Klungkung, II Lombok Utara, II Mataram, III Lombok Barat",
     "bmkgEarthquakeId": "2023116201004",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023116201004.mmi.jpg",
     "fingerprintSha1": "73275a81f7d7cf76b359013412d4c45762deb8f3"
