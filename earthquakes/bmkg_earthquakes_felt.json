@@ -1714,5 +1714,17 @@
     "bmkgEarthquakeId": "2023117231201",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117231201.mmi.jpg",
     "fingerprintSha1": "c891ddd89c0a92b7ba45c3689adf885a0129db2a"
+  },
+  {
+    "earthquakeAt": "2023-01-17T17:37:17.000Z",
+    "latitude": -6.84,
+    "longitude": 107.1,
+    "magnitude": 2.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km Baratdaya Kabupaten Cianjur",
+    "feltOnStations": "II - III Cilaku, II - III Cianjur, II - III Gekbrong, II - III Karangtengah, II - III Cugenang",
+    "bmkgEarthquakeId": "2023118003717",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023118003717.mmi.jpg",
+    "fingerprintSha1": "f3c84770ccf6d5687cd9b361ade9933a183e4df9"
   }
 ]
