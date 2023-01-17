@@ -1690,5 +1690,17 @@
     "bmkgEarthquakeId": "2023117164755",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117164755.mmi.jpg",
     "fingerprintSha1": "d4bb04e18b808d8950c078650b51b279f778d1c1"
+  },
+  {
+    "earthquakeAt": "2023-01-17T15:21:26.000Z",
+    "latitude": -8.41,
+    "longitude": 120.6,
+    "magnitude": 4.7,
+    "depthInKm": 30,
+    "locationInIndonesian": "Pusat gempa berada di darat 27 km TimurLaut Ruteng",
+    "feltOnStations": "IV Ruteng, III Nagekeo, II - III Labuan Bajo, II Congkar, II Reo, III Borong, II Bajawa",
+    "bmkgEarthquakeId": "2023117222126",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117222126.mmi.jpg",
+    "fingerprintSha1": "aebecca358476ed1632e811f7421e65356deeb2e"
   }
 ]
