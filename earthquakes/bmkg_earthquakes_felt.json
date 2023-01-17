@@ -1642,5 +1642,17 @@
     "bmkgEarthquakeId": "2023117115049",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117115049.mmi.jpg",
     "fingerprintSha1": "503289869d602701c23b4e9ef3c2ba6c0c506c0f"
+  },
+  {
+    "earthquakeAt": "2023-01-17T06:54:53.000Z",
+    "latitude": -7.15,
+    "longitude": 109.77,
+    "magnitude": 1.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km tenggara kab-Pekalongan",
+    "feltOnStations": "III Batur, III Dieng",
+    "bmkgEarthquakeId": "2023117135453",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117135453.mmi.jpg",
+    "fingerprintSha1": "200b0654ba4f8c6ad35c0d667a9b321c267b6af2"
   }
 ]
