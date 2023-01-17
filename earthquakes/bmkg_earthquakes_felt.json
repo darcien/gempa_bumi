@@ -1618,5 +1618,17 @@
     "bmkgEarthquakeId": "2023117091404",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117091404.mmi.jpg",
     "fingerprintSha1": "58fe1fc8e016375afe85e50fcf8312493ae63e0a"
+  },
+  {
+    "earthquakeAt": "2023-01-17T04:36:12.000Z",
+    "latitude": -9.26,
+    "longitude": 112.49,
+    "magnitude": 5.1,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di laut, 125 km Barat Daya Kab. Malang",
+    "feltOnStations": "III-IV Karangkates, III-IV Sumbermanjing Wetan, II - III Kepanjen, II - III Lumajang, II - III Malang, II Badung, II Blitar, II Trenggalek, II Pacitan, II Bondowoso",
+    "bmkgEarthquakeId": "2023117113612",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117113612.mmi.jpg",
+    "fingerprintSha1": "8e5cdeff8de58c80d082816703134f5358546e79"
   }
 ]
