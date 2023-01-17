@@ -1654,5 +1654,29 @@
     "bmkgEarthquakeId": "2023117135453",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117135453.mmi.jpg",
     "fingerprintSha1": "200b0654ba4f8c6ad35c0d667a9b321c267b6af2"
+  },
+  {
+    "earthquakeAt": "2023-01-17T06:58:42.000Z",
+    "latitude": -7.16,
+    "longitude": 109.76,
+    "magnitude": 2.3,
+    "depthInKm": 21,
+    "locationInIndonesian": "Pusat gempa berada di darat 24 km tenggara kab. Pekalongan",
+    "feltOnStations": "II - III Batur, II - III Dieng, II - III Wonosobo",
+    "bmkgEarthquakeId": "2023117135842",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117135842.mmi.jpg",
+    "fingerprintSha1": "f7ae173f204cb644c7b37a8ee999354bb118f728"
+  },
+  {
+    "earthquakeAt": "2023-01-17T06:56:13.000Z",
+    "latitude": -7.15,
+    "longitude": 109.77,
+    "magnitude": 2.2,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di darat 24 km tenggara kab. Pekalongan",
+    "feltOnStations": "III Batur, III Dieng",
+    "bmkgEarthquakeId": "2023117135613",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117135613.mmi.jpg",
+    "fingerprintSha1": "3b688be2532595ab7bfe73944c12c80986a0a13d"
   }
 ]
