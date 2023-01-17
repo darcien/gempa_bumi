@@ -1630,5 +1630,17 @@
     "bmkgEarthquakeId": "2023117113612",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117113612.mmi.jpg",
     "fingerprintSha1": "8e5cdeff8de58c80d082816703134f5358546e79"
+  },
+  {
+    "earthquakeAt": "2023-01-17T04:50:49.000Z",
+    "latitude": -1.56,
+    "longitude": 99.85,
+    "magnitude": 4.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 71 km Timurlaut Pulau Sipora, kep. Mentawai",
+    "feltOnStations": "II Tuapejat",
+    "bmkgEarthquakeId": "2023117115049",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117115049.mmi.jpg",
+    "fingerprintSha1": "503289869d602701c23b4e9ef3c2ba6c0c506c0f"
   }
 ]
