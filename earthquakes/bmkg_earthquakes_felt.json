@@ -1774,5 +1774,17 @@
     "bmkgEarthquakeId": "2023118223523",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023118223523.mmi.jpg",
     "fingerprintSha1": "dc8175ca2aeb0a036d2a28738b969189476b6123"
+  },
+  {
+    "earthquakeAt": "2023-01-18T16:27:52.000Z",
+    "latitude": -10.87,
+    "longitude": 111.73,
+    "magnitude": 5.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 306 km tenggara Pacitan",
+    "feltOnStations": "II Trenggalek",
+    "bmkgEarthquakeId": "2023118232752",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023118232752.mmi.jpg",
+    "fingerprintSha1": "a4c2b8ea089ade2962bf02bfddc6a45e45f5e853"
   }
 ]
