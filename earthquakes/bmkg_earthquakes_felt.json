@@ -1738,5 +1738,17 @@
     "bmkgEarthquakeId": "2023118034703",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023118034703.mmi.jpg",
     "fingerprintSha1": "48b193c033bb2a37aed6a9c96c543723971230f1"
+  },
+  {
+    "earthquakeAt": "2023-01-18T00:34:46.000Z",
+    "latitude": -0.07,
+    "longitude": 123.28,
+    "magnitude": 6.3,
+    "depthInKm": 138,
+    "locationInIndonesian": "Pusat gempa berada di laut 69 km Tenggara Bone Bolango",
+    "feltOnStations": "III-IV Luwuk, III - IV Ampana, III Kabupaten Gorontalo, III Kota Gorontalo, III Taliabu, III Minahasa Tenggara, III Kabupaten Bone Bolango, II - III Kabupaten Pohuwato, II - III Kabupaten Gorontalo Utara, II - III Sanana, II - III Palu , II Ternate, II Labuha, III-IV Malili, III-IV Sorowako, III Kotamobagu, III Bolaang Mongondow Timur",
+    "bmkgEarthquakeId": "2023118073446",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023118073446.mmi.jpg",
+    "fingerprintSha1": "989cef25a1e1cb94f81f84d6d21e7955670cae25"
   }
 ]
