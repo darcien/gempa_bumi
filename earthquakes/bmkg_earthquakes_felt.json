@@ -1758,7 +1758,7 @@
     "magnitude": 7.1,
     "depthInKm": 64,
     "locationInIndonesian": "Pusat gempa berada di laut 141 km Tenggara Melonguane",
-    "feltOnStations": "III Minahasa, III Manado, III Minahasa Utara, III Bitung, III Ternate, III Sofifi, III Halmahera Timur, III - IV Talaud",
+    "feltOnStations": "III Minahasa, III Manado, III Minahasa Utara, III Bitung, III Ternate, III Sofifi, III Halmahera Timur, III - IV Talaud, III Minahasa Tenggara, III Minahasa Selatan, III Bolaang Mongondow Timur, III Bolaang Mongondow Selatan, III - IV Kepulauan Sangihe, II Kota Gorontalo, III Tomohon, III Bolaang Mongondow, III Halmahera Barat, III Halmahera Utara, III - IV Kepulauan Sitaro",
     "bmkgEarthquakeId": "2023118130614",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023118130614.mmi.jpg",
     "fingerprintSha1": "80a1c7b403be613d8daca053c7b8134ef6de0048"
