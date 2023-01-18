@@ -1750,5 +1750,17 @@
     "bmkgEarthquakeId": "2023118073446",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023118073446.mmi.jpg",
     "fingerprintSha1": "989cef25a1e1cb94f81f84d6d21e7955670cae25"
+  },
+  {
+    "earthquakeAt": "2023-01-18T06:06:14.000Z",
+    "latitude": 2.8,
+    "longitude": 127.11,
+    "magnitude": 7.1,
+    "depthInKm": 64,
+    "locationInIndonesian": "Pusat gempa berada di laut 141 km Tenggara Melonguane",
+    "feltOnStations": "III Minahasa, III Manado, III Minahasa Utara, III Bitung, III Ternate, III Sofifi, III Halmahera Timur, III - IV Talaud",
+    "bmkgEarthquakeId": "2023118130614",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023118130614.mmi.jpg",
+    "fingerprintSha1": "80a1c7b403be613d8daca053c7b8134ef6de0048"
   }
 ]
