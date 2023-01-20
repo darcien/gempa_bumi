@@ -1810,5 +1810,17 @@
     "bmkgEarthquakeId": "2023119203728",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023119203728.mmi.jpg",
     "fingerprintSha1": "4961ea696f4982fc4005d3d01bfb97c74a54cf6b"
+  },
+  {
+    "earthquakeAt": "2023-01-19T23:55:33.000Z",
+    "latitude": -4.14,
+    "longitude": 121.62,
+    "magnitude": 3.2,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km Timurlaut Pomala, Kabupaten Kolaka",
+    "feltOnStations": "II Kabupaten Kolaka",
+    "bmkgEarthquakeId": "2023120065533",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023120065533.mmi.jpg",
+    "fingerprintSha1": "5ccf2bca305c8bce14477bbcbc800bb1ba4b2437"
   }
 ]
