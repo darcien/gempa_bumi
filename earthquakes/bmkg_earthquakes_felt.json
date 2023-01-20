@@ -1870,5 +1870,17 @@
     "bmkgEarthquakeId": "2023121052247",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023121052247.mmi.jpg",
     "fingerprintSha1": "a634b705718f853e9cbf8908f6a3d761763b3c12"
+  },
+  {
+    "earthquakeAt": "2023-01-20T23:23:59.000Z",
+    "latitude": -6.8,
+    "longitude": 107.07,
+    "magnitude": 3.4,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km BaratLaut Kab. Cianjur",
+    "feltOnStations": "III Pacet, II - III Cianjur",
+    "bmkgEarthquakeId": "2023121062359",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023121062359.mmi.jpg",
+    "fingerprintSha1": "e7965baf832cfcc62c8bafffcf8688657d52cc13"
   }
 ]
