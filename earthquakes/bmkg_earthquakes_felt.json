@@ -1818,9 +1818,33 @@
     "magnitude": 3.2,
     "depthInKm": 7,
     "locationInIndonesian": "Pusat gempa berada di darat 4 km Timurlaut Pomala, Kabupaten Kolaka",
-    "feltOnStations": "II Kabupaten Kolaka",
+    "feltOnStations": "II - III Kabupaten Kolaka",
     "bmkgEarthquakeId": "2023120065533",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023120065533.mmi.jpg",
     "fingerprintSha1": "5ccf2bca305c8bce14477bbcbc800bb1ba4b2437"
+  },
+  {
+    "earthquakeAt": "2023-01-20T13:19:56.000Z",
+    "latitude": -2.64,
+    "longitude": 140.6,
+    "magnitude": 3.9,
+    "depthInKm": 21,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km BaratDaya Kota Jayapura",
+    "feltOnStations": "II Kota Jayapura",
+    "bmkgEarthquakeId": "2023120201956",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023120201956.mmi.jpg",
+    "fingerprintSha1": "4e0e4c67bff61680791fa0cd2c247512797ffc58"
+  },
+  {
+    "earthquakeAt": "2023-01-20T12:49:11.000Z",
+    "latitude": -7.19,
+    "longitude": 109.81,
+    "magnitude": 2.3,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 22 km BaratLaut Wonosobo",
+    "feltOnStations": "II Wonosobo, II Banjarnegara",
+    "bmkgEarthquakeId": "2023120194911",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023120194911.mmi.jpg",
+    "fingerprintSha1": "199220923c1441c649df8eba50b0311df6d10b94"
   }
 ]
