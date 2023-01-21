@@ -1882,5 +1882,17 @@
     "bmkgEarthquakeId": "2023121062359",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023121062359.mmi.jpg",
     "fingerprintSha1": "e7965baf832cfcc62c8bafffcf8688657d52cc13"
+  },
+  {
+    "earthquakeAt": "2023-01-21T02:50:34.000Z",
+    "latitude": 3.33,
+    "longitude": 96.25,
+    "magnitude": 4.8,
+    "depthInKm": 1,
+    "locationInIndonesian": "Pusat gempa berada di Laut 91 km Tenggara Meulaboh",
+    "feltOnStations": "II Aceh Selatan, II Takengon, II Gayo Lues",
+    "bmkgEarthquakeId": "2023121095034",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023121095034.mmi.jpg",
+    "fingerprintSha1": "85915a699c2e0110743d091e11f4cf7d9bfbefdf"
   }
 ]
