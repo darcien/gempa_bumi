@@ -1894,5 +1894,17 @@
     "bmkgEarthquakeId": "2023121095034",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023121095034.mmi.jpg",
     "fingerprintSha1": "85915a699c2e0110743d091e11f4cf7d9bfbefdf"
+  },
+  {
+    "earthquakeAt": "2023-01-22T04:58:36.000Z",
+    "latitude": -6.73,
+    "longitude": 107.34,
+    "magnitude": 3.6,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 22 km Barat Daya Kabupaten Purwakarta",
+    "feltOnStations": "III Purwakarta, II - III Cikalong Wetan, II - III Cianjur, II - III Karangtengah, II - III Ciranjang, II - III Darangdan, II - III Cirata",
+    "bmkgEarthquakeId": "2023122115836",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023122115836.mmi.jpg",
+    "fingerprintSha1": "77ad30f0dda0d52687464a9d7656b0f277f6381a"
   }
 ]
