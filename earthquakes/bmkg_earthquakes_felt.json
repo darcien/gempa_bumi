@@ -1942,5 +1942,17 @@
     "bmkgEarthquakeId": "2023124024501",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023124024501.mmi.jpg",
     "fingerprintSha1": "2701424c80a2ca15e0fedacdb59cb6d23a9ae8f5"
+  },
+  {
+    "earthquakeAt": "2023-01-23T22:55:22.000Z",
+    "latitude": -5.62,
+    "longitude": 104.19,
+    "magnitude": 4.7,
+    "depthInKm": 46,
+    "locationInIndonesian": "Pusat gempa berada di laut 55 km Tenggara Pesisir Barat",
+    "feltOnStations": "II Kota Agung, II Ngaras",
+    "bmkgEarthquakeId": "2023124055522",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023124055522.mmi.jpg",
+    "fingerprintSha1": "e385fe44614bd05a605d3d3d1ece1a33186d8436"
   }
 ]
