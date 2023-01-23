@@ -1930,5 +1930,17 @@
     "bmkgEarthquakeId": "2023123123231",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023123123231.mmi.jpg",
     "fingerprintSha1": "3459d23d4d7f367605843b83a45058332381f6eb"
+  },
+  {
+    "earthquakeAt": "2023-01-23T19:45:01.000Z",
+    "latitude": -6.82,
+    "longitude": 107.07,
+    "magnitude": 4.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km Barat Laut Kab. Cianjur",
+    "feltOnStations": "III-IV Cianjur, III-IV Cikalongkulon, III-IV Cipanas, III-IV Sukabumi, III Purwakarta, II Jakarta Selatan, II Tangerang Selatan, II Bekasi, II Depok",
+    "bmkgEarthquakeId": "2023124024501",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023124024501.mmi.jpg",
+    "fingerprintSha1": "2701424c80a2ca15e0fedacdb59cb6d23a9ae8f5"
   }
 ]
