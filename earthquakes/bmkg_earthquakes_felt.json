@@ -1918,5 +1918,17 @@
     "bmkgEarthquakeId": "2023122164445",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023122164445.mmi.jpg",
     "fingerprintSha1": "5b715f2fa4de63dea34a0188d3fe2f14e0227e84"
+  },
+  {
+    "earthquakeAt": "2023-01-23T05:32:31.000Z",
+    "latitude": -8.13,
+    "longitude": 124.93,
+    "magnitude": 4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada dilaut 45 km Timur Laut Alor",
+    "feltOnStations": "III Alor",
+    "bmkgEarthquakeId": "2023123123231",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023123123231.mmi.jpg",
+    "fingerprintSha1": "3459d23d4d7f367605843b83a45058332381f6eb"
   }
 ]
