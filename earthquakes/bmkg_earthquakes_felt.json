@@ -1978,5 +1978,17 @@
     "bmkgEarthquakeId": "2023124123544",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023124123544.mmi.jpg",
     "fingerprintSha1": "a2da38d005dfca8b9603d9f4b1fc5fca5f2a9fed"
+  },
+  {
+    "earthquakeAt": "2023-01-24T15:15:15.000Z",
+    "latitude": -7.14,
+    "longitude": 110.02,
+    "magnitude": 2.2,
+    "depthInKm": 26,
+    "locationInIndonesian": "Pusat gempa berada di darat 26 km BaratLaut Temanggung",
+    "feltOnStations": "II Dieng",
+    "bmkgEarthquakeId": "2023124221515",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023124221515.mmi.jpg",
+    "fingerprintSha1": "b0b8b8fbaab31131bb5aa9ec37df41c197274117"
   }
 ]
