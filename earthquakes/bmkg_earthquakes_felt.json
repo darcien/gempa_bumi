@@ -1954,5 +1954,17 @@
     "bmkgEarthquakeId": "2023124055522",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023124055522.mmi.jpg",
     "fingerprintSha1": "e385fe44614bd05a605d3d3d1ece1a33186d8436"
+  },
+  {
+    "earthquakeAt": "2023-01-24T05:35:45.000Z",
+    "latitude": -6.76,
+    "longitude": 107.1,
+    "magnitude": 2.3,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km BaratLaut Kab. Cianjur",
+    "feltOnStations": "II Cijedil, II Rancagoong",
+    "bmkgEarthquakeId": "2023124123545",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023124123545.mmi.jpg",
+    "fingerprintSha1": "92bba5a2339d36f7d4ec4c5b0ea08a26dad9fb48"
   }
 ]
