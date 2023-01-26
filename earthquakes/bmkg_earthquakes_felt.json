@@ -2002,5 +2002,17 @@
     "bmkgEarthquakeId": "2023126192012",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023126192012.mmi.jpg",
     "fingerprintSha1": "d877e428067dd329b1d18c924e09be730e22d99a"
+  },
+  {
+    "earthquakeAt": "2023-01-26T12:56:33.000Z",
+    "latitude": -8,
+    "longitude": 110.48,
+    "magnitude": 2.9,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 14 km BaratDaya Gunungkidul",
+    "feltOnStations": "II Kretek, II Panggang",
+    "bmkgEarthquakeId": "2023126195633",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023126195633.mmi.jpg",
+    "fingerprintSha1": "e81f3ca5b5e12f77daf3b092d42fc25ec13ffa70"
   }
 ]
