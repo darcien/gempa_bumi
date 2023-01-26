@@ -1990,5 +1990,17 @@
     "bmkgEarthquakeId": "2023124221515",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023124221515.mmi.jpg",
     "fingerprintSha1": "b0b8b8fbaab31131bb5aa9ec37df41c197274117"
+  },
+  {
+    "earthquakeAt": "2023-01-26T12:20:12.000Z",
+    "latitude": 2.19,
+    "longitude": 97.86,
+    "magnitude": 4.3,
+    "depthInKm": 24,
+    "locationInIndonesian": "Pusat gempa berada di laut 17 km Tenggara Kabupaten Aceh Singkil",
+    "feltOnStations": "II - III Singkil",
+    "bmkgEarthquakeId": "2023126192012",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023126192012.mmi.jpg",
+    "fingerprintSha1": "d877e428067dd329b1d18c924e09be730e22d99a"
   }
 ]
