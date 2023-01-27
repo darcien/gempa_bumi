@@ -2014,5 +2014,17 @@
     "bmkgEarthquakeId": "2023126195633",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023126195633.mmi.jpg",
     "fingerprintSha1": "e81f3ca5b5e12f77daf3b092d42fc25ec13ffa70"
+  },
+  {
+    "earthquakeAt": "2023-01-27T18:00:33.000Z",
+    "latitude": -7.22,
+    "longitude": 107.59,
+    "magnitude": 4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 23 km tenggara Kab. Bandung",
+    "feltOnStations": "II - III Soreang, II - III Bandung",
+    "bmkgEarthquakeId": "2023128010033",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023128010033.mmi.jpg",
+    "fingerprintSha1": "0ae9450f1e2d56ecd4b329b8037d952cd7ef2230"
   }
 ]
