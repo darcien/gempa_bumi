@@ -2038,5 +2038,17 @@
     "bmkgEarthquakeId": "2023128170210",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023128170210.mmi.jpg",
     "fingerprintSha1": "2ece0ac96da5d9c4da509d652a429835ab1996e1"
+  },
+  {
+    "earthquakeAt": "2023-01-28T19:15:19.000Z",
+    "latitude": 1.95,
+    "longitude": 128.13,
+    "magnitude": 5.6,
+    "depthInKm": 136,
+    "locationInIndonesian": "Pusat gempa berada di laut 13 km barat daya Daruba",
+    "feltOnStations": "IV Morotai, III Halmahera Tengah, III Halmahera Utara",
+    "bmkgEarthquakeId": "2023129021519",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023129021519.mmi.jpg",
+    "fingerprintSha1": "4bf9cc669c3ddde6562cceb045ec1547cd95391d"
   }
 ]
