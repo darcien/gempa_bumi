@@ -2026,5 +2026,17 @@
     "bmkgEarthquakeId": "2023128010033",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023128010033.mmi.jpg",
     "fingerprintSha1": "0ae9450f1e2d56ecd4b329b8037d952cd7ef2230"
+  },
+  {
+    "earthquakeAt": "2023-01-28T10:02:10.000Z",
+    "latitude": -6.72,
+    "longitude": 107.3,
+    "magnitude": 3.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km Timur Laut Kabupaten Cianjur",
+    "feltOnStations": "II - III Cirata, II - III Tegalwaru, II - III Cianjur, II - III Gekbrong, II - III Cugenang, II - III Bojongpicung, II - III Karangtengah, II - III Mande, II Padalarang",
+    "bmkgEarthquakeId": "2023128170210",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023128170210.mmi.jpg",
+    "fingerprintSha1": "2ece0ac96da5d9c4da509d652a429835ab1996e1"
   }
 ]
