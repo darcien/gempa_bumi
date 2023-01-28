@@ -2050,5 +2050,17 @@
     "bmkgEarthquakeId": "2023129021519",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023129021519.mmi.jpg",
     "fingerprintSha1": "4bf9cc669c3ddde6562cceb045ec1547cd95391d"
+  },
+  {
+    "earthquakeAt": "2023-01-28T20:33:03.000Z",
+    "latitude": 1.78,
+    "longitude": 128.04,
+    "magnitude": 2.4,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di laut 8 km timur laut Tobelo",
+    "feltOnStations": "II - III Halmahera Timur",
+    "bmkgEarthquakeId": "2023129033303",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023129033303.mmi.jpg",
+    "fingerprintSha1": "bfa1da35b60581414326b7e459896ffd68e61bb2"
   }
 ]
