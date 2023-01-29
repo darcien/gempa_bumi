@@ -2062,5 +2062,17 @@
     "bmkgEarthquakeId": "2023129033303",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023129033303.mmi.jpg",
     "fingerprintSha1": "bfa1da35b60581414326b7e459896ffd68e61bb2"
+  },
+  {
+    "earthquakeAt": "2023-01-29T14:28:04.000Z",
+    "latitude": -7.21,
+    "longitude": 109.89,
+    "magnitude": 2.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km Barat Laut Wonosobo",
+    "feltOnStations": "II Banjarnegara",
+    "bmkgEarthquakeId": "2023129212804",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023129212804.mmi.jpg",
+    "fingerprintSha1": "683153d5350d4cf4269a2040bb6937218b9c52a4"
   }
 ]
