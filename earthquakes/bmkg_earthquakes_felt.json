@@ -2086,5 +2086,17 @@
     "bmkgEarthquakeId": "2023130041000",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023130041000.mmi.jpg",
     "fingerprintSha1": "fe733a912eadb00d951f58e4067372135b7b31fc"
+  },
+  {
+    "earthquakeAt": "2023-01-30T01:04:50.000Z",
+    "latitude": -2.59,
+    "longitude": 121.05,
+    "magnitude": 3.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 13km BaratDaya Luwu Timur",
+    "feltOnStations": "III-IV Malili",
+    "bmkgEarthquakeId": "2023130080450",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023130080450.mmi.jpg",
+    "fingerprintSha1": "e43236b467b793cce62d08b40f856333bb06d8aa"
   }
 ]
