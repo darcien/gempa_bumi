@@ -2122,5 +2122,17 @@
     "bmkgEarthquakeId": "2023130105856",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023130105856.mmi.jpg",
     "fingerprintSha1": "f8682c4263ccd9da8fafbeebfa52b9a05c0fb03d"
+  },
+  {
+    "earthquakeAt": "2023-01-30T03:42:31.000Z",
+    "latitude": -0.43,
+    "longitude": 132.48,
+    "magnitude": 3.6,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 40 km TimurLaut Tambrauw",
+    "feltOnStations": "II - III Tambrauw",
+    "bmkgEarthquakeId": "2023130104231",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023130104231.mmi.jpg",
+    "fingerprintSha1": "680266d16d7ded19db70e66f347a58c13d12763a"
   }
 ]
