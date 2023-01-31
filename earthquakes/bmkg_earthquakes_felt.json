@@ -2178,7 +2178,7 @@
     "magnitude": 4.1,
     "depthInKm": 6,
     "locationInIndonesian": "Pusat gempa berada di laut 38 Km Barat Daya Pinrang",
-    "feltOnStations": "II-III Majene",
+    "feltOnStations": "II-III Majene, II-III Pinrang",
     "bmkgEarthquakeId": "2023131173142",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023131173142.mmi.jpg",
     "fingerprintSha1": "98408eb4cefcb9fe37c730460a096c1dbeb35be2"
