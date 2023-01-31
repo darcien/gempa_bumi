@@ -2170,5 +2170,17 @@
     "bmkgEarthquakeId": "2023131102947",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023131102947.mmi.jpg",
     "fingerprintSha1": "32217873fd4d7e7e8095fc9b8a08c2509455620c"
+  },
+  {
+    "earthquakeAt": "2023-01-31T10:31:42.000Z",
+    "latitude": -3.85,
+    "longitude": 119.27,
+    "magnitude": 4.1,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di laut 38 Km Barat Daya Pinrang",
+    "feltOnStations": "II-III Majene",
+    "bmkgEarthquakeId": "2023131173142",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023131173142.mmi.jpg",
+    "fingerprintSha1": "98408eb4cefcb9fe37c730460a096c1dbeb35be2"
   }
 ]
