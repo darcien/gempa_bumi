@@ -2182,5 +2182,29 @@
     "bmkgEarthquakeId": "2023131173142",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023131173142.mmi.jpg",
     "fingerprintSha1": "98408eb4cefcb9fe37c730460a096c1dbeb35be2"
+  },
+  {
+    "earthquakeAt": "2023-02-01T01:10:16.000Z",
+    "latitude": -6.77,
+    "longitude": 107.13,
+    "magnitude": 2.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km BaratLaut Kab. Cianjur",
+    "feltOnStations": "II Cipanas",
+    "bmkgEarthquakeId": "202321081016",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202321081016.mmi.jpg",
+    "fingerprintSha1": "ba23e04d6b9b50dcca85b7b5d8aa5b408b9e3ea2"
+  },
+  {
+    "earthquakeAt": "2023-01-31T23:06:20.000Z",
+    "latitude": -7.23,
+    "longitude": 109.89,
+    "magnitude": 1.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km BaratLaut Wonosobo",
+    "feltOnStations": "II Dieng",
+    "bmkgEarthquakeId": "202321060620",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202321060620.mmi.jpg",
+    "fingerprintSha1": "7e54e9f787b5431fdb634f8851e9aa0502b2e0b1"
   }
 ]
