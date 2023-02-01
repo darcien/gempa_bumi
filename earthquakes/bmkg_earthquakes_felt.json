@@ -2218,5 +2218,17 @@
     "bmkgEarthquakeId": "202321150451",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202321150451.mmi.jpg",
     "fingerprintSha1": "fde316a4a2e2c9cb45ba98e58335fcb97098e491"
+  },
+  {
+    "earthquakeAt": "2023-02-01T09:33:47.000Z",
+    "latitude": -5.3,
+    "longitude": 103.35,
+    "magnitude": 4.6,
+    "depthInKm": 39,
+    "locationInIndonesian": "Pusat gempa berada di laut 56 km Tenggara Kaur",
+    "feltOnStations": "II Sekincau",
+    "bmkgEarthquakeId": "202321163347",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202321163347.mmi.jpg",
+    "fingerprintSha1": "a6709f70440add313e5b6703c874ae6cf0263593"
   }
 ]
