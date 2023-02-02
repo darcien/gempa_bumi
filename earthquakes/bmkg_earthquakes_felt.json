@@ -2254,5 +2254,17 @@
     "bmkgEarthquakeId": "202321225721",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202321225721.mmi.jpg",
     "fingerprintSha1": "476383d0e7922a8f53f0e89e2eabb42d0ae2eefc"
+  },
+  {
+    "earthquakeAt": "2023-02-02T12:19:12.000Z",
+    "latitude": -5.71,
+    "longitude": 103.94,
+    "magnitude": 4.7,
+    "depthInKm": 34,
+    "locationInIndonesian": "Pusat gempa berada di laut 57 km Tenggara Pesisir Barat",
+    "feltOnStations": "III Pesisir Barat, III Tanggamus, II Liwa, II Lampung Barat",
+    "bmkgEarthquakeId": "202322191912",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202322191912.mmi.jpg",
+    "fingerprintSha1": "2866031d959ba1a839eba3d3aee152161b25349a"
   }
 ]
