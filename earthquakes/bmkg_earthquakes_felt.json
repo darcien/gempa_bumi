@@ -2266,5 +2266,17 @@
     "bmkgEarthquakeId": "202322191912",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202322191912.mmi.jpg",
     "fingerprintSha1": "2866031d959ba1a839eba3d3aee152161b25349a"
+  },
+  {
+    "earthquakeAt": "2023-02-02T12:45:55.000Z",
+    "latitude": -7.28,
+    "longitude": 106.14,
+    "magnitude": 4.4,
+    "depthInKm": 25,
+    "locationInIndonesian": "Pusat gempa berada di laut 40 km barat daya Bayah",
+    "feltOnStations": "III Bayah, III Malingping, III Ciracap, III Surade, II Sukabumi, II Cianjur, II Pelabuhan Ratu, II Cipanas, II Lebak",
+    "bmkgEarthquakeId": "202322194555",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202322194555.mmi.jpg",
+    "fingerprintSha1": "521ced53e0bd8e7ccbe257c5d6f9eaeae1e45ebc"
   }
 ]
