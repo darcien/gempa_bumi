@@ -2314,5 +2314,17 @@
     "bmkgEarthquakeId": "202323204256",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202323204256.mmi.jpg",
     "fingerprintSha1": "dc1eda79bc5705735191a050663ccb73a9f379a3"
+  },
+  {
+    "earthquakeAt": "2023-02-03T23:15:37.000Z",
+    "latitude": 4.92,
+    "longitude": 96.04,
+    "magnitude": 3.6,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 27 Km Barat Daya KAB-PIDIEJAYA",
+    "feltOnStations": "II Pidie",
+    "bmkgEarthquakeId": "202324061537",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202324061537.mmi.jpg",
+    "fingerprintSha1": "c67399d51e3ab71ad9184aa1719ccaea50ef49e1"
   }
 ]
