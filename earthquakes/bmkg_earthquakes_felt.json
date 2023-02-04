@@ -2370,7 +2370,7 @@
     "magnitude": 2.6,
     "depthInKm": 7,
     "locationInIndonesian": "Pusat gempa berada di darat 22 km BaratLaut Wonosobo",
-    "feltOnStations": "II Batur",
+    "feltOnStations": "II Batur, II Kepakisan",
     "bmkgEarthquakeId": "202324192217",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202324192217.mmi.jpg",
     "fingerprintSha1": "9a577568e0f66caf71df9de1910562b0252f5be6"
