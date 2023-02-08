@@ -2662,5 +2662,53 @@
     "bmkgEarthquakeId": "202328144201",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328144201.mmi.jpg",
     "fingerprintSha1": "8211609de891412408b04026ec7f0fddbf3aac28"
+  },
+  {
+    "earthquakeAt": "2023-02-08T11:54:34.000Z",
+    "latitude": -2.48,
+    "longitude": 140.68,
+    "magnitude": 2.9,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 Km BaratLaut Kota Jayapura",
+    "feltOnStations": "II Kota Jayapura",
+    "bmkgEarthquakeId": "202328185434",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328185434.mmi.jpg",
+    "fingerprintSha1": "a47931462046f98d02d86b8ce19a82101d661045"
+  },
+  {
+    "earthquakeAt": "2023-02-08T11:52:47.000Z",
+    "latitude": -2.47,
+    "longitude": 140.66,
+    "magnitude": 3.3,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 Km BaratLaut Kota Jayapura",
+    "feltOnStations": "II Kota Jayapura",
+    "bmkgEarthquakeId": "202328185247",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328185247.mmi.jpg",
+    "fingerprintSha1": "38377b07ef3fc8bcb0083cfa3f2a442de8a7bcdf"
+  },
+  {
+    "earthquakeAt": "2023-02-08T11:42:55.000Z",
+    "latitude": -2.51,
+    "longitude": 140.68,
+    "magnitude": 3.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 Km BaratLaut Kota Jayapura",
+    "feltOnStations": "II - III Kota Jayapura",
+    "bmkgEarthquakeId": "202328184255",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328184255.mmi.jpg",
+    "fingerprintSha1": "d93450a8ba0c6112a8f643c9345a0d1a11fbdc46"
+  },
+  {
+    "earthquakeAt": "2023-02-08T11:35:35.000Z",
+    "latitude": -2.5,
+    "longitude": 140.71,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km Baratlaut Kota Jayapura",
+    "feltOnStations": "III - IV Kota Jayapura, III Kabupaten Jayapura, II - III Kab. Keerom",
+    "bmkgEarthquakeId": "202328183535",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328183535.mmi.jpg",
+    "fingerprintSha1": "60a0ee67c1dcdff8ef5a2106b045cc7fc8b590c8"
   }
 ]
