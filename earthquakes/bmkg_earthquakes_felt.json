@@ -2650,5 +2650,17 @@
     "bmkgEarthquakeId": "202328062844",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328062844.mmi.jpg",
     "fingerprintSha1": "dbbb03efd1399b19529ff1d1ca3c9951c78ed9ae"
+  },
+  {
+    "earthquakeAt": "2023-02-08T07:42:01.000Z",
+    "latitude": -8.17,
+    "longitude": 114.78,
+    "magnitude": 3.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 28 Km TimurLaut Jembrana",
+    "feltOnStations": "II-III Gerokgak",
+    "bmkgEarthquakeId": "202328144201",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328144201.mmi.jpg",
+    "fingerprintSha1": "8211609de891412408b04026ec7f0fddbf3aac28"
   }
 ]
