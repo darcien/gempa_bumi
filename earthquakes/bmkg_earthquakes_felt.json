@@ -2830,5 +2830,41 @@
     "bmkgEarthquakeId": "202328225146",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328225146.mmi.jpg",
     "fingerprintSha1": "dcd3878e2d385fe325456a788d6ee10f46c43aca"
+  },
+  {
+    "earthquakeAt": "2023-02-08T16:45:17.000Z",
+    "latitude": -2.51,
+    "longitude": 140.67,
+    "magnitude": 3.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km BaratLaut kota Jayapura",
+    "feltOnStations": "III Jayapura",
+    "bmkgEarthquakeId": "202328234517",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328234517.mmi.jpg",
+    "fingerprintSha1": "143fa65c19009717a1241c5449773d7d9d0c56ce"
+  },
+  {
+    "earthquakeAt": "2023-02-08T16:39:43.000Z",
+    "latitude": -4.87,
+    "longitude": 122.59,
+    "magnitude": 2.8,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 4.2 km TimurLaut Lawa, Kab. Muna Barat",
+    "feltOnStations": "II Muna Barat",
+    "bmkgEarthquakeId": "202328233943",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328233943.mmi.jpg",
+    "fingerprintSha1": "a71f5a3494a741c5ede7de23fd4a81704e0d793f"
+  },
+  {
+    "earthquakeAt": "2023-02-08T16:33:38.000Z",
+    "latitude": -2.5,
+    "longitude": 140.68,
+    "magnitude": 3.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km BaratLaut kota Jayapura",
+    "feltOnStations": "II Jayapura",
+    "bmkgEarthquakeId": "202328233338",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328233338.mmi.jpg",
+    "fingerprintSha1": "52fe3ec9cf504996e53986ee0c83c649108a54bc"
   }
 ]
