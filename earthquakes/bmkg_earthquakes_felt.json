@@ -2626,5 +2626,29 @@
     "bmkgEarthquakeId": "202328051702",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328051702.mmi.jpg",
     "fingerprintSha1": "9b232957e5173999d7e6fe49f1d004795acf8072"
+  },
+  {
+    "earthquakeAt": "2023-02-08T02:05:12.000Z",
+    "latitude": -8.4,
+    "longitude": 116.21,
+    "magnitude": 3.5,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 Km Tenggara Lombok Utara",
+    "feltOnStations": "II - III Lombok Utara",
+    "bmkgEarthquakeId": "202328090512",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328090512.mmi.jpg",
+    "fingerprintSha1": "473c2d90fa0d825036404c683dc91dd9e634b2b2"
+  },
+  {
+    "earthquakeAt": "2023-02-07T23:28:44.000Z",
+    "latitude": -7.26,
+    "longitude": 109.8,
+    "magnitude": 2.4,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km BaratLaut Wonosobo",
+    "feltOnStations": "II Batur, Banjarnegara",
+    "bmkgEarthquakeId": "202328062844",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328062844.mmi.jpg",
+    "fingerprintSha1": "dbbb03efd1399b19529ff1d1ca3c9951c78ed9ae"
   }
 ]
