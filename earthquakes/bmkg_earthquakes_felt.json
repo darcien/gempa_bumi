@@ -2986,5 +2986,53 @@
     "bmkgEarthquakeId": "202329035101",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329035101.mmi.jpg",
     "fingerprintSha1": "5ea7ce8b081844a1eff6798b37699a08595b8d15"
+  },
+  {
+    "earthquakeAt": "2023-02-09T01:15:42.000Z",
+    "latitude": -2.46,
+    "longitude": 140.67,
+    "magnitude": 3.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km BaratLaut Kota Jayapura",
+    "feltOnStations": "III Kota Jayapura",
+    "bmkgEarthquakeId": "202329081542",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329081542.mmi.jpg",
+    "fingerprintSha1": "e7cb90486f18409d037e60d5e7263eb4882bca44"
+  },
+  {
+    "earthquakeAt": "2023-02-09T01:02:40.000Z",
+    "latitude": -2.45,
+    "longitude": 140.68,
+    "magnitude": 2.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 10 km BaratLaut Kota Jayapura",
+    "feltOnStations": "II Kota Jayapura",
+    "bmkgEarthquakeId": "202329080240",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329080240.mmi.jpg",
+    "fingerprintSha1": "a29886f85c27bafa19299091cc91b2098dd4bc0f"
+  },
+  {
+    "earthquakeAt": "2023-02-08T23:35:58.000Z",
+    "latitude": -2.46,
+    "longitude": 140.68,
+    "magnitude": 3.1,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di laut 9 Km BaratLaut Kota Jayapura",
+    "feltOnStations": "Kota Jayapura II",
+    "bmkgEarthquakeId": "202329063558",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329063558.mmi.jpg",
+    "fingerprintSha1": "a2ea4164711fb3785aba34b826d01bbcaae9b769"
+  },
+  {
+    "earthquakeAt": "2023-02-08T23:33:00.000Z",
+    "latitude": -2.43,
+    "longitude": 140.67,
+    "magnitude": 3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 13 Km BaratLaut Kota Jayapura",
+    "feltOnStations": "Kota Jayapura II",
+    "bmkgEarthquakeId": "202329063300",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329063300.mmi.jpg",
+    "fingerprintSha1": "7e9adab8101aee703162484395d06c5fe088d3c1"
   }
 ]
