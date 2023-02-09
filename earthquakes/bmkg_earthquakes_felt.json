@@ -3130,5 +3130,53 @@
     "bmkgEarthquakeId": "202329134230",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329134230.mmi.jpg",
     "fingerprintSha1": "cdfb696235cedddd6ca3a93b7bd7b897e508dfb8"
+  },
+  {
+    "earthquakeAt": "2023-02-09T07:30:04.000Z",
+    "latitude": -2.48,
+    "longitude": 140.68,
+    "magnitude": 2.7,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km Barat Laut Kota Jayapura",
+    "feltOnStations": "II Kota Jayapura",
+    "bmkgEarthquakeId": "202329143004",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329143004.mmi.jpg",
+    "fingerprintSha1": "74d288460ebe576d68d0b625fc18c22c1680db76"
+  },
+  {
+    "earthquakeAt": "2023-02-09T07:22:21.000Z",
+    "latitude": -2.45,
+    "longitude": 140.69,
+    "magnitude": 3.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 10 km Barat Laut Kota Jayapura",
+    "feltOnStations": "III Kota Jayapura",
+    "bmkgEarthquakeId": "202329142221",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329142221.mmi.jpg",
+    "fingerprintSha1": "2189036311ffe67147b758295eaccf476d35789c"
+  },
+  {
+    "earthquakeAt": "2023-02-09T07:20:03.000Z",
+    "latitude": -2.53,
+    "longitude": 140.69,
+    "magnitude": 3.5,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km Barat Laut Kota Jayapura",
+    "feltOnStations": "III Kota Jayapura",
+    "bmkgEarthquakeId": "202329142003",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329142003.mmi.jpg",
+    "fingerprintSha1": "1362b0932f7e3ae4aa78fa0671909fa7969c61c2"
+  },
+  {
+    "earthquakeAt": "2023-02-09T07:15:43.000Z",
+    "latitude": -2.44,
+    "longitude": 140.68,
+    "magnitude": 2.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di Laut 11 km Barat Laut Kota Jayapura",
+    "feltOnStations": "II Kota Jayapura",
+    "bmkgEarthquakeId": "202329141543",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329141543.mmi.jpg",
+    "fingerprintSha1": "d4999679cbd7319d1e494bec1d5c22e7a8c6f7d9"
   }
 ]
