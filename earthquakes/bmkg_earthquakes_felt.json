@@ -3598,5 +3598,17 @@
     "bmkgEarthquakeId": "2023210234512",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023210234512.mmi.jpg",
     "fingerprintSha1": "a018b7d1217d25c5aab3210df1eed82e59f4a02a"
+  },
+  {
+    "earthquakeAt": "2023-02-10T17:39:09.000Z",
+    "latitude": -2.55,
+    "longitude": 140.65,
+    "magnitude": 4.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km BaratDaya Kota Jayapura",
+    "feltOnStations": "III - IV Kota Jayapura",
+    "bmkgEarthquakeId": "2023211003909",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023211003909.mmi.jpg",
+    "fingerprintSha1": "80ae565895c0ef99833d84755d4a2711cc4d7bd1"
   }
 ]
