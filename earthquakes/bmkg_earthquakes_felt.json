@@ -3670,5 +3670,17 @@
     "bmkgEarthquakeId": "2023211063632",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023211063632.mmi.jpg",
     "fingerprintSha1": "0b82fdeb86615a98c148625b6aca9a1406804a42"
+  },
+  {
+    "earthquakeAt": "2023-02-11T08:55:06.000Z",
+    "latitude": 3.67,
+    "longitude": 126.76,
+    "magnitude": 6,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di Laut 37 km Tenggara Melonguane",
+    "feltOnStations": "IV Melonguane, III-IV Tahuna, III - IV Siau, II Manado",
+    "bmkgEarthquakeId": "2023211155506",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023211155506.mmi.jpg",
+    "fingerprintSha1": "81c2fb3c57f30b4c0949787ab32758ec42ff4718"
   }
 ]
