@@ -3778,5 +3778,17 @@
     "bmkgEarthquakeId": "2023212194557",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023212194557.mmi.jpg",
     "fingerprintSha1": "82baa64bb624cbc6ea6223f92796bb3f341aa446"
+  },
+  {
+    "earthquakeAt": "2023-02-12T14:41:29.000Z",
+    "latitude": -6.85,
+    "longitude": 107.1,
+    "magnitude": 2.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km BaratDaya Kab. Cianjur",
+    "feltOnStations": "II Cibereum, II Cilaku, II Ciseupan, II Nagrak",
+    "bmkgEarthquakeId": "2023212214129",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023212214129.mmi.jpg",
+    "fingerprintSha1": "81290cf35523aaf4dfadd979a3f5798c906a7c2c"
   }
 ]
