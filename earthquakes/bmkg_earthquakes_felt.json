@@ -3790,5 +3790,17 @@
     "bmkgEarthquakeId": "2023212214129",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023212214129.mmi.jpg",
     "fingerprintSha1": "81290cf35523aaf4dfadd979a3f5798c906a7c2c"
+  },
+  {
+    "earthquakeAt": "2023-02-12T17:38:07.000Z",
+    "latitude": -1.49,
+    "longitude": 134.17,
+    "magnitude": 5.3,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km Tenggara Ransiki",
+    "feltOnStations": "IV Ransiki",
+    "bmkgEarthquakeId": "2023213003807",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023213003807.mmi.jpg",
+    "fingerprintSha1": "76bce5bac76c16b56f970ac4cd4201cb8b58ba96"
   }
 ]
