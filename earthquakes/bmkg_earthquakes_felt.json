@@ -3742,5 +3742,29 @@
     "bmkgEarthquakeId": "2023212121354",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023212121354.mmi.jpg",
     "fingerprintSha1": "14aea278082a6c9e6531e034f3abe8b8154b861c"
+  },
+  {
+    "earthquakeAt": "2023-02-12T10:43:51.000Z",
+    "latitude": -1.44,
+    "longitude": 134.3,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 16 km Timurlaut Ransiki",
+    "feltOnStations": "II-III Ransiki, II-III Manokwari",
+    "bmkgEarthquakeId": "2023212174351",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023212174351.mmi.jpg",
+    "fingerprintSha1": "50d76bb9b0b530d7b0ce4ad1c4f76b0a71d258ab"
+  },
+  {
+    "earthquakeAt": "2023-02-12T10:40:26.000Z",
+    "latitude": -2.39,
+    "longitude": 140.67,
+    "magnitude": 2.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 20 km Timurlaut Kota Jayapura",
+    "feltOnStations": "II Kota Jayapura",
+    "bmkgEarthquakeId": "2023212174026",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023212174026.mmi.jpg",
+    "fingerprintSha1": "2f00c1d8ed6c2759a0d234f3744e52d333f61686"
   }
 ]
