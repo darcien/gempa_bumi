@@ -3946,5 +3946,17 @@
     "bmkgEarthquakeId": "2023214185937",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023214185937.mmi.jpg",
     "fingerprintSha1": "e20e602c997339d9bbad04fa1dfab344951c55ee"
+  },
+  {
+    "earthquakeAt": "2023-02-14T12:57:46.000Z",
+    "latitude": -1.47,
+    "longitude": 134.17,
+    "magnitude": 4.5,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km Timurlaut Ransiki",
+    "feltOnStations": "II - III Ransiki, II - III Manokwari",
+    "bmkgEarthquakeId": "2023214195746",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023214195746.mmi.jpg",
+    "fingerprintSha1": "b607b925fbfbf6f7c468466d95cd8859b54ca12b"
   }
 ]
