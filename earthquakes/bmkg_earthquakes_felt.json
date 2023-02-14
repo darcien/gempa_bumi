@@ -3958,5 +3958,17 @@
     "bmkgEarthquakeId": "2023214195746",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023214195746.mmi.jpg",
     "fingerprintSha1": "b607b925fbfbf6f7c468466d95cd8859b54ca12b"
+  },
+  {
+    "earthquakeAt": "2023-02-14T13:02:12.000Z",
+    "latitude": -6.78,
+    "longitude": 107.08,
+    "magnitude": 2.3,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km Baratlaut Kab. Cianjur",
+    "feltOnStations": "II Ciputri, II Pacet, II Cipanas, II Cugenang",
+    "bmkgEarthquakeId": "2023214200212",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023214200212.mmi.jpg",
+    "fingerprintSha1": "56ed2eae4ca109647c1bbd700919f4eb5d8b782c"
   }
 ]
