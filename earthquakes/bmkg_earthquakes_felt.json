@@ -3922,5 +3922,17 @@
     "bmkgEarthquakeId": "2023214124912",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023214124912.mmi.jpg",
     "fingerprintSha1": "58e17ead1428267b2a91427870a6ca2411d13802"
+  },
+  {
+    "earthquakeAt": "2023-02-14T06:03:56.000Z",
+    "latitude": -6.81,
+    "longitude": 107.1,
+    "magnitude": 2.4,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km BaratLaut Kab. Cianjur",
+    "feltOnStations": "II Cipanas, II Ciherang, II Kota Cianjur",
+    "bmkgEarthquakeId": "2023214130356",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023214130356.mmi.jpg",
+    "fingerprintSha1": "411204c89440f5fd86f2f3269f747917bab5bf62"
   }
 ]
