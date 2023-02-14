@@ -3898,5 +3898,29 @@
     "bmkgEarthquakeId": "2023213223626",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023213223626.mmi.jpg",
     "fingerprintSha1": "a69e1c7228fbcd2ac23ea35b371d6192beed04cd"
+  },
+  {
+    "earthquakeAt": "2023-02-14T06:02:21.000Z",
+    "latitude": 0.46,
+    "longitude": 121.05,
+    "magnitude": 5.3,
+    "depthInKm": 87,
+    "locationInIndonesian": "Pusat gempa berada di darat 30 km Tenggara Parigi Moutong",
+    "feltOnStations": "III - IV Toli-toli, II - III Pohuwato, II - III Gorontalo Utara, II - III Kab. Gorontalo, II - III Buol",
+    "bmkgEarthquakeId": "2023214130221",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023214130221.mmi.jpg",
+    "fingerprintSha1": "fce51a3aff797b3bb141905efec9ed0f36973c29"
+  },
+  {
+    "earthquakeAt": "2023-02-14T05:49:12.000Z",
+    "latitude": -2.54,
+    "longitude": 140.69,
+    "magnitude": 2.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km BaratDaya Kota Jayapura",
+    "feltOnStations": "II Kota Jayapura",
+    "bmkgEarthquakeId": "2023214124912",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023214124912.mmi.jpg",
+    "fingerprintSha1": "58e17ead1428267b2a91427870a6ca2411d13802"
   }
 ]
