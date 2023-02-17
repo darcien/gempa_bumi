@@ -4102,5 +4102,17 @@
     "bmkgEarthquakeId": "2023217165506",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023217165506.mmi.jpg",
     "fingerprintSha1": "46e8c7a502038f50f93da330e61129cce64f1999"
+  },
+  {
+    "earthquakeAt": "2023-02-17T12:52:08.000Z",
+    "latitude": -8.98,
+    "longitude": 116.83,
+    "magnitude": 4.2,
+    "depthInKm": 128,
+    "locationInIndonesian": "Pusat gempa berada di darat 25 km barat daya Sumbawa Barat",
+    "feltOnStations": "III Lombok Tengah",
+    "bmkgEarthquakeId": "2023217195208",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023217195208.mmi.jpg",
+    "fingerprintSha1": "b9e936e0377383b36f7cbd40f1f73fb795863419"
   }
 ]
