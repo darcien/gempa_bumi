@@ -4066,5 +4066,17 @@
     "bmkgEarthquakeId": "2023217112316",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023217112316.mmi.jpg",
     "fingerprintSha1": "0682774b9de599fcf5847a9a9a340cc763ed87c7"
+  },
+  {
+    "earthquakeAt": "2023-02-17T07:33:35.000Z",
+    "latitude": -3.98,
+    "longitude": 122.41,
+    "magnitude": 3.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 0.9 km timur laut Sampara, Kab. Konawe",
+    "feltOnStations": "III Kendari, III Konawe Selatan, III Konawe",
+    "bmkgEarthquakeId": "2023217143335",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023217143335.mmi.jpg",
+    "fingerprintSha1": "f71d1e8565ec26794afecb419dd20cffde4e0a0b"
   }
 ]
