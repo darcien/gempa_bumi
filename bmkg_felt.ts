@@ -81,6 +81,7 @@ const bmkgApiResSchema = z
       const shakeMapUrl = getBmkgShakeMapUrl(bmkgEarthquakeId);
       return {
         ...fresh,
+        earthquakeAt: fresh.earthquakeAt.toISOString(),
         bmkgEarthquakeId,
         shakeMapUrl,
         // BMKG doesn't expose the earthquake id,
@@ -109,7 +110,14 @@ enum MergeKey {
 type Earthquake = {
   bmkgEarthquakeId: string;
   fingerprintSha1: string;
-  // This should have other properties.
+  earthquakeAt: string;
+  latitude: number;
+  longitude: number;
+  magnitude: number;
+  depthInKm: number;
+  locationInIndonesian: string;
+  feltOnStations: string;
+  shakeMapUrl: string;
 };
 
 type FreshEarthquakes = z.infer<typeof bmkgApiResSchema>;

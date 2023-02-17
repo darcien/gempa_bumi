@@ -20,6 +20,15 @@ Deno.test("compute bmkg earthquake id", () => {
   assertEquals(bmkgEarthquakeId, expected);
 });
 
+// this will fail at year 10000+
+Deno.test("pad all date time components for bmkg earthquake id", () => {
+  const earthquakeAt = new Date("2022-01-09T02:03:05.000Z");
+  const bmkgEarthquakeId = computeBmkgEarthquakeId(earthquakeAt);
+  const expected = "20220109090305";
+  assertEquals(bmkgEarthquakeId, expected);
+  assertEquals(bmkgEarthquakeId.length, 14);
+});
+
 Deno.test("parse all latitude longitude text variations", () => {
   const luBt = "2.09 LU 98.94 BT";
   const parsedLuBt = parseLatitudeLongitudeText(luBt);

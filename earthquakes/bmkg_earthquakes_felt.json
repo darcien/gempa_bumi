@@ -427,8 +427,8 @@
     "depthInKm": 8,
     "locationInIndonesian": "Pusat gempa berada didarat 10 km TimurLaut Jantho-Aceh Besar",
     "feltOnStations": "II - III Sigli",
-    "bmkgEarthquakeId": "202311002207",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202311002207.mmi.jpg",
+    "bmkgEarthquakeId": "20230101002207",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230101002207.mmi.jpg",
     "fingerprintSha1": "109d1326ec7846eda9e7d120baa41c8d8fd53db3"
   },
   {
@@ -439,8 +439,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 7 km Barat Laut Kab. Cianjur",
     "feltOnStations": "II - III Cipanas, II - III Pacet, II - III Cugenang",
-    "bmkgEarthquakeId": "202311175239",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202311175239.mmi.jpg",
+    "bmkgEarthquakeId": "20230101175239",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230101175239.mmi.jpg",
     "fingerprintSha1": "0d33f21125bb3b01b8961ea2826503437464f996"
   },
   {
@@ -451,8 +451,8 @@
     "depthInKm": 12,
     "locationInIndonesian": "Pusat gempa berada di darat 6 km Barat Laut Kab Cianjur",
     "feltOnStations": "II Pacet",
-    "bmkgEarthquakeId": "202311184209",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202311184209.mmi.jpg",
+    "bmkgEarthquakeId": "20230101184209",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230101184209.mmi.jpg",
     "fingerprintSha1": "de2510e035f189c619fb968bb2d66cc1acc504f3"
   },
   {
@@ -463,8 +463,8 @@
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di darat 8 km Barat Laut Tapanuli Utara",
     "feltOnStations": "III Tarutung, III Sipahutar",
-    "bmkgEarthquakeId": "202311225507",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202311225507.mmi.jpg",
+    "bmkgEarthquakeId": "20230101225507",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230101225507.mmi.jpg",
     "fingerprintSha1": "ad1749794521bd130c7c6ff53b5e385328bd517d"
   },
   {
@@ -475,8 +475,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 14 km Timur Laut Kota Jayapura",
     "feltOnStations": "IV Kota Jayapura, IV Kabupaten Jayapura",
-    "bmkgEarthquakeId": "202312012433",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202312012433.mmi.jpg",
+    "bmkgEarthquakeId": "20230102012433",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230102012433.mmi.jpg",
     "fingerprintSha1": "bbe4cdce8dac772f1921a0a0cd27815baab9a7f7"
   },
   {
@@ -487,8 +487,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 4 km barat laut Kab. Cianjur",
     "feltOnStations": "II-III Pacet, II-III Ciseupan, II-III Kota Cianjur",
-    "bmkgEarthquakeId": "202312110655",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202312110655.mmi.jpg",
+    "bmkgEarthquakeId": "20230102110655",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230102110655.mmi.jpg",
     "fingerprintSha1": "acfaf9f307c04a2768add300404cf202d2bdd942"
   },
   {
@@ -499,8 +499,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 29 Km Barat Laut Kota Lhoksemauwe",
     "feltOnStations": "III Lhokseumawe, II - III Aceh Utara",
-    "bmkgEarthquakeId": "202312174002",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202312174002.mmi.jpg",
+    "bmkgEarthquakeId": "20230102174002",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230102174002.mmi.jpg",
     "fingerprintSha1": "487908d914ee5f404197ee7ca5d34846adf14868"
   },
   {
@@ -511,8 +511,8 @@
     "depthInKm": 2,
     "locationInIndonesian": "Pusat gempa berada di laut 37 Km Barat Laut Kota Lhokseumawe",
     "feltOnStations": "II - III Aceh Utara",
-    "bmkgEarthquakeId": "202313043923",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313043923.mmi.jpg",
+    "bmkgEarthquakeId": "20230103043923",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230103043923.mmi.jpg",
     "fingerprintSha1": "62650ec3fe5c0ebff67f46cdc5adc21de767c782"
   },
   {
@@ -523,8 +523,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 9 Km Timur Laut KOta Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202313043254",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313043254.mmi.jpg",
+    "bmkgEarthquakeId": "20230103043254",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230103043254.mmi.jpg",
     "fingerprintSha1": "53b2cd93962410e3a966752c2eec62deeedcc30e"
   },
   {
@@ -535,8 +535,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 14 km Timur Laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202312101446",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202312101446.mmi.jpg",
+    "bmkgEarthquakeId": "20230102101446",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230102101446.mmi.jpg",
     "fingerprintSha1": "30f334c299bb35050c01dff28219a2f1c227ff8e"
   },
   {
@@ -547,8 +547,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 23 km Timur Laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202312075509",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202312075509.mmi.jpg",
+    "bmkgEarthquakeId": "20230102075509",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230102075509.mmi.jpg",
     "fingerprintSha1": "f32ef96b6d2dd7c17c4fea890d168324a3fa8734"
   },
   {
@@ -559,8 +559,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 22 km Timur Laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202312065644",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202312065644.mmi.jpg",
+    "bmkgEarthquakeId": "20230102065644",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230102065644.mmi.jpg",
     "fingerprintSha1": "0472fa6183f540c79adc65350139ace0100e9c2b"
   },
   {
@@ -571,8 +571,8 @@
     "depthInKm": 4,
     "locationInIndonesian": "Pusat gempa berada di laut 15 km Timur Laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202312004656",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202312004656.mmi.jpg",
+    "bmkgEarthquakeId": "20230102004656",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230102004656.mmi.jpg",
     "fingerprintSha1": "89d3be500fb5b0195fc8a470ebdb764e1a2059ea"
   },
   {
@@ -583,8 +583,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 12 km Timur Laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202311235932",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202311235932.mmi.jpg",
+    "bmkgEarthquakeId": "20230101235932",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230101235932.mmi.jpg",
     "fingerprintSha1": "8e2cce66075dfac89d39ee2d47fdef0914dfa515"
   },
   {
@@ -595,8 +595,8 @@
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di laut 16 km Timur Laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura, II Kab. Jayapura",
-    "bmkgEarthquakeId": "202311215608",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202311215608.mmi.jpg",
+    "bmkgEarthquakeId": "20230101215608",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230101215608.mmi.jpg",
     "fingerprintSha1": "3f8b43b696c063fac5d6cf65db4dd20cfecd2264"
   },
   {
@@ -607,8 +607,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 18 km Timur Laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura, II Kab. Jayapura",
-    "bmkgEarthquakeId": "202311214343",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202311214343.mmi.jpg",
+    "bmkgEarthquakeId": "20230101214343",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230101214343.mmi.jpg",
     "fingerprintSha1": "b421125d55a14e3ef1eb9bc4f1b958372671c4ab"
   },
   {
@@ -619,8 +619,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 53 km Timur Laut Kabupaten Jayapura",
     "feltOnStations": "II Kota Jayapura, II Kab. Jayapura",
-    "bmkgEarthquakeId": "202311185123",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202311185123.mmi.jpg",
+    "bmkgEarthquakeId": "20230101185123",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230101185123.mmi.jpg",
     "fingerprintSha1": "6f8b3da496e1e6f271088475d359cbf5517e6453"
   },
   {
@@ -631,8 +631,8 @@
     "depthInKm": 29,
     "locationInIndonesian": "Pusat gempa berada di laut 83 km BaratDaya Pangandaran",
     "feltOnStations": "III Garut , III Pangalengan, III Bungbulang, III Pameungpeuk, III Sindangbarang, III Cidaun, II - III Pangandaran, II - III Tasikmalaya, II - III Cisompet, II - III Kota Banjar, II Sukabumi, II Cianjur, II Kab. Bandung",
-    "bmkgEarthquakeId": "202313065520",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313065520.mmi.jpg",
+    "bmkgEarthquakeId": "20230103065520",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230103065520.mmi.jpg",
     "fingerprintSha1": "b66c14ccc68cfda17f2c46bc887ea91e0cf876eb"
   },
   {
@@ -643,8 +643,8 @@
     "depthInKm": 8,
     "locationInIndonesian": "Pusat gempa berada di laut 13 km timur laut Kota Jayapura",
     "feltOnStations": "II-III Kota Jayapura",
-    "bmkgEarthquakeId": "202313054000",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313054000.mmi.jpg",
+    "bmkgEarthquakeId": "20230103054000",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230103054000.mmi.jpg",
     "fingerprintSha1": "b85c8b5aa85e1e0610d5ce1ffce6ac0fe9e175e7"
   },
   {
@@ -655,8 +655,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 22 km TimurLaut kota Jayapura",
     "feltOnStations": "II - III Kota Jayapura",
-    "bmkgEarthquakeId": "202313102842",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313102842.mmi.jpg",
+    "bmkgEarthquakeId": "20230103102842",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230103102842.mmi.jpg",
     "fingerprintSha1": "74d9c4c2507b461877e6a69bfc938e6605ddd38a"
   },
   {
@@ -667,8 +667,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 28 km TimurLaut kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202313104114",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313104114.mmi.jpg",
+    "bmkgEarthquakeId": "20230103104114",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230103104114.mmi.jpg",
     "fingerprintSha1": "7375e989f08b87de5bfa9f3911f435c68c9b90c3"
   },
   {
@@ -679,8 +679,8 @@
     "depthInKm": 7,
     "locationInIndonesian": "Pusat gempa berada di laut 23 TimurLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202313160752",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313160752.mmi.jpg",
+    "bmkgEarthquakeId": "20230103160752",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230103160752.mmi.jpg",
     "fingerprintSha1": "b5f19721f93f0b79ae2c0d35f15b7accbb84b538"
   },
   {
@@ -691,8 +691,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 18 km TimurLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202313163447",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313163447.mmi.jpg",
+    "bmkgEarthquakeId": "20230103163447",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230103163447.mmi.jpg",
     "fingerprintSha1": "a4f7e0668273cd51d9e4d3d977ef1f70d9006fff"
   },
   {
@@ -703,8 +703,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 68 km BaratDaya Kaimana",
     "feltOnStations": "II - III Kaimana",
-    "bmkgEarthquakeId": "202313163226",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313163226.mmi.jpg",
+    "bmkgEarthquakeId": "20230103163226",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230103163226.mmi.jpg",
     "fingerprintSha1": "4563c3483d097ace3e9ae734ec56c19ec8d46c1d"
   },
   {
@@ -715,8 +715,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 20 km Timurlaut Jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "202313165404",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313165404.mmi.jpg",
+    "bmkgEarthquakeId": "20230103165404",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230103165404.mmi.jpg",
     "fingerprintSha1": "fb45c2b30f77763d3461a32cda62bd723407e9a6"
   },
   {
@@ -727,8 +727,8 @@
     "depthInKm": 9,
     "locationInIndonesian": "Pusat gempa berada di laut 19 km Timurlaut Kota Jayapura",
     "feltOnStations": "II-III Kota Jayapura",
-    "bmkgEarthquakeId": "202313165042",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313165042.mmi.jpg",
+    "bmkgEarthquakeId": "20230103165042",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230103165042.mmi.jpg",
     "fingerprintSha1": "ff3f999d5590f5d0fb703ba168d7f687a38559f4"
   },
   {
@@ -739,8 +739,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 13 km TimurLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202313172932",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313172932.mmi.jpg",
+    "bmkgEarthquakeId": "20230103172932",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230103172932.mmi.jpg",
     "fingerprintSha1": "18e8a7728de330f69320f42d7eb4adccd5eab736"
   },
   {
@@ -751,8 +751,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 26 km TimurLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202313172444",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313172444.mmi.jpg",
+    "bmkgEarthquakeId": "20230103172444",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230103172444.mmi.jpg",
     "fingerprintSha1": "2846821209eb8270c0aa44f8785448aba3e8b528"
   },
   {
@@ -763,8 +763,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 20 km timur laut Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202313181535",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313181535.mmi.jpg",
+    "bmkgEarthquakeId": "20230103181535",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230103181535.mmi.jpg",
     "fingerprintSha1": "012aa69b54cc17022e0dca494368dd476afa3263"
   },
   {
@@ -775,8 +775,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 18 km Timurlaut Kota Jayapura",
     "feltOnStations": "II - III Kota Jayapura",
-    "bmkgEarthquakeId": "202313192905",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313192905.mmi.jpg",
+    "bmkgEarthquakeId": "20230103192905",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230103192905.mmi.jpg",
     "fingerprintSha1": "f4da47e38ad85e7617cfe3ec24df4188ce66fc90"
   },
   {
@@ -787,8 +787,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 33 km TimurLaut Kota Jayapura",
     "feltOnStations": "III-IV Kota Jayapura, III-IV Kab. Jayapura",
-    "bmkgEarthquakeId": "202313195521",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313195521.mmi.jpg",
+    "bmkgEarthquakeId": "20230103195521",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230103195521.mmi.jpg",
     "fingerprintSha1": "48e3dd23b97d66b7a686f00b3e71aedb772b5887"
   },
   {
@@ -799,8 +799,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 18 km TimurLaut Kota Jayapura",
     "feltOnStations": "II - III Kota Jayapura",
-    "bmkgEarthquakeId": "202313225549",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313225549.mmi.jpg",
+    "bmkgEarthquakeId": "20230103225549",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230103225549.mmi.jpg",
     "fingerprintSha1": "02b7cd61228a61255249ab41a9d2393bd850f391"
   },
   {
@@ -811,8 +811,8 @@
     "depthInKm": 9,
     "locationInIndonesian": "Pusat gempa berada di darat 24 km BaratDaya Teluk Wondama",
     "feltOnStations": "II Nabire",
-    "bmkgEarthquakeId": "202313224619",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202313224619.mmi.jpg",
+    "bmkgEarthquakeId": "20230103224619",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230103224619.mmi.jpg",
     "fingerprintSha1": "04a094f85519ae0b85f8de8d79562fcebe955cc6"
   },
   {
@@ -823,8 +823,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 30 km TimurLaut Kota Jayapura",
     "feltOnStations": "II - III Kota Jayapura",
-    "bmkgEarthquakeId": "202314001139",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202314001139.mmi.jpg",
+    "bmkgEarthquakeId": "20230104001139",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230104001139.mmi.jpg",
     "fingerprintSha1": "584985697fab6c52f0ba6ddac7dcb2e9c2ebbe0f"
   },
   {
@@ -835,8 +835,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 17 km TimurLaut Kota Jayapura",
     "feltOnStations": "II - III Kota Jayapura",
-    "bmkgEarthquakeId": "202314005709",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202314005709.mmi.jpg",
+    "bmkgEarthquakeId": "20230104005709",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230104005709.mmi.jpg",
     "fingerprintSha1": "b35ade35ba1db55f4e7c95d09c9ffc945f36c99a"
   },
   {
@@ -847,8 +847,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 23 km TimurLaut Kota Jayapura",
     "feltOnStations": "II - III Kota Jayapura",
-    "bmkgEarthquakeId": "202314005542",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202314005542.mmi.jpg",
+    "bmkgEarthquakeId": "20230104005542",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230104005542.mmi.jpg",
     "fingerprintSha1": "5c5a51f80f69a80486873d72976c0ad020e024c9"
   },
   {
@@ -859,8 +859,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 25 km TimurLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202314021933",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202314021933.mmi.jpg",
+    "bmkgEarthquakeId": "20230104021933",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230104021933.mmi.jpg",
     "fingerprintSha1": "c9fffc8f9f828df153ed24c1058a83171032f078"
   },
   {
@@ -871,8 +871,8 @@
     "depthInKm": 20,
     "locationInIndonesian": "Pusat gempa berada di darat 21 km Tenggara Kab. Jayapura",
     "feltOnStations": "II Kab. Jayapura",
-    "bmkgEarthquakeId": "202314070330",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202314070330.mmi.jpg",
+    "bmkgEarthquakeId": "20230104070330",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230104070330.mmi.jpg",
     "fingerprintSha1": "9ea471cb2e1f395db14f7ac53efa1a4bbf139a8a"
   },
   {
@@ -883,8 +883,8 @@
     "depthInKm": 6,
     "locationInIndonesian": "Pusat gempa berada di laut 26 km TimurLaut Kota Jayapura",
     "feltOnStations": "II - III Kota Jayapura",
-    "bmkgEarthquakeId": "202314084259",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202314084259.mmi.jpg",
+    "bmkgEarthquakeId": "20230104084259",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230104084259.mmi.jpg",
     "fingerprintSha1": "08a61bcbf1460ac3f8b31ca79557635d7a7c4e66"
   },
   {
@@ -895,8 +895,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 15 km TimurLaut Kota Jayapura",
     "feltOnStations": "III - IV Kota Jayapura, III - IV Kabupaten Jayapura",
-    "bmkgEarthquakeId": "202314083941",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202314083941.mmi.jpg",
+    "bmkgEarthquakeId": "20230104083941",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230104083941.mmi.jpg",
     "fingerprintSha1": "213fe5bdb452b554ef2a1254e56e9fb59ffccaf1"
   },
   {
@@ -907,8 +907,8 @@
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di darat 8 km TimurLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202314093936",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202314093936.mmi.jpg",
+    "bmkgEarthquakeId": "20230104093936",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230104093936.mmi.jpg",
     "fingerprintSha1": "414f1a18f8b39b40134d9848ae9f2a59bb0b5172"
   },
   {
@@ -919,8 +919,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 20 Km TimurLaut Kota Jayapura",
     "feltOnStations": "II - III Kota Jayapura",
-    "bmkgEarthquakeId": "202314095317",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202314095317.mmi.jpg",
+    "bmkgEarthquakeId": "20230104095317",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230104095317.mmi.jpg",
     "fingerprintSha1": "1b8d5c754bc708fc99fb96d694ae20726304d3c1"
   },
   {
@@ -931,8 +931,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 22 km TimurLaut Kota Jayapura",
     "feltOnStations": "II - III Kota Jayapura",
-    "bmkgEarthquakeId": "202314110451",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202314110451.mmi.jpg",
+    "bmkgEarthquakeId": "20230104110451",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230104110451.mmi.jpg",
     "fingerprintSha1": "82138911039a4527d1a313cce629e65a818a3850"
   },
   {
@@ -943,8 +943,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 22 km Tmurlaut Kota Jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "202314154205",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202314154205.mmi.jpg",
+    "bmkgEarthquakeId": "20230104154205",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230104154205.mmi.jpg",
     "fingerprintSha1": "42ad2e71621e22e9fe0fd29389be3f9639569a71"
   },
   {
@@ -955,8 +955,8 @@
     "depthInKm": 14,
     "locationInIndonesian": "Pusat gempa berada di darat 11 km Timurlaut Kota jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "202314151823",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202314151823.mmi.jpg",
+    "bmkgEarthquakeId": "20230104151823",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230104151823.mmi.jpg",
     "fingerprintSha1": "0afecf80cf3ec8349d7d659cbfc1fed648b69625"
   },
   {
@@ -967,8 +967,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 17 km TimurLaut Kota Jayapura",
     "feltOnStations": "II-III Kota Jayapura",
-    "bmkgEarthquakeId": "202314161000",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202314161000.mmi.jpg",
+    "bmkgEarthquakeId": "20230104161000",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230104161000.mmi.jpg",
     "fingerprintSha1": "ef99c9f4f55455d80dfc2b2f16b46749182e90bc"
   },
   {
@@ -979,8 +979,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 20 km TimurLaut Kota Jayapura",
     "feltOnStations": "II-III Kota Jayapura",
-    "bmkgEarthquakeId": "202314193332",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202314193332.mmi.jpg",
+    "bmkgEarthquakeId": "20230104193332",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230104193332.mmi.jpg",
     "fingerprintSha1": "1655a4f2f8b35911e3cb27a07d1212bedb9e9fde"
   },
   {
@@ -991,8 +991,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 23 km TimurLaut Kota Jayapura",
     "feltOnStations": "III-IV Kota Jayapura, III-IV Kab. Keerom, II Kab. Jayapura",
-    "bmkgEarthquakeId": "202314191657",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202314191657.mmi.jpg",
+    "bmkgEarthquakeId": "20230104191657",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230104191657.mmi.jpg",
     "fingerprintSha1": "b2ff1c41bd9b6f73d9ee1786fc16cc4b1c500fc1"
   },
   {
@@ -1003,8 +1003,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 31 km TimurLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202314205429",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202314205429.mmi.jpg",
+    "bmkgEarthquakeId": "20230104205429",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230104205429.mmi.jpg",
     "fingerprintSha1": "e039d1f409bd75fe7b5ed16f648c85e67e5f1fee"
   },
   {
@@ -1015,8 +1015,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 24 km Timurlaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202315180815",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202315180815.mmi.jpg",
+    "bmkgEarthquakeId": "20230105180815",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230105180815.mmi.jpg",
     "fingerprintSha1": "2130d648b0dd2299d003521b309133c42dd510f6"
   },
   {
@@ -1027,8 +1027,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 7 km BaratDaya Kab. Cianjur",
     "feltOnStations": "III Cianjur",
-    "bmkgEarthquakeId": "202315053442",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202315053442.mmi.jpg",
+    "bmkgEarthquakeId": "20230105053442",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230105053442.mmi.jpg",
     "fingerprintSha1": "40cdb37d5fa3253e633d459983840840ab8fcfa8"
   },
   {
@@ -1039,8 +1039,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 17 km TimurLaut Kota Jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "202315051522",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202315051522.mmi.jpg",
+    "bmkgEarthquakeId": "20230105051522",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230105051522.mmi.jpg",
     "fingerprintSha1": "1cd5620a407aa2330376def5f669e096dd3d51de"
   },
   {
@@ -1051,8 +1051,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 81 km BaratDaya Kaimana",
     "feltOnStations": "II Kaimana",
-    "bmkgEarthquakeId": "202316055854",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202316055854.mmi.jpg",
+    "bmkgEarthquakeId": "20230106055854",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230106055854.mmi.jpg",
     "fingerprintSha1": "5537da4bc87573122c976c2104da16c3eabd15b8"
   },
   {
@@ -1063,8 +1063,8 @@
     "depthInKm": 6,
     "locationInIndonesian": "Pusat gempa berada di darat 11 km TimurLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202316221000",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202316221000.mmi.jpg",
+    "bmkgEarthquakeId": "20230106221000",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230106221000.mmi.jpg",
     "fingerprintSha1": "9e407c762add3ea80ff76edbdabae51e7c8bf677"
   },
   {
@@ -1075,8 +1075,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 18 km timur laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202316234959",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202316234959.mmi.jpg",
+    "bmkgEarthquakeId": "20230106234959",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230106234959.mmi.jpg",
     "fingerprintSha1": "40dd102b9924f6636c700cf81c282845d401ea6b"
   },
   {
@@ -1087,8 +1087,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 23 km timur laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202316234821",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202316234821.mmi.jpg",
+    "bmkgEarthquakeId": "20230106234821",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230106234821.mmi.jpg",
     "fingerprintSha1": "ae81069669dd41225b854cb733031e00c250a756"
   },
   {
@@ -1099,8 +1099,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 293 km BaratDaya Kab. Malang",
     "feltOnStations": "II Dinoyo",
-    "bmkgEarthquakeId": "202317052753",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202317052753.mmi.jpg",
+    "bmkgEarthquakeId": "20230107052753",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230107052753.mmi.jpg",
     "fingerprintSha1": "54dc276341834c0b5cbbaac0d07bdc9a32b2a9e6"
   },
   {
@@ -1111,8 +1111,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 74 km BaratDaya Kaimana",
     "feltOnStations": "III Kaimana",
-    "bmkgEarthquakeId": "202317100126",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202317100126.mmi.jpg",
+    "bmkgEarthquakeId": "20230107100126",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230107100126.mmi.jpg",
     "fingerprintSha1": "9b93d45b900842245b4593432ca0a48d788449d4"
   },
   {
@@ -1123,8 +1123,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 21 km TimurLaut Kota Jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "202317154901",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202317154901.mmi.jpg",
+    "bmkgEarthquakeId": "20230107154901",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230107154901.mmi.jpg",
     "fingerprintSha1": "4b0f1107a90cbbc92506e50517521b973dd18ff9"
   },
   {
@@ -1135,8 +1135,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 72 km BaratDaya Kaimana",
     "feltOnStations": "II - III Kaimana",
-    "bmkgEarthquakeId": "202317185431",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202317185431.mmi.jpg",
+    "bmkgEarthquakeId": "20230107185431",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230107185431.mmi.jpg",
     "fingerprintSha1": "41c251dcc4784f4ea190e8ea4b43a1eda8d15e61"
   },
   {
@@ -1147,8 +1147,8 @@
     "depthInKm": 6,
     "locationInIndonesian": "Pusat gempa berada di laut 74 km BaratDaya Kaimana",
     "feltOnStations": "II - III Kaimana",
-    "bmkgEarthquakeId": "202317234026",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202317234026.mmi.jpg",
+    "bmkgEarthquakeId": "20230107234026",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230107234026.mmi.jpg",
     "fingerprintSha1": "bf6d7c6ff34fc890fdb0043276ee83035d3a1664"
   },
   {
@@ -1159,8 +1159,8 @@
     "depthInKm": 11,
     "locationInIndonesian": "Pusat gempa berada di darat 8 km BaratLaut Karangasem",
     "feltOnStations": "II Karangasem",
-    "bmkgEarthquakeId": "202318074031",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202318074031.mmi.jpg",
+    "bmkgEarthquakeId": "20230108074031",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230108074031.mmi.jpg",
     "fingerprintSha1": "11062bae3ab594ef831772a5a8fb70c32166ba5d"
   },
   {
@@ -1171,8 +1171,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 65 km timurlaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202318212720",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202318212720.mmi.jpg",
+    "bmkgEarthquakeId": "20230108212720",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230108212720.mmi.jpg",
     "fingerprintSha1": "54e64bd9b185337f279415a2236e67325dde5bfd"
   },
   {
@@ -1183,8 +1183,8 @@
     "depthInKm": 18,
     "locationInIndonesian": "Pusat gempa berada di Darat 13 km Tenggara Bantul",
     "feltOnStations": "II Bantul",
-    "bmkgEarthquakeId": "202319054106",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202319054106.mmi.jpg",
+    "bmkgEarthquakeId": "20230109054106",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230109054106.mmi.jpg",
     "fingerprintSha1": "1d6a463829f480c58bd6ddef02e477de104b95db"
   },
   {
@@ -1195,8 +1195,8 @@
     "depthInKm": 18,
     "locationInIndonesian": "Pusat gempa berada di laut 46 km barat daya Sumur",
     "feltOnStations": "II-III Cibaliung",
-    "bmkgEarthquakeId": "202319164640",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202319164640.mmi.jpg",
+    "bmkgEarthquakeId": "20230109164640",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230109164640.mmi.jpg",
     "fingerprintSha1": "60a090bfddb3d48219ca13b0bddb670dff35c953"
   },
   {
@@ -1207,8 +1207,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 90 km Tenggara Pacitan",
     "feltOnStations": "II-III Pacitan, II-III Gunungkidul, II-III Bantul, II-III Kota Yogyakarta, II-III Sleman, II-III Kulonprogo, II-III Wonogiri, II-III Purworejo, II-III Cilacap, II - III Nganjuk, II - III Kediri, II - III Tulungagung, II - III Trenggalek, II Banjarnegara, II Wonosobo, II Karangkates, II Kebumen, II - III Blitar",
-    "bmkgEarthquakeId": "202319192631",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202319192631.mmi.jpg",
+    "bmkgEarthquakeId": "20230109192631",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230109192631.mmi.jpg",
     "fingerprintSha1": "d86dbd9b2e52b65f78f0be18d0a33d0b6d03b05c"
   },
   {
@@ -1219,8 +1219,8 @@
     "depthInKm": 131,
     "locationInIndonesian": "Pusat gempa berada di laut 148 km BaratLaut MALUKUTENGGARABRT",
     "feltOnStations": "V Saumlaki, III-IV Sorong, III-IV Kaimana, II-III Merauke, II-III Nabire, II-III Tanah Merah, II-III Wamena, II-III Bakunase, II-III Kolhua, II-III Sabu, II-III Rote, II-III Ende, II-III Amarasi Selatan, II-III Kota Kupang, III-IV Alor, III-IV Waingapu, III-IV Waijelu, III-IV Lembata, II Ambon, II Piru, IV Dobo, IV Tiakur",
-    "bmkgEarthquakeId": "2023110004734",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023110004734.mmi.jpg",
+    "bmkgEarthquakeId": "20230110004734",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230110004734.mmi.jpg",
     "fingerprintSha1": "42cbbc05140a6b6a281d259eeaff0687b33cc815"
   },
   {
@@ -1231,8 +1231,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 21 km BaratLaut Wonosobo",
     "feltOnStations": "II Banjarnegara",
-    "bmkgEarthquakeId": "2023110035219",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023110035219.mmi.jpg",
+    "bmkgEarthquakeId": "20230110035219",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230110035219.mmi.jpg",
     "fingerprintSha1": "92064363840ddf50fb2d5fb81c7fce75d1935ac7"
   },
   {
@@ -1243,8 +1243,8 @@
     "depthInKm": 13,
     "locationInIndonesian": "Pusat gempa berada di laut 99 km barat laut Sumur",
     "feltOnStations": "II Liwa",
-    "bmkgEarthquakeId": "2023110054126",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023110054126.mmi.jpg",
+    "bmkgEarthquakeId": "20230110054126",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230110054126.mmi.jpg",
     "fingerprintSha1": "cf66cf86cce70e7685909933237952e690735a64"
   },
   {
@@ -1255,8 +1255,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 15 km TimurLaut Kota Jayapura",
     "feltOnStations": "II - III Kota Jayapura",
-    "bmkgEarthquakeId": "2023110073551",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023110073551.mmi.jpg",
+    "bmkgEarthquakeId": "20230110073551",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230110073551.mmi.jpg",
     "fingerprintSha1": "5ce3955ab80a3ee195ce19d9e24cb7672c66046b"
   },
   {
@@ -1267,8 +1267,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 19 km TimurLaut Kota Jayapura",
     "feltOnStations": "II-III Jayapura",
-    "bmkgEarthquakeId": "2023110133532",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023110133532.mmi.jpg",
+    "bmkgEarthquakeId": "20230110133532",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230110133532.mmi.jpg",
     "fingerprintSha1": "58ae8c6d04457f853f973ea48c3e13d8ebe73c4b"
   },
   {
@@ -1279,8 +1279,8 @@
     "depthInKm": 26,
     "locationInIndonesian": "Pusat gempa berada di laut 75 km BaratDaya Kab. Pangandaran",
     "feltOnStations": "II - III Garut, II - III Pangandaran, II - III Tasikmalaya",
-    "bmkgEarthquakeId": "2023110162319",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023110162319.mmi.jpg",
+    "bmkgEarthquakeId": "20230110162319",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230110162319.mmi.jpg",
     "fingerprintSha1": "9d109d857989d24ef4e3f6f079de8c2235480d93"
   },
   {
@@ -1291,8 +1291,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 21 Km Timur Laut Kota Jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "2023110195722",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023110195722.mmi.jpg",
+    "bmkgEarthquakeId": "20230110195722",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230110195722.mmi.jpg",
     "fingerprintSha1": "3ec8689fd37c8753899854a3178ed8bc8baa7073"
   },
   {
@@ -1303,8 +1303,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada dilaut 24 Km Timur Laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023110195118",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023110195118.mmi.jpg",
+    "bmkgEarthquakeId": "20230110195118",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230110195118.mmi.jpg",
     "fingerprintSha1": "8399d53938e8dd568a4d9688a65967c4ffb30d72"
   },
   {
@@ -1315,8 +1315,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 22 Km Timur Laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023110232121",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023110232121.mmi.jpg",
+    "bmkgEarthquakeId": "20230110232121",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230110232121.mmi.jpg",
     "fingerprintSha1": "7e029565f5106577e0475360ef15a27ab8acc98f"
   },
   {
@@ -1327,8 +1327,8 @@
     "depthInKm": 60,
     "locationInIndonesian": "Pusat gempa berada di darat 44 km Timur Laut Waropen",
     "feltOnStations": "III Nabire",
-    "bmkgEarthquakeId": "2023111145923",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023111145923.mmi.jpg",
+    "bmkgEarthquakeId": "20230111145923",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230111145923.mmi.jpg",
     "fingerprintSha1": "f8c856b8734bb0b40a30048a0a6ca4e65bc436a7"
   },
   {
@@ -1339,8 +1339,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di 11 km Timur Laut Kota Sukabumi",
     "feltOnStations": "II Sukabumi, II Sukaraja, II Cisarua, II Sukalarang, II Kab. Sukabumi",
-    "bmkgEarthquakeId": "2023111154822",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023111154822.mmi.jpg",
+    "bmkgEarthquakeId": "20230111154822",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230111154822.mmi.jpg",
     "fingerprintSha1": "f0ebfb569c568349eb0b7eb2f879b62142ea9217"
   },
   {
@@ -1351,8 +1351,8 @@
     "depthInKm": 56,
     "locationInIndonesian": "Pusat gempa berada di laut 43 km Barat Laut Larat - Kep. Tanimbar",
     "feltOnStations": "II-III Molu Maru",
-    "bmkgEarthquakeId": "2023111185330",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023111185330.mmi.jpg",
+    "bmkgEarthquakeId": "20230111185330",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230111185330.mmi.jpg",
     "fingerprintSha1": "eb991dd15801e120a0953dc44194d9c10d1fe9a4"
   },
   {
@@ -1363,8 +1363,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 3 km barat daya Paniai",
     "feltOnStations": "II-III Enarotali",
-    "bmkgEarthquakeId": "2023112062500",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023112062500.mmi.jpg",
+    "bmkgEarthquakeId": "20230112062500",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230112062500.mmi.jpg",
     "fingerprintSha1": "de4f2afdcc6e9c0401da47ac7d43c6ff00388ecc"
   },
   {
@@ -1375,8 +1375,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 28 km TimuLaut Kota Jayapura",
     "feltOnStations": "III-IV Kota Jayapura, II Kab. Jayapura",
-    "bmkgEarthquakeId": "2023113031824",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113031824.mmi.jpg",
+    "bmkgEarthquakeId": "20230113031824",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230113031824.mmi.jpg",
     "fingerprintSha1": "4143b022efdaf1b4c6b31872e8d579c145455399"
   },
   {
@@ -1387,8 +1387,8 @@
     "depthInKm": 4,
     "locationInIndonesian": "Pusat gempa berada di laut 82 km Tenggara Ondong Siau",
     "feltOnStations": "II-III Manado, II-III Bitung",
-    "bmkgEarthquakeId": "2023113044819",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113044819.mmi.jpg",
+    "bmkgEarthquakeId": "20230113044819",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230113044819.mmi.jpg",
     "fingerprintSha1": "bf62aee644a0f1a54211079c2ad8b4c72bae7c7a"
   },
   {
@@ -1399,8 +1399,8 @@
     "depthInKm": 11,
     "locationInIndonesian": "Pusat gempa berada di laut 29 km TimurLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023113065644",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113065644.mmi.jpg",
+    "bmkgEarthquakeId": "20230113065644",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230113065644.mmi.jpg",
     "fingerprintSha1": "2d01c5c838d6fe8c94322632ae41aa67cb8f2a5a"
   },
   {
@@ -1411,8 +1411,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 188 km Tenggara Maba",
     "feltOnStations": "II Halmahera Tengah",
-    "bmkgEarthquakeId": "2023113081930",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113081930.mmi.jpg",
+    "bmkgEarthquakeId": "20230113081930",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230113081930.mmi.jpg",
     "fingerprintSha1": "2616dfaf8e543768474e122bb4cd8b98a09725ae"
   },
   {
@@ -1423,8 +1423,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 16 km TimurLaut Karangasem",
     "feltOnStations": "II Karangasem, II Abang, II Kubu, II Bebandem, II Selat",
-    "bmkgEarthquakeId": "2023113111453",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113111453.mmi.jpg",
+    "bmkgEarthquakeId": "20230113111453",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230113111453.mmi.jpg",
     "fingerprintSha1": "54b09b47fbe64fd34d6b5774fc04f7ce39078704"
   },
   {
@@ -1435,8 +1435,8 @@
     "depthInKm": 7,
     "locationInIndonesian": "Pusat gempa berada di laut 70 km BaratDaya Kaimana",
     "feltOnStations": "III Kaimana",
-    "bmkgEarthquakeId": "2023113185418",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113185418.mmi.jpg",
+    "bmkgEarthquakeId": "20230113185418",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230113185418.mmi.jpg",
     "fingerprintSha1": "35a614b77d62240100f14ec39d396b9f9e899109"
   },
   {
@@ -1447,8 +1447,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 17 km BaratLaut Wonosobo",
     "feltOnStations": "III Wonosobo, II - III Banjarnegara, II-III Batur",
-    "bmkgEarthquakeId": "2023113184644",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113184644.mmi.jpg",
+    "bmkgEarthquakeId": "20230113184644",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230113184644.mmi.jpg",
     "fingerprintSha1": "71587ff1984477da7ae4752f99b091fbca18dffb"
   },
   {
@@ -1459,8 +1459,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 18 km TimurLaut Kota Jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "2023113132701",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113132701.mmi.jpg",
+    "bmkgEarthquakeId": "20230113132701",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230113132701.mmi.jpg",
     "fingerprintSha1": "788590a6f5dd6d07df3400f34daa0dac7880c7b2"
   },
   {
@@ -1471,8 +1471,8 @@
     "depthInKm": 101,
     "locationInIndonesian": "Pusat gempa berada di laut 130 km BaratLaut Saumlaki",
     "feltOnStations": "II - III Molomaru",
-    "bmkgEarthquakeId": "2023113194451",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113194451.mmi.jpg",
+    "bmkgEarthquakeId": "20230113194451",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230113194451.mmi.jpg",
     "fingerprintSha1": "c28d14d0d1d387c0a04895e3275b6f7a8a0ca671"
   },
   {
@@ -1483,8 +1483,8 @@
     "depthInKm": 54,
     "locationInIndonesian": "Pusat gempa berada di darat 31 km Tenggara Mamberotengah",
     "feltOnStations": "III Sarmi",
-    "bmkgEarthquakeId": "2023113224145",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023113224145.mmi.jpg",
+    "bmkgEarthquakeId": "20230113224145",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230113224145.mmi.jpg",
     "fingerprintSha1": "2741b99802e8e36f39bbbfb421958d55d885ebc6"
   },
   {
@@ -1495,8 +1495,8 @@
     "depthInKm": 18,
     "locationInIndonesian": "Pusat gempa berada di laut 55 km BaratDaya Kaur",
     "feltOnStations": "III-IV Kaur, III Kota Bengkulu, III Argamakmur, II - III Kepahiang, III Oku Selatan, III Liwa, II Sekincau",
-    "bmkgEarthquakeId": "2023114054100",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023114054100.mmi.jpg",
+    "bmkgEarthquakeId": "20230114054100",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230114054100.mmi.jpg",
     "fingerprintSha1": "bd008c9ac12289ed6f0a63a93ad2908d109f5729"
   },
   {
@@ -1507,8 +1507,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 25 km BaratLaut Wonosobo",
     "feltOnStations": "II Banjarnegara",
-    "bmkgEarthquakeId": "2023114181257",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023114181257.mmi.jpg",
+    "bmkgEarthquakeId": "20230114181257",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230114181257.mmi.jpg",
     "fingerprintSha1": "4f3eaaea00fa9a6b93828d9aeba7fc299cc68a48"
   },
   {
@@ -1519,8 +1519,8 @@
     "depthInKm": 4,
     "locationInIndonesian": "Pusat gempa berada di darat 13 km TimurLaut Jayapura",
     "feltOnStations": "II Jayapura",
-    "bmkgEarthquakeId": "2023115071253",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023115071253.mmi.jpg",
+    "bmkgEarthquakeId": "20230115071253",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230115071253.mmi.jpg",
     "fingerprintSha1": "0c0cd2d98b9fdb8d9c5f92053603a13a2de99bf5"
   },
   {
@@ -1531,8 +1531,8 @@
     "depthInKm": 4,
     "locationInIndonesian": "Pusat gempa berada di laut 16 km Timurlaut Jayapura",
     "feltOnStations": "III Jayapura",
-    "bmkgEarthquakeId": "2023115065121",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023115065121.mmi.jpg",
+    "bmkgEarthquakeId": "20230115065121",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230115065121.mmi.jpg",
     "fingerprintSha1": "260df0ca446fe068680042e795cfbc6ff6420312"
   },
   {
@@ -1543,8 +1543,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 32 km BaratLaut Kota Lhokseumawe",
     "feltOnStations": "II - III Lhokseumawe",
-    "bmkgEarthquakeId": "2023115082009",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023115082009.mmi.jpg",
+    "bmkgEarthquakeId": "20230115082009",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230115082009.mmi.jpg",
     "fingerprintSha1": "59496b26dd68b7e08dec8d87c23c37a241023f69"
   },
   {
@@ -1555,8 +1555,8 @@
     "depthInKm": 23,
     "locationInIndonesian": "Pusat gempa berada di laut 47 km Tenggara Kab. Aceh Singkil",
     "feltOnStations": "IV Gunung Sitoli, III Subulussalam, III Padang Sidempuan, III - IV Aceh Selatan, IV Nias Utara, IV Nias Barat, IV Nias Selatan, II Tapanuli Utara, IV Aceh Singkil, II Sibolga, IV Kepulauan Banyak",
-    "bmkgEarthquakeId": "2023116053001",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023116053001.mmi.jpg",
+    "bmkgEarthquakeId": "20230116053001",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230116053001.mmi.jpg",
     "fingerprintSha1": "0a41fd3a22513c1eb07f07dde5e9a48ce015d8f0"
   },
   {
@@ -1567,8 +1567,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 15 Km Timur Laut Kota Jayapura",
     "feltOnStations": "II Jayapura",
-    "bmkgEarthquakeId": "2023116121115",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023116121115.mmi.jpg",
+    "bmkgEarthquakeId": "20230116121115",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230116121115.mmi.jpg",
     "fingerprintSha1": "4346cc7ea142edc1d575d66ab59253e032e27ba0"
   },
   {
@@ -1579,8 +1579,8 @@
     "depthInKm": 69,
     "locationInIndonesian": "Pusat gempa berada di laut 65 km Tenggara KUTASELATAN",
     "feltOnStations": "II Denpasar, II Kuta Selatan, II Jimbaran, II Karangasem, II Gianyar, II Klungkung, II Lombok Utara, II Mataram, III Lombok Barat",
-    "bmkgEarthquakeId": "2023116201004",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023116201004.mmi.jpg",
+    "bmkgEarthquakeId": "20230116201004",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230116201004.mmi.jpg",
     "fingerprintSha1": "73275a81f7d7cf76b359013412d4c45762deb8f3"
   },
   {
@@ -1591,8 +1591,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 11 km barat daya Kab. Cianjur",
     "feltOnStations": "III Cugenang, III Pacet, III Warungkondang, III Panembong, II-III Kota Cianjur",
-    "bmkgEarthquakeId": "2023117001645",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117001645.mmi.jpg",
+    "bmkgEarthquakeId": "20230117001645",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230117001645.mmi.jpg",
     "fingerprintSha1": "6b0af090ee8d75fcbae563e0fd95df0cac173620"
   },
   {
@@ -1603,8 +1603,8 @@
     "depthInKm": 4,
     "locationInIndonesian": "Pusat gempa berada di darat 19 km Timurlaut kota Jayapura",
     "feltOnStations": "II-III Kota Jayapura",
-    "bmkgEarthquakeId": "2023117014013",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117014013.mmi.jpg",
+    "bmkgEarthquakeId": "20230117014013",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230117014013.mmi.jpg",
     "fingerprintSha1": "a6199278985ef22a9291a398ebe7046aa3a93b35"
   },
   {
@@ -1615,8 +1615,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 14 km TimurLaut Jayapura",
     "feltOnStations": "II Jayapura",
-    "bmkgEarthquakeId": "2023117091404",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117091404.mmi.jpg",
+    "bmkgEarthquakeId": "20230117091404",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230117091404.mmi.jpg",
     "fingerprintSha1": "58fe1fc8e016375afe85e50fcf8312493ae63e0a"
   },
   {
@@ -1627,8 +1627,8 @@
     "depthInKm": 17,
     "locationInIndonesian": "Pusat gempa berada di laut, 125 km Barat Daya Kab. Malang",
     "feltOnStations": "III-IV Karangkates, III-IV Sumbermanjing Wetan, II - III Kepanjen, II - III Lumajang, II - III Malang, II Badung, II Blitar, II Trenggalek, II Pacitan, II Bondowoso",
-    "bmkgEarthquakeId": "2023117113612",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117113612.mmi.jpg",
+    "bmkgEarthquakeId": "20230117113612",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230117113612.mmi.jpg",
     "fingerprintSha1": "8e5cdeff8de58c80d082816703134f5358546e79"
   },
   {
@@ -1639,8 +1639,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 71 km Timurlaut Pulau Sipora, kep. Mentawai",
     "feltOnStations": "II Tuapejat",
-    "bmkgEarthquakeId": "2023117115049",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117115049.mmi.jpg",
+    "bmkgEarthquakeId": "20230117115049",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230117115049.mmi.jpg",
     "fingerprintSha1": "503289869d602701c23b4e9ef3c2ba6c0c506c0f"
   },
   {
@@ -1651,8 +1651,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 21 km tenggara kab-Pekalongan",
     "feltOnStations": "III Batur, III Dieng",
-    "bmkgEarthquakeId": "2023117135453",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117135453.mmi.jpg",
+    "bmkgEarthquakeId": "20230117135453",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230117135453.mmi.jpg",
     "fingerprintSha1": "200b0654ba4f8c6ad35c0d667a9b321c267b6af2"
   },
   {
@@ -1663,8 +1663,8 @@
     "depthInKm": 21,
     "locationInIndonesian": "Pusat gempa berada di darat 24 km tenggara kab. Pekalongan",
     "feltOnStations": "II - III Batur, II - III Dieng, II - III Wonosobo",
-    "bmkgEarthquakeId": "2023117135842",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117135842.mmi.jpg",
+    "bmkgEarthquakeId": "20230117135842",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230117135842.mmi.jpg",
     "fingerprintSha1": "f7ae173f204cb644c7b37a8ee999354bb118f728"
   },
   {
@@ -1675,8 +1675,8 @@
     "depthInKm": 17,
     "locationInIndonesian": "Pusat gempa berada di darat 24 km tenggara kab. Pekalongan",
     "feltOnStations": "III Batur, III Dieng",
-    "bmkgEarthquakeId": "2023117135613",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117135613.mmi.jpg",
+    "bmkgEarthquakeId": "20230117135613",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230117135613.mmi.jpg",
     "fingerprintSha1": "3b688be2532595ab7bfe73944c12c80986a0a13d"
   },
   {
@@ -1687,8 +1687,8 @@
     "depthInKm": 13,
     "locationInIndonesian": "Pusat gempa berada di laut 20 km Baratlaut Kabupaten Jayapura",
     "feltOnStations": "II Kota Jayapura, II Kabupaten Jayapura",
-    "bmkgEarthquakeId": "2023117164755",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117164755.mmi.jpg",
+    "bmkgEarthquakeId": "20230117164755",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230117164755.mmi.jpg",
     "fingerprintSha1": "d4bb04e18b808d8950c078650b51b279f778d1c1"
   },
   {
@@ -1699,8 +1699,8 @@
     "depthInKm": 30,
     "locationInIndonesian": "Pusat gempa berada di darat 27 km TimurLaut Ruteng",
     "feltOnStations": "IV Ruteng, III Nagekeo, II - III Labuan Bajo, II Congkar, II Reo, III Borong, II Bajawa, II Ende",
-    "bmkgEarthquakeId": "2023117222126",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117222126.mmi.jpg",
+    "bmkgEarthquakeId": "20230117222126",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230117222126.mmi.jpg",
     "fingerprintSha1": "aebecca358476ed1632e811f7421e65356deeb2e"
   },
   {
@@ -1711,8 +1711,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 6 km Baratlaut Kabupaten Cianjur",
     "feltOnStations": "II - III Cilaku, II - III Cugenang, II - III Cianjur, II - III Karangtengah, II - III Cipanas",
-    "bmkgEarthquakeId": "2023117231201",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023117231201.mmi.jpg",
+    "bmkgEarthquakeId": "20230117231201",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230117231201.mmi.jpg",
     "fingerprintSha1": "c891ddd89c0a92b7ba45c3689adf885a0129db2a"
   },
   {
@@ -1723,8 +1723,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 4 km Baratdaya Kabupaten Cianjur",
     "feltOnStations": "II - III Cilaku, II - III Cianjur, II - III Gekbrong, II - III Karangtengah, II - III Cugenang",
-    "bmkgEarthquakeId": "2023118003717",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023118003717.mmi.jpg",
+    "bmkgEarthquakeId": "20230118003717",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230118003717.mmi.jpg",
     "fingerprintSha1": "f3c84770ccf6d5687cd9b361ade9933a183e4df9"
   },
   {
@@ -1735,8 +1735,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 18 km TimurLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023118034703",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023118034703.mmi.jpg",
+    "bmkgEarthquakeId": "20230118034703",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230118034703.mmi.jpg",
     "fingerprintSha1": "48b193c033bb2a37aed6a9c96c543723971230f1"
   },
   {
@@ -1747,8 +1747,8 @@
     "depthInKm": 138,
     "locationInIndonesian": "Pusat gempa berada di laut 69 km Tenggara Bone Bolango",
     "feltOnStations": "III-IV Luwuk, III - IV Ampana, III Kabupaten Gorontalo, III Kota Gorontalo, III Taliabu, III Minahasa Tenggara, III Kabupaten Bone Bolango, II - III Kabupaten Pohuwato, II - III Kabupaten Gorontalo Utara, II - III Sanana, II - III Palu , II Ternate, II Labuha, III-IV Malili, III-IV Sorowako, III Kotamobagu, III Bolaang Mongondow Timur",
-    "bmkgEarthquakeId": "2023118073446",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023118073446.mmi.jpg",
+    "bmkgEarthquakeId": "20230118073446",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230118073446.mmi.jpg",
     "fingerprintSha1": "989cef25a1e1cb94f81f84d6d21e7955670cae25"
   },
   {
@@ -1759,8 +1759,8 @@
     "depthInKm": 64,
     "locationInIndonesian": "Pusat gempa berada di laut 141 km Tenggara Melonguane",
     "feltOnStations": "III Minahasa, III Manado, III Minahasa Utara, III Bitung, III Ternate, III Sofifi, III Halmahera Timur, III - IV Talaud, III Minahasa Tenggara, III Minahasa Selatan, III Bolaang Mongondow Timur, III Bolaang Mongondow Selatan, III - IV Kepulauan Sangihe, II Kota Gorontalo, III Tomohon, III Bolaang Mongondow, III Halmahera Barat, III Halmahera Utara, III - IV Kepulauan Sitaro, III Banggai Kepulauan, III Halmahera Tengah, III-IV Tidore, IV Pulau Taliabu",
-    "bmkgEarthquakeId": "2023118130614",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023118130614.mmi.jpg",
+    "bmkgEarthquakeId": "20230118130614",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230118130614.mmi.jpg",
     "fingerprintSha1": "80a1c7b403be613d8daca053c7b8134ef6de0048"
   },
   {
@@ -1771,8 +1771,8 @@
     "depthInKm": 22,
     "locationInIndonesian": "Pusat gempa berada di laut 78 km Baratlaut Jayapura",
     "feltOnStations": "III Kabupaten Jayapura",
-    "bmkgEarthquakeId": "2023118223523",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023118223523.mmi.jpg",
+    "bmkgEarthquakeId": "20230118223523",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230118223523.mmi.jpg",
     "fingerprintSha1": "dc8175ca2aeb0a036d2a28738b969189476b6123"
   },
   {
@@ -1783,8 +1783,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 306 km tenggara Pacitan",
     "feltOnStations": "II Trenggalek",
-    "bmkgEarthquakeId": "2023118232752",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023118232752.mmi.jpg",
+    "bmkgEarthquakeId": "20230118232752",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230118232752.mmi.jpg",
     "fingerprintSha1": "a4c2b8ea089ade2962bf02bfddc6a45e45f5e853"
   },
   {
@@ -1795,8 +1795,8 @@
     "depthInKm": 6,
     "locationInIndonesian": "Pusat gempa berada di laut 39 km TimurLaut Kota Jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "2023119204739",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023119204739.mmi.jpg",
+    "bmkgEarthquakeId": "20230119204739",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230119204739.mmi.jpg",
     "fingerprintSha1": "81dba9bc4bf4cc06ffcfd227039c69d80c3cb202"
   },
   {
@@ -1807,8 +1807,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 32 km TimurLaut Kota Jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "2023119203728",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023119203728.mmi.jpg",
+    "bmkgEarthquakeId": "20230119203728",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230119203728.mmi.jpg",
     "fingerprintSha1": "4961ea696f4982fc4005d3d01bfb97c74a54cf6b"
   },
   {
@@ -1819,8 +1819,8 @@
     "depthInKm": 7,
     "locationInIndonesian": "Pusat gempa berada di darat 4 km Timurlaut Pomala, Kabupaten Kolaka",
     "feltOnStations": "II - III Kabupaten Kolaka",
-    "bmkgEarthquakeId": "2023120065533",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023120065533.mmi.jpg",
+    "bmkgEarthquakeId": "20230120065533",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230120065533.mmi.jpg",
     "fingerprintSha1": "5ccf2bca305c8bce14477bbcbc800bb1ba4b2437"
   },
   {
@@ -1831,8 +1831,8 @@
     "depthInKm": 21,
     "locationInIndonesian": "Pusat gempa berada di darat 8 km BaratDaya Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023120201956",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023120201956.mmi.jpg",
+    "bmkgEarthquakeId": "20230120201956",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230120201956.mmi.jpg",
     "fingerprintSha1": "4e0e4c67bff61680791fa0cd2c247512797ffc58"
   },
   {
@@ -1843,8 +1843,8 @@
     "depthInKm": 8,
     "locationInIndonesian": "Pusat gempa berada di darat 22 km BaratLaut Wonosobo",
     "feltOnStations": "II Wonosobo, II Banjarnegara",
-    "bmkgEarthquakeId": "2023120194911",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023120194911.mmi.jpg",
+    "bmkgEarthquakeId": "20230120194911",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230120194911.mmi.jpg",
     "fingerprintSha1": "199220923c1441c649df8eba50b0311df6d10b94"
   },
   {
@@ -1855,8 +1855,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 36 km timur laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023121053353",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023121053353.mmi.jpg",
+    "bmkgEarthquakeId": "20230121053353",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230121053353.mmi.jpg",
     "fingerprintSha1": "2d3514a4f328f7d924fef006a165f2a343b58a82"
   },
   {
@@ -1867,8 +1867,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 18 km timur laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023121052247",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023121052247.mmi.jpg",
+    "bmkgEarthquakeId": "20230121052247",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230121052247.mmi.jpg",
     "fingerprintSha1": "a634b705718f853e9cbf8908f6a3d761763b3c12"
   },
   {
@@ -1879,8 +1879,8 @@
     "depthInKm": 4,
     "locationInIndonesian": "Pusat gempa berada di darat 8 km BaratLaut Kab. Cianjur",
     "feltOnStations": "III Pacet, II - III Cianjur",
-    "bmkgEarthquakeId": "2023121062359",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023121062359.mmi.jpg",
+    "bmkgEarthquakeId": "20230121062359",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230121062359.mmi.jpg",
     "fingerprintSha1": "e7965baf832cfcc62c8bafffcf8688657d52cc13"
   },
   {
@@ -1891,8 +1891,8 @@
     "depthInKm": 1,
     "locationInIndonesian": "Pusat gempa berada di Laut 91 km Tenggara Meulaboh",
     "feltOnStations": "II Aceh Selatan, II Takengon, II Gayo Lues",
-    "bmkgEarthquakeId": "2023121095034",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023121095034.mmi.jpg",
+    "bmkgEarthquakeId": "20230121095034",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230121095034.mmi.jpg",
     "fingerprintSha1": "85915a699c2e0110743d091e11f4cf7d9bfbefdf"
   },
   {
@@ -1903,8 +1903,8 @@
     "depthInKm": 7,
     "locationInIndonesian": "Pusat gempa berada di darat 22 km Barat Daya Kabupaten Purwakarta",
     "feltOnStations": "III Purwakarta, II - III Cikalong Wetan, II - III Cianjur, II - III Karangtengah, II - III Ciranjang, II - III Darangdan, II - III Cirata",
-    "bmkgEarthquakeId": "2023122115836",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023122115836.mmi.jpg",
+    "bmkgEarthquakeId": "20230122115836",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230122115836.mmi.jpg",
     "fingerprintSha1": "77ad30f0dda0d52687464a9d7656b0f277f6381a"
   },
   {
@@ -1915,8 +1915,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 13 km Timur Laut Kota Jayapura",
     "feltOnStations": "III - IV Kota Jayapura, III Kab, Jayapura, III Kab. Keerom",
-    "bmkgEarthquakeId": "2023122164445",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023122164445.mmi.jpg",
+    "bmkgEarthquakeId": "20230122164445",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230122164445.mmi.jpg",
     "fingerprintSha1": "5b715f2fa4de63dea34a0188d3fe2f14e0227e84"
   },
   {
@@ -1927,8 +1927,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada dilaut 45 km Timur Laut Alor",
     "feltOnStations": "III Alor",
-    "bmkgEarthquakeId": "2023123123231",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023123123231.mmi.jpg",
+    "bmkgEarthquakeId": "20230123123231",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230123123231.mmi.jpg",
     "fingerprintSha1": "3459d23d4d7f367605843b83a45058332381f6eb"
   },
   {
@@ -1939,8 +1939,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 7 km Barat Laut Kab. Cianjur",
     "feltOnStations": "III-IV Cianjur, III-IV Cikalongkulon, III-IV Cipanas, III-IV Sukabumi, III Purwakarta, II Jakarta Selatan, II Tangerang Selatan, II Bekasi, II Depok",
-    "bmkgEarthquakeId": "2023124024501",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023124024501.mmi.jpg",
+    "bmkgEarthquakeId": "20230124024501",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230124024501.mmi.jpg",
     "fingerprintSha1": "2701424c80a2ca15e0fedacdb59cb6d23a9ae8f5"
   },
   {
@@ -1951,8 +1951,8 @@
     "depthInKm": 46,
     "locationInIndonesian": "Pusat gempa berada di laut 55 km Tenggara Pesisir Barat",
     "feltOnStations": "II Kota Agung, II Ngaras",
-    "bmkgEarthquakeId": "2023124055522",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023124055522.mmi.jpg",
+    "bmkgEarthquakeId": "20230124055522",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230124055522.mmi.jpg",
     "fingerprintSha1": "e385fe44614bd05a605d3d3d1ece1a33186d8436"
   },
   {
@@ -1963,8 +1963,8 @@
     "depthInKm": 12,
     "locationInIndonesian": "Pusat gempa berada di darat 8 km BaratLaut Kab. Cianjur",
     "feltOnStations": "II Cijedil, II Rancagoong",
-    "bmkgEarthquakeId": "2023124123545",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023124123545.mmi.jpg",
+    "bmkgEarthquakeId": "20230124123545",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230124123545.mmi.jpg",
     "fingerprintSha1": "92bba5a2339d36f7d4ec4c5b0ea08a26dad9fb48"
   },
   {
@@ -1975,8 +1975,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 5 km BaratLaut Kab. Cianjur",
     "feltOnStations": "II Cijedil, II Rancagoong",
-    "bmkgEarthquakeId": "2023124123544",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023124123544.mmi.jpg",
+    "bmkgEarthquakeId": "20230124123544",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230124123544.mmi.jpg",
     "fingerprintSha1": "a2da38d005dfca8b9603d9f4b1fc5fca5f2a9fed"
   },
   {
@@ -1987,8 +1987,8 @@
     "depthInKm": 26,
     "locationInIndonesian": "Pusat gempa berada di darat 26 km BaratLaut Temanggung",
     "feltOnStations": "II Dieng",
-    "bmkgEarthquakeId": "2023124221515",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023124221515.mmi.jpg",
+    "bmkgEarthquakeId": "20230124221515",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230124221515.mmi.jpg",
     "fingerprintSha1": "b0b8b8fbaab31131bb5aa9ec37df41c197274117"
   },
   {
@@ -1999,8 +1999,8 @@
     "depthInKm": 24,
     "locationInIndonesian": "Pusat gempa berada di laut 17 km Tenggara Kabupaten Aceh Singkil",
     "feltOnStations": "II - III Singkil",
-    "bmkgEarthquakeId": "2023126192012",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023126192012.mmi.jpg",
+    "bmkgEarthquakeId": "20230126192012",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230126192012.mmi.jpg",
     "fingerprintSha1": "d877e428067dd329b1d18c924e09be730e22d99a"
   },
   {
@@ -2011,8 +2011,8 @@
     "depthInKm": 8,
     "locationInIndonesian": "Pusat gempa berada di darat 14 km BaratDaya Gunungkidul",
     "feltOnStations": "II Kretek, II Panggang",
-    "bmkgEarthquakeId": "2023126195633",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023126195633.mmi.jpg",
+    "bmkgEarthquakeId": "20230126195633",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230126195633.mmi.jpg",
     "fingerprintSha1": "e81f3ca5b5e12f77daf3b092d42fc25ec13ffa70"
   },
   {
@@ -2023,8 +2023,8 @@
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di darat 23 km tenggara Kab. Bandung",
     "feltOnStations": "II - III Soreang, II - III Bandung",
-    "bmkgEarthquakeId": "2023128010033",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023128010033.mmi.jpg",
+    "bmkgEarthquakeId": "20230128010033",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230128010033.mmi.jpg",
     "fingerprintSha1": "0ae9450f1e2d56ecd4b329b8037d952cd7ef2230"
   },
   {
@@ -2035,8 +2035,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 21 km Timur Laut Kabupaten Cianjur",
     "feltOnStations": "II - III Cirata, II - III Tegalwaru, II - III Cianjur, II - III Gekbrong, II - III Cugenang, II - III Bojongpicung, II - III Karangtengah, II - III Mande, II Padalarang",
-    "bmkgEarthquakeId": "2023128170210",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023128170210.mmi.jpg",
+    "bmkgEarthquakeId": "20230128170210",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230128170210.mmi.jpg",
     "fingerprintSha1": "2ece0ac96da5d9c4da509d652a429835ab1996e1"
   },
   {
@@ -2047,8 +2047,8 @@
     "depthInKm": 136,
     "locationInIndonesian": "Pusat gempa berada di laut 13 km barat daya Daruba",
     "feltOnStations": "IV Morotai, III Halmahera Tengah, III Halmahera Utara",
-    "bmkgEarthquakeId": "2023129021519",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023129021519.mmi.jpg",
+    "bmkgEarthquakeId": "20230129021519",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230129021519.mmi.jpg",
     "fingerprintSha1": "4bf9cc669c3ddde6562cceb045ec1547cd95391d"
   },
   {
@@ -2059,8 +2059,8 @@
     "depthInKm": 9,
     "locationInIndonesian": "Pusat gempa berada di laut 8 km timur laut Tobelo",
     "feltOnStations": "II - III Halmahera Timur",
-    "bmkgEarthquakeId": "2023129033303",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023129033303.mmi.jpg",
+    "bmkgEarthquakeId": "20230129033303",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230129033303.mmi.jpg",
     "fingerprintSha1": "bfa1da35b60581414326b7e459896ffd68e61bb2"
   },
   {
@@ -2071,8 +2071,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 17 km Barat Laut Wonosobo",
     "feltOnStations": "II Banjarnegara",
-    "bmkgEarthquakeId": "2023129212804",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023129212804.mmi.jpg",
+    "bmkgEarthquakeId": "20230129212804",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230129212804.mmi.jpg",
     "fingerprintSha1": "683153d5350d4cf4269a2040bb6937218b9c52a4"
   },
   {
@@ -2083,8 +2083,8 @@
     "depthInKm": 6,
     "locationInIndonesian": "Pusat gempa berada di darat 11 km Timur Laut Wonosobo",
     "feltOnStations": "II-III Banjarnegara",
-    "bmkgEarthquakeId": "2023130041000",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023130041000.mmi.jpg",
+    "bmkgEarthquakeId": "20230130041000",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230130041000.mmi.jpg",
     "fingerprintSha1": "fe733a912eadb00d951f58e4067372135b7b31fc"
   },
   {
@@ -2095,8 +2095,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 13km BaratDaya Luwu Timur",
     "feltOnStations": "III-IV Malili",
-    "bmkgEarthquakeId": "2023130080450",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023130080450.mmi.jpg",
+    "bmkgEarthquakeId": "20230130080450",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230130080450.mmi.jpg",
     "fingerprintSha1": "e43236b467b793cce62d08b40f856333bb06d8aa"
   },
   {
@@ -2107,8 +2107,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 13 km Timurlaut Kota Jayapura",
     "feltOnStations": "II-III Kota Jayapura",
-    "bmkgEarthquakeId": "2023130085848",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023130085848.mmi.jpg",
+    "bmkgEarthquakeId": "20230130085848",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230130085848.mmi.jpg",
     "fingerprintSha1": "de84c912cf9d73ad469350d83bbb3a86959a6e9f"
   },
   {
@@ -2119,8 +2119,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 75 km BaratDaya Kaimana",
     "feltOnStations": "II - III Kaimana",
-    "bmkgEarthquakeId": "2023130105856",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023130105856.mmi.jpg",
+    "bmkgEarthquakeId": "20230130105856",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230130105856.mmi.jpg",
     "fingerprintSha1": "f8682c4263ccd9da8fafbeebfa52b9a05c0fb03d"
   },
   {
@@ -2131,8 +2131,8 @@
     "depthInKm": 7,
     "locationInIndonesian": "Pusat gempa berada di darat 40 km TimurLaut Tambrauw",
     "feltOnStations": "II - III Tambrauw",
-    "bmkgEarthquakeId": "2023130104231",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023130104231.mmi.jpg",
+    "bmkgEarthquakeId": "20230130104231",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230130104231.mmi.jpg",
     "fingerprintSha1": "680266d16d7ded19db70e66f347a58c13d12763a"
   },
   {
@@ -2143,8 +2143,8 @@
     "depthInKm": 3,
     "locationInIndonesian": "Pusat gempa berada di darat 1 km Utara Kairatu",
     "feltOnStations": "III Kairatu",
-    "bmkgEarthquakeId": "2023130132419",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023130132419.mmi.jpg",
+    "bmkgEarthquakeId": "20230130132419",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230130132419.mmi.jpg",
     "fingerprintSha1": "01ca745175896949c40f9b5893e72311aafe5d9a"
   },
   {
@@ -2155,8 +2155,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 28 km Timur laut Ruteng",
     "feltOnStations": "II - III Ruteng, II - III Borong",
-    "bmkgEarthquakeId": "2023130221021",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023130221021.mmi.jpg",
+    "bmkgEarthquakeId": "20230130221021",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230130221021.mmi.jpg",
     "fingerprintSha1": "22a6f7a0d54b8d28f3be26fbc0d6ecde387a9730"
   },
   {
@@ -2167,8 +2167,8 @@
     "depthInKm": 7,
     "locationInIndonesian": "Pusat gempa berada di darat 20 km Timurlaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023131102947",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023131102947.mmi.jpg",
+    "bmkgEarthquakeId": "20230131102947",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230131102947.mmi.jpg",
     "fingerprintSha1": "32217873fd4d7e7e8095fc9b8a08c2509455620c"
   },
   {
@@ -2179,8 +2179,8 @@
     "depthInKm": 6,
     "locationInIndonesian": "Pusat gempa berada di laut 38 Km Barat Daya Pinrang",
     "feltOnStations": "II-III Majene, II-III Pinrang",
-    "bmkgEarthquakeId": "2023131173142",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023131173142.mmi.jpg",
+    "bmkgEarthquakeId": "20230131173142",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230131173142.mmi.jpg",
     "fingerprintSha1": "98408eb4cefcb9fe37c730460a096c1dbeb35be2"
   },
   {
@@ -2191,8 +2191,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 5 km BaratLaut Kab. Cianjur",
     "feltOnStations": "II Cipanas",
-    "bmkgEarthquakeId": "202321081016",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202321081016.mmi.jpg",
+    "bmkgEarthquakeId": "20230201081016",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230201081016.mmi.jpg",
     "fingerprintSha1": "ba23e04d6b9b50dcca85b7b5d8aa5b408b9e3ea2"
   },
   {
@@ -2203,8 +2203,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 15 km BaratLaut Wonosobo",
     "feltOnStations": "II Dieng",
-    "bmkgEarthquakeId": "202321060620",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202321060620.mmi.jpg",
+    "bmkgEarthquakeId": "20230201060620",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230201060620.mmi.jpg",
     "fingerprintSha1": "7e54e9f787b5431fdb634f8851e9aa0502b2e0b1"
   },
   {
@@ -2215,8 +2215,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 29 km BaratLaut Pulau Numfor",
     "feltOnStations": "II-III Ransiki, II-III Oransbari",
-    "bmkgEarthquakeId": "202321150451",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202321150451.mmi.jpg",
+    "bmkgEarthquakeId": "20230201150451",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230201150451.mmi.jpg",
     "fingerprintSha1": "fde316a4a2e2c9cb45ba98e58335fcb97098e491"
   },
   {
@@ -2227,8 +2227,8 @@
     "depthInKm": 39,
     "locationInIndonesian": "Pusat gempa berada di laut 56 km Tenggara Kaur",
     "feltOnStations": "II Sekincau",
-    "bmkgEarthquakeId": "202321163347",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202321163347.mmi.jpg",
+    "bmkgEarthquakeId": "20230201163347",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230201163347.mmi.jpg",
     "fingerprintSha1": "a6709f70440add313e5b6703c874ae6cf0263593"
   },
   {
@@ -2239,8 +2239,8 @@
     "depthInKm": 12,
     "locationInIndonesian": "Pusat gempa berada di darat 15 km Baratdaya Lombok Barat",
     "feltOnStations": "III Lombok Barat, III Lombok Tengah",
-    "bmkgEarthquakeId": "202321220125",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202321220125.mmi.jpg",
+    "bmkgEarthquakeId": "20230201220125",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230201220125.mmi.jpg",
     "fingerprintSha1": "586d7cde12ecae502cba7d93b99abbbb824c2353"
   },
   {
@@ -2251,8 +2251,8 @@
     "depthInKm": 3,
     "locationInIndonesian": "Pusat gempa berada di darat 19 km Baratdaya Kab. Garut",
     "feltOnStations": "IV Garut, II Bandung, II Lembang, II Pangalengan, II Pacet, II Cileunyi, II Sumedang, IV Pasirwangi, IV Cisurupan, IV Bayongbong, IV Samarang",
-    "bmkgEarthquakeId": "202321225721",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202321225721.mmi.jpg",
+    "bmkgEarthquakeId": "20230201225721",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230201225721.mmi.jpg",
     "fingerprintSha1": "476383d0e7922a8f53f0e89e2eabb42d0ae2eefc"
   },
   {
@@ -2263,8 +2263,8 @@
     "depthInKm": 34,
     "locationInIndonesian": "Pusat gempa berada di laut 57 km Tenggara Pesisir Barat",
     "feltOnStations": "III Pesisir Barat, III Tanggamus, II Liwa, II Lampung Barat",
-    "bmkgEarthquakeId": "202322191912",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202322191912.mmi.jpg",
+    "bmkgEarthquakeId": "20230202191912",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230202191912.mmi.jpg",
     "fingerprintSha1": "2866031d959ba1a839eba3d3aee152161b25349a"
   },
   {
@@ -2275,8 +2275,8 @@
     "depthInKm": 25,
     "locationInIndonesian": "Pusat gempa berada di laut 40 km barat daya Bayah",
     "feltOnStations": "III Bayah, III Malingping, III Ciracap, III Surade, II Sukabumi, II Cianjur, II Pelabuhan Ratu, II Cipanas, II Lebak",
-    "bmkgEarthquakeId": "202322194555",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202322194555.mmi.jpg",
+    "bmkgEarthquakeId": "20230202194555",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230202194555.mmi.jpg",
     "fingerprintSha1": "521ced53e0bd8e7ccbe257c5d6f9eaeae1e45ebc"
   },
   {
@@ -2287,8 +2287,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 43 km selatan Ambon",
     "feltOnStations": "II Ambon",
-    "bmkgEarthquakeId": "202322204535",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202322204535.mmi.jpg",
+    "bmkgEarthquakeId": "20230202204535",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230202204535.mmi.jpg",
     "fingerprintSha1": "a33e7ebe16d25a034096ca47d38184c09b00026b"
   },
   {
@@ -2299,8 +2299,8 @@
     "depthInKm": 19,
     "locationInIndonesian": "Pusat gempa berada di laut 63 km barat laut Daruba",
     "feltOnStations": "II - III Morotai",
-    "bmkgEarthquakeId": "202323060505",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202323060505.mmi.jpg",
+    "bmkgEarthquakeId": "20230203060505",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230203060505.mmi.jpg",
     "fingerprintSha1": "08750bde9eaa0c050db2dca930a2284e3c83542f"
   },
   {
@@ -2311,8 +2311,8 @@
     "depthInKm": 30,
     "locationInIndonesian": "Pusat gempa berada di darat 12 Km TimurLaut Kota Jayapura",
     "feltOnStations": "II - III Kota Jayapura",
-    "bmkgEarthquakeId": "202323204256",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202323204256.mmi.jpg",
+    "bmkgEarthquakeId": "20230203204256",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230203204256.mmi.jpg",
     "fingerprintSha1": "dc1eda79bc5705735191a050663ccb73a9f379a3"
   },
   {
@@ -2323,8 +2323,8 @@
     "depthInKm": 2,
     "locationInIndonesian": "Pusat gempa berada di darat 27 Km Barat Daya KAB-PIDIEJAYA",
     "feltOnStations": "II Pidie",
-    "bmkgEarthquakeId": "202324061537",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202324061537.mmi.jpg",
+    "bmkgEarthquakeId": "20230204061537",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230204061537.mmi.jpg",
     "fingerprintSha1": "c67399d51e3ab71ad9184aa1719ccaea50ef49e1"
   },
   {
@@ -2335,8 +2335,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 1 km Timurlaut Kota Jayapura",
     "feltOnStations": "III - IV Kota Jayapura",
-    "bmkgEarthquakeId": "202324094846",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202324094846.mmi.jpg",
+    "bmkgEarthquakeId": "20230204094846",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230204094846.mmi.jpg",
     "fingerprintSha1": "b766a6d2f0f4eccaaf28cf250dcc31bac8691a18"
   },
   {
@@ -2347,8 +2347,8 @@
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di darat 4 km tenggara kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202324094724",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202324094724.mmi.jpg",
+    "bmkgEarthquakeId": "20230204094724",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230204094724.mmi.jpg",
     "fingerprintSha1": "6a1d60906c74036786941f831ed8a2bd7d6462be"
   },
   {
@@ -2359,8 +2359,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 9 km TimurLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202324113924",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202324113924.mmi.jpg",
+    "bmkgEarthquakeId": "20230204113924",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230204113924.mmi.jpg",
     "fingerprintSha1": "edf2400c0c5e59a59a5fb02c1b69d695a24d064c"
   },
   {
@@ -2371,8 +2371,8 @@
     "depthInKm": 7,
     "locationInIndonesian": "Pusat gempa berada di darat 22 km BaratLaut Wonosobo",
     "feltOnStations": "II Batur, II Kepakisan",
-    "bmkgEarthquakeId": "202324192217",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202324192217.mmi.jpg",
+    "bmkgEarthquakeId": "20230204192217",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230204192217.mmi.jpg",
     "fingerprintSha1": "9a577568e0f66caf71df9de1910562b0252f5be6"
   },
   {
@@ -2383,8 +2383,8 @@
     "depthInKm": 12,
     "locationInIndonesian": "Pusat gempa berada di darat 2 km Barat Daya Lombok Utara",
     "feltOnStations": "III Lombok Utara",
-    "bmkgEarthquakeId": "202324210202",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202324210202.mmi.jpg",
+    "bmkgEarthquakeId": "20230204210202",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230204210202.mmi.jpg",
     "fingerprintSha1": "0f0cdd40d5b203740f5bfa4dfebbf1bec7b803f3"
   },
   {
@@ -2395,8 +2395,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 14 km Timur Laut Karangasem",
     "feltOnStations": "II - III Kubu",
-    "bmkgEarthquakeId": "202325094005",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202325094005.mmi.jpg",
+    "bmkgEarthquakeId": "20230205094005",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230205094005.mmi.jpg",
     "fingerprintSha1": "5ba028acbbcf13df4dba5b0d24264c4ca953d072"
   },
   {
@@ -2407,8 +2407,8 @@
     "depthInKm": 7,
     "locationInIndonesian": "Pusat gempa berada di laut 13 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202325184323",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202325184323.mmi.jpg",
+    "bmkgEarthquakeId": "20230205184323",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230205184323.mmi.jpg",
     "fingerprintSha1": "efad0452e57182abe4a3be02ea9b8fb324a4287b"
   },
   {
@@ -2419,8 +2419,8 @@
     "depthInKm": 7,
     "locationInIndonesian": "Pusat gempa berada di darat 13 km BaratLaut Kota Jayapura",
     "feltOnStations": "",
-    "bmkgEarthquakeId": "202325064323",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202325064323.mmi.jpg",
+    "bmkgEarthquakeId": "20230205064323",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230205064323.mmi.jpg",
     "fingerprintSha1": "0f92066ea2cd5a6739996d9a252348b3e92dbac2"
   },
   {
@@ -2431,8 +2431,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 9 km barat laut Kota Jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "202325195622",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202325195622.mmi.jpg",
+    "bmkgEarthquakeId": "20230205195622",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230205195622.mmi.jpg",
     "fingerprintSha1": "e15f04741488eeb771aac25981577ce8b503f340"
   },
   {
@@ -2443,8 +2443,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 12 Km Timurlaut Kota Jayapura",
     "feltOnStations": "II - III Jayapura",
-    "bmkgEarthquakeId": "202325201725",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202325201725.mmi.jpg",
+    "bmkgEarthquakeId": "20230205201725",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230205201725.mmi.jpg",
     "fingerprintSha1": "d1ac2b988df984333c71887539f66454a98bc10e"
   },
   {
@@ -2455,8 +2455,8 @@
     "depthInKm": 7,
     "locationInIndonesian": "Pusat gempa berada di laut 23 km Timur Laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202326054721",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202326054721.mmi.jpg",
+    "bmkgEarthquakeId": "20230206054721",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230206054721.mmi.jpg",
     "fingerprintSha1": "970a21cb60f1bc5ecb07fd00137e7da0c08f2139"
   },
   {
@@ -2467,8 +2467,8 @@
     "depthInKm": 8,
     "locationInIndonesian": "Pusat gempa berada di darat 3 km BaratLaut kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202326063105",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202326063105.mmi.jpg",
+    "bmkgEarthquakeId": "20230206063105",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230206063105.mmi.jpg",
     "fingerprintSha1": "a3c9c122721217a78280a3bb7e111e14d3ebda25"
   },
   {
@@ -2479,8 +2479,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 2 km Baratlaut Kota Jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "202326061934",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202326061934.mmi.jpg",
+    "bmkgEarthquakeId": "20230206061934",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230206061934.mmi.jpg",
     "fingerprintSha1": "aa4feb50a54541618665f791310081c069b21788"
   },
   {
@@ -2491,8 +2491,8 @@
     "depthInKm": 18,
     "locationInIndonesian": "Pusat gempa berada di laut 62 km TimurLaut Daruba",
     "feltOnStations": "II Morotai",
-    "bmkgEarthquakeId": "202326205012",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202326205012.mmi.jpg",
+    "bmkgEarthquakeId": "20230206205012",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230206205012.mmi.jpg",
     "fingerprintSha1": "229fd38762bbd6f2c0091a46d9b23d7c8a574b72"
   },
   {
@@ -2503,8 +2503,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 66 km Tenggara Muarabinuangeun",
     "feltOnStations": "III-IV Bayah, III-IV Banjarsari, III-IV Tamanjaya, III Serang, III Pandeglang, III Malingping, III Ciptagelar, III Cikeusik, III Labuan, III Tangerang, III Panimbang, III Cinangka, II Tangerang Selatan, II Bogor, II Cianjur, II Sukabumi, II Jakarta",
-    "bmkgEarthquakeId": "202327073550",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202327073550.mmi.jpg",
+    "bmkgEarthquakeId": "20230207073550",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230207073550.mmi.jpg",
     "fingerprintSha1": "9ead071b53249eea7e91a6ddee46e404e0291a6a"
   },
   {
@@ -2515,8 +2515,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 9 km barat laut Kota Jayapura",
     "feltOnStations": "II-III Kota Jayapura",
-    "bmkgEarthquakeId": "202327222846",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202327222846.mmi.jpg",
+    "bmkgEarthquakeId": "20230207222846",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230207222846.mmi.jpg",
     "fingerprintSha1": "58e41dc0674cab9327bb248cfea578f9bb1553cf"
   },
   {
@@ -2527,8 +2527,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 8 km barat laut Kota Jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "202327220221",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202327220221.mmi.jpg",
+    "bmkgEarthquakeId": "20230207220221",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230207220221.mmi.jpg",
     "fingerprintSha1": "8d0ca43c80548b30e24490b7c85d8586d7108556"
   },
   {
@@ -2539,8 +2539,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 13 km barat laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202327124239",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202327124239.mmi.jpg",
+    "bmkgEarthquakeId": "20230207124239",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230207124239.mmi.jpg",
     "fingerprintSha1": "e3eca8f278a7d4ff8cae7ad940dcf69c258cd7ed"
   },
   {
@@ -2551,8 +2551,8 @@
     "depthInKm": 8,
     "locationInIndonesian": "Pusat gempa berada di darat 6 km Baratlaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202327223937",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202327223937.mmi.jpg",
+    "bmkgEarthquakeId": "20230207223937",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230207223937.mmi.jpg",
     "fingerprintSha1": "c625ac8cc0f75461eaed9aceeb41fca3511a001e"
   },
   {
@@ -2563,8 +2563,8 @@
     "depthInKm": 7,
     "locationInIndonesian": "Pusat gempa berada di laut 13 km barat laut Kota Jayapura",
     "feltOnStations": "II-III Kota Jayapura",
-    "bmkgEarthquakeId": "202327234225",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202327234225.mmi.jpg",
+    "bmkgEarthquakeId": "20230207234225",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230207234225.mmi.jpg",
     "fingerprintSha1": "6c57fdb8018ce0a8a05bbccddc5a0f540cb0b31c"
   },
   {
@@ -2575,8 +2575,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 8 km barat laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202328013840",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328013840.mmi.jpg",
+    "bmkgEarthquakeId": "20230208013840",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208013840.mmi.jpg",
     "fingerprintSha1": "83a45f826e644fd9a9ca77864f92d0a2380ce451"
   },
   {
@@ -2587,8 +2587,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 11 km Barat Laut Kota Jayapura",
     "feltOnStations": "II - III Kota Jayapura",
-    "bmkgEarthquakeId": "202328021714",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328021714.mmi.jpg",
+    "bmkgEarthquakeId": "20230208021714",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208021714.mmi.jpg",
     "fingerprintSha1": "f5d9ea497d49b76ae8888db3f60940bc42467d3d"
   },
   {
@@ -2599,8 +2599,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 9 km arah BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202328032939",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328032939.mmi.jpg",
+    "bmkgEarthquakeId": "20230208032939",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208032939.mmi.jpg",
     "fingerprintSha1": "ab935c7f43993fb317a9238777a9c6c519b91e6e"
   },
   {
@@ -2611,8 +2611,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 20 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202328042633",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328042633.mmi.jpg",
+    "bmkgEarthquakeId": "20230208042633",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208042633.mmi.jpg",
     "fingerprintSha1": "7d2d2fc49758e2d1da60b70e44dbd2632fce97a6"
   },
   {
@@ -2623,8 +2623,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 9 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202328051702",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328051702.mmi.jpg",
+    "bmkgEarthquakeId": "20230208051702",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208051702.mmi.jpg",
     "fingerprintSha1": "9b232957e5173999d7e6fe49f1d004795acf8072"
   },
   {
@@ -2635,8 +2635,8 @@
     "depthInKm": 13,
     "locationInIndonesian": "Pusat gempa berada di darat 7 Km Tenggara Lombok Utara",
     "feltOnStations": "II - III Lombok Utara",
-    "bmkgEarthquakeId": "202328090512",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328090512.mmi.jpg",
+    "bmkgEarthquakeId": "20230208090512",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208090512.mmi.jpg",
     "fingerprintSha1": "473c2d90fa0d825036404c683dc91dd9e634b2b2"
   },
   {
@@ -2647,8 +2647,8 @@
     "depthInKm": 15,
     "locationInIndonesian": "Pusat gempa berada di darat 16 km BaratLaut Wonosobo",
     "feltOnStations": "II Batur, Banjarnegara",
-    "bmkgEarthquakeId": "202328062844",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328062844.mmi.jpg",
+    "bmkgEarthquakeId": "20230208062844",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208062844.mmi.jpg",
     "fingerprintSha1": "dbbb03efd1399b19529ff1d1ca3c9951c78ed9ae"
   },
   {
@@ -2659,8 +2659,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 28 Km TimurLaut Jembrana",
     "feltOnStations": "II-III Gerokgak",
-    "bmkgEarthquakeId": "202328144201",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328144201.mmi.jpg",
+    "bmkgEarthquakeId": "20230208144201",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208144201.mmi.jpg",
     "fingerprintSha1": "8211609de891412408b04026ec7f0fddbf3aac28"
   },
   {
@@ -2671,8 +2671,8 @@
     "depthInKm": 8,
     "locationInIndonesian": "Pusat gempa berada di darat 7 Km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202328185434",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328185434.mmi.jpg",
+    "bmkgEarthquakeId": "20230208185434",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208185434.mmi.jpg",
     "fingerprintSha1": "a47931462046f98d02d86b8ce19a82101d661045"
   },
   {
@@ -2683,8 +2683,8 @@
     "depthInKm": 8,
     "locationInIndonesian": "Pusat gempa berada di darat 10 Km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202328185247",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328185247.mmi.jpg",
+    "bmkgEarthquakeId": "20230208185247",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208185247.mmi.jpg",
     "fingerprintSha1": "38377b07ef3fc8bcb0083cfa3f2a442de8a7bcdf"
   },
   {
@@ -2695,8 +2695,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 5 Km BaratLaut Kota Jayapura",
     "feltOnStations": "II - III Kota Jayapura",
-    "bmkgEarthquakeId": "202328184255",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328184255.mmi.jpg",
+    "bmkgEarthquakeId": "20230208184255",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208184255.mmi.jpg",
     "fingerprintSha1": "d93450a8ba0c6112a8f643c9345a0d1a11fbdc46"
   },
   {
@@ -2707,8 +2707,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 4 km Baratlaut Kota Jayapura",
     "feltOnStations": "III - IV Kota Jayapura, III Kabupaten Jayapura, II - III Kab. Keerom",
-    "bmkgEarthquakeId": "202328183535",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328183535.mmi.jpg",
+    "bmkgEarthquakeId": "20230208183535",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208183535.mmi.jpg",
     "fingerprintSha1": "60a0ee67c1dcdff8ef5a2106b045cc7fc8b590c8"
   },
   {
@@ -2719,8 +2719,8 @@
     "depthInKm": 6,
     "locationInIndonesian": "Pusat gempa berada di darat 5 Km Baratlaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202328194224",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328194224.mmi.jpg",
+    "bmkgEarthquakeId": "20230208194224",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208194224.mmi.jpg",
     "fingerprintSha1": "3b300fceb88eaa657d291290954873c5b0ab8ef9"
   },
   {
@@ -2731,8 +2731,8 @@
     "depthInKm": 9,
     "locationInIndonesian": "Pusat gempa berada di laut 15 Km Baratlaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202328194057",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328194057.mmi.jpg",
+    "bmkgEarthquakeId": "20230208194057",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208194057.mmi.jpg",
     "fingerprintSha1": "de8ee4d29dbd639b6b7f488f6ac6e38d6ca86cab"
   },
   {
@@ -2743,8 +2743,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 10 Km Baratlaut Kota Jayapura",
     "feltOnStations": "III - IV Kota Jayapura, III Kabupaten Jayapura",
-    "bmkgEarthquakeId": "202328193408",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328193408.mmi.jpg",
+    "bmkgEarthquakeId": "20230208193408",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208193408.mmi.jpg",
     "fingerprintSha1": "de21ac72fb0a57d5f6a55e899ac009b47a915722"
   },
   {
@@ -2755,8 +2755,8 @@
     "depthInKm": 7,
     "locationInIndonesian": "Pusat gempa berada di laut 8 Km BaratLaut Kota Jayapura",
     "feltOnStations": "Kota Jayapura II",
-    "bmkgEarthquakeId": "202328203645",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328203645.mmi.jpg",
+    "bmkgEarthquakeId": "20230208203645",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208203645.mmi.jpg",
     "fingerprintSha1": "b16e0b27b6f98fa0398d04e86aaace84586ffbff"
   },
   {
@@ -2767,8 +2767,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 6 Km BaratLaut Kota Jayapura",
     "feltOnStations": "II-III Kota Jayapura",
-    "bmkgEarthquakeId": "202328203427",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328203427.mmi.jpg",
+    "bmkgEarthquakeId": "20230208203427",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208203427.mmi.jpg",
     "fingerprintSha1": "5886c73512953463115d2d2f1e2027fe9740e7c1"
   },
   {
@@ -2779,8 +2779,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 9 Km Barat Laut Kota Jayapura",
     "feltOnStations": "III-IV Kota Jayapura, III Kabupaten Jayapura",
-    "bmkgEarthquakeId": "202328202115",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328202115.mmi.jpg",
+    "bmkgEarthquakeId": "20230208202115",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208202115.mmi.jpg",
     "fingerprintSha1": "af5f033be57ace718d6a1300af8929071a4e1c98"
   },
   {
@@ -2791,8 +2791,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 6 km BaratDaya Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202328214215",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328214215.mmi.jpg",
+    "bmkgEarthquakeId": "20230208214215",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208214215.mmi.jpg",
     "fingerprintSha1": "afc1e0c8e1003cc6fe657a24ac7818db82681e18"
   },
   {
@@ -2803,8 +2803,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 6 km BaratDaya kota Jayapura",
     "feltOnStations": "II Jayapura",
-    "bmkgEarthquakeId": "202328212919",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328212919.mmi.jpg",
+    "bmkgEarthquakeId": "20230208212919",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208212919.mmi.jpg",
     "fingerprintSha1": "f5f68eefa3b9e6eee41b8d7f398e297cf0f2446d"
   },
   {
@@ -2815,8 +2815,8 @@
     "depthInKm": 3,
     "locationInIndonesian": "Pusat gempa berada di darat 5.2 km Tenggara Lawa, Kab. Muna Barat",
     "feltOnStations": "III-IV Muna Barat, III Muna",
-    "bmkgEarthquakeId": "202328230157",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328230157.mmi.jpg",
+    "bmkgEarthquakeId": "20230208230157",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208230157.mmi.jpg",
     "fingerprintSha1": "21167064b98473ce59ca19f6c2fad90ebda5aba6"
   },
   {
@@ -2827,8 +2827,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 7 km TimurLaut Kota Jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "202328225146",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328225146.mmi.jpg",
+    "bmkgEarthquakeId": "20230208225146",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208225146.mmi.jpg",
     "fingerprintSha1": "dcd3878e2d385fe325456a788d6ee10f46c43aca"
   },
   {
@@ -2839,8 +2839,8 @@
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di darat 6 km BaratLaut kota Jayapura",
     "feltOnStations": "III Jayapura",
-    "bmkgEarthquakeId": "202328234517",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328234517.mmi.jpg",
+    "bmkgEarthquakeId": "20230208234517",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208234517.mmi.jpg",
     "fingerprintSha1": "143fa65c19009717a1241c5449773d7d9d0c56ce"
   },
   {
@@ -2851,8 +2851,8 @@
     "depthInKm": 3,
     "locationInIndonesian": "Pusat gempa berada di darat 4.2 km TimurLaut Lawa, Kab. Muna Barat",
     "feltOnStations": "II Muna Barat",
-    "bmkgEarthquakeId": "202328233943",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328233943.mmi.jpg",
+    "bmkgEarthquakeId": "20230208233943",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208233943.mmi.jpg",
     "fingerprintSha1": "a71f5a3494a741c5ede7de23fd4a81704e0d793f"
   },
   {
@@ -2863,8 +2863,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 6 km BaratLaut kota Jayapura",
     "feltOnStations": "II Jayapura",
-    "bmkgEarthquakeId": "202328233338",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202328233338.mmi.jpg",
+    "bmkgEarthquakeId": "20230208233338",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230208233338.mmi.jpg",
     "fingerprintSha1": "52fe3ec9cf504996e53986ee0c83c649108a54bc"
   },
   {
@@ -2875,8 +2875,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 12 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329004916",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329004916.mmi.jpg",
+    "bmkgEarthquakeId": "20230209004916",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209004916.mmi.jpg",
     "fingerprintSha1": "58bc16adbc2098b7bf6cb024b351f6e10bf3702b"
   },
   {
@@ -2887,8 +2887,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 8 km BaratLaut kota Jayapura",
     "feltOnStations": "IV Kota Jayapura, III Kabupaten Jayapura",
-    "bmkgEarthquakeId": "202329004809",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329004809.mmi.jpg",
+    "bmkgEarthquakeId": "20230209004809",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209004809.mmi.jpg",
     "fingerprintSha1": "1e2764ac9477c68f566e775846ca1b524f0bf5a8"
   },
   {
@@ -2899,8 +2899,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 10 km Baratlaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329012634",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329012634.mmi.jpg",
+    "bmkgEarthquakeId": "20230209012634",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209012634.mmi.jpg",
     "fingerprintSha1": "75fbc418b74b420e77e06e2356d46debbef97870"
   },
   {
@@ -2911,8 +2911,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 9 km Baratlaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329010923",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329010923.mmi.jpg",
+    "bmkgEarthquakeId": "20230209010923",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209010923.mmi.jpg",
     "fingerprintSha1": "f6e652c1cda8c2b396b3090324ef2c7cd322b841"
   },
   {
@@ -2923,8 +2923,8 @@
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di laut 10 Km BaratLaut Kota Jayapura",
     "feltOnStations": "Kota Jayapura II",
-    "bmkgEarthquakeId": "202329025903",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329025903.mmi.jpg",
+    "bmkgEarthquakeId": "20230209025903",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209025903.mmi.jpg",
     "fingerprintSha1": "26a909c53b68034d31abeb3391f9690041f5945f"
   },
   {
@@ -2935,8 +2935,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 12 Km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329025827",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329025827.mmi.jpg",
+    "bmkgEarthquakeId": "20230209025827",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209025827.mmi.jpg",
     "fingerprintSha1": "d989e9e4517ce430a928ab67c5c3544ad4be46f5"
   },
   {
@@ -2947,8 +2947,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 9 km Barat Laut Kota Jayapura",
     "feltOnStations": "II Jayapura",
-    "bmkgEarthquakeId": "202329025632",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329025632.mmi.jpg",
+    "bmkgEarthquakeId": "20230209025632",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209025632.mmi.jpg",
     "fingerprintSha1": "35fb939bfe53abc85db5ce943615a92aae93b4f1"
   },
   {
@@ -2959,8 +2959,8 @@
     "depthInKm": 6,
     "locationInIndonesian": "Pusat gempa berada di laut Barat Laut Kota Jayapura",
     "feltOnStations": "II Jayapura",
-    "bmkgEarthquakeId": "202329024203",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329024203.mmi.jpg",
+    "bmkgEarthquakeId": "20230209024203",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209024203.mmi.jpg",
     "fingerprintSha1": "f5542dd7f0122b4c942b6ef82dd655564dc178af"
   },
   {
@@ -2971,8 +2971,8 @@
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di darat 4 km Barat Laut Kota Jayapura",
     "feltOnStations": "II Jayapura",
-    "bmkgEarthquakeId": "202329023613",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329023613.mmi.jpg",
+    "bmkgEarthquakeId": "20230209023613",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209023613.mmi.jpg",
     "fingerprintSha1": "ed2b71953c04f7bc805d6b4543fb18cd92e93724"
   },
   {
@@ -2983,8 +2983,8 @@
     "depthInKm": 7,
     "locationInIndonesian": "Pusat gempa berada di laut 9 Km BaratLaut Kota Jayapura",
     "feltOnStations": "II - III Kota Jayapura",
-    "bmkgEarthquakeId": "202329035101",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329035101.mmi.jpg",
+    "bmkgEarthquakeId": "20230209035101",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209035101.mmi.jpg",
     "fingerprintSha1": "5ea7ce8b081844a1eff6798b37699a08595b8d15"
   },
   {
@@ -2995,8 +2995,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 10 km BaratLaut Kota Jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "202329081542",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329081542.mmi.jpg",
+    "bmkgEarthquakeId": "20230209081542",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209081542.mmi.jpg",
     "fingerprintSha1": "e7cb90486f18409d037e60d5e7263eb4882bca44"
   },
   {
@@ -3007,8 +3007,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 10 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329080240",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329080240.mmi.jpg",
+    "bmkgEarthquakeId": "20230209080240",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209080240.mmi.jpg",
     "fingerprintSha1": "a29886f85c27bafa19299091cc91b2098dd4bc0f"
   },
   {
@@ -3019,8 +3019,8 @@
     "depthInKm": 8,
     "locationInIndonesian": "Pusat gempa berada di laut 9 Km BaratLaut Kota Jayapura",
     "feltOnStations": "Kota Jayapura II",
-    "bmkgEarthquakeId": "202329063558",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329063558.mmi.jpg",
+    "bmkgEarthquakeId": "20230209063558",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209063558.mmi.jpg",
     "fingerprintSha1": "a2ea4164711fb3785aba34b826d01bbcaae9b769"
   },
   {
@@ -3031,8 +3031,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 13 Km BaratLaut Kota Jayapura",
     "feltOnStations": "Kota Jayapura II",
-    "bmkgEarthquakeId": "202329063300",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329063300.mmi.jpg",
+    "bmkgEarthquakeId": "20230209063300",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209063300.mmi.jpg",
     "fingerprintSha1": "7e9adab8101aee703162484395d06c5fe088d3c1"
   },
   {
@@ -3043,8 +3043,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 2 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329095955",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329095955.mmi.jpg",
+    "bmkgEarthquakeId": "20230209095955",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209095955.mmi.jpg",
     "fingerprintSha1": "bf8811fd65ffc428f7e62629eac5b923f4f08b90"
   },
   {
@@ -3055,8 +3055,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di Laut 7 km TimurLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329110726",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329110726.mmi.jpg",
+    "bmkgEarthquakeId": "20230209110726",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209110726.mmi.jpg",
     "fingerprintSha1": "bfa6fab47213debc1fe406e913aad00313f7a849"
   },
   {
@@ -3067,8 +3067,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 3 km BaratDaya Kota Jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "202329115930",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329115930.mmi.jpg",
+    "bmkgEarthquakeId": "20230209115930",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209115930.mmi.jpg",
     "fingerprintSha1": "99ccdc495bdf8b4783893cecd49de4f9ad9754cc"
   },
   {
@@ -3079,8 +3079,8 @@
     "depthInKm": 11,
     "locationInIndonesian": "Pusat gempa berada di darat 6 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329124910",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329124910.mmi.jpg",
+    "bmkgEarthquakeId": "20230209124910",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209124910.mmi.jpg",
     "fingerprintSha1": "96dae29eaff1842f6e91aa5427b6e5855dbacd3a"
   },
   {
@@ -3091,8 +3091,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 8 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329120044",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329120044.mmi.jpg",
+    "bmkgEarthquakeId": "20230209120044",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209120044.mmi.jpg",
     "fingerprintSha1": "d5622647fdfbc42e003a49c001314dce06305eb1"
   },
   {
@@ -3103,8 +3103,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di Darat 9 Km Barat Daya Kota Jayapura",
     "feltOnStations": "V Kota Jayapura, III - IV Kab. Keerom, III Kab. Jayapura",
-    "bmkgEarthquakeId": "202329132802",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329132802.mmi.jpg",
+    "bmkgEarthquakeId": "20230209132802",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209132802.mmi.jpg",
     "fingerprintSha1": "6e7e8779d0d3ffaca5cca5e96566052e695bd120"
   },
   {
@@ -3115,8 +3115,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di Laut 21 km Barat Laut Kota Jayapura",
     "feltOnStations": "Kota Jayapura III",
-    "bmkgEarthquakeId": "202329135000",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329135000.mmi.jpg",
+    "bmkgEarthquakeId": "20230209135000",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209135000.mmi.jpg",
     "fingerprintSha1": "21f61bdcb26e5f36613700cd69f1ed309e715175"
   },
   {
@@ -3127,8 +3127,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di Laut 13 km Barat Laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329134230",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329134230.mmi.jpg",
+    "bmkgEarthquakeId": "20230209134230",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209134230.mmi.jpg",
     "fingerprintSha1": "cdfb696235cedddd6ca3a93b7bd7b897e508dfb8"
   },
   {
@@ -3139,8 +3139,8 @@
     "depthInKm": 7,
     "locationInIndonesian": "Pusat gempa berada di darat 7 km Barat Laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329143004",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329143004.mmi.jpg",
+    "bmkgEarthquakeId": "20230209143004",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209143004.mmi.jpg",
     "fingerprintSha1": "74d288460ebe576d68d0b625fc18c22c1680db76"
   },
   {
@@ -3151,8 +3151,8 @@
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di laut 10 km Barat Laut Kota Jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "202329142221",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329142221.mmi.jpg",
+    "bmkgEarthquakeId": "20230209142221",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209142221.mmi.jpg",
     "fingerprintSha1": "2189036311ffe67147b758295eaccf476d35789c"
   },
   {
@@ -3163,8 +3163,8 @@
     "depthInKm": 6,
     "locationInIndonesian": "Pusat gempa berada di darat 3 km Barat Laut Kota Jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "202329142003",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329142003.mmi.jpg",
+    "bmkgEarthquakeId": "20230209142003",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209142003.mmi.jpg",
     "fingerprintSha1": "1362b0932f7e3ae4aa78fa0671909fa7969c61c2"
   },
   {
@@ -3175,8 +3175,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di Laut 11 km Barat Laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329141543",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329141543.mmi.jpg",
+    "bmkgEarthquakeId": "20230209141543",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209141543.mmi.jpg",
     "fingerprintSha1": "d4999679cbd7319d1e494bec1d5c22e7a8c6f7d9"
   },
   {
@@ -3187,8 +3187,8 @@
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di darat 4 km Barat Laut Kota Jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "202329151045",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329151045.mmi.jpg",
+    "bmkgEarthquakeId": "20230209151045",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209151045.mmi.jpg",
     "fingerprintSha1": "954dca7fc36facf5414c6943d30a177076c6982b"
   },
   {
@@ -3199,8 +3199,8 @@
     "depthInKm": 15,
     "locationInIndonesian": "Pusat gempa berada di darat 3 km BaratDaya Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329145340",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329145340.mmi.jpg",
+    "bmkgEarthquakeId": "20230209145340",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209145340.mmi.jpg",
     "fingerprintSha1": "cc52595f13ccf95e66377e3340f01114ec90c7fb"
   },
   {
@@ -3211,8 +3211,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 10 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329145240",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329145240.mmi.jpg",
+    "bmkgEarthquakeId": "20230209145240",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209145240.mmi.jpg",
     "fingerprintSha1": "6bc221415c932342ce5266a5698f517a92b54fa4"
   },
   {
@@ -3223,8 +3223,8 @@
     "depthInKm": 8,
     "locationInIndonesian": "Pusat gempa berada di darat 4 km BaratDaya Kota Jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "202329152352",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329152352.mmi.jpg",
+    "bmkgEarthquakeId": "20230209152352",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209152352.mmi.jpg",
     "fingerprintSha1": "bfdde3bff757307e437eb9713f6d91481aeaaf0f"
   },
   {
@@ -3235,8 +3235,8 @@
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di darat 3 km BaratLaut Kota Jayapura",
     "feltOnStations": "II - III Kota Jayapura",
-    "bmkgEarthquakeId": "202329152236",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329152236.mmi.jpg",
+    "bmkgEarthquakeId": "20230209152236",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209152236.mmi.jpg",
     "fingerprintSha1": "ca8dbc0a4343fe13b70c84018cbf5d08e55242f5"
   },
   {
@@ -3247,8 +3247,8 @@
     "depthInKm": 4,
     "locationInIndonesian": "Pusat gempa berada di darat BaratLaut Kota Jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "202329152035",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329152035.mmi.jpg",
+    "bmkgEarthquakeId": "20230209152035",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209152035.mmi.jpg",
     "fingerprintSha1": "a182ff66d6b710305f22692a582667e119adefcc"
   },
   {
@@ -3259,8 +3259,8 @@
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di darat 8 km BaratLaut Kota Jayapura",
     "feltOnStations": "III-IV Kota Jayapura",
-    "bmkgEarthquakeId": "202329151512",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329151512.mmi.jpg",
+    "bmkgEarthquakeId": "20230209151512",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209151512.mmi.jpg",
     "fingerprintSha1": "892b2ffa72325da7dbbba8883b77271edce3d48d"
   },
   {
@@ -3271,8 +3271,8 @@
     "depthInKm": 8,
     "locationInIndonesian": "Pusat gempa berada di darat BaratDaya Kota Jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "202329151447",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329151447.mmi.jpg",
+    "bmkgEarthquakeId": "20230209151447",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209151447.mmi.jpg",
     "fingerprintSha1": "5bbce2cc6b4664549dcba8e069ce24bb007f927d"
   },
   {
@@ -3283,8 +3283,8 @@
     "depthInKm": 4,
     "locationInIndonesian": "Pusat gempa berada di darat 1 km BaratDaya Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329160413",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329160413.mmi.jpg",
+    "bmkgEarthquakeId": "20230209160413",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209160413.mmi.jpg",
     "fingerprintSha1": "8f577a1a14e9e485b81b72b0fdb5fb3605f4ced0"
   },
   {
@@ -3295,8 +3295,8 @@
     "depthInKm": 6,
     "locationInIndonesian": "Pusat gempa berada di darat 7 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329160042",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329160042.mmi.jpg",
+    "bmkgEarthquakeId": "20230209160042",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209160042.mmi.jpg",
     "fingerprintSha1": "b7b39546dfd0350a9e0f5e885b85d94a8c12b7a8"
   },
   {
@@ -3307,8 +3307,8 @@
     "depthInKm": 6,
     "locationInIndonesian": "Pusat gempa berada di darat 3 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329171848",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329171848.mmi.jpg",
+    "bmkgEarthquakeId": "20230209171848",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209171848.mmi.jpg",
     "fingerprintSha1": "0524552a3e839bf30267ad889858d98143268b37"
   },
   {
@@ -3319,8 +3319,8 @@
     "depthInKm": 15,
     "locationInIndonesian": "Pusat gempa berada di darat 9 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329174252",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329174252.mmi.jpg",
+    "bmkgEarthquakeId": "20230209174252",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209174252.mmi.jpg",
     "fingerprintSha1": "ace34355c60acfdd8fc8d648477e80055c7772fd"
   },
   {
@@ -3331,8 +3331,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 15 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329182057",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329182057.mmi.jpg",
+    "bmkgEarthquakeId": "20230209182057",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209182057.mmi.jpg",
     "fingerprintSha1": "7de7cfaa48fb04062028432e877c035a58700243"
   },
   {
@@ -3343,8 +3343,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 11 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329181620",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329181620.mmi.jpg",
+    "bmkgEarthquakeId": "20230209181620",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209181620.mmi.jpg",
     "fingerprintSha1": "583e477c1fbf3adf49a6652cd8a1f8e0fcd98e75"
   },
   {
@@ -3355,8 +3355,8 @@
     "depthInKm": 8,
     "locationInIndonesian": "Pusat gempa berada di darat 5 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329193715",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329193715.mmi.jpg",
+    "bmkgEarthquakeId": "20230209193715",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209193715.mmi.jpg",
     "fingerprintSha1": "38aa858de82ed14d80287a3bd9fba94d7d3694eb"
   },
   {
@@ -3367,8 +3367,8 @@
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di darat 4 km Barat Daya Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329213210",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329213210.mmi.jpg",
+    "bmkgEarthquakeId": "20230209213210",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209213210.mmi.jpg",
     "fingerprintSha1": "aac25ca4ad5e00416d34ae3481be845b8138aa8d"
   },
   {
@@ -3379,8 +3379,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada didarat 24 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329220039",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329220039.mmi.jpg",
+    "bmkgEarthquakeId": "20230209220039",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209220039.mmi.jpg",
     "fingerprintSha1": "311bbded8b53b171db15d2156dca537662d4115e"
   },
   {
@@ -3391,8 +3391,8 @@
     "depthInKm": 4,
     "locationInIndonesian": "Pusat gempa berada didarat 4 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329214658",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329214658.mmi.jpg",
+    "bmkgEarthquakeId": "20230209214658",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209214658.mmi.jpg",
     "fingerprintSha1": "bb33a286ef049cf9c2372160847da293faabcdd0"
   },
   {
@@ -3403,8 +3403,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 14 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329213850",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329213850.mmi.jpg",
+    "bmkgEarthquakeId": "20230209213850",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209213850.mmi.jpg",
     "fingerprintSha1": "a5737cf15802589e74876b349ea8b5d463bf277f"
   },
   {
@@ -3415,8 +3415,8 @@
     "depthInKm": 8,
     "locationInIndonesian": "Pusat gempa berada di darat 4 km BaratDaya Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "202329235712",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329235712.mmi.jpg",
+    "bmkgEarthquakeId": "20230209235712",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209235712.mmi.jpg",
     "fingerprintSha1": "80badc80f16830db4404174f30e8c0f387338453"
   },
   {
@@ -3427,8 +3427,8 @@
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada didarat 2 km TimurLaut Kota Jayapura",
     "feltOnStations": "II - III Kota Jayapura",
-    "bmkgEarthquakeId": "202329234739",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/202329234739.mmi.jpg",
+    "bmkgEarthquakeId": "20230209234739",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230209234739.mmi.jpg",
     "fingerprintSha1": "1984be8b2b4cd5e9b1c00d2abf2f2383f92c2c06"
   },
   {
@@ -3439,8 +3439,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 2 km BaratLaut Kota Jayapura",
     "feltOnStations": "III-IV Kota Jayapura",
-    "bmkgEarthquakeId": "2023210003712",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023210003712.mmi.jpg",
+    "bmkgEarthquakeId": "20230210003712",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230210003712.mmi.jpg",
     "fingerprintSha1": "c5cfcb8ef23c60e3041646dd5173101926ead285"
   },
   {
@@ -3451,8 +3451,8 @@
     "depthInKm": 7,
     "locationInIndonesian": "Pusat gempa berada di darat 2 km BaratLaut Kota Jayapura",
     "feltOnStations": "III-IV Kota Jayapura",
-    "bmkgEarthquakeId": "2023210002921",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023210002921.mmi.jpg",
+    "bmkgEarthquakeId": "20230210002921",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230210002921.mmi.jpg",
     "fingerprintSha1": "31b2d9c00269936b25dc4ebb59ebc87dc0bb5c40"
   },
   {
@@ -3463,8 +3463,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 7 km BaratDaya Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023210011024",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023210011024.mmi.jpg",
+    "bmkgEarthquakeId": "20230210011024",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230210011024.mmi.jpg",
     "fingerprintSha1": "61a5645a33317adc02983dc6a9abf684d774ea6e"
   },
   {
@@ -3475,8 +3475,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 7 km TimurLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023210004916",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023210004916.mmi.jpg",
+    "bmkgEarthquakeId": "20230210004916",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230210004916.mmi.jpg",
     "fingerprintSha1": "e6246db5bd4607ea0b62bc254157e81ff3ffd0b7"
   },
   {
@@ -3487,8 +3487,8 @@
     "depthInKm": 7,
     "locationInIndonesian": "Pusat gempa berada di darat 4 km BaratLaut Kota Jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "2023210042846",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023210042846.mmi.jpg",
+    "bmkgEarthquakeId": "20230210042846",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230210042846.mmi.jpg",
     "fingerprintSha1": "7a53af0e38c53bddc71864c6a9df890eb1e20306"
   },
   {
@@ -3499,8 +3499,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 10 km BaratDaya Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023210090207",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023210090207.mmi.jpg",
+    "bmkgEarthquakeId": "20230210090207",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230210090207.mmi.jpg",
     "fingerprintSha1": "c9bcdf3949d8fe15aaf4a3e8f3c14607e10ade81"
   },
   {
@@ -3511,8 +3511,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 16 km barat laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023210104718",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023210104718.mmi.jpg",
+    "bmkgEarthquakeId": "20230210104718",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230210104718.mmi.jpg",
     "fingerprintSha1": "abe6bbb25091bce10e84553574514aa5f9277f61"
   },
   {
@@ -3523,8 +3523,8 @@
     "depthInKm": 9,
     "locationInIndonesian": "Pusat gempa berada di darat 14 km barat laut Kota Jayapura",
     "feltOnStations": "II - III Kota Jayapura",
-    "bmkgEarthquakeId": "2023210155436",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023210155436.mmi.jpg",
+    "bmkgEarthquakeId": "20230210155436",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230210155436.mmi.jpg",
     "fingerprintSha1": "a16d4256514fe4ad255533f98b3a4dd5c3cd4084"
   },
   {
@@ -3535,8 +3535,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 10 km barat laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023210123659",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023210123659.mmi.jpg",
+    "bmkgEarthquakeId": "20230210123659",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230210123659.mmi.jpg",
     "fingerprintSha1": "9693bc41bf8e8a4b177f7e3ad99b8f17ba8cb210"
   },
   {
@@ -3547,8 +3547,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 15 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023210173601",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023210173601.mmi.jpg",
+    "bmkgEarthquakeId": "20230210173601",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230210173601.mmi.jpg",
     "fingerprintSha1": "511061909a8d41835f71b392464199091ac0b472"
   },
   {
@@ -3559,8 +3559,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 6 km Barat Laut Kota Jayapura",
     "feltOnStations": "III-IV Kota Jayapura",
-    "bmkgEarthquakeId": "2023210202657",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023210202657.mmi.jpg",
+    "bmkgEarthquakeId": "20230210202657",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230210202657.mmi.jpg",
     "fingerprintSha1": "a994fcd07d0e7f59ef239e933fe03534e91c6ba4"
   },
   {
@@ -3571,8 +3571,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 8 km barat laut Kota Jayapura",
     "feltOnStations": "II-III Kota Jayapura",
-    "bmkgEarthquakeId": "2023210212719",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023210212719.mmi.jpg",
+    "bmkgEarthquakeId": "20230210212719",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230210212719.mmi.jpg",
     "fingerprintSha1": "47b31d5cdcbea544f2bbaaddf8bd826c2ca79f4a"
   },
   {
@@ -3583,8 +3583,8 @@
     "depthInKm": 30,
     "locationInIndonesian": "Pusat gempa berada di darat 10 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023210233022",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023210233022.mmi.jpg",
+    "bmkgEarthquakeId": "20230210233022",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230210233022.mmi.jpg",
     "fingerprintSha1": "5c84042dab3263c69777900dd718de17a55e86d1"
   },
   {
@@ -3595,8 +3595,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 24 Km Tenggara Polewalimandar",
     "feltOnStations": "II Polewali, II Majene",
-    "bmkgEarthquakeId": "2023210234512",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023210234512.mmi.jpg",
+    "bmkgEarthquakeId": "20230210234512",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230210234512.mmi.jpg",
     "fingerprintSha1": "a018b7d1217d25c5aab3210df1eed82e59f4a02a"
   },
   {
@@ -3607,8 +3607,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 7 km BaratDaya Kota Jayapura",
     "feltOnStations": "III - IV Kota Jayapura",
-    "bmkgEarthquakeId": "2023211003909",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023211003909.mmi.jpg",
+    "bmkgEarthquakeId": "20230211003909",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230211003909.mmi.jpg",
     "fingerprintSha1": "80ae565895c0ef99833d84755d4a2711cc4d7bd1"
   },
   {
@@ -3619,8 +3619,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 7 km BaratLaut kota Jayapura",
     "feltOnStations": "III-IV Kota Jayapura",
-    "bmkgEarthquakeId": "2023211033747",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023211033747.mmi.jpg",
+    "bmkgEarthquakeId": "20230211033747",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230211033747.mmi.jpg",
     "fingerprintSha1": "84da2f4dad148bce9fe02be9c19c6601058f52e7"
   },
   {
@@ -3631,8 +3631,8 @@
     "depthInKm": 6,
     "locationInIndonesian": "Pusat gempa berada di laut 11 km Barat Laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023211062306",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023211062306.mmi.jpg",
+    "bmkgEarthquakeId": "20230211062306",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230211062306.mmi.jpg",
     "fingerprintSha1": "8944c14e90f4e286affc2e6fa37164342915106a"
   },
   {
@@ -3643,8 +3643,8 @@
     "depthInKm": 4,
     "locationInIndonesian": "Pusat gempa berada di darat 12 km Barat Laut Kota Jayapura",
     "feltOnStations": "II-III Kota Jayapura",
-    "bmkgEarthquakeId": "2023211071229",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023211071229.mmi.jpg",
+    "bmkgEarthquakeId": "20230211071229",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230211071229.mmi.jpg",
     "fingerprintSha1": "634c66a96f5375c34e3018d0cdb47ac901a0c07b"
   },
   {
@@ -3655,8 +3655,8 @@
     "depthInKm": 12,
     "locationInIndonesian": "Pusat gempa berada di laut 18 km Barat Laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023211064754",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023211064754.mmi.jpg",
+    "bmkgEarthquakeId": "20230211064754",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230211064754.mmi.jpg",
     "fingerprintSha1": "a84ba0b4936cd9fdd42a8d2eea4adf30c1d62015"
   },
   {
@@ -3667,8 +3667,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 10 km Barat Laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023211063632",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023211063632.mmi.jpg",
+    "bmkgEarthquakeId": "20230211063632",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230211063632.mmi.jpg",
     "fingerprintSha1": "0b82fdeb86615a98c148625b6aca9a1406804a42"
   },
   {
@@ -3679,8 +3679,8 @@
     "depthInKm": 11,
     "locationInIndonesian": "Pusat gempa berada di Laut 37 km Tenggara Melonguane",
     "feltOnStations": "IV Melonguane, III-IV Tahuna, III - IV Siau, II Manado",
-    "bmkgEarthquakeId": "2023211155506",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023211155506.mmi.jpg",
+    "bmkgEarthquakeId": "20230211155506",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230211155506.mmi.jpg",
     "fingerprintSha1": "81c2fb3c57f30b4c0949787ab32758ec42ff4718"
   },
   {
@@ -3691,8 +3691,8 @@
     "depthInKm": 23,
     "locationInIndonesian": "Pusat gempa berada di darat 12 km BaratLaut Kota Jayapura",
     "feltOnStations": "II - III Kota Jayapura",
-    "bmkgEarthquakeId": "2023211214134",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023211214134.mmi.jpg",
+    "bmkgEarthquakeId": "20230211214134",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230211214134.mmi.jpg",
     "fingerprintSha1": "8becd7c5f706d0e1cb43cd95e0374111e1c74d97"
   },
   {
@@ -3703,8 +3703,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 18 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023211230300",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023211230300.mmi.jpg",
+    "bmkgEarthquakeId": "20230211230300",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230211230300.mmi.jpg",
     "fingerprintSha1": "94791f0e614aa016106c87dd0d52fcd82cee7c1e"
   },
   {
@@ -3715,8 +3715,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 10 km baratlaut kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023211225528",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023211225528.mmi.jpg",
+    "bmkgEarthquakeId": "20230211225528",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230211225528.mmi.jpg",
     "fingerprintSha1": "15807455310405ae492f5f6ad59b467c51c46d3e"
   },
   {
@@ -3727,8 +3727,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di Darat 11 km Barat Laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023212025843",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023212025843.mmi.jpg",
+    "bmkgEarthquakeId": "20230212025843",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230212025843.mmi.jpg",
     "fingerprintSha1": "355bafcdd2d379ca6d6af3d0ca33d973bb1cf75f"
   },
   {
@@ -3739,8 +3739,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 6 km Baratdaya Bukittinggi",
     "feltOnStations": "II Bukittinggi, II Padang Panjang, II Padang Pariaman",
-    "bmkgEarthquakeId": "2023212121354",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023212121354.mmi.jpg",
+    "bmkgEarthquakeId": "20230212121354",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230212121354.mmi.jpg",
     "fingerprintSha1": "14aea278082a6c9e6531e034f3abe8b8154b861c"
   },
   {
@@ -3751,8 +3751,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 16 km Timurlaut Ransiki",
     "feltOnStations": "II-III Ransiki, II-III Manokwari",
-    "bmkgEarthquakeId": "2023212174351",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023212174351.mmi.jpg",
+    "bmkgEarthquakeId": "20230212174351",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230212174351.mmi.jpg",
     "fingerprintSha1": "50d76bb9b0b530d7b0ce4ad1c4f76b0a71d258ab"
   },
   {
@@ -3763,8 +3763,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 20 km Timurlaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023212174026",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023212174026.mmi.jpg",
+    "bmkgEarthquakeId": "20230212174026",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230212174026.mmi.jpg",
     "fingerprintSha1": "2f00c1d8ed6c2759a0d234f3744e52d333f61686"
   },
   {
@@ -3775,8 +3775,8 @@
     "depthInKm": 14,
     "locationInIndonesian": "Pusat gempa berada di darat 14 km TimurLaut Buleleng",
     "feltOnStations": "II Kubutambahan",
-    "bmkgEarthquakeId": "2023212194557",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023212194557.mmi.jpg",
+    "bmkgEarthquakeId": "20230212194557",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230212194557.mmi.jpg",
     "fingerprintSha1": "82baa64bb624cbc6ea6223f92796bb3f341aa446"
   },
   {
@@ -3787,8 +3787,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 5 km BaratDaya Kab. Cianjur",
     "feltOnStations": "II Cibereum, II Cilaku, II Ciseupan, II Nagrak",
-    "bmkgEarthquakeId": "2023212214129",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023212214129.mmi.jpg",
+    "bmkgEarthquakeId": "20230212214129",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230212214129.mmi.jpg",
     "fingerprintSha1": "81290cf35523aaf4dfadd979a3f5798c906a7c2c"
   },
   {
@@ -3799,8 +3799,8 @@
     "depthInKm": 20,
     "locationInIndonesian": "Pusat gempa berada di darat 1 km Tenggara Ransiki",
     "feltOnStations": "IV Ransiki, III-IV Manokwari",
-    "bmkgEarthquakeId": "2023213003807",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023213003807.mmi.jpg",
+    "bmkgEarthquakeId": "20230213003807",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230213003807.mmi.jpg",
     "fingerprintSha1": "76bce5bac76c16b56f970ac4cd4201cb8b58ba96"
   },
   {
@@ -3811,8 +3811,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 11 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023213012502",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023213012502.mmi.jpg",
+    "bmkgEarthquakeId": "20230213012502",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230213012502.mmi.jpg",
     "fingerprintSha1": "5e85af202735892406c2d91c64d57ade1329aac4"
   },
   {
@@ -3823,8 +3823,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 17 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023213014029",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023213014029.mmi.jpg",
+    "bmkgEarthquakeId": "20230213014029",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230213014029.mmi.jpg",
     "fingerprintSha1": "ee97f99ee79abdd0395383321a329dbfb0f578f7"
   },
   {
@@ -3835,8 +3835,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 5 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023213114629",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023213114629.mmi.jpg",
+    "bmkgEarthquakeId": "20230213114629",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230213114629.mmi.jpg",
     "fingerprintSha1": "e8a7f731bcfda9da8b67d9dc589fa67392456b6e"
   },
   {
@@ -3847,8 +3847,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 5km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023213122921",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023213122921.mmi.jpg",
+    "bmkgEarthquakeId": "20230213122921",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230213122921.mmi.jpg",
     "fingerprintSha1": "3e1b0c413ff0a9b02b04ecf10e244442dc31a2ae"
   },
   {
@@ -3859,8 +3859,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di Laut 11 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023213161718",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023213161718.mmi.jpg",
+    "bmkgEarthquakeId": "20230213161718",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230213161718.mmi.jpg",
     "fingerprintSha1": "53f464fa49852ffae9425e21e8311aa8e5113b29"
   },
   {
@@ -3871,8 +3871,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di Laut 16 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023213193100",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023213193100.mmi.jpg",
+    "bmkgEarthquakeId": "20230213193100",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230213193100.mmi.jpg",
     "fingerprintSha1": "0eb9c30d09212d715d524e56bdc160c5453c3b47"
   },
   {
@@ -3883,8 +3883,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di Laut 15 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023213223730",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023213223730.mmi.jpg",
+    "bmkgEarthquakeId": "20230213223730",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230213223730.mmi.jpg",
     "fingerprintSha1": "1e70659bea15e895b43473edf444956cf4a616b9"
   },
   {
@@ -3895,8 +3895,8 @@
     "depthInKm": 9,
     "locationInIndonesian": "Pusat gempa berada di darat 5 km BaratLaut Kota Jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "2023213223626",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023213223626.mmi.jpg",
+    "bmkgEarthquakeId": "20230213223626",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230213223626.mmi.jpg",
     "fingerprintSha1": "a69e1c7228fbcd2ac23ea35b371d6192beed04cd"
   },
   {
@@ -3907,8 +3907,8 @@
     "depthInKm": 87,
     "locationInIndonesian": "Pusat gempa berada di darat 30 km Tenggara Parigi Moutong",
     "feltOnStations": "III - IV Toli-toli, II - III Pohuwato, II - III Gorontalo Utara, II - III Kab. Gorontalo, II - III Buol",
-    "bmkgEarthquakeId": "2023214130221",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023214130221.mmi.jpg",
+    "bmkgEarthquakeId": "20230214130221",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230214130221.mmi.jpg",
     "fingerprintSha1": "fce51a3aff797b3bb141905efec9ed0f36973c29"
   },
   {
@@ -3919,8 +3919,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 3 km BaratDaya Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023214124912",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023214124912.mmi.jpg",
+    "bmkgEarthquakeId": "20230214124912",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230214124912.mmi.jpg",
     "fingerprintSha1": "58e17ead1428267b2a91427870a6ca2411d13802"
   },
   {
@@ -3931,8 +3931,8 @@
     "depthInKm": 11,
     "locationInIndonesian": "Pusat gempa berada di darat 4 km BaratLaut Kab. Cianjur",
     "feltOnStations": "II Cipanas, II Ciherang, II Kota Cianjur",
-    "bmkgEarthquakeId": "2023214130356",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023214130356.mmi.jpg",
+    "bmkgEarthquakeId": "20230214130356",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230214130356.mmi.jpg",
     "fingerprintSha1": "411204c89440f5fd86f2f3269f747917bab5bf62"
   },
   {
@@ -3943,8 +3943,8 @@
     "depthInKm": 18,
     "locationInIndonesian": "Pusat gempa berada di darat 6 km BaratLaut Kab. Cianjur",
     "feltOnStations": "II Kec. Pacet - Cianjur",
-    "bmkgEarthquakeId": "2023214185937",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023214185937.mmi.jpg",
+    "bmkgEarthquakeId": "20230214185937",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230214185937.mmi.jpg",
     "fingerprintSha1": "e20e602c997339d9bbad04fa1dfab344951c55ee"
   },
   {
@@ -3955,8 +3955,8 @@
     "depthInKm": 23,
     "locationInIndonesian": "Pusat gempa berada di darat 2 km Timurlaut Ransiki",
     "feltOnStations": "II - III Ransiki, II - III Manokwari",
-    "bmkgEarthquakeId": "2023214195746",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023214195746.mmi.jpg",
+    "bmkgEarthquakeId": "20230214195746",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230214195746.mmi.jpg",
     "fingerprintSha1": "b607b925fbfbf6f7c468466d95cd8859b54ca12b"
   },
   {
@@ -3967,8 +3967,8 @@
     "depthInKm": 11,
     "locationInIndonesian": "Pusat gempa berada di darat 8 km Baratlaut Kab. Cianjur",
     "feltOnStations": "II Ciputri, II Pacet, II Cipanas, II Cugenang",
-    "bmkgEarthquakeId": "2023214200212",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023214200212.mmi.jpg",
+    "bmkgEarthquakeId": "20230214200212",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230214200212.mmi.jpg",
     "fingerprintSha1": "56ed2eae4ca109647c1bbd700919f4eb5d8b782c"
   },
   {
@@ -3979,8 +3979,8 @@
     "depthInKm": 9,
     "locationInIndonesian": "Pusat gempa berada di darat 5 km baratlaut kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023214223806",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023214223806.mmi.jpg",
+    "bmkgEarthquakeId": "20230214223806",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230214223806.mmi.jpg",
     "fingerprintSha1": "bc3e222c0e2d7b42c44e37711cd594398c6080e2"
   },
   {
@@ -3991,8 +3991,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada didarat 5 km BaratLaut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023215045746",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023215045746.mmi.jpg",
+    "bmkgEarthquakeId": "20230215045746",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230215045746.mmi.jpg",
     "fingerprintSha1": "d91fa889b2ee763af562f588d92e8e48f9f1ca38"
   },
   {
@@ -4003,8 +4003,8 @@
     "depthInKm": 4,
     "locationInIndonesian": "Pusat gempa berada didarat 8 km BaratLaut Kota Jayapura",
     "feltOnStations": "II - III Kota Jayapura",
-    "bmkgEarthquakeId": "2023215080127",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023215080127.mmi.jpg",
+    "bmkgEarthquakeId": "20230215080127",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230215080127.mmi.jpg",
     "fingerprintSha1": "85f8054ebc8241ad8db3e3c3ab54996c33a16c32"
   },
   {
@@ -4015,8 +4015,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 5 km baratlaut kota Jayapura",
     "feltOnStations": "II - III Jayapura",
-    "bmkgEarthquakeId": "2023215073600",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023215073600.mmi.jpg",
+    "bmkgEarthquakeId": "20230215073600",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230215073600.mmi.jpg",
     "fingerprintSha1": "216ef0c50e53dfda7157ce0d1e480e91b120c7aa"
   },
   {
@@ -4027,8 +4027,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 5 km Barat Laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023215121118",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023215121118.mmi.jpg",
+    "bmkgEarthquakeId": "20230215121118",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230215121118.mmi.jpg",
     "fingerprintSha1": "17cb04a07fdac29d21f91528368c822dffe2b1a9"
   },
   {
@@ -4039,8 +4039,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 4 km Timur Laut Kota jayapura",
     "feltOnStations": "III Kota Jayapura",
-    "bmkgEarthquakeId": "2023215205113",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023215205113.mmi.jpg",
+    "bmkgEarthquakeId": "20230215205113",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230215205113.mmi.jpg",
     "fingerprintSha1": "22ec7e96838bf11a80dbdd26cfd6b167c802edf5"
   },
   {
@@ -4051,8 +4051,8 @@
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 4 km BaratLaut Kota Jayapura",
     "feltOnStations": "III - IV Kota Jayapura",
-    "bmkgEarthquakeId": "2023217104527",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023217104527.mmi.jpg",
+    "bmkgEarthquakeId": "20230217104527",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230217104527.mmi.jpg",
     "fingerprintSha1": "f81bc1aee1211ecbf9fc75fec35e869f013d8224"
   },
   {
@@ -4063,8 +4063,8 @@
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di darat 3 km BaratLaut Kota Jayapura",
     "feltOnStations": "II - III Kota Jayapura",
-    "bmkgEarthquakeId": "2023217112316",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023217112316.mmi.jpg",
+    "bmkgEarthquakeId": "20230217112316",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230217112316.mmi.jpg",
     "fingerprintSha1": "0682774b9de599fcf5847a9a9a340cc763ed87c7"
   },
   {
@@ -4075,8 +4075,8 @@
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di darat 0.9 km timur laut Sampara, Kab. Konawe",
     "feltOnStations": "III Kendari, III Konawe Selatan, III Konawe",
-    "bmkgEarthquakeId": "2023217143335",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023217143335.mmi.jpg",
+    "bmkgEarthquakeId": "20230217143335",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230217143335.mmi.jpg",
     "fingerprintSha1": "f71d1e8565ec26794afecb419dd20cffde4e0a0b"
   },
   {
@@ -4087,8 +4087,8 @@
     "depthInKm": 97,
     "locationInIndonesian": "Pusat gempa berada di laut 125 km BaratDaya Maluku Tenggara",
     "feltOnStations": "III Saumlaki, III Dobo, III Kei, III Sorong, III Kaimana, II Banda",
-    "bmkgEarthquakeId": "2023217163735",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023217163735.mmi.jpg",
+    "bmkgEarthquakeId": "20230217163735",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230217163735.mmi.jpg",
     "fingerprintSha1": "8bee10204a9efeda511afafb5026dd45f54fa9a8"
   },
   {
@@ -4099,8 +4099,8 @@
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di darat 7 km barat laut Kota Jayapura",
     "feltOnStations": "II Kota Jayapura",
-    "bmkgEarthquakeId": "2023217165506",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023217165506.mmi.jpg",
+    "bmkgEarthquakeId": "20230217165506",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230217165506.mmi.jpg",
     "fingerprintSha1": "46e8c7a502038f50f93da330e61129cce64f1999"
   },
   {
@@ -4111,8 +4111,8 @@
     "depthInKm": 128,
     "locationInIndonesian": "Pusat gempa berada di darat 25 km barat daya Sumbawa Barat",
     "feltOnStations": "III Lombok Tengah",
-    "bmkgEarthquakeId": "2023217195208",
-    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023217195208.mmi.jpg",
+    "bmkgEarthquakeId": "20230217195208",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230217195208.mmi.jpg",
     "fingerprintSha1": "b9e936e0377383b36f7cbd40f1f73fb795863419"
   }
 ]

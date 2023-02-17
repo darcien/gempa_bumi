@@ -29,8 +29,8 @@ export function computeBmkgEarthquakeId(earthquakeAt: Date): BmkgEarthquakeId {
   const wibDate = new Date(earthquakeAt.getTime() + WIB_OFFSET);
   return [
     wibDate.getUTCFullYear(),
-    wibDate.getUTCMonth() + 1,
-    wibDate.getUTCDate(),
+    padTimeComponent(wibDate.getUTCMonth() + 1),
+    padTimeComponent(wibDate.getUTCDate()),
     padTimeComponent(wibDate.getUTCHours()),
     padTimeComponent(wibDate.getUTCMinutes()),
     padTimeComponent(wibDate.getUTCSeconds()),
