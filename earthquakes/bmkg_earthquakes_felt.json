@@ -4078,5 +4078,17 @@
     "bmkgEarthquakeId": "2023217143335",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023217143335.mmi.jpg",
     "fingerprintSha1": "f71d1e8565ec26794afecb419dd20cffde4e0a0b"
+  },
+  {
+    "earthquakeAt": "2023-02-17T09:37:35.000Z",
+    "latitude": -6.6,
+    "longitude": 132.1,
+    "magnitude": 6.6,
+    "depthInKm": 97,
+    "locationInIndonesian": "Pusat gempa berada di laut 125 km BaratDaya Maluku Tenggara",
+    "feltOnStations": "III Saumlaki, III Dobo, III Kei, III Sorong, III Kaimana, II Banda",
+    "bmkgEarthquakeId": "2023217163735",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/2023217163735.mmi.jpg",
+    "fingerprintSha1": "8bee10204a9efeda511afafb5026dd45f54fa9a8"
   }
 ]
