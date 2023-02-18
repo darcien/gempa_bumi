@@ -4138,5 +4138,29 @@
     "bmkgEarthquakeId": "20230218113012",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230218113012.mmi.jpg",
     "fingerprintSha1": "4a20d6edc5692aeae21ceec1798c2810666bfe76"
+  },
+  {
+    "earthquakeAt": "2023-02-18T06:14:38.000Z",
+    "latitude": -7.52,
+    "longitude": 121.84,
+    "magnitude": 3.7,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 128 km BaratLaut Maumere-Sikka",
+    "feltOnStations": "II Pulau Kalaotoa, II Pulau Madu",
+    "bmkgEarthquakeId": "20230218131438",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230218131438.mmi.jpg",
+    "fingerprintSha1": "815e395f8a0e5a159b4a10c47b57e7f9e0bbb232"
+  },
+  {
+    "earthquakeAt": "2023-02-18T05:38:58.000Z",
+    "latitude": 3.32,
+    "longitude": 117.18,
+    "magnitude": 3.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 28 km Tenggara Tanatidung",
+    "feltOnStations": "",
+    "bmkgEarthquakeId": "20230218123858",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230218123858.mmi.jpg",
+    "fingerprintSha1": "303789209398d1a4abfaf2fc646399c5063a6a89"
   }
 ]
