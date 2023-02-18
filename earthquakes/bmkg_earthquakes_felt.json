@@ -4126,5 +4126,17 @@
     "bmkgEarthquakeId": "20230218070349",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230218070349.mmi.jpg",
     "fingerprintSha1": "bfed2c419886a4c1e6de633f2e0fbb13349cf89d"
+  },
+  {
+    "earthquakeAt": "2023-02-18T04:30:12.000Z",
+    "latitude": 0.59,
+    "longitude": 99.89,
+    "magnitude": 4.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 14Km BaratLaut RAO-PASAMAN",
+    "feltOnStations": "III-IV Pasaman",
+    "bmkgEarthquakeId": "20230218113012",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230218113012.mmi.jpg",
+    "fingerprintSha1": "4a20d6edc5692aeae21ceec1798c2810666bfe76"
   }
 ]
