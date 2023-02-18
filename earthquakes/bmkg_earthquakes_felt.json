@@ -4158,7 +4158,7 @@
     "magnitude": 3.8,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 28 km Tenggara Tanatidung",
-    "feltOnStations": "",
+    "feltOnStations": "II Tarakan",
     "bmkgEarthquakeId": "20230218123858",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230218123858.mmi.jpg",
     "fingerprintSha1": "303789209398d1a4abfaf2fc646399c5063a6a89"
