@@ -4198,5 +4198,17 @@
     "bmkgEarthquakeId": "20230220181516",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230220181516.mmi.jpg",
     "fingerprintSha1": "fbdbc1e3cb56832a48e32dd16fe967c0bc79460f"
+  },
+  {
+    "earthquakeAt": "2023-02-20T20:13:49.000Z",
+    "latitude": -4.41,
+    "longitude": 102.11,
+    "magnitude": 5.2,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 63 km barat daya Seluma",
+    "feltOnStations": "III Seluma, II-III Manna, II-III Kota Bengkulu",
+    "bmkgEarthquakeId": "20230221031349",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230221031349.mmi.jpg",
+    "fingerprintSha1": "406771ad7449b0be85c7ddaf1f5ba8852cb5632a"
   }
 ]
