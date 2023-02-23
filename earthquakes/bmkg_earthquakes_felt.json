@@ -4270,5 +4270,17 @@
     "bmkgEarthquakeId": "20230223174937",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230223174937.mmi.jpg",
     "fingerprintSha1": "7deb6720a70c5e1d2c14e713c36cfafe2ee60081"
+  },
+  {
+    "earthquakeAt": "2023-02-23T20:02:52.000Z",
+    "latitude": 3.2,
+    "longitude": 127.94,
+    "magnitude": 6.8,
+    "depthInKm": 112,
+    "locationInIndonesian": "Pusat gempa berada di laut 133 km BaratLaut Daruba",
+    "feltOnStations": "IV Tahuna, IV Melonguane, IV Siau, III - IV Manado, III - IV Bitung, III - IV Minahasa Utara, III-IV Tobelo, III - IV Morotai, III Tondano, III Tomohon, III Minahasa Tenggara",
+    "bmkgEarthquakeId": "20230224030252",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230224030252.mmi.jpg",
+    "fingerprintSha1": "7cb35a918fa6cfaca6ff30fad59cb46e45c3d5b5"
   }
 ]
