@@ -4278,9 +4278,21 @@
     "magnitude": 6.8,
     "depthInKm": 112,
     "locationInIndonesian": "Pusat gempa berada di laut 133 km BaratLaut Daruba",
-    "feltOnStations": "IV Tahuna, IV Melonguane, IV Siau, III - IV Manado, III - IV Bitung, III - IV Minahasa Utara, III-IV Tobelo, III - IV Morotai, III Tondano, III Tomohon, III Minahasa Tenggara",
+    "feltOnStations": "IV Tahuna, IV Melonguane, IV Siau, III - IV Manado, III - IV Bitung, III - IV Minahasa Utara, III-IV Tobelo, III - IV Morotai, III Tondano, III Tomohon, III Minahasa Tenggara, II Sorong",
     "bmkgEarthquakeId": "20230224030252",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230224030252.mmi.jpg",
     "fingerprintSha1": "7cb35a918fa6cfaca6ff30fad59cb46e45c3d5b5"
+  },
+  {
+    "earthquakeAt": "2023-02-24T02:02:46.000Z",
+    "latitude": -0.46,
+    "longitude": 100.28,
+    "magnitude": 2.9,
+    "depthInKm": 1,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 km BaratLaut Padang Panjang",
+    "feltOnStations": "II Padang Panjang, II Padang Pariaman",
+    "bmkgEarthquakeId": "20230224090246",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230224090246.mmi.jpg",
+    "fingerprintSha1": "b4a0cd148308b5590e7d708de6a93637fa2c150f"
   }
 ]
