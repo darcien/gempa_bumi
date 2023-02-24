@@ -4318,5 +4318,17 @@
     "bmkgEarthquakeId": "20230224205953",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230224205953.mmi.jpg",
     "fingerprintSha1": "cbad23c85573891853a2dc46669fbbf32421418d"
+  },
+  {
+    "earthquakeAt": "2023-02-24T17:28:36.000Z",
+    "latitude": 2.87,
+    "longitude": 126.19,
+    "magnitude": 4.8,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 93 km TimurLaut Ondongsiau",
+    "feltOnStations": "III Kepulauan Sangihe, III Kepulauan Siau",
+    "bmkgEarthquakeId": "20230225002836",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230225002836.mmi.jpg",
+    "fingerprintSha1": "96d8a504c009e600f9badc70b9089511e31dc05c"
   }
 ]
