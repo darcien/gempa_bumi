@@ -4402,5 +4402,17 @@
     "bmkgEarthquakeId": "20230227042344",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230227042344.mmi.jpg",
     "fingerprintSha1": "f54a222afda3a930528343c97716a149db962342"
+  },
+  {
+    "earthquakeAt": "2023-02-27T01:26:02.000Z",
+    "latitude": -1.59,
+    "longitude": 120.21,
+    "magnitude": 5.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 42 km Tenggara Sigi",
+    "feltOnStations": "IV Sigi, III - IV Palu, III - IV Poso, III - IV Wuasa, III Toli-toli, III Buol, III Morowali Utara, III Mamuju, III Ampana, III Wakai - Kep. Togean, II Polewali Mandar, III Masamba",
+    "bmkgEarthquakeId": "20230227082602",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230227082602.mmi.jpg",
+    "fingerprintSha1": "b56f38df318c04591d946e417dc764e350aeda14"
   }
 ]
