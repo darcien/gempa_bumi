@@ -4426,5 +4426,17 @@
     "bmkgEarthquakeId": "20230228123545",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230228123545.mmi.jpg",
     "fingerprintSha1": "3bc9ff2ab4defd243585d6798a3a86f78b9d7c79"
+  },
+  {
+    "earthquakeAt": "2023-02-28T13:11:48.000Z",
+    "latitude": -7.03,
+    "longitude": 106.64,
+    "magnitude": 4,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km Tenggara Kab-Sukabumi",
+    "feltOnStations": "II-III Kota Sukabumi, II - III Pelabuhan Ratu, II Bogor, II Lebak, II Bayah",
+    "bmkgEarthquakeId": "20230228201148",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230228201148.mmi.jpg",
+    "fingerprintSha1": "21e77ab8069487385b463078e2cdd09a12567862"
   }
 ]
