@@ -4438,5 +4438,17 @@
     "bmkgEarthquakeId": "20230228201148",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230228201148.mmi.jpg",
     "fingerprintSha1": "21e77ab8069487385b463078e2cdd09a12567862"
+  },
+  {
+    "earthquakeAt": "2023-02-28T14:42:52.000Z",
+    "latitude": 1.37,
+    "longitude": 125.83,
+    "magnitude": 4.9,
+    "depthInKm": 55,
+    "locationInIndonesian": "Pusat gempa berada di laut 79 km Tenggara Bitung",
+    "feltOnStations": "III Manado, III Bitung, III Tondano",
+    "bmkgEarthquakeId": "20230228214252",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230228214252.mmi.jpg",
+    "fingerprintSha1": "374b3ba80b020ae132604815aac9403d3c4f91ad"
   }
 ]
