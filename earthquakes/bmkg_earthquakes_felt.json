@@ -4498,5 +4498,17 @@
     "bmkgEarthquakeId": "20230302060523",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230302060523.mmi.jpg",
     "fingerprintSha1": "c916944e96951cfebbd8bceb0b4f9e8b8426b9fe"
+  },
+  {
+    "earthquakeAt": "2023-03-02T08:23:58.000Z",
+    "latitude": 2.42,
+    "longitude": 128.39,
+    "magnitude": 4.8,
+    "depthInKm": 50,
+    "locationInIndonesian": "Pusat gempa berada di darat 42 km TimurLaut Daruba",
+    "feltOnStations": "II Morotai",
+    "bmkgEarthquakeId": "20230302152358",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230302152358.mmi.jpg",
+    "fingerprintSha1": "19c3352354ec69ddcac3fa9207d33e3fa9f5f51d"
   }
 ]
