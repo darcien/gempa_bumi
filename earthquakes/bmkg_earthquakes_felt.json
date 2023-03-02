@@ -4510,5 +4510,17 @@
     "bmkgEarthquakeId": "20230302152358",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230302152358.mmi.jpg",
     "fingerprintSha1": "19c3352354ec69ddcac3fa9207d33e3fa9f5f51d"
+  },
+  {
+    "earthquakeAt": "2023-03-02T08:56:43.000Z",
+    "latitude": 1.27,
+    "longitude": 120.2,
+    "magnitude": 4.8,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di laut 35 km utara Ogotua Kab. Tolitoli",
+    "feltOnStations": "II - III Toli-toli",
+    "bmkgEarthquakeId": "20230302155643",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230302155643.mmi.jpg",
+    "fingerprintSha1": "45be9f5db99cf2efcca8fe264a2477340d478ac0"
   }
 ]
