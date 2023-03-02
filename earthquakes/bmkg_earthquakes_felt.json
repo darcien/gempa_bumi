@@ -4486,5 +4486,17 @@
     "bmkgEarthquakeId": "20230301230153",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230301230153.mmi.jpg",
     "fingerprintSha1": "198215a782cd61731c0451fa12d97331ff22fabd"
+  },
+  {
+    "earthquakeAt": "2023-03-01T23:05:23.000Z",
+    "latitude": -1.65,
+    "longitude": 100.71,
+    "magnitude": 5.6,
+    "depthInKm": 82,
+    "locationInIndonesian": "Pusat gempa berada di darat 36 km Tenggara Pesisir Selatan",
+    "feltOnStations": "II-III Padang, II-III Padang Panjang, II-III Pesisir Selatan, II-III Kerinci",
+    "bmkgEarthquakeId": "20230302060523",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230302060523.mmi.jpg",
+    "fingerprintSha1": "c916944e96951cfebbd8bceb0b4f9e8b8426b9fe"
   }
 ]
