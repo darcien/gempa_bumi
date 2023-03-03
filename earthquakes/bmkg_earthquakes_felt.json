@@ -4534,5 +4534,17 @@
     "bmkgEarthquakeId": "20230303033119",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230303033119.mmi.jpg",
     "fingerprintSha1": "623ecd135910a31f8c63eea90159f34509d0bf74"
+  },
+  {
+    "earthquakeAt": "2023-03-03T00:36:46.000Z",
+    "latitude": -3.8,
+    "longitude": 101.83,
+    "magnitude": 5.1,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 47 Km Barat Daya Bengkulu",
+    "feltOnStations": "III - IV Kota Bengkulu, III Bengkulu Utara, II - III Kepahiang, II - III Curup",
+    "bmkgEarthquakeId": "20230303073646",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230303073646.mmi.jpg",
+    "fingerprintSha1": "827b5158054ec5e0b59635b758f521e0fa219aa6"
   }
 ]
