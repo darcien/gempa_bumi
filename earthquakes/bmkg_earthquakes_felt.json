@@ -4546,5 +4546,17 @@
     "bmkgEarthquakeId": "20230303073646",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230303073646.mmi.jpg",
     "fingerprintSha1": "827b5158054ec5e0b59635b758f521e0fa219aa6"
+  },
+  {
+    "earthquakeAt": "2023-03-03T04:49:16.000Z",
+    "latitude": -7.69,
+    "longitude": 106.52,
+    "magnitude": 3.8,
+    "depthInKm": 27,
+    "locationInIndonesian": "Pusat gempa berada di Laut 78 Km Barat Daya Kabupaten Sukabumi",
+    "feltOnStations": "II Ciracap, II Simpenan",
+    "bmkgEarthquakeId": "20230303114916",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230303114916.mmi.jpg",
+    "fingerprintSha1": "e011ef51de461c3941114113bc98c4686f8e59f3"
   }
 ]
