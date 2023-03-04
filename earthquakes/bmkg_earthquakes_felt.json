@@ -4582,5 +4582,17 @@
     "bmkgEarthquakeId": "20230304231027",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230304231027.mmi.jpg",
     "fingerprintSha1": "ca8ecaba53f4bfc85d82cee1846533aafba8b893"
+  },
+  {
+    "earthquakeAt": "2023-03-04T17:05:25.000Z",
+    "latitude": -2.67,
+    "longitude": 121.98,
+    "magnitude": 4.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km barat Kab. Morowali",
+    "feltOnStations": "II - III Bungku Tengah, II - III Bungku Pesisir, III Bahodopi",
+    "bmkgEarthquakeId": "20230305000525",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230305000525.mmi.jpg",
+    "fingerprintSha1": "c722f0c1a0f96dfc9c422081a4f33d13c36721b7"
   }
 ]
