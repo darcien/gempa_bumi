@@ -4618,5 +4618,17 @@
     "bmkgEarthquakeId": "20230305052558",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230305052558.mmi.jpg",
     "fingerprintSha1": "9612fe7ff215fdbbb03b1d0effb0ae22ae02a17e"
+  },
+  {
+    "earthquakeAt": "2023-03-06T02:42:21.000Z",
+    "latitude": -0.15,
+    "longitude": 123.14,
+    "magnitude": 4.5,
+    "depthInKm": 132,
+    "locationInIndonesian": "Pusat gempa berada di laut 76 km Tenggara Bonebolango",
+    "feltOnStations": "II - III Banggai Kepulauan",
+    "bmkgEarthquakeId": "20230306094221",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230306094221.mmi.jpg",
+    "fingerprintSha1": "1566caaf310cbea29ef0fe384e0c89fb08abfd27"
   }
 ]
