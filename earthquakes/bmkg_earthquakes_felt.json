@@ -4642,5 +4642,17 @@
     "bmkgEarthquakeId": "20230306182645",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230306182645.mmi.jpg",
     "fingerprintSha1": "c7df023bf7784867a3f9a528faebe55333494a0e"
+  },
+  {
+    "earthquakeAt": "2023-03-07T03:14:32.000Z",
+    "latitude": -0.11,
+    "longitude": 120.32,
+    "magnitude": 4.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 30 km Tenggara Parigi Moutong",
+    "feltOnStations": "II Palu",
+    "bmkgEarthquakeId": "20230307101432",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230307101432.mmi.jpg",
+    "fingerprintSha1": "fd03c1c644583c9bc96f6e490c120131360d91ba"
   }
 ]
