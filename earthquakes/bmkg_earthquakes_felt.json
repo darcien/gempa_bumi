@@ -4678,5 +4678,17 @@
     "bmkgEarthquakeId": "20230307195151",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230307195151.mmi.jpg",
     "fingerprintSha1": "4b85c4811ececb5a13cfe3c861bb0696b6043102"
+  },
+  {
+    "earthquakeAt": "2023-03-07T20:31:29.000Z",
+    "latitude": -0.28,
+    "longitude": 124.57,
+    "magnitude": 5.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 97 km Tenggara Kota Bolaanguki",
+    "feltOnStations": "II Tondano",
+    "bmkgEarthquakeId": "20230308033129",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230308033129.mmi.jpg",
+    "fingerprintSha1": "c59e47eb6f3898c2d87b9c971fc95f9296c4bdf9"
   }
 ]
