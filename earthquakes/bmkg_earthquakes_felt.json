@@ -4654,5 +4654,17 @@
     "bmkgEarthquakeId": "20230307101432",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230307101432.mmi.jpg",
     "fingerprintSha1": "fd03c1c644583c9bc96f6e490c120131360d91ba"
+  },
+  {
+    "earthquakeAt": "2023-03-07T07:31:57.000Z",
+    "latitude": -6.47,
+    "longitude": 103.9,
+    "magnitude": 5.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada dilaut 140 Km BaratDaya Tanggamus",
+    "feltOnStations": "IV Kab. Pesisir Barat, III - IV Kota Agung, III-IV Kab. Tanggamus, II-III Liwa",
+    "bmkgEarthquakeId": "20230307143157",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230307143157.mmi.jpg",
+    "fingerprintSha1": "64a920a6523afb5e549297795a62cc5f45de91c2"
   }
 ]
