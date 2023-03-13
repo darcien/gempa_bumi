@@ -4798,5 +4798,17 @@
     "bmkgEarthquakeId": "20230312202625",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230312202625.mmi.jpg",
     "fingerprintSha1": "2c58e4af4fac658f7b10d1525f3cb1a69e592aef"
+  },
+  {
+    "earthquakeAt": "2023-03-13T06:53:03.000Z",
+    "latitude": -0.41,
+    "longitude": 99.56,
+    "magnitude": 3.9,
+    "depthInKm": 52,
+    "locationInIndonesian": "Pusat gempa berada di Laut 53 km BaratDaya AGAM-SUMBAR",
+    "feltOnStations": "II Lubuk Basung",
+    "bmkgEarthquakeId": "20230313135303",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230313135303.mmi.jpg",
+    "fingerprintSha1": "d0d81c1d23cb22eefa15620eb1036934a968573a"
   }
 ]
