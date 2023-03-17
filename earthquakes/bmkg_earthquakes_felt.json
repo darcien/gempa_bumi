@@ -4870,5 +4870,17 @@
     "bmkgEarthquakeId": "20230317120037",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230317120037.mmi.jpg",
     "fingerprintSha1": "4f51f72e6140886dd978924b3b3d4d6682808add"
+  },
+  {
+    "earthquakeAt": "2023-03-17T12:05:27.000Z",
+    "latitude": -8.89,
+    "longitude": 109.77,
+    "magnitude": 5.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 126 km BaratDaya Kulonprogo",
+    "feltOnStations": "III Kulonprogo, III Bantul, III Trenggalek, III Pacitan, III Madiun, III Ponorogo, II - III Tulungagung, II Klaten, II - III Ngawi, II - III Magetan, II Kediri, II Karangkates, II Nganjuk, II Solo, II Banjarnegara, II Wonogiri, II Wonosobo",
+    "bmkgEarthquakeId": "20230317190527",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230317190527.mmi.jpg",
+    "fingerprintSha1": "c63089b7f5f9254578858d30511753774de52f48"
   }
 ]
