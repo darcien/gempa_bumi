@@ -4878,7 +4878,7 @@
     "magnitude": 5.2,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 126 km BaratDaya Kulonprogo",
-    "feltOnStations": "III Kulonprogo, III Bantul, III Trenggalek, III Pacitan, III Madiun, III Ponorogo, II - III Tulungagung, II Klaten, II - III Ngawi, II - III Magetan, II Kediri, II Karangkates, II Nganjuk, II Solo, II Banjarnegara, II Wonogiri, II Wonosobo",
+    "feltOnStations": "III Kulonprogo, III Bantul, III Trenggalek, III Pacitan, III Madiun, III Ponorogo, II - III Tulungagung, II Klaten, II - III Ngawi, II - III Magetan, II Kediri, II Karangkates, II Nganjuk, II Solo, II Banjarnegara, II Wonogiri, II Wonosobo, II Cilacap, II Purworejo",
     "bmkgEarthquakeId": "20230317190527",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230317190527.mmi.jpg",
     "fingerprintSha1": "c63089b7f5f9254578858d30511753774de52f48"
