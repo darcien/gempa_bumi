@@ -4954,5 +4954,17 @@
     "bmkgEarthquakeId": "20230320023014",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230320023014.mmi.jpg",
     "fingerprintSha1": "cb3fcaa38471deebc9b82bfc55819ace8a916237"
+  },
+  {
+    "earthquakeAt": "2023-03-19T22:18:39.000Z",
+    "latitude": -2.74,
+    "longitude": 128.07,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 38 km utara Seram Bagian Barat",
+    "feltOnStations": "III Kairatu",
+    "bmkgEarthquakeId": "20230320051839",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230320051839.mmi.jpg",
+    "fingerprintSha1": "604e91bb0e5abc6bac7f98621646b39e4ee8c6de"
   }
 ]
