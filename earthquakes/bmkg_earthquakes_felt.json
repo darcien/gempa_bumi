@@ -4930,5 +4930,17 @@
     "bmkgEarthquakeId": "20230319044647",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230319044647.mmi.jpg",
     "fingerprintSha1": "e606d47e4ac2a1c9d73e1eacc76ebbcc719c9ead"
+  },
+  {
+    "earthquakeAt": "2023-03-19T16:29:53.000Z",
+    "latitude": 2.82,
+    "longitude": 125.36,
+    "magnitude": 3.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 8 km utara Kepulauan Sitaro",
+    "feltOnStations": "II Siau-Sitaro",
+    "bmkgEarthquakeId": "20230319232953",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230319232953.mmi.jpg",
+    "fingerprintSha1": "a8f791451810257898230ae8a9dd412f7d48abf7"
   }
 ]
