@@ -4942,5 +4942,17 @@
     "bmkgEarthquakeId": "20230319232953",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230319232953.mmi.jpg",
     "fingerprintSha1": "a8f791451810257898230ae8a9dd412f7d48abf7"
+  },
+  {
+    "earthquakeAt": "2023-03-19T19:30:14.000Z",
+    "latitude": -3.77,
+    "longitude": 101.84,
+    "magnitude": 4.9,
+    "depthInKm": 27,
+    "locationInIndonesian": "Pusat gempa berada di laut 54 km barat daya Bengkulu Utara",
+    "feltOnStations": "III Kota Bengkulu, III Argamakmur, II Kepahiang",
+    "bmkgEarthquakeId": "20230320023014",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230320023014.mmi.jpg",
+    "fingerprintSha1": "cb3fcaa38471deebc9b82bfc55819ace8a916237"
   }
 ]
