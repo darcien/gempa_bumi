@@ -5026,5 +5026,17 @@
     "bmkgEarthquakeId": "20230322054348",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230322054348.mmi.jpg",
     "fingerprintSha1": "161b5fb5b947fd3a22f2ab1f153b3a837855c9a2"
+  },
+  {
+    "earthquakeAt": "2023-03-22T01:24:14.000Z",
+    "latitude": -7.75,
+    "longitude": 106.85,
+    "magnitude": 4.4,
+    "depthInKm": 31,
+    "locationInIndonesian": "Pusat gempa berada di laut 90 km Tenggara Kab-Sukabumi",
+    "feltOnStations": "III Cianjur, III Pajampangan, III Cipamingkis, III Cidora, III Pameungpeuk, II-III Kab. Bandung, II-III Kab. Garut, II-III Kab. Sukabumi, II - III Kab. Bogor, II Tasikmalaya, II Bandung Barat, II Pangalengan",
+    "bmkgEarthquakeId": "20230322082414",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230322082414.mmi.jpg",
+    "fingerprintSha1": "5c1d1c9da78f316c976db28eb84da419cbccbe2f"
   }
 ]
