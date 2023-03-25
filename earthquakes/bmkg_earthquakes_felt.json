@@ -5122,5 +5122,17 @@
     "bmkgEarthquakeId": "20230325161101",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230325161101.mmi.jpg",
     "fingerprintSha1": "0a4583b8341c966a3b486a97077216451742088b"
+  },
+  {
+    "earthquakeAt": "2023-03-25T22:53:17.000Z",
+    "latitude": 1.17,
+    "longitude": 128.37,
+    "magnitude": 4.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 20 km BaratDaya Halmahera Timur",
+    "feltOnStations": "III Wasile, II - III Buli",
+    "bmkgEarthquakeId": "20230326055317",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230326055317.mmi.jpg",
+    "fingerprintSha1": "9c1bfc8ac3ddc4fe1ed0d0cd6800944493563098"
   }
 ]
