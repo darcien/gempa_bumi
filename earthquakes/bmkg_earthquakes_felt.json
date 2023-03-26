@@ -5134,5 +5134,17 @@
     "bmkgEarthquakeId": "20230326055317",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230326055317.mmi.jpg",
     "fingerprintSha1": "9c1bfc8ac3ddc4fe1ed0d0cd6800944493563098"
+  },
+  {
+    "earthquakeAt": "2023-03-26T00:48:26.000Z",
+    "latitude": -0.45,
+    "longitude": 100.16,
+    "magnitude": 3.7,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 20 km Tenggara Agam",
+    "feltOnStations": "III Kab. Agam",
+    "bmkgEarthquakeId": "20230326074826",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230326074826.mmi.jpg",
+    "fingerprintSha1": "146d18dc4eb81e7f42f79963a2e7220d21167af1"
   }
 ]
