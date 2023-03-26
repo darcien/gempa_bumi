@@ -5182,5 +5182,17 @@
     "bmkgEarthquakeId": "20230326221120",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230326221120.mmi.jpg",
     "fingerprintSha1": "94af2e905b38dfbe1691812ec9e20732aa0cfe8e"
+  },
+  {
+    "earthquakeAt": "2023-03-26T18:39:59.000Z",
+    "latitude": -7.53,
+    "longitude": 130.1,
+    "magnitude": 5,
+    "depthInKm": 70,
+    "locationInIndonesian": "Pusat gempa berada di laut 142 BaratLaut Maluku Tenggara Barat",
+    "feltOnStations": "III Dawelor",
+    "bmkgEarthquakeId": "20230327013959",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230327013959.mmi.jpg",
+    "fingerprintSha1": "f3124b9254a24a6e0d2d767c797300447473c2b0"
   }
 ]
