@@ -5206,5 +5206,17 @@
     "bmkgEarthquakeId": "20230327195241",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230327195241.mmi.jpg",
     "fingerprintSha1": "bf25dac4d96a6bd06085f3c6b5c91a9abc02e146"
+  },
+  {
+    "earthquakeAt": "2023-03-27T17:03:44.000Z",
+    "latitude": 3.24,
+    "longitude": 97.92,
+    "magnitude": 2.4,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 29 km Tenggara Kutacane - Kab. Aceh Tenggara",
+    "feltOnStations": "II Pasie Raja, Kab. Aceh Selatan",
+    "bmkgEarthquakeId": "20230328000344",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230328000344.mmi.jpg",
+    "fingerprintSha1": "62db4f1289ce1bdcbc865b316c34a77b6a7f0257"
   }
 ]
