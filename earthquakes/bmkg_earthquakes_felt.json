@@ -5218,5 +5218,17 @@
     "bmkgEarthquakeId": "20230328000344",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230328000344.mmi.jpg",
     "fingerprintSha1": "62db4f1289ce1bdcbc865b316c34a77b6a7f0257"
+  },
+  {
+    "earthquakeAt": "2023-03-28T04:19:10.000Z",
+    "latitude": -0.41,
+    "longitude": 123.58,
+    "magnitude": 5.5,
+    "depthInKm": 53,
+    "locationInIndonesian": "Pusat gempa berada di laut 98 km BaratDaya Bolaang Mongondow Selatan",
+    "feltOnStations": "IV Luwuk, II-III Kab. Gorontalo, II Kota Gorontalo",
+    "bmkgEarthquakeId": "20230328111910",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230328111910.mmi.jpg",
+    "fingerprintSha1": "60c3569208bdc1b37c7cbf573bab0752351317dc"
   }
 ]
