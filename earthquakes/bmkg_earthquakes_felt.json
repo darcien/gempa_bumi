@@ -5230,5 +5230,17 @@
     "bmkgEarthquakeId": "20230328111910",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230328111910.mmi.jpg",
     "fingerprintSha1": "60c3569208bdc1b37c7cbf573bab0752351317dc"
+  },
+  {
+    "earthquakeAt": "2023-03-28T04:31:55.000Z",
+    "latitude": -3.44,
+    "longitude": 138.72,
+    "magnitude": 4.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 27 km TimurLaut Tolikara",
+    "feltOnStations": "II - III Kab. Wamena",
+    "bmkgEarthquakeId": "20230328113155",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230328113155.mmi.jpg",
+    "fingerprintSha1": "20fee8c69b670c60d927c8395d0804631b07e6ed"
   }
 ]
