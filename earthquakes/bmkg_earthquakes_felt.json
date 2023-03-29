@@ -5242,5 +5242,17 @@
     "bmkgEarthquakeId": "20230328113155",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230328113155.mmi.jpg",
     "fingerprintSha1": "20fee8c69b670c60d927c8395d0804631b07e6ed"
+  },
+  {
+    "earthquakeAt": "2023-03-29T05:34:44.000Z",
+    "latitude": -6.84,
+    "longitude": 107.08,
+    "magnitude": 4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km BaratDaya Cianjur",
+    "feltOnStations": "III - IV Cianjur, III - IV Sukabumi, III-IV Bogor, III Sukaresmi, III Sabandar, III Cibodas, III Cipanas, III Rancagoong",
+    "bmkgEarthquakeId": "20230329123444",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230329123444.mmi.jpg",
+    "fingerprintSha1": "db06bdc086ba8f63f3f26883abaa7eb70e9fc985"
   }
 ]
