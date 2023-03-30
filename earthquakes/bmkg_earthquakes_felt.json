@@ -5302,5 +5302,17 @@
     "bmkgEarthquakeId": "20230330184011",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230330184011.mmi.jpg",
     "fingerprintSha1": "d4b6270519eec77d3d1944655db6e290ab36551e"
+  },
+  {
+    "earthquakeAt": "2023-03-30T17:40:16.000Z",
+    "latitude": -2.4,
+    "longitude": 120.93,
+    "magnitude": 3.9,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 33 km BaratLaut Luwu Timur",
+    "feltOnStations": "III Mangkutana",
+    "bmkgEarthquakeId": "20230331004016",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230331004016.mmi.jpg",
+    "fingerprintSha1": "89835a2e81529f163535763174ac68035f83548b"
   }
 ]
