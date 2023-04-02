@@ -5422,5 +5422,17 @@
     "bmkgEarthquakeId": "20230402112234",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230402112234.mmi.jpg",
     "fingerprintSha1": "8685c10c90a42cd7e36dfc150139b120c8554686"
+  },
+  {
+    "earthquakeAt": "2023-04-02T08:40:57.000Z",
+    "latitude": -7.81,
+    "longitude": 118.73,
+    "magnitude": 5.8,
+    "depthInKm": 29,
+    "locationInIndonesian": "Pusat gempa berada di laut 70 Km Barat Laut Bima",
+    "feltOnStations": "III - IV Bima, III Makassar, III Dompu, III Sumbawa Besar, III Sumbawa Barat, II-III Labuan Bajo, III Gowa, II-III Mataram, II Takalar, II Pangkep",
+    "bmkgEarthquakeId": "20230402154057",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230402154057.mmi.jpg",
+    "fingerprintSha1": "d34f5a877836b891f85326594344354c662c39ef"
   }
 ]
