@@ -5470,5 +5470,17 @@
     "bmkgEarthquakeId": "20230402180556",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230402180556.mmi.jpg",
     "fingerprintSha1": "b57508fef22369469d13b7c6393af1558b4f7965"
+  },
+  {
+    "earthquakeAt": "2023-04-02T18:04:14.000Z",
+    "latitude": -4.44,
+    "longitude": 143.05,
+    "magnitude": 7.2,
+    "depthInKm": 93,
+    "locationInIndonesian": "Pusat gempa berada di darat 115 km BaratDaya Wewak",
+    "feltOnStations": "III Keerom, III Kota Jayapura, III Kabupaten Jayapura, III Wamena, II-III Nabire, II-III Merauke",
+    "bmkgEarthquakeId": "20230403010414",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230403010414.mmi.jpg",
+    "fingerprintSha1": "2c5d56440bd1ebc98843eb304ac3ae80452d9880"
   }
 ]
