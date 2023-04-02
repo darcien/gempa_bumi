@@ -5434,5 +5434,29 @@
     "bmkgEarthquakeId": "20230402154057",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230402154057.mmi.jpg",
     "fingerprintSha1": "d34f5a877836b891f85326594344354c662c39ef"
+  },
+  {
+    "earthquakeAt": "2023-04-02T09:50:26.000Z",
+    "latitude": -2.52,
+    "longitude": 140.5,
+    "magnitude": 4,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 13 km Timur Laut Kabupaten Jayapura",
+    "feltOnStations": "III - IV Sentani",
+    "bmkgEarthquakeId": "20230402165026",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230402165026.mmi.jpg",
+    "fingerprintSha1": "e005fa33d6ceb7c666e7ce0d6df912230c2b4041"
+  },
+  {
+    "earthquakeAt": "2023-04-02T09:26:22.000Z",
+    "latitude": -4.38,
+    "longitude": 136.9,
+    "magnitude": 4.5,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempabumi berada di darat 59 km Timur Laut Mimika",
+    "feltOnStations": "II Mimika",
+    "bmkgEarthquakeId": "20230402162622",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230402162622.mmi.jpg",
+    "fingerprintSha1": "7011d26cfa4d529a401dfba7a6991f75179ff6e2"
   }
 ]
