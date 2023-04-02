@@ -5398,5 +5398,17 @@
     "bmkgEarthquakeId": "20230401204859",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230401204859.mmi.jpg",
     "fingerprintSha1": "b34a3a73aa7fe8f35f8a59889d6dea0c1f701b75"
+  },
+  {
+    "earthquakeAt": "2023-04-02T02:12:10.000Z",
+    "latitude": -4.86,
+    "longitude": 121.99,
+    "magnitude": 2.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km BaratDaya Bombana",
+    "feltOnStations": "II - III Bombana",
+    "bmkgEarthquakeId": "20230402091210",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230402091210.mmi.jpg",
+    "fingerprintSha1": "8c82094d60b8b4d5ad0b167a290b4e9157232493"
   }
 ]
