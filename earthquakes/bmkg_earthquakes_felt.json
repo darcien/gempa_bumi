@@ -5518,5 +5518,17 @@
     "bmkgEarthquakeId": "20230403231800",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230403231800.mmi.jpg",
     "fingerprintSha1": "ce6e3ddda55a5df2ac4c94410fac2b14f8b4b6d9"
+  },
+  {
+    "earthquakeAt": "2023-04-03T18:26:48.000Z",
+    "latitude": -8.87,
+    "longitude": 115.69,
+    "magnitude": 4.6,
+    "depthInKm": 74,
+    "locationInIndonesian": "Pusat gempa berada di Laut 48 km Tenggara Klungkung",
+    "feltOnStations": "III Karangasem, III Kuta, III Denpasar, III Lombok Barat, III Lombok Tengah, III Mataram",
+    "bmkgEarthquakeId": "20230404012648",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230404012648.mmi.jpg",
+    "fingerprintSha1": "89e704784b1121906356ef5b35d6d0860a3c7908"
   }
 ]
