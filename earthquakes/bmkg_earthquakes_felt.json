@@ -5494,5 +5494,17 @@
     "bmkgEarthquakeId": "20230403131305",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230403131305.mmi.jpg",
     "fingerprintSha1": "a1e45042e099511ba3dafb231d9890b5403efcf2"
+  },
+  {
+    "earthquakeAt": "2023-04-03T14:59:43.000Z",
+    "latitude": 0.86,
+    "longitude": 98.73,
+    "magnitude": 6.4,
+    "depthInKm": 102,
+    "locationInIndonesian": "Pusat gempa berada di laut 82 km Barat Daya Padang Sidempuan",
+    "feltOnStations": "IV - V Padang Sidempuan, IV - V Aek Godang, IV - V Pinangsori, III - IV Gunungsitoli, III - IV Nias Barat, III - IV Nias Selatan, III - IV Nias Utara, III - IV Aceh Singkil, III Telo, III Pulau Banyak, III Tapanuli Tengah, III Subulussalam, III Dairi, III Aceh Selatan, II Banda Aceh, IV Pasaman Barat, IV Pasaman, IV Agam, III Padang, III Pariaman, III Painan, III Padang Panjang, III Bukittinggi, III Payakumbuh, III Solok, III Limapuluhkota, III Tua Pejat, II Solok Selatan, II Pekanbaru",
+    "bmkgEarthquakeId": "20230403215943",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230403215943.mmi.jpg",
+    "fingerprintSha1": "fcd9fc707581085eccf145d54a5f45487caa76e8"
   }
 ]
