@@ -5554,5 +5554,17 @@
     "bmkgEarthquakeId": "20230406202834",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230406202834.mmi.jpg",
     "fingerprintSha1": "4832c28057eada7a9d50c2daab01597f07ad770e"
+  },
+  {
+    "earthquakeAt": "2023-04-07T12:24:32.000Z",
+    "latitude": -0.27,
+    "longitude": 100.28,
+    "magnitude": 3.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km barat laut Bukittinggi",
+    "feltOnStations": "III Kota Bukittinggi, III Kabupaten Agam, II Kota Padang Panjang",
+    "bmkgEarthquakeId": "20230407192432",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230407192432.mmi.jpg",
+    "fingerprintSha1": "4dc5bcd33ba2e86ca641393af92708a7544f060a"
   }
 ]
