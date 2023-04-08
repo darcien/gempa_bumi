@@ -5566,5 +5566,17 @@
     "bmkgEarthquakeId": "20230407192432",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230407192432.mmi.jpg",
     "fingerprintSha1": "4dc5bcd33ba2e86ca641393af92708a7544f060a"
+  },
+  {
+    "earthquakeAt": "2023-04-08T05:21:22.000Z",
+    "latitude": -0.3,
+    "longitude": 100.28,
+    "magnitude": 4.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km Barat Laut Bukittinggi",
+    "feltOnStations": "III Bukittinggi, III Pariaman, II - III Padang Panjang",
+    "bmkgEarthquakeId": "20230408122122",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230408122122.mmi.jpg",
+    "fingerprintSha1": "b0538155484452bb6ebf23f56c400fb9624c21ff"
   }
 ]
