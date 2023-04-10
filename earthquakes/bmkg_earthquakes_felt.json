@@ -5650,5 +5650,17 @@
     "bmkgEarthquakeId": "20230411002921",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230411002921.mmi.jpg",
     "fingerprintSha1": "de0c2c8cbe70b4b37aaa99ef508f3e6ad80de51b"
+  },
+  {
+    "earthquakeAt": "2023-04-10T22:30:44.000Z",
+    "latitude": -3.4,
+    "longitude": 128.79,
+    "magnitude": 3.6,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di laut 13 km Selatan Elpaputih-Kab. Maluku Tengah",
+    "feltOnStations": "II Masohi",
+    "bmkgEarthquakeId": "20230411053044",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230411053044.mmi.jpg",
+    "fingerprintSha1": "ff98c5d96e56b40b2748d7bcb68ebd27ceee1a3c"
   }
 ]
