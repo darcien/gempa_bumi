@@ -5590,5 +5590,17 @@
     "bmkgEarthquakeId": "20230409173819",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230409173819.mmi.jpg",
     "fingerprintSha1": "8ccb0ef962a6d6e05677e755cfdbedd837c02636"
+  },
+  {
+    "earthquakeAt": "2023-04-10T00:37:29.000Z",
+    "latitude": -9.63,
+    "longitude": 115.12,
+    "magnitude": 5.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 93 km BaratDaya Kuta Selatan",
+    "feltOnStations": "III Kuta, III Denpasar, III Mataram, III Lombok Barat, III Lombok Tengah, II - III Karangasem, II - III Sumbawa Barat, II - III Kuta Selatan",
+    "bmkgEarthquakeId": "20230410073729",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230410073729.mmi.jpg",
+    "fingerprintSha1": "5142d6c1170fab2d01a1f8bf4e6444b848406513"
   }
 ]
