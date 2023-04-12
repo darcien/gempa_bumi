@@ -5710,5 +5710,17 @@
     "bmkgEarthquakeId": "20230411191605",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230411191605.mmi.jpg",
     "fingerprintSha1": "dd30aaa6fefccdc4fa474503ee2c42208f1ce11b"
+  },
+  {
+    "earthquakeAt": "2023-04-12T04:19:52.000Z",
+    "latitude": -7.15,
+    "longitude": 120.41,
+    "magnitude": 3.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 96 km Baratdaya Selayar",
+    "feltOnStations": "II-III Jampea",
+    "bmkgEarthquakeId": "20230412111952",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230412111952.mmi.jpg",
+    "fingerprintSha1": "13458a298133f07a5a2442df080ac17225accaa7"
   }
 ]
