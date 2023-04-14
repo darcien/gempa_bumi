@@ -5734,5 +5734,29 @@
     "bmkgEarthquakeId": "20230413194546",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230413194546.mmi.jpg",
     "fingerprintSha1": "910997484145865695448b3f3f98a61cd0f98af7"
+  },
+  {
+    "earthquakeAt": "2023-04-14T03:01:33.000Z",
+    "latitude": -1.69,
+    "longitude": 139.24,
+    "magnitude": 5.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di Laut 57 km TimurLaut Sarmi",
+    "feltOnStations": "III Sarmi",
+    "bmkgEarthquakeId": "20230414100133",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230414100133.mmi.jpg",
+    "fingerprintSha1": "ab7862531ea1ca310c9315ab16f278aaae24fe95"
+  },
+  {
+    "earthquakeAt": "2023-04-14T02:22:36.000Z",
+    "latitude": -2.89,
+    "longitude": 119.36,
+    "magnitude": 2.7,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km Timur Laut Mamasa",
+    "feltOnStations": "III Mamasa",
+    "bmkgEarthquakeId": "20230414092236",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230414092236.mmi.jpg",
+    "fingerprintSha1": "a6d3bf698b915a19843f66179fd44d54a7d4d662"
   }
 ]
