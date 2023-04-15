@@ -5806,5 +5806,17 @@
     "bmkgEarthquakeId": "20230415125510",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230415125510.mmi.jpg",
     "fingerprintSha1": "1347c6d1c073b4002b6f89f47030e2b56a88bacc"
+  },
+  {
+    "earthquakeAt": "2023-04-15T15:07:07.000Z",
+    "latitude": -4.93,
+    "longitude": 102.85,
+    "magnitude": 6.2,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di laut 53 km BaratDaya Bengkulu Selatan",
+    "feltOnStations": "IV Bengkulu Selatan, IV Liwa, IV Manna, III Kota Bengkulu, III Bengkulu utara, III Enggano, III Pesisir Barat, II Sekincau, II Kota Agung, II Linggau, II Lahat, II Kepahiang, IV Kaur, II Musi Rawas, II Oku Selatan, II Bukit Kemuning, III Pagar Alam",
+    "bmkgEarthquakeId": "20230415220707",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230415220707.mmi.jpg",
+    "fingerprintSha1": "14a76f11c966b92e0e647617c4bd69bae142796f"
   }
 ]
