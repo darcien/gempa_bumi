@@ -5782,5 +5782,17 @@
     "bmkgEarthquakeId": "20230415041131",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230415041131.mmi.jpg",
     "fingerprintSha1": "00de6220f12a554bb1697c99a86f82e5996e51f2"
+  },
+  {
+    "earthquakeAt": "2023-04-15T04:39:43.000Z",
+    "latitude": 1.17,
+    "longitude": 99.41,
+    "magnitude": 4.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 27 km Tenggara Padang Sidempuan",
+    "feltOnStations": "III - IV Padang Sidempuan",
+    "bmkgEarthquakeId": "20230415113943",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230415113943.mmi.jpg",
+    "fingerprintSha1": "2d70f9c6d6024e93352d71bc8adcd4809caa1fbc"
   }
 ]
