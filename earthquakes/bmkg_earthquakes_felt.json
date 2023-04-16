@@ -5818,5 +5818,17 @@
     "bmkgEarthquakeId": "20230415220707",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230415220707.mmi.jpg",
     "fingerprintSha1": "14a76f11c966b92e0e647617c4bd69bae142796f"
+  },
+  {
+    "earthquakeAt": "2023-04-16T03:29:28.000Z",
+    "latitude": -5.5,
+    "longitude": 122.25,
+    "magnitude": 4.5,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di laut 22.9 km BaratDaya Kab. Buton Tengah",
+    "feltOnStations": "II - III Kabaena",
+    "bmkgEarthquakeId": "20230416102928",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230416102928.mmi.jpg",
+    "fingerprintSha1": "c7dc1c6a03029578e5471e965bf3c21670444b5a"
   }
 ]
