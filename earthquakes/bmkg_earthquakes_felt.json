@@ -5830,5 +5830,17 @@
     "bmkgEarthquakeId": "20230416102928",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230416102928.mmi.jpg",
     "fingerprintSha1": "c7dc1c6a03029578e5471e965bf3c21670444b5a"
+  },
+  {
+    "earthquakeAt": "2023-04-17T02:24:35.000Z",
+    "latitude": -2.56,
+    "longitude": 120.61,
+    "magnitude": 3.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 62 km BaratLaut Luwu Timur",
+    "feltOnStations": "II-III Masamba",
+    "bmkgEarthquakeId": "20230417092435",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230417092435.mmi.jpg",
+    "fingerprintSha1": "1718655b5f86d0be5981cf12b6fd7d09b6f9f452"
   }
 ]
