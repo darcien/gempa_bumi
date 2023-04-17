@@ -5866,5 +5866,17 @@
     "bmkgEarthquakeId": "20230417134128",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230417134128.mmi.jpg",
     "fingerprintSha1": "5daf73c19acf612a9e0f2b591c840e4472c77191"
+  },
+  {
+    "earthquakeAt": "2023-04-17T11:05:55.000Z",
+    "latitude": -4.97,
+    "longitude": 102.84,
+    "magnitude": 5.3,
+    "depthInKm": 22,
+    "locationInIndonesian": "Pusat gempa berada di laut 58 km Barat Daya Bengkulu Selatan",
+    "feltOnStations": "III Manna, II-III Kota Bengkulu, II-III Kepahiang, I-II Liwa, I-II Lubuk Linggau, III Enggano",
+    "bmkgEarthquakeId": "20230417180555",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230417180555.mmi.jpg",
+    "fingerprintSha1": "b10850d51b249b7f7e392fa97ba951912f5418bc"
   }
 ]
