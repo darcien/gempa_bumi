@@ -5854,5 +5854,17 @@
     "bmkgEarthquakeId": "20230417113830",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230417113830.mmi.jpg",
     "fingerprintSha1": "9498f86b9233c47ae98f3a0ed04725a7e27f3eb6"
+  },
+  {
+    "earthquakeAt": "2023-04-17T06:41:28.000Z",
+    "latitude": -4.3,
+    "longitude": 122.39,
+    "magnitude": 2.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km TimurLaut Konawe Selatan",
+    "feltOnStations": "II - III Konawe Selatan",
+    "bmkgEarthquakeId": "20230417134128",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230417134128.mmi.jpg",
+    "fingerprintSha1": "5daf73c19acf612a9e0f2b591c840e4472c77191"
   }
 ]
