@@ -5902,5 +5902,17 @@
     "bmkgEarthquakeId": "20230419020748",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230419020748.mmi.jpg",
     "fingerprintSha1": "f0d469269206fef223e67819741878d85393a270"
+  },
+  {
+    "earthquakeAt": "2023-04-18T22:39:31.000Z",
+    "latitude": -3.79,
+    "longitude": 101.86,
+    "magnitude": 4.4,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di laut 54 km BaratDaya Bengkulu Utara",
+    "feltOnStations": "II - III Kota Bengkulu, II - III Bengkulu Tengah, II - III Bengkulu Utara",
+    "bmkgEarthquakeId": "20230419053931",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230419053931.mmi.jpg",
+    "fingerprintSha1": "6f3e9d5510977f6b9314e72a2b52ae0d65ce8496"
   }
 ]
