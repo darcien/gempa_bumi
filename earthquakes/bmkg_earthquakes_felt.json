@@ -5938,5 +5938,17 @@
     "bmkgEarthquakeId": "20230420083224",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230420083224.mmi.jpg",
     "fingerprintSha1": "5dd2e211d23f8a1429966564f955aaf3b364f239"
+  },
+  {
+    "earthquakeAt": "2023-04-21T10:21:14.000Z",
+    "latitude": 2.81,
+    "longitude": 127.14,
+    "magnitude": 6.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 141 km Tenggara Melonguane",
+    "feltOnStations": "III Morotai Selatan, III Galela, II - III Ternate, III Tobelo",
+    "bmkgEarthquakeId": "20230421172114",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230421172114.mmi.jpg",
+    "fingerprintSha1": "1dec73b8811cf77dfcb1d8d7dc3af8941e0770ca"
   }
 ]
