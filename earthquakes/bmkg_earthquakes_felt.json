@@ -5946,7 +5946,7 @@
     "magnitude": 6.4,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 141 km Tenggara Melonguane",
-    "feltOnStations": "III Morotai Selatan, III Galela, II - III Ternate, III Tobelo",
+    "feltOnStations": "III Morotai Selatan, III Galela, II - III Ternate, III Tobelo, II - III Manado, II Halmahera Tengah",
     "bmkgEarthquakeId": "20230421172114",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230421172114.mmi.jpg",
     "fingerprintSha1": "1dec73b8811cf77dfcb1d8d7dc3af8941e0770ca"
