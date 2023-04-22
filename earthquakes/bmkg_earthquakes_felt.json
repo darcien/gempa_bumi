@@ -5962,5 +5962,17 @@
     "bmkgEarthquakeId": "20230422171518",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230422171518.mmi.jpg",
     "fingerprintSha1": "c28cbd3f5556515a70f3e4ba791fdabc2126aa81"
+  },
+  {
+    "earthquakeAt": "2023-04-22T17:09:46.000Z",
+    "latitude": -0.86,
+    "longitude": 98.43,
+    "magnitude": 5.9,
+    "depthInKm": 40,
+    "locationInIndonesian": "Pusat gempa berada di 173 km Tenggara Nias Selatan",
+    "feltOnStations": "IV Siberut, III Pasaman Barat, III Pariaman, III Padang Pariaman, III Padang, II Padang Panjang, II-III Pulau Tello",
+    "bmkgEarthquakeId": "20230423000946",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230423000946.mmi.jpg",
+    "fingerprintSha1": "cdda890f73a9f2bb125b6b768e835b4cdad1f4cc"
   }
 ]
