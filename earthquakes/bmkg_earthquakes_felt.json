@@ -5970,7 +5970,7 @@
     "magnitude": 5.9,
     "depthInKm": 40,
     "locationInIndonesian": "Pusat gempa berada di 173 km Tenggara Nias Selatan",
-    "feltOnStations": "IV Siberut, III Pasaman Barat, III Pariaman, III Padang Pariaman, III Padang, II Padang Panjang, II-III Pulau Tello",
+    "feltOnStations": "IV Siberut, III Pasaman Barat, III Pariaman, III Padang Pariaman, III Padang, II Padang Panjang, III Pulau Tello",
     "bmkgEarthquakeId": "20230423000946",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230423000946.mmi.jpg",
     "fingerprintSha1": "cdda890f73a9f2bb125b6b768e835b4cdad1f4cc"
