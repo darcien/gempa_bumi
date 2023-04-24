@@ -6022,5 +6022,17 @@
     "bmkgEarthquakeId": "20230425030057",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230425030057.mmi.jpg",
     "fingerprintSha1": "a7b5da856967e136abb0e98572b1636c7fa66ee5"
+  },
+  {
+    "earthquakeAt": "2023-04-24T22:30:46.000Z",
+    "latitude": -7.79,
+    "longitude": 106.44,
+    "magnitude": 3.8,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada dilaut 89Km barat daya Kab,Sukabumi",
+    "feltOnStations": "II - III Surade, II - III Jampang, II - III Ujung Genteng",
+    "bmkgEarthquakeId": "20230425053046",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230425053046.mmi.jpg",
+    "fingerprintSha1": "ce38f9c2435a1f2b6595a46d56c2e408be325e46"
   }
 ]
