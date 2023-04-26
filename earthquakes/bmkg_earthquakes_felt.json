@@ -6058,5 +6058,17 @@
     "bmkgEarthquakeId": "20230426095627",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230426095627.mmi.jpg",
     "fingerprintSha1": "7dbcf7af1e860f1944d077d2ec35d62135371b8d"
+  },
+  {
+    "earthquakeAt": "2023-04-26T06:34:01.000Z",
+    "latitude": 4.57,
+    "longitude": 95.1,
+    "magnitude": 4.4,
+    "depthInKm": 29,
+    "locationInIndonesian": "Pusat gempa berada di laut 53 km BaratDaya Calang",
+    "feltOnStations": "II Lamno",
+    "bmkgEarthquakeId": "20230426133401",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230426133401.mmi.jpg",
+    "fingerprintSha1": "a16bec694a5b458eb8fe0bb71a95812bbe2ef68d"
   }
 ]
