@@ -6046,5 +6046,17 @@
     "bmkgEarthquakeId": "20230426070445",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230426070445.mmi.jpg",
     "fingerprintSha1": "0b9b6a53958ad253277d5722aa7f761f01691319"
+  },
+  {
+    "earthquakeAt": "2023-04-26T02:56:27.000Z",
+    "latitude": 4.77,
+    "longitude": 95.56,
+    "magnitude": 4.7,
+    "depthInKm": 61,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km BaratLaut Calang",
+    "feltOnStations": "II Aceh Besar, II Banda Aceh",
+    "bmkgEarthquakeId": "20230426095627",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230426095627.mmi.jpg",
+    "fingerprintSha1": "7dbcf7af1e860f1944d077d2ec35d62135371b8d"
   }
 ]
