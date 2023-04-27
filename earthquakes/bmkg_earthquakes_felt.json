@@ -6118,5 +6118,17 @@
     "bmkgEarthquakeId": "20230427202442",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230427202442.mmi.jpg",
     "fingerprintSha1": "766905423d20d8bde4aafaebc3e5f90d6b62de4d"
+  },
+  {
+    "earthquakeAt": "2023-04-27T14:56:56.000Z",
+    "latitude": 3.02,
+    "longitude": 98.49,
+    "magnitude": 4.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km Baratdaya Kab. Karo",
+    "feltOnStations": "II Sidikalang",
+    "bmkgEarthquakeId": "20230427215656",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230427215656.mmi.jpg",
+    "fingerprintSha1": "64a4c9ac57972340b6c8d9b53f8183ca3482534a"
   }
 ]
