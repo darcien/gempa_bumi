@@ -6126,7 +6126,7 @@
     "magnitude": 4.7,
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di darat 9 km Baratdaya Kab. Karo",
-    "feltOnStations": "II Sidikalang",
+    "feltOnStations": "II Sidikalang, IV Kabanjahe, IV Kab. Karo, III-IV Munte",
     "bmkgEarthquakeId": "20230427215656",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230427215656.mmi.jpg",
     "fingerprintSha1": "64a4c9ac57972340b6c8d9b53f8183ca3482534a"
