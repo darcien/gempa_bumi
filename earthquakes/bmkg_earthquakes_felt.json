@@ -6166,5 +6166,29 @@
     "bmkgEarthquakeId": "20230428161956",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230428161956.mmi.jpg",
     "fingerprintSha1": "cc9a565fed650126b3e083b620d78bd17beee775"
+  },
+  {
+    "earthquakeAt": "2023-04-28T20:46:34.000Z",
+    "latitude": 2.49,
+    "longitude": 96.58,
+    "magnitude": 4.9,
+    "depthInKm": 26,
+    "locationInIndonesian": "Pusat gempa berada di laut 23 km Timur Laut Sinabang",
+    "feltOnStations": "III Aceh Selatan",
+    "bmkgEarthquakeId": "20230429034634",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230429034634.mmi.jpg",
+    "fingerprintSha1": "e0e8fec0b1391a5527a316811181d8caaab8d1cf"
+  },
+  {
+    "earthquakeAt": "2023-04-28T20:38:32.000Z",
+    "latitude": -8.8,
+    "longitude": 119,
+    "magnitude": 5.7,
+    "depthInKm": 98,
+    "locationInIndonesian": "Pusat gempa berada di laut 46 km Tenggara, Kota Bima",
+    "feltOnStations": "IV Kota Bima, III Sumbawa, III Labuan Bajo, II Ruteng, IV Kodi",
+    "bmkgEarthquakeId": "20230429033832",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230429033832.mmi.jpg",
+    "fingerprintSha1": "db4ae5b04dcf1adb77f30dfb913a9c5a9823a045"
   }
 ]
