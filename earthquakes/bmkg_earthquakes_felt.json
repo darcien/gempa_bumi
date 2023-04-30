@@ -6202,5 +6202,17 @@
     "bmkgEarthquakeId": "20230429194006",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230429194006.mmi.jpg",
     "fingerprintSha1": "ca1fbaf1bfb72315393973d5187ee6a03089ff6c"
+  },
+  {
+    "earthquakeAt": "2023-04-30T11:28:03.000Z",
+    "latitude": -8.01,
+    "longitude": 122.9,
+    "magnitude": 3.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 34 km Barat Laut Larantuka",
+    "feltOnStations": "III-IV Tanjung Bunga",
+    "bmkgEarthquakeId": "20230430182803",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230430182803.mmi.jpg",
+    "fingerprintSha1": "355f0ca0464a21dfe7cf08faf4e2b9108afd916e"
   }
 ]
