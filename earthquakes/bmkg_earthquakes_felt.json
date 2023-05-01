@@ -6214,5 +6214,17 @@
     "bmkgEarthquakeId": "20230430182803",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230430182803.mmi.jpg",
     "fingerprintSha1": "355f0ca0464a21dfe7cf08faf4e2b9108afd916e"
+  },
+  {
+    "earthquakeAt": "2023-05-01T03:20:12.000Z",
+    "latitude": -4.01,
+    "longitude": 136.07,
+    "magnitude": 3.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 km Timur Laut Dogiyai",
+    "feltOnStations": "II Dogiyai",
+    "bmkgEarthquakeId": "20230501102012",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230501102012.mmi.jpg",
+    "fingerprintSha1": "ba8f8ce06e6d5a87fe0b8805136c3e14ea37fdf8"
   }
 ]
