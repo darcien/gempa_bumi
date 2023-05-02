@@ -6238,5 +6238,17 @@
     "bmkgEarthquakeId": "20230503005644",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230503005644.mmi.jpg",
     "fingerprintSha1": "da68b16b2dc3922e69f5d2b1ef0f1d56e8281c8d"
+  },
+  {
+    "earthquakeAt": "2023-05-02T22:56:27.000Z",
+    "latitude": -5.18,
+    "longitude": 102.55,
+    "magnitude": 4.8,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 36 km Timur Laut Enggano",
+    "feltOnStations": "III Enggano",
+    "bmkgEarthquakeId": "20230503055627",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230503055627.mmi.jpg",
+    "fingerprintSha1": "1bcd5efc7586095a70d0137c1f18fb5d706b9492"
   }
 ]
