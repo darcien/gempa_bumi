@@ -6226,5 +6226,17 @@
     "bmkgEarthquakeId": "20230501102012",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230501102012.mmi.jpg",
     "fingerprintSha1": "ba8f8ce06e6d5a87fe0b8805136c3e14ea37fdf8"
+  },
+  {
+    "earthquakeAt": "2023-05-02T17:56:44.000Z",
+    "latitude": -9.31,
+    "longitude": 114.19,
+    "magnitude": 4.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di Laut 116 km BaratDaya Jembrana",
+    "feltOnStations": "II Kuta, II Kuta Selatan",
+    "bmkgEarthquakeId": "20230503005644",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230503005644.mmi.jpg",
+    "fingerprintSha1": "da68b16b2dc3922e69f5d2b1ef0f1d56e8281c8d"
   }
 ]
