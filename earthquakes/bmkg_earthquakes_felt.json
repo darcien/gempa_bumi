@@ -6250,5 +6250,17 @@
     "bmkgEarthquakeId": "20230503055627",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230503055627.mmi.jpg",
     "fingerprintSha1": "1bcd5efc7586095a70d0137c1f18fb5d706b9492"
+  },
+  {
+    "earthquakeAt": "2023-05-03T01:23:06.000Z",
+    "latitude": 3.38,
+    "longitude": 126.07,
+    "magnitude": 5.6,
+    "depthInKm": 32,
+    "locationInIndonesian": "Pusat gempa berada di laut 69 km Tenggara Tahuna",
+    "feltOnStations": "III Naha, II Talaud, II Sitaro",
+    "bmkgEarthquakeId": "20230503082306",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230503082306.mmi.jpg",
+    "fingerprintSha1": "2801d49a97027503959d2ce690b20d397918bbc1"
   }
 ]
