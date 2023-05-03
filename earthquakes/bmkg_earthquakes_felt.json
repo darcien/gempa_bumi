@@ -6286,5 +6286,17 @@
     "bmkgEarthquakeId": "20230503205439",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230503205439.mmi.jpg",
     "fingerprintSha1": "129907a5741de3023620828923e83d023aead579"
+  },
+  {
+    "earthquakeAt": "2023-05-03T15:45:46.000Z",
+    "latitude": -8.34,
+    "longitude": 122.04,
+    "magnitude": 3.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 36 km Barat Laut MAUMERE-SIKKA",
+    "feltOnStations": "II-III Maumere",
+    "bmkgEarthquakeId": "20230503224546",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230503224546.mmi.jpg",
+    "fingerprintSha1": "23a948544398889a12624a20b4e51ed0ac1d9d51"
   }
 ]
