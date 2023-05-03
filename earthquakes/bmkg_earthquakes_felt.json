@@ -6262,5 +6262,17 @@
     "bmkgEarthquakeId": "20230503082306",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230503082306.mmi.jpg",
     "fingerprintSha1": "2801d49a97027503959d2ce690b20d397918bbc1"
+  },
+  {
+    "earthquakeAt": "2023-05-03T06:15:54.000Z",
+    "latitude": -3.62,
+    "longitude": 128.68,
+    "magnitude": 5.3,
+    "depthInKm": 103,
+    "locationInIndonesian": "Pusat gempa berada di laut 6 km Tenggara Saparua",
+    "feltOnStations": "II Ambon, II Masohi",
+    "bmkgEarthquakeId": "20230503131554",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230503131554.mmi.jpg",
+    "fingerprintSha1": "a408164260d697c340055585efc23237cefb49ab"
   }
 ]
