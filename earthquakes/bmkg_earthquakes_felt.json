@@ -6274,5 +6274,17 @@
     "bmkgEarthquakeId": "20230503131554",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230503131554.mmi.jpg",
     "fingerprintSha1": "a408164260d697c340055585efc23237cefb49ab"
+  },
+  {
+    "earthquakeAt": "2023-05-03T13:54:39.000Z",
+    "latitude": -6.76,
+    "longitude": 106.7,
+    "magnitude": 3.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km barat daya Kota Bogor",
+    "feltOnStations": "III Caringin, III Cibadak, III Cimangu, III Cicuruk, II Sukabumi, II Bogor, II Pelabuhan Ratu",
+    "bmkgEarthquakeId": "20230503205439",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230503205439.mmi.jpg",
+    "fingerprintSha1": "129907a5741de3023620828923e83d023aead579"
   }
 ]
