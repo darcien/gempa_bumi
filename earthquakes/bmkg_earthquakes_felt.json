@@ -6298,5 +6298,17 @@
     "bmkgEarthquakeId": "20230503224546",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230503224546.mmi.jpg",
     "fingerprintSha1": "23a948544398889a12624a20b4e51ed0ac1d9d51"
+  },
+  {
+    "earthquakeAt": "2023-05-04T14:22:03.000Z",
+    "latitude": -10.52,
+    "longitude": 121.7,
+    "magnitude": 3.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di Laut 15 km BaratLaut Sabu Raijua",
+    "feltOnStations": "IV Sabu Raijua",
+    "bmkgEarthquakeId": "20230504212203",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230504212203.mmi.jpg",
+    "fingerprintSha1": "67d7d442223958512a84213f28cfd14120bfc0db"
   }
 ]
