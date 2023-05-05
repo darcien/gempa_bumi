@@ -6310,5 +6310,17 @@
     "bmkgEarthquakeId": "20230504212203",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230504212203.mmi.jpg",
     "fingerprintSha1": "67d7d442223958512a84213f28cfd14120bfc0db"
+  },
+  {
+    "earthquakeAt": "2023-05-05T05:36:02.000Z",
+    "latitude": -4.05,
+    "longitude": 122.33,
+    "magnitude": 3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 35 km TimurLaut KONAWESELATAN-SULTRA",
+    "feltOnStations": "II-III Kendari, II Konawe Selatan",
+    "bmkgEarthquakeId": "20230505123602",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230505123602.mmi.jpg",
+    "fingerprintSha1": "c6ae6aa8347bdd2e2544f1efabcc8af1d0699550"
   }
 ]
