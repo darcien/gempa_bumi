@@ -6382,5 +6382,17 @@
     "bmkgEarthquakeId": "20230507015700",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230507015700.mmi.jpg",
     "fingerprintSha1": "69e9192db2c09bf3f76bbe71dc1aec9874219b74"
+  },
+  {
+    "earthquakeAt": "2023-05-08T17:19:35.000Z",
+    "latitude": -7.76,
+    "longitude": 109.77,
+    "magnitude": 3.9,
+    "depthInKm": 97,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km Tenggara Kebumen",
+    "feltOnStations": "II Kebumen",
+    "bmkgEarthquakeId": "20230509001935",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230509001935.mmi.jpg",
+    "fingerprintSha1": "b3802f09209a87cd14433b01f6e1e092758d4295"
   }
 ]
