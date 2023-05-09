@@ -6394,5 +6394,17 @@
     "bmkgEarthquakeId": "20230509001935",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230509001935.mmi.jpg",
     "fingerprintSha1": "b3802f09209a87cd14433b01f6e1e092758d4295"
+  },
+  {
+    "earthquakeAt": "2023-05-09T05:10:07.000Z",
+    "latitude": -3.71,
+    "longitude": 133.71,
+    "magnitude": 2.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 54 km BaratDaya Kaimana",
+    "feltOnStations": "II Kaimana",
+    "bmkgEarthquakeId": "20230509121007",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230509121007.mmi.jpg",
+    "fingerprintSha1": "b2b5b253f7558c7b08e0d93745363a6c4d9bbb71"
   }
 ]
