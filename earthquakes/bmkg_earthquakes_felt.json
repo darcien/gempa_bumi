@@ -6406,5 +6406,17 @@
     "bmkgEarthquakeId": "20230509121007",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230509121007.mmi.jpg",
     "fingerprintSha1": "b2b5b253f7558c7b08e0d93745363a6c4d9bbb71"
+  },
+  {
+    "earthquakeAt": "2023-05-09T06:13:29.000Z",
+    "latitude": 0.71,
+    "longitude": 117.75,
+    "magnitude": 4.2,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 36 km TimurLaut Sangatta",
+    "feltOnStations": "II-III Bengalon",
+    "bmkgEarthquakeId": "20230509131329",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230509131329.mmi.jpg",
+    "fingerprintSha1": "c417d132e075eceef7d07dee65403e7b0a843a9c"
   }
 ]
