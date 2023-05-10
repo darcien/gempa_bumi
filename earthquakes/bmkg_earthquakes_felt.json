@@ -6418,5 +6418,17 @@
     "bmkgEarthquakeId": "20230509131329",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230509131329.mmi.jpg",
     "fingerprintSha1": "c417d132e075eceef7d07dee65403e7b0a843a9c"
+  },
+  {
+    "earthquakeAt": "2023-05-10T04:24:49.000Z",
+    "latitude": -6.47,
+    "longitude": 104.9,
+    "magnitude": 5.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di Laut 78 km BaratLaut Sumur",
+    "feltOnStations": "III Padeglang, II-III Sukabumi, II-III Kota Tangerang, II Bogor, II-III Lebak, II-III Serang, II-III Cilegon",
+    "bmkgEarthquakeId": "20230510112449",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230510112449.mmi.jpg",
+    "fingerprintSha1": "a35fb2e4e5583978e40d57b27ebeccc3f1c99e5e"
   }
 ]
