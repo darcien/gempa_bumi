@@ -6426,7 +6426,7 @@
     "magnitude": 5.4,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di Laut 78 km BaratLaut Sumur",
-    "feltOnStations": "III Padeglang, II-III Sukabumi, II-III Kota Tangerang, II Bogor, II-III Lebak, II-III Serang, II-III Cilegon",
+    "feltOnStations": "III Padeglang, II-III Sukabumi, II Kota Tangerang, II Bogor, II-III Lebak, II-III Serang, II-III Cilegon, II Tangerang Selatan",
     "bmkgEarthquakeId": "20230510112449",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230510112449.mmi.jpg",
     "fingerprintSha1": "a35fb2e4e5583978e40d57b27ebeccc3f1c99e5e"
