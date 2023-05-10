@@ -6430,5 +6430,17 @@
     "bmkgEarthquakeId": "20230510112449",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230510112449.mmi.jpg",
     "fingerprintSha1": "a35fb2e4e5583978e40d57b27ebeccc3f1c99e5e"
+  },
+  {
+    "earthquakeAt": "2023-05-10T10:48:10.000Z",
+    "latitude": -6.56,
+    "longitude": 104.83,
+    "magnitude": 5.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 83 km BaratLaut Sumur",
+    "feltOnStations": "II - III Bandar Lampung, II - III Tanggamus, II - III Pesawaran, II Liwa",
+    "bmkgEarthquakeId": "20230510174810",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230510174810.mmi.jpg",
+    "fingerprintSha1": "07cb6be0e8255bb426d67d7cdc98f3cfe15e73ec"
   }
 ]
