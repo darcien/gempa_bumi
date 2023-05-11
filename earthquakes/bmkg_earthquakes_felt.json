@@ -6466,5 +6466,17 @@
     "bmkgEarthquakeId": "20230511230417",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230511230417.mmi.jpg",
     "fingerprintSha1": "10c41846b1c5356d7a7da6ac60d5f5cde15781bb"
+  },
+  {
+    "earthquakeAt": "2023-05-11T21:56:39.000Z",
+    "latitude": -8.41,
+    "longitude": 109.01,
+    "magnitude": 4.5,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di laut 76 Km Tenggara Cilacap",
+    "feltOnStations": "II-III Cilacap",
+    "bmkgEarthquakeId": "20230512045639",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230512045639.mmi.jpg",
+    "fingerprintSha1": "624535b1c5c8c6224afb3f592ec4c9776ea98e0f"
   }
 ]
