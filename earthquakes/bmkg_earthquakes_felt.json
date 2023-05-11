@@ -6454,5 +6454,17 @@
     "bmkgEarthquakeId": "20230511213557",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230511213557.mmi.jpg",
     "fingerprintSha1": "352fe0e60e048e5c1e589e415a4b1bd96809c45d"
+  },
+  {
+    "earthquakeAt": "2023-05-11T16:04:17.000Z",
+    "latitude": -6.42,
+    "longitude": 104.86,
+    "magnitude": 4.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 84 km Barat Laut SUMUR",
+    "feltOnStations": "II Pesisir Barat, II Tanggamus",
+    "bmkgEarthquakeId": "20230511230417",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230511230417.mmi.jpg",
+    "fingerprintSha1": "10c41846b1c5356d7a7da6ac60d5f5cde15781bb"
   }
 ]
