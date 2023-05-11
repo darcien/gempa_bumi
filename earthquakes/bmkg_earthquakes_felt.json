@@ -6442,5 +6442,17 @@
     "bmkgEarthquakeId": "20230510174810",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230510174810.mmi.jpg",
     "fingerprintSha1": "07cb6be0e8255bb426d67d7cdc98f3cfe15e73ec"
+  },
+  {
+    "earthquakeAt": "2023-05-11T14:35:57.000Z",
+    "latitude": 1.6,
+    "longitude": 96.36,
+    "magnitude": 5.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 290 km BaratDaya Gunung Sitoli",
+    "feltOnStations": "II-III Gunung Sitoli",
+    "bmkgEarthquakeId": "20230511213557",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230511213557.mmi.jpg",
+    "fingerprintSha1": "352fe0e60e048e5c1e589e415a4b1bd96809c45d"
   }
 ]
