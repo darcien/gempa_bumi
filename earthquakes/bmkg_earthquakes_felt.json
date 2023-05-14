@@ -6502,5 +6502,17 @@
     "bmkgEarthquakeId": "20230514121752",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230514121752.mmi.jpg",
     "fingerprintSha1": "a163c5202ea77eb6dbc684133961bb1e7febc618"
+  },
+  {
+    "earthquakeAt": "2023-05-14T15:32:21.000Z",
+    "latitude": 0.49,
+    "longitude": 126.9,
+    "magnitude": 5.9,
+    "depthInKm": 109,
+    "locationInIndonesian": "Pusat gempa berada di laut 60 km barat daya Ternate",
+    "feltOnStations": "III Manado, III Kotamobagu, III Bitung, II-III Halmahera Tengah, II Sanana",
+    "bmkgEarthquakeId": "20230514223221",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230514223221.mmi.jpg",
+    "fingerprintSha1": "941c67cf1627ad1916a9ecdc1f457ca9f06510eb"
   }
 ]
