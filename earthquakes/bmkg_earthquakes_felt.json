@@ -6490,5 +6490,17 @@
     "bmkgEarthquakeId": "20230513202717",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230513202717.mmi.jpg",
     "fingerprintSha1": "c5bef8c63b0b8d58ce601debe5b75e3c4ad9cefd"
+  },
+  {
+    "earthquakeAt": "2023-05-14T05:17:52.000Z",
+    "latitude": -9.02,
+    "longitude": 111.51,
+    "magnitude": 5,
+    "depthInKm": 56,
+    "locationInIndonesian": "Pusat gempa berada di laut 103 km Tenggara Pacitan",
+    "feltOnStations": "I-II Trenggalek, II Bantul, II Blitar, II Wonogiri",
+    "bmkgEarthquakeId": "20230514121752",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230514121752.mmi.jpg",
+    "fingerprintSha1": "a163c5202ea77eb6dbc684133961bb1e7febc618"
   }
 ]
