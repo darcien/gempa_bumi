@@ -6510,7 +6510,7 @@
     "magnitude": 5.9,
     "depthInKm": 109,
     "locationInIndonesian": "Pusat gempa berada di laut 60 km barat daya Ternate",
-    "feltOnStations": "III Manado, III Kotamobagu, III Bitung, II-III Halmahera Tengah, II Sanana",
+    "feltOnStations": "III Manado, III Kotamobagu, III Bitung, II-III Halmahera Tengah, II Sanana, II Gorontalo",
     "bmkgEarthquakeId": "20230514223221",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230514223221.mmi.jpg",
     "fingerprintSha1": "941c67cf1627ad1916a9ecdc1f457ca9f06510eb"
