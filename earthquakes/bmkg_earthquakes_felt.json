@@ -6514,5 +6514,17 @@
     "bmkgEarthquakeId": "20230514223221",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230514223221.mmi.jpg",
     "fingerprintSha1": "941c67cf1627ad1916a9ecdc1f457ca9f06510eb"
+  },
+  {
+    "earthquakeAt": "2023-05-17T15:29:25.000Z",
+    "latitude": -3.26,
+    "longitude": 135.3,
+    "magnitude": 4.6,
+    "depthInKm": 29,
+    "locationInIndonesian": "Pusat gempa berada di darat 26 km BaratLaut Nabire",
+    "feltOnStations": "II - III Nabire",
+    "bmkgEarthquakeId": "20230517222925",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230517222925.mmi.jpg",
+    "fingerprintSha1": "ee791e959cc8e6f3ecaedf432af67b317fd66e76"
   }
 ]
