@@ -6538,5 +6538,17 @@
     "bmkgEarthquakeId": "20230519191405",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230519191405.mmi.jpg",
     "fingerprintSha1": "63ff78916dc18b20db36a377d4d18de28e25a6d7"
+  },
+  {
+    "earthquakeAt": "2023-05-19T13:52:17.000Z",
+    "latitude": -4.25,
+    "longitude": 103.59,
+    "magnitude": 4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 46 km Tenggara Pagar Alam",
+    "feltOnStations": "II Semendo Darat Ulu",
+    "bmkgEarthquakeId": "20230519205217",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230519205217.mmi.jpg",
+    "fingerprintSha1": "2c13973640ec95568c93cc61a02a087559fe870e"
   }
 ]
