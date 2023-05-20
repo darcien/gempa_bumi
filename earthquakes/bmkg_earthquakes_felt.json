@@ -6550,5 +6550,17 @@
     "bmkgEarthquakeId": "20230519205217",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230519205217.mmi.jpg",
     "fingerprintSha1": "2c13973640ec95568c93cc61a02a087559fe870e"
+  },
+  {
+    "earthquakeAt": "2023-05-20T11:49:25.000Z",
+    "latitude": -4.19,
+    "longitude": 103.61,
+    "magnitude": 3.4,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 45 km tenggara Lahat",
+    "feltOnStations": "II Semendo Darat Ulu",
+    "bmkgEarthquakeId": "20230520184925",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230520184925.mmi.jpg",
+    "fingerprintSha1": "89aaebda1d49d76c4b4518caacb4af1d77d40ebf"
   }
 ]
