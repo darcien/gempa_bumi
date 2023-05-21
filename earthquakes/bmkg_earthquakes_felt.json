@@ -6562,5 +6562,17 @@
     "bmkgEarthquakeId": "20230520184925",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230520184925.mmi.jpg",
     "fingerprintSha1": "89aaebda1d49d76c4b4518caacb4af1d77d40ebf"
+  },
+  {
+    "earthquakeAt": "2023-05-21T17:31:01.000Z",
+    "latitude": -1.12,
+    "longitude": 120.23,
+    "magnitude": 4.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 14 km Timur Laut Kamarora",
+    "feltOnStations": "III - IV Palu, II-III Poso",
+    "bmkgEarthquakeId": "20230522003101",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230522003101.mmi.jpg",
+    "fingerprintSha1": "779a44ae473b661060b97116f7ff87adcd81f1da"
   }
 ]
