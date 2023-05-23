@@ -6586,5 +6586,17 @@
     "bmkgEarthquakeId": "20230524004150",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230524004150.mmi.jpg",
     "fingerprintSha1": "74847d97f857c4cca875b9d8b980d50f8b4de500"
+  },
+  {
+    "earthquakeAt": "2023-05-23T23:36:42.000Z",
+    "latitude": -3.72,
+    "longitude": 127.92,
+    "magnitude": 3.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 29 km barat Ambon",
+    "feltOnStations": "II Ambon",
+    "bmkgEarthquakeId": "20230524063642",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230524063642.mmi.jpg",
+    "fingerprintSha1": "41bb51b48cccc55086b6c289dcb5f2d860339882"
   }
 ]
