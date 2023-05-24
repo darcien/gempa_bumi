@@ -6598,5 +6598,17 @@
     "bmkgEarthquakeId": "20230524063642",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230524063642.mmi.jpg",
     "fingerprintSha1": "41bb51b48cccc55086b6c289dcb5f2d860339882"
+  },
+  {
+    "earthquakeAt": "2023-05-24T15:49:34.000Z",
+    "latitude": -7.06,
+    "longitude": 129.72,
+    "magnitude": 6.2,
+    "depthInKm": 221,
+    "locationInIndonesian": "Pusat gempa berada di laut 203 Barat Laut Saumlaki",
+    "feltOnStations": "IV Saumlaki, III Tual , III Molu Maru, II Dobo, II-III Sorong",
+    "bmkgEarthquakeId": "20230524224934",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230524224934.mmi.jpg",
+    "fingerprintSha1": "8b9aab91c16f2c215f4f8a7883592f3df326c789"
   }
 ]
