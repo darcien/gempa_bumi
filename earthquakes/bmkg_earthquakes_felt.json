@@ -6682,5 +6682,17 @@
     "bmkgEarthquakeId": "20230526220741",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230526220741.mmi.jpg",
     "fingerprintSha1": "f5f495f53e608613cc020d59a3c3dd4d80dd71b3"
+  },
+  {
+    "earthquakeAt": "2023-05-26T21:47:02.000Z",
+    "latitude": -7.31,
+    "longitude": 110.33,
+    "magnitude": 2.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km Timur laut Temanggung",
+    "feltOnStations": "II Banyubiru, II Jambu",
+    "bmkgEarthquakeId": "20230527044702",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230527044702.mmi.jpg",
+    "fingerprintSha1": "bbd1baad63a16696c01aa7f9421b47e67691699c"
   }
 ]
