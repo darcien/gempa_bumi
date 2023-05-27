@@ -6706,5 +6706,17 @@
     "bmkgEarthquakeId": "20230527130016",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230527130016.mmi.jpg",
     "fingerprintSha1": "13754d31df77162b1cf40126061b42b99e12a631"
+  },
+  {
+    "earthquakeAt": "2023-05-27T10:33:00.000Z",
+    "latitude": -7.35,
+    "longitude": 110.36,
+    "magnitude": 2.5,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km BaratDaya Kota Salatiga",
+    "feltOnStations": "II Ambarawa, II Banyubiru, II Jambu",
+    "bmkgEarthquakeId": "20230527173300",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230527173300.mmi.jpg",
+    "fingerprintSha1": "78e1cc8b6dbf2873df815adb5df58120ae0b63a4"
   }
 ]
