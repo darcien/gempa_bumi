@@ -6694,5 +6694,17 @@
     "bmkgEarthquakeId": "20230527044702",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230527044702.mmi.jpg",
     "fingerprintSha1": "bbd1baad63a16696c01aa7f9421b47e67691699c"
+  },
+  {
+    "earthquakeAt": "2023-05-27T06:00:16.000Z",
+    "latitude": -8.95,
+    "longitude": 113,
+    "magnitude": 4.5,
+    "depthInKm": 25,
+    "locationInIndonesian": "Pusat gempa berada dilaut 94Km BaratDaya Lumajang",
+    "feltOnStations": "II Karangkates, II Lumajang",
+    "bmkgEarthquakeId": "20230527130016",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230527130016.mmi.jpg",
+    "fingerprintSha1": "13754d31df77162b1cf40126061b42b99e12a631"
   }
 ]
