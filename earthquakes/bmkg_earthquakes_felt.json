@@ -6754,5 +6754,17 @@
     "bmkgEarthquakeId": "20230527215817",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230527215817.mmi.jpg",
     "fingerprintSha1": "47218c70bad7ecd0a2eedaebfa32b7b2dc104aad"
+  },
+  {
+    "earthquakeAt": "2023-05-28T17:01:10.000Z",
+    "latitude": -7.27,
+    "longitude": 110.35,
+    "magnitude": 2.2,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km barat daya Kabupaten Semarang",
+    "feltOnStations": "I-II Banyubiru",
+    "bmkgEarthquakeId": "20230529000110",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230529000110.mmi.jpg",
+    "fingerprintSha1": "18767a35672da123ea90094b0d21357af1b1b4fc"
   }
 ]
