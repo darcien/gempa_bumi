@@ -6766,5 +6766,17 @@
     "bmkgEarthquakeId": "20230529000110",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230529000110.mmi.jpg",
     "fingerprintSha1": "18767a35672da123ea90094b0d21357af1b1b4fc"
+  },
+  {
+    "earthquakeAt": "2023-05-29T04:54:38.000Z",
+    "latitude": -3.51,
+    "longitude": 120.86,
+    "magnitude": 3.1,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 2.3 km Barat Laut Lasusua",
+    "feltOnStations": "III Kolaka Utara",
+    "bmkgEarthquakeId": "20230529115438",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230529115438.mmi.jpg",
+    "fingerprintSha1": "408d6876408275f7e20a8e9fab5f0528f060e5b9"
   }
 ]
