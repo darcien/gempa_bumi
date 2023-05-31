@@ -6790,5 +6790,17 @@
     "bmkgEarthquakeId": "20230529154837",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230529154837.mmi.jpg",
     "fingerprintSha1": "c2c1b8b1542fa0fb7b9b51a94b97eeee01e9620d"
+  },
+  {
+    "earthquakeAt": "2023-05-31T00:58:38.000Z",
+    "latitude": -1.05,
+    "longitude": 98.4,
+    "magnitude": 5.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 167 km BaratLaut Kep-Mentawai",
+    "feltOnStations": "III Siberut Barat, II-III Siberut Selatan , II - III Siberut Utara",
+    "bmkgEarthquakeId": "20230531075838",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230531075838.mmi.jpg",
+    "fingerprintSha1": "9627c4888944c914c697c0105b929a22012e662c"
   }
 ]
