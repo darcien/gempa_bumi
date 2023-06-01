@@ -6826,5 +6826,17 @@
     "bmkgEarthquakeId": "20230601071640",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230601071640.mmi.jpg",
     "fingerprintSha1": "1311f10b74a9b3077b30a807c3e54c1a84d2c852"
+  },
+  {
+    "earthquakeAt": "2023-06-01T09:29:32.000Z",
+    "latitude": -0.29,
+    "longitude": 100.4,
+    "magnitude": 3.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km TimurLaut Bukittinggi",
+    "feltOnStations": "III Bukittinggi, II - III Padang Panjang",
+    "bmkgEarthquakeId": "20230601162932",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230601162932.mmi.jpg",
+    "fingerprintSha1": "39149ac192fe7c49d8a5b9a1ef0971cdbc65c378"
   }
 ]
