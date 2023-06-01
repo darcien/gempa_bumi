@@ -6814,5 +6814,17 @@
     "bmkgEarthquakeId": "20230601045639",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230601045639.mmi.jpg",
     "fingerprintSha1": "a5d3d4d07032981b0a82290fa0447ad2585bb5e1"
+  },
+  {
+    "earthquakeAt": "2023-06-01T00:16:40.000Z",
+    "latitude": -4.34,
+    "longitude": 122.1,
+    "magnitude": 3.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 6.3 km TimurLaut Lalembuu, Kab Konawe Selatan",
+    "feltOnStations": "III Konawe Selatan",
+    "bmkgEarthquakeId": "20230601071640",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230601071640.mmi.jpg",
+    "fingerprintSha1": "1311f10b74a9b3077b30a807c3e54c1a84d2c852"
   }
 ]
