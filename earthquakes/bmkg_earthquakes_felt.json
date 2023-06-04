@@ -6874,5 +6874,17 @@
     "bmkgEarthquakeId": "20230604054143",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230604054143.mmi.jpg",
     "fingerprintSha1": "4fa8a9990d32064431a0b2d13ac240c0fe34c469"
+  },
+  {
+    "earthquakeAt": "2023-06-04T13:48:39.000Z",
+    "latitude": -8.43,
+    "longitude": 107.89,
+    "magnitude": 4.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 105 km BaratDaya Kab-Pangandaran",
+    "feltOnStations": "III Pangandaran, III Cisompet, III Cikalong, III Pameungpeuk, II Banjar",
+    "bmkgEarthquakeId": "20230604204839",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230604204839.mmi.jpg",
+    "fingerprintSha1": "c4fcaaaa8df8c42d646032352083b447340144c7"
   }
 ]
