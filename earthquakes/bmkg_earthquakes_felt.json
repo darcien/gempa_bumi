@@ -6850,5 +6850,29 @@
     "bmkgEarthquakeId": "20230603001322",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230603001322.mmi.jpg",
     "fingerprintSha1": "f36da7e71de8b0eebcc5b7f81f02c153ad923231"
+  },
+  {
+    "earthquakeAt": "2023-06-04T00:25:10.000Z",
+    "latitude": -6.84,
+    "longitude": 130.49,
+    "magnitude": 6,
+    "depthInKm": 153,
+    "locationInIndonesian": "Pusat gempa berada di laut 136 km timurlaut Tepa-Maluku Barat Daya",
+    "feltOnStations": "II Saumlaki",
+    "bmkgEarthquakeId": "20230604072510",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230604072510.mmi.jpg",
+    "fingerprintSha1": "54b9297818e83410d8e966da5de51328d48820b7"
+  },
+  {
+    "earthquakeAt": "2023-06-03T22:41:43.000Z",
+    "latitude": -8.75,
+    "longitude": 117.74,
+    "magnitude": 4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 45 km tenggara Sumbawa",
+    "feltOnStations": "III Sumbawa, III Bima",
+    "bmkgEarthquakeId": "20230604054143",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230604054143.mmi.jpg",
+    "fingerprintSha1": "4fa8a9990d32064431a0b2d13ac240c0fe34c469"
   }
 ]
