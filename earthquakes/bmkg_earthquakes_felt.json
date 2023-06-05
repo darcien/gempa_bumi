@@ -6910,5 +6910,17 @@
     "bmkgEarthquakeId": "20230605115747",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230605115747.mmi.jpg",
     "fingerprintSha1": "c76a3530a3c3fe1831e1872c6ae3fa160aeccda2"
+  },
+  {
+    "earthquakeAt": "2023-06-05T16:13:24.000Z",
+    "latitude": 0.82,
+    "longitude": 118.28,
+    "magnitude": 4.4,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 118 km Timur Laut Bontang",
+    "feltOnStations": "III Berau",
+    "bmkgEarthquakeId": "20230605231324",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230605231324.mmi.jpg",
+    "fingerprintSha1": "35c0b47fd7c3042e6bd734fd124fb4e96ff36eba"
   }
 ]
