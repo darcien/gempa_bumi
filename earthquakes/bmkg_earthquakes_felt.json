@@ -6922,5 +6922,17 @@
     "bmkgEarthquakeId": "20230605231324",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230605231324.mmi.jpg",
     "fingerprintSha1": "35c0b47fd7c3042e6bd734fd124fb4e96ff36eba"
+  },
+  {
+    "earthquakeAt": "2023-06-06T07:23:04.000Z",
+    "latitude": -8.05,
+    "longitude": 107.01,
+    "magnitude": 5.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 126 km Tenggara Kota Sukabumi",
+    "feltOnStations": "III - IV Kab. Sukabumi, III Pelabuhan Ratu",
+    "bmkgEarthquakeId": "20230606142304",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230606142304.mmi.jpg",
+    "fingerprintSha1": "f120eccc3bc2ce3f7361bd6e2cb20a5ad4aaff8f"
   }
 ]
