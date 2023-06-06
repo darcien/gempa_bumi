@@ -6946,5 +6946,17 @@
     "bmkgEarthquakeId": "20230606174052",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230606174052.mmi.jpg",
     "fingerprintSha1": "b0c56e71e274eba032f47961cfc4d08af16f1f6e"
+  },
+  {
+    "earthquakeAt": "2023-06-06T11:40:12.000Z",
+    "latitude": 5.02,
+    "longitude": 95.5,
+    "magnitude": 4.1,
+    "depthInKm": 63,
+    "locationInIndonesian": "Pusat gempa berada di darat 27 km BaratDaya Aceh Besar",
+    "feltOnStations": "II Banda Aceh, II Aceh Besar",
+    "bmkgEarthquakeId": "20230606184012",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230606184012.mmi.jpg",
+    "fingerprintSha1": "5e11c49fb03fd2a111e96032338d9624dc280883"
   }
 ]
