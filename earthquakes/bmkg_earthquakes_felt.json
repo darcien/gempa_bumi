@@ -6958,5 +6958,17 @@
     "bmkgEarthquakeId": "20230606184012",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230606184012.mmi.jpg",
     "fingerprintSha1": "5e11c49fb03fd2a111e96032338d9624dc280883"
+  },
+  {
+    "earthquakeAt": "2023-06-07T17:04:55.000Z",
+    "latitude": -9.15,
+    "longitude": 110.69,
+    "magnitude": 6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 117 km Baratdaya Pacitan",
+    "feltOnStations": "V Kota Yogyakarta, III Semarang, III Jepara, IV Ponorogo, IV Karangkates, Iv Kepanjen, III-IV Nganjuk, III Madiun , III Sukorejo, II Demak, III Banjarnegara",
+    "bmkgEarthquakeId": "20230608000455",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230608000455.mmi.jpg",
+    "fingerprintSha1": "3de0c7cfbe006a56ba4b798420224d20619bc15e"
   }
 ]
