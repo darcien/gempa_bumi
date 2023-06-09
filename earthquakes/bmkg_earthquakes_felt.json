@@ -6982,5 +6982,17 @@
     "bmkgEarthquakeId": "20230609093748",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230609093748.mmi.jpg",
     "fingerprintSha1": "5b85eed6bc17a6540c6f9120dfda521094c327d3"
+  },
+  {
+    "earthquakeAt": "2023-06-09T10:47:59.000Z",
+    "latitude": 2.67,
+    "longitude": 128.22,
+    "magnitude": 4.6,
+    "depthInKm": 66,
+    "locationInIndonesian": "Pusat gempa berada di laut 64 km TimurLaut Pulau Doi",
+    "feltOnStations": "II - III Morotai Utara",
+    "bmkgEarthquakeId": "20230609174759",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230609174759.mmi.jpg",
+    "fingerprintSha1": "d32f658de1b9fa49d1ebe5a2f8dabf7984d9c0c9"
   }
 ]
