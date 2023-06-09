@@ -6966,9 +6966,21 @@
     "magnitude": 6,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 117 km Baratdaya Pacitan",
-    "feltOnStations": "V Kota Yogyakarta, III Semarang, III Jepara, IV Ponorogo, IV Karangkates, Iv Kepanjen, III-IV Nganjuk, III Madiun , III Sukorejo, II Demak, III Banjarnegara",
+    "feltOnStations": "IV-V Kota Yogyakarta, III Semarang, III Jepara, IV Ponorogo, IV Karangkates, Iv Kepanjen, III-IV Nganjuk, III Madiun , III Sukorejo, II Demak, III Banjarnegara, III Kendal",
     "bmkgEarthquakeId": "20230608000455",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230608000455.mmi.jpg",
     "fingerprintSha1": "3de0c7cfbe006a56ba4b798420224d20619bc15e"
+  },
+  {
+    "earthquakeAt": "2023-06-09T02:37:48.000Z",
+    "latitude": -2.08,
+    "longitude": 121.41,
+    "magnitude": 4.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km arah barat Bungintimbe",
+    "feltOnStations": "II-III Kolonodale",
+    "bmkgEarthquakeId": "20230609093748",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230609093748.mmi.jpg",
+    "fingerprintSha1": "5b85eed6bc17a6540c6f9120dfda521094c327d3"
   }
 ]
