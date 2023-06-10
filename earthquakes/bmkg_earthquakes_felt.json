@@ -6994,5 +6994,17 @@
     "bmkgEarthquakeId": "20230609174759",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230609174759.mmi.jpg",
     "fingerprintSha1": "d32f658de1b9fa49d1ebe5a2f8dabf7984d9c0c9"
+  },
+  {
+    "earthquakeAt": "2023-06-10T15:07:44.000Z",
+    "latitude": -5.82,
+    "longitude": 104.05,
+    "magnitude": 4.7,
+    "depthInKm": 33,
+    "locationInIndonesian": "Pusat gempa berada di laut 71 km tenggara Pesisir Barat",
+    "feltOnStations": "II-III Ulu Belu, II-III Pesisir Selatan, II Liwa, II Limau, II Suoh",
+    "bmkgEarthquakeId": "20230610220744",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230610220744.mmi.jpg",
+    "fingerprintSha1": "015b9c208e479857c7f90ebd7a84cab8b7d8cfec"
   }
 ]
