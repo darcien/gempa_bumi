@@ -7030,5 +7030,17 @@
     "bmkgEarthquakeId": "20230611111243",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230611111243.mmi.jpg",
     "fingerprintSha1": "58bed82ff91b031e06241f707bcc338e7222b63d"
+  },
+  {
+    "earthquakeAt": "2023-06-11T06:51:49.000Z",
+    "latitude": -2.68,
+    "longitude": 136.7,
+    "magnitude": 5.2,
+    "depthInKm": 48,
+    "locationInIndonesian": "Pusat gempa berada di darat 18 km TimurLaut Waropen",
+    "feltOnStations": "II-III Kab. Waropen , II Nabire, II Serui",
+    "bmkgEarthquakeId": "20230611135149",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230611135149.mmi.jpg",
+    "fingerprintSha1": "b1532e3bee7b2ada6fb409ca7a87db46c85c3a8e"
   }
 ]
