@@ -7006,5 +7006,17 @@
     "bmkgEarthquakeId": "20230610220744",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230610220744.mmi.jpg",
     "fingerprintSha1": "015b9c208e479857c7f90ebd7a84cab8b7d8cfec"
+  },
+  {
+    "earthquakeAt": "2023-06-11T01:42:32.000Z",
+    "latitude": -0.04,
+    "longitude": 123.08,
+    "magnitude": 5.4,
+    "depthInKm": 121,
+    "locationInIndonesian": "Pusat gempa berada di laut 64 km BaratDaya BoneBolango",
+    "feltOnStations": "II Gorontalo, II Luwuk, I-II Gorontalo Utara",
+    "bmkgEarthquakeId": "20230611084232",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230611084232.mmi.jpg",
+    "fingerprintSha1": "82cda8bfd1eec699ee7def711366bfeb13f7fb75"
   }
 ]
