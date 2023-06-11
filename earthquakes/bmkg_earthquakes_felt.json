@@ -7042,5 +7042,17 @@
     "bmkgEarthquakeId": "20230611135149",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230611135149.mmi.jpg",
     "fingerprintSha1": "b1532e3bee7b2ada6fb409ca7a87db46c85c3a8e"
+  },
+  {
+    "earthquakeAt": "2023-06-11T22:32:47.000Z",
+    "latitude": -6.79,
+    "longitude": 107.1,
+    "magnitude": 2.5,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 Km BaratLaut Kab. Cianjur",
+    "feltOnStations": "II-III Kec. Cianjur, II-III Cugenang, II-III Cipanas, II-III Warungkondang, II-III Cilaku, II Cibeber",
+    "bmkgEarthquakeId": "20230612053247",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230612053247.mmi.jpg",
+    "fingerprintSha1": "85816a1a75231083e60f9ad7f19353e0306ab088"
   }
 ]
