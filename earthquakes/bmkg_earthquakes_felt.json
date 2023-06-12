@@ -7066,5 +7066,17 @@
     "bmkgEarthquakeId": "20230612080423",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230612080423.mmi.jpg",
     "fingerprintSha1": "3a21022328726b98b1059d23b44b06508fd1db9b"
+  },
+  {
+    "earthquakeAt": "2023-06-12T09:08:40.000Z",
+    "latitude": -5.84,
+    "longitude": 104.07,
+    "magnitude": 4.8,
+    "depthInKm": 39,
+    "locationInIndonesian": "Pusat gempa berada di laut 73 km Tenggara Pesisir Barat",
+    "feltOnStations": "III - IV Bengkunat",
+    "bmkgEarthquakeId": "20230612160840",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230612160840.mmi.jpg",
+    "fingerprintSha1": "7e125df45afa290a2d368ce065c47e4fcbc359ab"
   }
 ]
