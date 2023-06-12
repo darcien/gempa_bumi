@@ -7074,7 +7074,7 @@
     "magnitude": 4.8,
     "depthInKm": 39,
     "locationInIndonesian": "Pusat gempa berada di laut 73 km Tenggara Pesisir Barat",
-    "feltOnStations": "III - IV Bengkunat",
+    "feltOnStations": "III - IV Bengkunat, II-III Pekon Seray, II-III Gunung Kemala, II-III Pesisir Tengah, II Talang Padang, II Gisting",
     "bmkgEarthquakeId": "20230612160840",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230612160840.mmi.jpg",
     "fingerprintSha1": "7e125df45afa290a2d368ce065c47e4fcbc359ab"
