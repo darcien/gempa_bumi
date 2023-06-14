@@ -7078,5 +7078,17 @@
     "bmkgEarthquakeId": "20230612160840",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230612160840.mmi.jpg",
     "fingerprintSha1": "7e125df45afa290a2d368ce065c47e4fcbc359ab"
+  },
+  {
+    "earthquakeAt": "2023-06-14T06:59:03.000Z",
+    "latitude": -2.6,
+    "longitude": 121.21,
+    "magnitude": 3.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km Tenggara Luwu Timur",
+    "feltOnStations": "II-III Maili",
+    "bmkgEarthquakeId": "20230614135903",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230614135903.mmi.jpg",
+    "fingerprintSha1": "f8b1bad7c38798774cf05e8877ac5e409b3b5b88"
   }
 ]
