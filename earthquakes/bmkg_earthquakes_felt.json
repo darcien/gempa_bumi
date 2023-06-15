@@ -7114,5 +7114,17 @@
     "bmkgEarthquakeId": "20230615072518",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230615072518.mmi.jpg",
     "fingerprintSha1": "41905ca3812700fe2424bdadcb4265a02fee0051"
+  },
+  {
+    "earthquakeAt": "2023-06-14T23:20:20.000Z",
+    "latitude": -6.78,
+    "longitude": 108.62,
+    "magnitude": 2.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km tenggara Kota Cirebon",
+    "feltOnStations": "II Cirebon",
+    "bmkgEarthquakeId": "20230615062020",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230615062020.mmi.jpg",
+    "fingerprintSha1": "7d659f2753bb27ba28f87be5710af5ed04896a90"
   }
 ]
