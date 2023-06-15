@@ -7134,7 +7134,7 @@
     "magnitude": 2.9,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 12 km tenggara Kota Cirebon",
-    "feltOnStations": "II Cirebon",
+    "feltOnStations": "II Cirebon, II Sindang Pancuran, II Karang Sambung",
     "bmkgEarthquakeId": "20230615160657",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230615160657.mmi.jpg",
     "fingerprintSha1": "b61b3e275d882ea983688568569689957c9826e2"
