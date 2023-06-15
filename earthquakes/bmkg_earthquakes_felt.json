@@ -7138,5 +7138,17 @@
     "bmkgEarthquakeId": "20230615160657",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230615160657.mmi.jpg",
     "fingerprintSha1": "b61b3e275d882ea983688568569689957c9826e2"
+  },
+  {
+    "earthquakeAt": "2023-06-15T10:24:25.000Z",
+    "latitude": 0.89,
+    "longitude": 108.94,
+    "magnitude": 4,
+    "depthInKm": 32,
+    "locationInIndonesian": "Pusat gempa berada di laut 5 km Barat Daya Singkawang",
+    "feltOnStations": "II-III Bengkayang, II-III Landak",
+    "bmkgEarthquakeId": "20230615172425",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230615172425.mmi.jpg",
+    "fingerprintSha1": "3e3255d2c84eb28cd19d2d7f660f5f6ec91db039"
   }
 ]
