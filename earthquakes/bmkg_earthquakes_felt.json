@@ -7150,5 +7150,17 @@
     "bmkgEarthquakeId": "20230615172425",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230615172425.mmi.jpg",
     "fingerprintSha1": "3e3255d2c84eb28cd19d2d7f660f5f6ec91db039"
+  },
+  {
+    "earthquakeAt": "2023-06-16T18:24:24.000Z",
+    "latitude": -6.77,
+    "longitude": 107.1,
+    "magnitude": 2.5,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 Km Baratlaut Kab. Cianjur",
+    "feltOnStations": "II Karangtengah",
+    "bmkgEarthquakeId": "20230617012424",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230617012424.mmi.jpg",
+    "fingerprintSha1": "2288d1e69267b07afd954ee65f6a954909db0302"
   }
 ]
