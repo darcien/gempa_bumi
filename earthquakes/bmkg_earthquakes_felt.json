@@ -7222,5 +7222,17 @@
     "bmkgEarthquakeId": "20230619204401",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230619204401.mmi.jpg",
     "fingerprintSha1": "da3ee6ee60105bd4e4881f0d3d91b89b68f7bfff"
+  },
+  {
+    "earthquakeAt": "2023-06-19T21:16:29.000Z",
+    "latitude": 2.16,
+    "longitude": 128.22,
+    "magnitude": 4.9,
+    "depthInKm": 79,
+    "locationInIndonesian": "Pusat gempa berada di laut 14 km Barat Laut Daruba",
+    "feltOnStations": "III Morotai, III Tobelo",
+    "bmkgEarthquakeId": "20230620041629",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230620041629.mmi.jpg",
+    "fingerprintSha1": "7f63c56d18f1ab03b5a8abac0beb1c4e7da2a46a"
   }
 ]
