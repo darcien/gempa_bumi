@@ -7186,5 +7186,17 @@
     "bmkgEarthquakeId": "20230619081114",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230619081114.mmi.jpg",
     "fingerprintSha1": "2f4dec80d7ef9b86bc3666b517d362f4f4e8079b"
+  },
+  {
+    "earthquakeAt": "2023-06-19T04:43:52.000Z",
+    "latitude": -2.56,
+    "longitude": 140.43,
+    "magnitude": 3.2,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km Timurlaut Kab. Jayapura",
+    "feltOnStations": "II-III Sentani",
+    "bmkgEarthquakeId": "20230619114352",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230619114352.mmi.jpg",
+    "fingerprintSha1": "da0a25bacc423d745a3d56b030ddd506d1759c9d"
   }
 ]
