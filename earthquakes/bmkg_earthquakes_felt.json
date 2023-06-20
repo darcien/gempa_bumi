@@ -7234,5 +7234,17 @@
     "bmkgEarthquakeId": "20230620041629",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230620041629.mmi.jpg",
     "fingerprintSha1": "7f63c56d18f1ab03b5a8abac0beb1c4e7da2a46a"
+  },
+  {
+    "earthquakeAt": "2023-06-20T05:43:32.000Z",
+    "latitude": 0.63,
+    "longitude": 114.99,
+    "magnitude": 4.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 47 km tenggara MAHAKAMULU-KALTIM",
+    "feltOnStations": "III Mahulu, III Samarinda",
+    "bmkgEarthquakeId": "20230620124332",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230620124332.mmi.jpg",
+    "fingerprintSha1": "8d611eab412562a3ce0a2a5c0c7209635607c6d2"
   }
 ]
