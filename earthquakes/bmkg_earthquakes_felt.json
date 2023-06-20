@@ -7246,5 +7246,17 @@
     "bmkgEarthquakeId": "20230620124332",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230620124332.mmi.jpg",
     "fingerprintSha1": "8d611eab412562a3ce0a2a5c0c7209635607c6d2"
+  },
+  {
+    "earthquakeAt": "2023-06-20T08:39:18.000Z",
+    "latitude": -0.91,
+    "longitude": 98.55,
+    "magnitude": 5.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 166 km Barat Laut Kep. Mentawai",
+    "feltOnStations": "III - IV Siberut, II-III Pasaman Barat, II-III Pariaman, II Bukittinggi, III Hibala, II Padang, II Padang Panjang",
+    "bmkgEarthquakeId": "20230620153918",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230620153918.mmi.jpg",
+    "fingerprintSha1": "f555de9b3bd67e0907c1034c4b177e460f17dddc"
   }
 ]
