@@ -7318,5 +7318,17 @@
     "bmkgEarthquakeId": "20230623134253",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230623134253.mmi.jpg",
     "fingerprintSha1": "a16148d6c7661e8d0f18ab8d08713f76dfd91baf"
+  },
+  {
+    "earthquakeAt": "2023-06-23T11:30:57.000Z",
+    "latitude": -9.13,
+    "longitude": 112.64,
+    "magnitude": 4.6,
+    "depthInKm": 72,
+    "locationInIndonesian": "Pusat gempa berada di laut 110 km Tenggara Kab. Malang",
+    "feltOnStations": "II Prigi, II Trenggalek, II Kec. Puger, I Kec. Gondanglegi, II Kec. Pronojiwo, II Lumajang",
+    "bmkgEarthquakeId": "20230623183057",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230623183057.mmi.jpg",
+    "fingerprintSha1": "28b5806c7557979a029f037510d272832c7cb22a"
   }
 ]
