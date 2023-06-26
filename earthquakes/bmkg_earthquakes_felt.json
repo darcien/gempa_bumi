@@ -7357,7 +7357,7 @@
   },
   {
     "earthquakeAt": "2023-06-26T10:12:37.000Z",
-    "latitude": -2.13,
+    "latitude": 2.13,
     "longitude": 98.41,
     "magnitude": 5.1,
     "depthInKm": 71,
@@ -7365,6 +7365,6 @@
     "feltOnStations": "III Dairi, III Pinangsori, III Tarutung, II Brastagi, II Aceh Singkil",
     "bmkgEarthquakeId": "20230626171237",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230626171237.mmi.jpg",
-    "fingerprintSha1": "9882e4f28b0725b924e51ec113520fda4f17883e"
+    "fingerprintSha1": "17fcf5c6ed475969cd556581ad2cab1a86721a56"
   }
 ]
