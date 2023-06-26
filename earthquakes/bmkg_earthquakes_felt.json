@@ -7342,5 +7342,17 @@
     "bmkgEarthquakeId": "20230623230309",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230623230309.mmi.jpg",
     "fingerprintSha1": "d0f50af9f0a99330f06ec89f8259cbb50ecd00c3"
+  },
+  {
+    "earthquakeAt": "2023-06-26T01:16:15.000Z",
+    "latitude": -8.87,
+    "longitude": 112.46,
+    "magnitude": 4.7,
+    "depthInKm": 32,
+    "locationInIndonesian": "Pusat gempa berada di laut 82 km BaratDaya Kab. Malang",
+    "feltOnStations": "II Trenggalek, II Jember, II Tulungagung, II Blitar, II-III Malang",
+    "bmkgEarthquakeId": "20230626081615",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230626081615.mmi.jpg",
+    "fingerprintSha1": "b6b142afb2724baaee857be3c485a83eef7941f3"
   }
 ]
