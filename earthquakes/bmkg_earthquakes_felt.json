@@ -7378,5 +7378,17 @@
     "bmkgEarthquakeId": "20230626220839",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230626220839.mmi.jpg",
     "fingerprintSha1": "357600cd8f327b60204d6eb13fc3172d61b00622"
+  },
+  {
+    "earthquakeAt": "2023-06-26T19:44:05.000Z",
+    "latitude": 0.33,
+    "longitude": 115.29,
+    "magnitude": 4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 95 km Tenggara Mahakam Ulu",
+    "feltOnStations": "II-III Mahakam Ulu",
+    "bmkgEarthquakeId": "20230627024405",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230627024405.mmi.jpg",
+    "fingerprintSha1": "646571b701f316c00ede5c858b16c8f338debf19"
   }
 ]
