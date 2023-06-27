@@ -7438,5 +7438,17 @@
     "bmkgEarthquakeId": "20230627104803",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230627104803.mmi.jpg",
     "fingerprintSha1": "0bbe9985712ef98bfd2e9284b2b07405c1f1545b"
+  },
+  {
+    "earthquakeAt": "2023-06-27T13:32:59.000Z",
+    "latitude": -6.95,
+    "longitude": 105.4,
+    "magnitude": 4.3,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di laut 37 km BaratDaya Sumur",
+    "feltOnStations": "II-III Sumur",
+    "bmkgEarthquakeId": "20230627203259",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230627203259.mmi.jpg",
+    "fingerprintSha1": "9b7d09a498fe21bbe5ddd5d27ae0f2877a43345c"
   }
 ]
