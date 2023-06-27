@@ -7450,5 +7450,17 @@
     "bmkgEarthquakeId": "20230627203259",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230627203259.mmi.jpg",
     "fingerprintSha1": "9b7d09a498fe21bbe5ddd5d27ae0f2877a43345c"
+  },
+  {
+    "earthquakeAt": "2023-06-27T16:55:17.000Z",
+    "latitude": -7.35,
+    "longitude": 130.22,
+    "magnitude": 5.5,
+    "depthInKm": 123,
+    "locationInIndonesian": "Pusat gempa berada di laut 139 km BaratLaut Tanibar",
+    "feltOnStations": "III saumlaki",
+    "bmkgEarthquakeId": "20230627235517",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230627235517.mmi.jpg",
+    "fingerprintSha1": "dc849a3cfc8e8b6eb72ca77d44822ab76c99e389"
   }
 ]
