@@ -7414,5 +7414,17 @@
     "bmkgEarthquakeId": "20230627065810",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230627065810.mmi.jpg",
     "fingerprintSha1": "db0bca26acd236ab748fc1a399186bd76dec3b56"
+  },
+  {
+    "earthquakeAt": "2023-06-27T03:13:08.000Z",
+    "latitude": 5.27,
+    "longitude": 95.73,
+    "magnitude": 4,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 13 Km TimurLaut Jantho, Aceh Besar",
+    "feltOnStations": "II Banda Aceh, II Sigli",
+    "bmkgEarthquakeId": "20230627101308",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230627101308.mmi.jpg",
+    "fingerprintSha1": "22ceef67055664c5ce068e58dc74f033ad08312f"
   }
 ]
