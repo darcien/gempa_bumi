@@ -7390,5 +7390,29 @@
     "bmkgEarthquakeId": "20230627024405",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230627024405.mmi.jpg",
     "fingerprintSha1": "646571b701f316c00ede5c858b16c8f338debf19"
+  },
+  {
+    "earthquakeAt": "2023-06-27T00:27:30.000Z",
+    "latitude": 2,
+    "longitude": 98.98,
+    "magnitude": 3.8,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km Tenggara TAPANULIUTARA",
+    "feltOnStations": "III Tarutung",
+    "bmkgEarthquakeId": "20230627072730",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230627072730.mmi.jpg",
+    "fingerprintSha1": "e74ab76ec159f7dcaa26b8bfa8a247048f0e70ac"
+  },
+  {
+    "earthquakeAt": "2023-06-26T23:58:10.000Z",
+    "latitude": 2.03,
+    "longitude": 99.01,
+    "magnitude": 4.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km Timur Laut Tapanuli Utara",
+    "feltOnStations": "III-IV Tarutung",
+    "bmkgEarthquakeId": "20230627065810",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230627065810.mmi.jpg",
+    "fingerprintSha1": "db0bca26acd236ab748fc1a399186bd76dec3b56"
   }
 ]
