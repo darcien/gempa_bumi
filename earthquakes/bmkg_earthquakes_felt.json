@@ -7498,5 +7498,17 @@
     "bmkgEarthquakeId": "20230629175756",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230629175756.mmi.jpg",
     "fingerprintSha1": "ab96c3664787b5e2b81b55050a5a11fb588a8703"
+  },
+  {
+    "earthquakeAt": "2023-06-30T10:37:31.000Z",
+    "latitude": -0.59,
+    "longitude": 122.44,
+    "magnitude": 5.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada dilaut 103Km BaratLaut Banggai Kepulauan",
+    "feltOnStations": "III Luwuk, II Bungku",
+    "bmkgEarthquakeId": "20230630173731",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230630173731.mmi.jpg",
+    "fingerprintSha1": "8a7864e64890d8dd1f3605e283a8d3ea526f76c9"
   }
 ]
