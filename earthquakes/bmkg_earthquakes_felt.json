@@ -7522,5 +7522,17 @@
     "bmkgEarthquakeId": "20230630195743",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230630195743.mmi.jpg",
     "fingerprintSha1": "faf009c58500fef7b818fb57fe371f7bacf4550c"
+  },
+  {
+    "earthquakeAt": "2023-07-01T18:44:18.000Z",
+    "latitude": -7.89,
+    "longitude": 117.66,
+    "magnitude": 5,
+    "depthInKm": 31,
+    "locationInIndonesian": "Pusat gempa berada di laut 71 km Timur Laut Sumbawa",
+    "feltOnStations": "III Kab. Bima, II Sumbawa, II Sumbawa Barat",
+    "bmkgEarthquakeId": "20230702014418",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230702014418.mmi.jpg",
+    "fingerprintSha1": "812637836fd1c5e08edcc1c1e3a5267878026318"
   }
 ]
