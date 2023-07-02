@@ -7546,5 +7546,17 @@
     "bmkgEarthquakeId": "20230702075711",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230702075711.mmi.jpg",
     "fingerprintSha1": "82d252ec22d847e3e732721c15841b270c14a2e6"
+  },
+  {
+    "earthquakeAt": "2023-07-02T11:40:28.000Z",
+    "latitude": -1.74,
+    "longitude": 133.87,
+    "magnitude": 4.5,
+    "depthInKm": 43,
+    "locationInIndonesian": "Pusat gempa berada di darat 43 km BaratDaya Ransiki",
+    "feltOnStations": "III Ransiki, III Oransbari",
+    "bmkgEarthquakeId": "20230702184028",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230702184028.mmi.jpg",
+    "fingerprintSha1": "24abcfff316a6abdb210e1185603ccd0c7df52d3"
   }
 ]
