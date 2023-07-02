@@ -7558,5 +7558,17 @@
     "bmkgEarthquakeId": "20230702184028",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230702184028.mmi.jpg",
     "fingerprintSha1": "24abcfff316a6abdb210e1185603ccd0c7df52d3"
+  },
+  {
+    "earthquakeAt": "2023-07-02T17:13:11.000Z",
+    "latitude": -1.99,
+    "longitude": 121.42,
+    "magnitude": 3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km timur Morowali Utara",
+    "feltOnStations": "II - III Petasia",
+    "bmkgEarthquakeId": "20230703001311",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230703001311.mmi.jpg",
+    "fingerprintSha1": "614da756e76cd62793ff39514c8095beec416ecb"
   }
 ]
