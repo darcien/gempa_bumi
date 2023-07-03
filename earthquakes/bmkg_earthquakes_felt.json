@@ -7570,5 +7570,17 @@
     "bmkgEarthquakeId": "20230703001311",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230703001311.mmi.jpg",
     "fingerprintSha1": "614da756e76cd62793ff39514c8095beec416ecb"
+  },
+  {
+    "earthquakeAt": "2023-07-03T02:51:38.000Z",
+    "latitude": -3.71,
+    "longitude": 140.25,
+    "magnitude": 6.2,
+    "depthInKm": 33,
+    "locationInIndonesian": "Pusat gempa berada di darat 69 km Barat Daya Keerom",
+    "feltOnStations": "III Wamena, II - III Jayapura",
+    "bmkgEarthquakeId": "20230703095138",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230703095138.mmi.jpg",
+    "fingerprintSha1": "157cb4774db1be3a6ffeed9d168cd49ff4d32617"
   }
 ]
