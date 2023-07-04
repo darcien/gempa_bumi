@@ -7582,5 +7582,17 @@
     "bmkgEarthquakeId": "20230703095138",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230703095138.mmi.jpg",
     "fingerprintSha1": "157cb4774db1be3a6ffeed9d168cd49ff4d32617"
+  },
+  {
+    "earthquakeAt": "2023-07-04T13:57:01.000Z",
+    "latitude": -3.87,
+    "longitude": 102.38,
+    "magnitude": 3.7,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 14 km BaratDaya Bengkulu Tengah",
+    "feltOnStations": "II-III Kota Bengkulu, II-III Kepahiang",
+    "bmkgEarthquakeId": "20230704205701",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230704205701.mmi.jpg",
+    "fingerprintSha1": "66761b284a05b9d0d5992026c9f78db972ffd393"
   }
 ]
