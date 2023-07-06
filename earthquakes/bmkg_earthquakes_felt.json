@@ -7618,5 +7618,17 @@
     "bmkgEarthquakeId": "20230706044322",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230706044322.mmi.jpg",
     "fingerprintSha1": "e1d21fecbc4f71abaddf6ba93ba2744f24f3fbc1"
+  },
+  {
+    "earthquakeAt": "2023-07-06T17:13:19.000Z",
+    "latitude": -7.17,
+    "longitude": 129.62,
+    "magnitude": 6,
+    "depthInKm": 162,
+    "locationInIndonesian": "Pusat gempa berada di laut 207km BaratLaut Tanimbar",
+    "feltOnStations": "III Saumlaki, III Dawera",
+    "bmkgEarthquakeId": "20230707001319",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230707001319.mmi.jpg",
+    "fingerprintSha1": "6b3baeb7742ac69b68a2f8ab47a2c5fd7c9f1945"
   }
 ]
