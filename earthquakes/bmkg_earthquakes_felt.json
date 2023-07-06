@@ -7606,5 +7606,17 @@
     "bmkgEarthquakeId": "20230705143129",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230705143129.mmi.jpg",
     "fingerprintSha1": "b3d073c276751ac0b5d5801a7d6dcd5d175926a8"
+  },
+  {
+    "earthquakeAt": "2023-07-05T21:43:22.000Z",
+    "latitude": 0.62,
+    "longitude": 110,
+    "magnitude": 2.6,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 102 km TimurLaut Pontianak",
+    "feltOnStations": "II Kab. Landak",
+    "bmkgEarthquakeId": "20230706044322",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230706044322.mmi.jpg",
+    "fingerprintSha1": "e1d21fecbc4f71abaddf6ba93ba2744f24f3fbc1"
   }
 ]
