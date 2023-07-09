@@ -7642,5 +7642,17 @@
     "bmkgEarthquakeId": "20230707112508",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230707112508.mmi.jpg",
     "fingerprintSha1": "b565f88367b67964470641818512d0ff82c60cc3"
+  },
+  {
+    "earthquakeAt": "2023-07-09T00:35:10.000Z",
+    "latitude": -3.77,
+    "longitude": 120.07,
+    "magnitude": 4.7,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 5km Timur Laut Siddenreng Rappang",
+    "feltOnStations": "III Wajo",
+    "bmkgEarthquakeId": "20230709073510",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230709073510.mmi.jpg",
+    "fingerprintSha1": "a6da17ead5501b25496cd4c78e01d05cfb45786c"
   }
 ]
