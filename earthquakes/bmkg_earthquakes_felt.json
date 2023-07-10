@@ -7678,5 +7678,17 @@
     "bmkgEarthquakeId": "20230709210906",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230709210906.mmi.jpg",
     "fingerprintSha1": "5ca269ae6fbf3885c1f3bdce44ddbd332865bd33"
+  },
+  {
+    "earthquakeAt": "2023-07-10T01:19:04.000Z",
+    "latitude": 3.65,
+    "longitude": 95.84,
+    "magnitude": 5.2,
+    "depthInKm": 27,
+    "locationInIndonesian": "Pusat gempa berada di laut 63 km Barat Daya Meulaboh",
+    "feltOnStations": "III Meulaboh, II-III Calang, I-II Banda Aceh, I-II Aceh Tengah, I-II Pidie",
+    "bmkgEarthquakeId": "20230710081904",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230710081904.mmi.jpg",
+    "fingerprintSha1": "cec3c76e92c7a8e3312c18fc5bcc31f329396873"
   }
 ]
