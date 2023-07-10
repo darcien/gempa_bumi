@@ -7690,5 +7690,17 @@
     "bmkgEarthquakeId": "20230710081904",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230710081904.mmi.jpg",
     "fingerprintSha1": "cec3c76e92c7a8e3312c18fc5bcc31f329396873"
+  },
+  {
+    "earthquakeAt": "2023-07-10T02:18:18.000Z",
+    "latitude": -7.77,
+    "longitude": 107.26,
+    "magnitude": 4,
+    "depthInKm": 26,
+    "locationInIndonesian": "Pusat gempa berada di laut 88 Km Baratdaya Kabupaten Bandung",
+    "feltOnStations": "III Rancabuaya, III Pameungpeuk, III Cisompet, II Cikajang, II singajaya",
+    "bmkgEarthquakeId": "20230710091818",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230710091818.mmi.jpg",
+    "fingerprintSha1": "45a218a7116a0c61a309a300a7b6de7438aa8899"
   }
 ]
