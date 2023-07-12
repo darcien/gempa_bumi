@@ -7738,5 +7738,17 @@
     "bmkgEarthquakeId": "20230712215645",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230712215645.mmi.jpg",
     "fingerprintSha1": "3d8aed2ad51c83f78308ed2d02b1afb25b01a3c6"
+  },
+  {
+    "earthquakeAt": "2023-07-12T17:12:03.000Z",
+    "latitude": -8.79,
+    "longitude": 109.76,
+    "magnitude": 4.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada dilaut 117 km BaratDaya Kulon Progo",
+    "feltOnStations": "II Bantul",
+    "bmkgEarthquakeId": "20230713001203",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230713001203.mmi.jpg",
+    "fingerprintSha1": "13f99cbfa7297059b634ff8bee5c35049fcd977d"
   }
 ]
