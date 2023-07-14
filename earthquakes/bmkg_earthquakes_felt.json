@@ -7762,5 +7762,17 @@
     "bmkgEarthquakeId": "20230713062641",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230713062641.mmi.jpg",
     "fingerprintSha1": "5319d2f4fbbe800dde924d34adf4f3d7698973c9"
+  },
+  {
+    "earthquakeAt": "2023-07-14T13:30:13.000Z",
+    "latitude": -8.6,
+    "longitude": 110.1,
+    "magnitude": 4.3,
+    "depthInKm": 25,
+    "locationInIndonesian": "Pusat gempa berada di laut 82 km Barat Daya Bantul",
+    "feltOnStations": "II Wonosari, II Imogiri, II Pacitan",
+    "bmkgEarthquakeId": "20230714203013",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230714203013.mmi.jpg",
+    "fingerprintSha1": "3e6226324f10758e39cdbebf4d249d1b42bd4db9"
   }
 ]
