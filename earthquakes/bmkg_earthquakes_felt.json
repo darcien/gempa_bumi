@@ -7810,5 +7810,17 @@
     "bmkgEarthquakeId": "20230717054135",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230717054135.mmi.jpg",
     "fingerprintSha1": "677dc9eac2e771fe88eaf3c471a364c14974d604"
+  },
+  {
+    "earthquakeAt": "2023-07-17T04:07:27.000Z",
+    "latitude": -2.34,
+    "longitude": 140.09,
+    "magnitude": 4.7,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di darat 29 km BaratLaut Genyem-Jayapura",
+    "feltOnStations": "III Kab. Jayapura, III Kota Jayapura, II Kab. Keerom",
+    "bmkgEarthquakeId": "20230717110727",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230717110727.mmi.jpg",
+    "fingerprintSha1": "7d2e5f50287f9bb3ead6eb78bf831900dfa97acc"
   }
 ]
