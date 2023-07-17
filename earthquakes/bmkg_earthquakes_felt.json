@@ -7822,5 +7822,17 @@
     "bmkgEarthquakeId": "20230717110727",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230717110727.mmi.jpg",
     "fingerprintSha1": "7d2e5f50287f9bb3ead6eb78bf831900dfa97acc"
+  },
+  {
+    "earthquakeAt": "2023-07-17T04:42:16.000Z",
+    "latitude": -1.46,
+    "longitude": 126.42,
+    "magnitude": 5.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 79 km TimurLaut Sanana",
+    "feltOnStations": "III - IV Sanana, III Falabisahaya, II - III Labuha, II - III Bobong",
+    "bmkgEarthquakeId": "20230717114216",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230717114216.mmi.jpg",
+    "fingerprintSha1": "2e508cc90d8ef1f9cdc05f06e2f93d0a80e0cbce"
   }
 ]
