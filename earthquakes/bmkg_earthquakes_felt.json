@@ -7834,5 +7834,17 @@
     "bmkgEarthquakeId": "20230717114216",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230717114216.mmi.jpg",
     "fingerprintSha1": "2e508cc90d8ef1f9cdc05f06e2f93d0a80e0cbce"
+  },
+  {
+    "earthquakeAt": "2023-07-17T09:46:36.000Z",
+    "latitude": -1.44,
+    "longitude": 126.41,
+    "magnitude": 5.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 82 km TimurLaut Sanana",
+    "feltOnStations": "II-III Sanana",
+    "bmkgEarthquakeId": "20230717164636",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230717164636.mmi.jpg",
+    "fingerprintSha1": "577eeb07c26adb0fe65a0aa9a0003d171831e403"
   }
 ]
