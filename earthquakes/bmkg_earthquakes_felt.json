@@ -7882,5 +7882,17 @@
     "bmkgEarthquakeId": "20230719174753",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230719174753.mmi.jpg",
     "fingerprintSha1": "a4fbce6f3aa9ad19aac865d59a5b83a6d79efb96"
+  },
+  {
+    "earthquakeAt": "2023-07-19T15:18:49.000Z",
+    "latitude": -3.06,
+    "longitude": 139.99,
+    "magnitude": 5.2,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di darat 70 km Barat Daya Kab.Jayapura",
+    "feltOnStations": "III Kab. Jayapura",
+    "bmkgEarthquakeId": "20230719221849",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230719221849.mmi.jpg",
+    "fingerprintSha1": "87552f40e817b4e8332c416e4a1ee55a23e304fa"
   }
 ]
