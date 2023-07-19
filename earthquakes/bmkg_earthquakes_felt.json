@@ -7870,5 +7870,17 @@
     "bmkgEarthquakeId": "20230718110724",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230718110724.mmi.jpg",
     "fingerprintSha1": "6b7f8037a862da9cc69728da7bd60bdf2a33789f"
+  },
+  {
+    "earthquakeAt": "2023-07-19T10:47:53.000Z",
+    "latitude": -2.38,
+    "longitude": 122.71,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 96 km TimurLaut Morowali",
+    "feltOnStations": "III Bahodopi, III Bungku",
+    "bmkgEarthquakeId": "20230719174753",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230719174753.mmi.jpg",
+    "fingerprintSha1": "a4fbce6f3aa9ad19aac865d59a5b83a6d79efb96"
   }
 ]
