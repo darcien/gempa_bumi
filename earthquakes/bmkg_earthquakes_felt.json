@@ -7974,7 +7974,7 @@
     "magnitude": 4.6,
     "depthInKm": 4,
     "locationInIndonesian": "Pusat gempa berada di laut 106 km BaratDaya Kab Tasikmalaya",
-    "feltOnStations": "II-III Cijulang, II-III Cimerak, II-III Parigi",
+    "feltOnStations": "III Pameungpeuk, III Cijulang, III Banjaran, III Cikelet, III Cidaun, III Ciamis, II - III Cimerak, II - III Parigi, II Kertasari, II Pangalengan, II Cipamingkis",
     "bmkgEarthquakeId": "20230722054140",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230722054140.mmi.jpg",
     "fingerprintSha1": "06a8e5a46354cd424a122c02894bce45f7f6deca"
