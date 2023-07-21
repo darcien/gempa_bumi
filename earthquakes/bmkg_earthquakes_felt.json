@@ -7954,5 +7954,17 @@
     "bmkgEarthquakeId": "20230721104023",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230721104023.mmi.jpg",
     "fingerprintSha1": "b5ab8ab20c3b68a60fabe2b12d3ea7ee7bcf4547"
+  },
+  {
+    "earthquakeAt": "2023-07-21T08:10:15.000Z",
+    "latitude": -8.38,
+    "longitude": 119.74,
+    "magnitude": 4.6,
+    "depthInKm": 136,
+    "locationInIndonesian": "Pusat gempa berada di laut 21 km BaratLaut Labuan Bajo",
+    "feltOnStations": "II-III Ruteng",
+    "bmkgEarthquakeId": "20230721151015",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230721151015.mmi.jpg",
+    "fingerprintSha1": "d2d5f143587bd80cb69e64a8ef3fa58f29b4ac68"
   }
 ]
