@@ -7942,5 +7942,17 @@
     "bmkgEarthquakeId": "20230721033223",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230721033223.mmi.jpg",
     "fingerprintSha1": "2d43755c0d0c0745de5d671ba291ed7d1ba5ca92"
+  },
+  {
+    "earthquakeAt": "2023-07-21T03:40:23.000Z",
+    "latitude": -5.18,
+    "longitude": 102.15,
+    "magnitude": 4.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 22 km BaratLaut Enggano",
+    "feltOnStations": "II - III Enggano, II Kota Bengkulu",
+    "bmkgEarthquakeId": "20230721104023",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230721104023.mmi.jpg",
+    "fingerprintSha1": "b5ab8ab20c3b68a60fabe2b12d3ea7ee7bcf4547"
   }
 ]
