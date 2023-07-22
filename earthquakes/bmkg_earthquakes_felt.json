@@ -7978,5 +7978,29 @@
     "bmkgEarthquakeId": "20230722054140",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230722054140.mmi.jpg",
     "fingerprintSha1": "06a8e5a46354cd424a122c02894bce45f7f6deca"
+  },
+  {
+    "earthquakeAt": "2023-07-22T06:20:24.000Z",
+    "latitude": -1.69,
+    "longitude": 120.43,
+    "magnitude": 4.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 20 km timur Doda",
+    "feltOnStations": "III Tentena, II - III Poso",
+    "bmkgEarthquakeId": "20230722132024",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230722132024.mmi.jpg",
+    "fingerprintSha1": "f06d1277528a21ae3410474ed8348a753141994c"
+  },
+  {
+    "earthquakeAt": "2023-07-22T06:19:44.000Z",
+    "latitude": -1.68,
+    "longitude": 120.45,
+    "magnitude": 4.3,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 22 km timur Doda",
+    "feltOnStations": "III Tentena, II - III Poso",
+    "bmkgEarthquakeId": "20230722131944",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230722131944.mmi.jpg",
+    "fingerprintSha1": "3cc5dde3fa935cd63347969c47e501443a1dadd8"
   }
 ]
