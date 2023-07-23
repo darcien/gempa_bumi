@@ -8014,5 +8014,17 @@
     "bmkgEarthquakeId": "20230723032735",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230723032735.mmi.jpg",
     "fingerprintSha1": "fea357015676646b32d1d430ae4671aab2f11cc2"
+  },
+  {
+    "earthquakeAt": "2023-07-23T12:33:25.000Z",
+    "latitude": -8.94,
+    "longitude": 111.04,
+    "magnitude": 5.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 84 km BaratDaya Pacitan-Jatim",
+    "feltOnStations": "IV Ponorogo, III Bantul, II Pacitan, III Purworejo, III Blitar, II-III Klaten, II-III Wonosobo, II-III Banjarnegara, II-III Magelang, II-III Kepanjen, II-III Karangkates",
+    "bmkgEarthquakeId": "20230723193325",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230723193325.mmi.jpg",
+    "fingerprintSha1": "c044a213a044254da4a78bc941b06fdb62915d83"
   }
 ]
