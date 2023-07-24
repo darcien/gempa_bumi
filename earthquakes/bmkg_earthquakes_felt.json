@@ -8026,5 +8026,17 @@
     "bmkgEarthquakeId": "20230723193325",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230723193325.mmi.jpg",
     "fingerprintSha1": "c044a213a044254da4a78bc941b06fdb62915d83"
+  },
+  {
+    "earthquakeAt": "2023-07-24T22:10:51.000Z",
+    "latitude": 1.27,
+    "longitude": 122.63,
+    "magnitude": 4.5,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada dilaut 59 km BaratLaut Gorontalo Utara",
+    "feltOnStations": "II Gorontalo",
+    "bmkgEarthquakeId": "20230725051051",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230725051051.mmi.jpg",
+    "fingerprintSha1": "d71f9a6582f377b45033f19af4ad086a138b6cbd"
   }
 ]
