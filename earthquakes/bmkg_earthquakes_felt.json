@@ -8038,5 +8038,17 @@
     "bmkgEarthquakeId": "20230725051051",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230725051051.mmi.jpg",
     "fingerprintSha1": "d71f9a6582f377b45033f19af4ad086a138b6cbd"
+  },
+  {
+    "earthquakeAt": "2023-07-25T00:25:12.000Z",
+    "latitude": -9.26,
+    "longitude": 123.95,
+    "magnitude": 6,
+    "depthInKm": 75,
+    "locationInIndonesian": "Pusat gempa berada dilaut 74 km BaratLaut TimorTengah Utara",
+    "feltOnStations": "II-III Alor, II-III Maumere, III Lembata, II-III Larantuka, II-III Waingapu , II Kupang, II Ende, II-III Kefa, II-III Soe, II Atambua",
+    "bmkgEarthquakeId": "20230725072512",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230725072512.mmi.jpg",
+    "fingerprintSha1": "7ee288b6a949222893622cdc5ea101502069485b"
   }
 ]
