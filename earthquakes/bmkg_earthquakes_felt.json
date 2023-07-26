@@ -8062,5 +8062,17 @@
     "bmkgEarthquakeId": "20230725100440",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230725100440.mmi.jpg",
     "fingerprintSha1": "bc942d9677b967de7d2251104de043dc2b8d4ae4"
+  },
+  {
+    "earthquakeAt": "2023-07-26T07:15:53.000Z",
+    "latitude": -3.34,
+    "longitude": 128.22,
+    "magnitude": 2.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 15 km Barat Kairatu-SBB",
+    "feltOnStations": "II Kairatu",
+    "bmkgEarthquakeId": "20230726141553",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230726141553.mmi.jpg",
+    "fingerprintSha1": "bda85aa0facd2f7fe54582151a7d85145c755ef0"
   }
 ]
