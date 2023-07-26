@@ -8074,5 +8074,17 @@
     "bmkgEarthquakeId": "20230726141553",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230726141553.mmi.jpg",
     "fingerprintSha1": "bda85aa0facd2f7fe54582151a7d85145c755ef0"
+  },
+  {
+    "earthquakeAt": "2023-07-26T12:31:29.000Z",
+    "latitude": -8.13,
+    "longitude": 107.9,
+    "magnitude": 3.7,
+    "depthInKm": 30,
+    "locationInIndonesian": "Pusat gempa berada di laut 80 km BaratDaya Kab-Pangandaran",
+    "feltOnStations": "II Cipatujang, II Cikajang, II Sindangkerta Kab Tasikmalaya",
+    "bmkgEarthquakeId": "20230726193129",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230726193129.mmi.jpg",
+    "fingerprintSha1": "cfd70d8a88b2fa081f6984ec5124e1bb709084fa"
   }
 ]
