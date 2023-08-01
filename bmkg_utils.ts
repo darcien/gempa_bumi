@@ -38,6 +38,8 @@ export function computeBmkgEarthquakeId(earthquakeAt: Date): BmkgEarthquakeId {
 }
 
 export function getBmkgShakeMapUrl(bmkgEarthquakeId: BmkgEarthquakeId) {
+  // Alternative URL also available on:
+  // `https://static.bmkg.go.id/${bmkgEarthquakeId}.mmi.jpg`
   return `https://ews.bmkg.go.id/TEWS/data/${bmkgEarthquakeId}.mmi.jpg`;
 }
 
