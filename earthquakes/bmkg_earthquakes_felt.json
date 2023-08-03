@@ -8194,5 +8194,17 @@
     "bmkgEarthquakeId": "20230803064719",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230803064719.mmi.jpg",
     "fingerprintSha1": "bd0366e6cafe5a37c69954e101c12b354befa968"
+  },
+  {
+    "earthquakeAt": "2023-08-03T02:52:04.000Z",
+    "latitude": 2.04,
+    "longitude": 98.89,
+    "magnitude": 2.5,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km BaratLaut Tapanuli Utara",
+    "feltOnStations": "II Tarutung",
+    "bmkgEarthquakeId": "20230803095204",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230803095204.mmi.jpg",
+    "fingerprintSha1": "19e11a7f6baf5aba79f8cfe0f4554f1e8617d0d4"
   }
 ]
