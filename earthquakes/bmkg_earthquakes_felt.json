@@ -8182,5 +8182,17 @@
     "bmkgEarthquakeId": "20230803022132",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230803022132.mmi.jpg",
     "fingerprintSha1": "c4f242a7e9d1d744f8f14b733c96e7281332f985"
+  },
+  {
+    "earthquakeAt": "2023-08-02T23:47:19.000Z",
+    "latitude": -8.13,
+    "longitude": 120.55,
+    "magnitude": 3.8,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di Laut 54 km TimurLaut Ruteng",
+    "feltOnStations": "II Ruteng",
+    "bmkgEarthquakeId": "20230803064719",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230803064719.mmi.jpg",
+    "fingerprintSha1": "bd0366e6cafe5a37c69954e101c12b354befa968"
   }
 ]
