@@ -8254,5 +8254,17 @@
     "bmkgEarthquakeId": "20230804042754",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230804042754.mmi.jpg",
     "fingerprintSha1": "8c29b82c3cd47e07d345a896d764b9b579ea9e88"
+  },
+  {
+    "earthquakeAt": "2023-08-04T03:19:40.000Z",
+    "latitude": -7.38,
+    "longitude": 107.53,
+    "magnitude": 3.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 39 km Tenggara Kab. Bandung",
+    "feltOnStations": "II Pangalengan, II Cikajang, II Bayongbong, II Cisurupan",
+    "bmkgEarthquakeId": "20230804101940",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230804101940.mmi.jpg",
+    "fingerprintSha1": "73e08e815649e028a3f4f58e32403353d429bce6"
   }
 ]
