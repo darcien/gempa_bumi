@@ -8278,5 +8278,17 @@
     "bmkgEarthquakeId": "20230804161502",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230804161502.mmi.jpg",
     "fingerprintSha1": "897939ac577b9bd75258b1a8f2b09b2d52ffc3ab"
+  },
+  {
+    "earthquakeAt": "2023-08-04T11:48:38.000Z",
+    "latitude": -0.21,
+    "longitude": 125.03,
+    "magnitude": 6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 117 km Tenggara Bolaang Mongondo Timur",
+    "feltOnStations": "III - IV Bone Bolango, III - IV Gorontalo, III Manado, III Tomohon, III Tondano, III Minahasa Utara, III Bolaang Mongondow Selatan, III Minahasa Tenggara, III Bolaang Mongondow Timur, III Kotamobagu, III Bitung, III Kab. Gorontalo, II-III Luwuk, II-III Kab. Gorontalo Utara, II-III Banggai Kepulauan, II Ampana",
+    "bmkgEarthquakeId": "20230804184838",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230804184838.mmi.jpg",
+    "fingerprintSha1": "051f830742d682b3a20af5166c463b2ae7f2831b"
   }
 ]
