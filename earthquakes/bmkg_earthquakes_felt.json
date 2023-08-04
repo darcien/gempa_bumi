@@ -8230,5 +8230,29 @@
     "bmkgEarthquakeId": "20230803182159",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230803182159.mmi.jpg",
     "fingerprintSha1": "611012d10f9b94017249bff76a41f93570c98567"
+  },
+  {
+    "earthquakeAt": "2023-08-04T00:31:41.000Z",
+    "latitude": -6.32,
+    "longitude": 113.14,
+    "magnitude": 5.5,
+    "depthInKm": 636,
+    "locationInIndonesian": "Pusat gempa berada di laut 83 km Timur Laut Bangkalan",
+    "feltOnStations": "II Karangkates, II Denpasar, II Kuta, II Pacitan",
+    "bmkgEarthquakeId": "20230804073141",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230804073141.mmi.jpg",
+    "fingerprintSha1": "2688b118d3fef90904b16cdbefbb24fe7c6b39f3"
+  },
+  {
+    "earthquakeAt": "2023-08-03T21:27:54.000Z",
+    "latitude": 2.06,
+    "longitude": 98.91,
+    "magnitude": 3.3,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km BaratLaut Tapanuli Utara",
+    "feltOnStations": "III Sipoholon",
+    "bmkgEarthquakeId": "20230804042754",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230804042754.mmi.jpg",
+    "fingerprintSha1": "8c29b82c3cd47e07d345a896d764b9b579ea9e88"
   }
 ]
