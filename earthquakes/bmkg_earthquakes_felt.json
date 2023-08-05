@@ -8314,5 +8314,29 @@
     "bmkgEarthquakeId": "20230805102422",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230805102422.mmi.jpg",
     "fingerprintSha1": "668fdb78fa72c0c1e423e8800f48f903dcbafc3f"
+  },
+  {
+    "earthquakeAt": "2023-08-05T22:25:42.000Z",
+    "latitude": -0.71,
+    "longitude": 131.48,
+    "magnitude": 3.5,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di laut 23 km TimurLaut Kota Sorong",
+    "feltOnStations": "II-III Kota Sorong",
+    "bmkgEarthquakeId": "20230806052542",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230806052542.mmi.jpg",
+    "fingerprintSha1": "5446172880b77802335746755d1ccdbefeb36b09"
+  },
+  {
+    "earthquakeAt": "2023-08-05T22:15:14.000Z",
+    "latitude": -0.78,
+    "longitude": 131.48,
+    "magnitude": 3.7,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km TimurLaut Kota Sorong",
+    "feltOnStations": "II-III Kota Sorong",
+    "bmkgEarthquakeId": "20230806051514",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230806051514.mmi.jpg",
+    "fingerprintSha1": "62814fb8fe091eeea0fa0f9b38c98776a2d4b013"
   }
 ]
