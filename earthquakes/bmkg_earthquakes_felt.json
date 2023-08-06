@@ -8350,5 +8350,17 @@
     "bmkgEarthquakeId": "20230806084432",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230806084432.mmi.jpg",
     "fingerprintSha1": "edef96813ed65532cb03c9b370ee8148a4a7c0b7"
+  },
+  {
+    "earthquakeAt": "2023-08-06T10:09:22.000Z",
+    "latitude": -1.14,
+    "longitude": 120.16,
+    "magnitude": 5.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 41 km Tenggara Palu",
+    "feltOnStations": "IV - V Sigi, III - IV Parigi , III Palu",
+    "bmkgEarthquakeId": "20230806170922",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230806170922.mmi.jpg",
+    "fingerprintSha1": "0c72914a0470aa31939ceddbda00f22bb6ce9ae0"
   }
 ]
