@@ -8358,9 +8358,21 @@
     "magnitude": 5.3,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 41 km Tenggara Palu",
-    "feltOnStations": "IV - V Sigi, III - IV Parigi , III Palu",
+    "feltOnStations": "IV - V Sigi, III - IV Parigi , III Palu, II Mamuju Tengah",
     "bmkgEarthquakeId": "20230806170922",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230806170922.mmi.jpg",
     "fingerprintSha1": "0c72914a0470aa31939ceddbda00f22bb6ce9ae0"
+  },
+  {
+    "earthquakeAt": "2023-08-06T18:14:23.000Z",
+    "latitude": -8.36,
+    "longitude": 116.76,
+    "magnitude": 4.6,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 18 km Barat Laut Pulau Panjang",
+    "feltOnStations": "III Lombok Timur, II-III Lombok Utara",
+    "bmkgEarthquakeId": "20230807011423",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230807011423.mmi.jpg",
+    "fingerprintSha1": "d267e659049d49814621c5b7ae2347b86a31a316"
   }
 ]
