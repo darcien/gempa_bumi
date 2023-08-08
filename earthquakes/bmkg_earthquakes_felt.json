@@ -8410,5 +8410,17 @@
     "bmkgEarthquakeId": "20230808223055",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230808223055.mmi.jpg",
     "fingerprintSha1": "4503e08c0344864a0a425aa11e3ca898214b3a5a"
+  },
+  {
+    "earthquakeAt": "2023-08-08T18:29:43.000Z",
+    "latitude": -3.89,
+    "longitude": 122.55,
+    "magnitude": 4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 5 km Tenggara Kab. Konawe",
+    "feltOnStations": "III Kendari",
+    "bmkgEarthquakeId": "20230809012943",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230809012943.mmi.jpg",
+    "fingerprintSha1": "54c4591cd904e209e25b78f5a51457409c453817"
   }
 ]
