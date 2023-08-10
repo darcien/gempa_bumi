@@ -8494,5 +8494,17 @@
     "bmkgEarthquakeId": "20230810152505",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230810152505.mmi.jpg",
     "fingerprintSha1": "4cf0756847b3681a7905894742a44bf71d7c3c1e"
+  },
+  {
+    "earthquakeAt": "2023-08-10T22:15:50.000Z",
+    "latitude": 3.9,
+    "longitude": 126.64,
+    "magnitude": 4.5,
+    "depthInKm": 39,
+    "locationInIndonesian": "Pusat gempa berada di laut 11 km BaratDaya Melonguane",
+    "feltOnStations": "III Kabaruan",
+    "bmkgEarthquakeId": "20230811051550",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230811051550.mmi.jpg",
+    "fingerprintSha1": "6f88bb01ee8974fa22bd63276fbf713dd5657b06"
   }
 ]
