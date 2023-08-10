@@ -8434,5 +8434,17 @@
     "bmkgEarthquakeId": "20230809025718",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230809025718.mmi.jpg",
     "fingerprintSha1": "a5819523601e616396508ec7d7aa1f754c64d163"
+  },
+  {
+    "earthquakeAt": "2023-08-09T23:25:55.000Z",
+    "latitude": -3.56,
+    "longitude": 101.18,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 109 km tenggara Mukomuko",
+    "feltOnStations": "III Mukomuko",
+    "bmkgEarthquakeId": "20230810062555",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230810062555.mmi.jpg",
+    "fingerprintSha1": "3b4b35c19369bf3f1b9a3e904f39ce9e8f2cc9d0"
   }
 ]
