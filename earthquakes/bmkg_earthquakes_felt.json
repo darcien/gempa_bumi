@@ -8470,5 +8470,17 @@
     "bmkgEarthquakeId": "20230810131445",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230810131445.mmi.jpg",
     "fingerprintSha1": "fef2ca64a39c7fe9c7eb1f82541d9533ff01b327"
+  },
+  {
+    "earthquakeAt": "2023-08-10T06:58:45.000Z",
+    "latitude": -5.39,
+    "longitude": 133.67,
+    "magnitude": 5.5,
+    "depthInKm": 68,
+    "locationInIndonesian": "Pusat gempa berada di laut 74 km Barat Laut Dobo",
+    "feltOnStations": "II - III Dobo",
+    "bmkgEarthquakeId": "20230810135845",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230810135845.mmi.jpg",
+    "fingerprintSha1": "087effc55b2e73117625cbd30339ad62d4febf58"
   }
 ]
