@@ -8454,7 +8454,7 @@
     "magnitude": 5.9,
     "depthInKm": 154,
     "locationInIndonesian": "Pusat gempa berada di laut 129 km Barat Langgur, Maluku Tenggara",
-    "feltOnStations": "II Tual, II Dobo, II-III Banda",
+    "feltOnStations": "II Tual, II Dobo, II-III Banda, II - III Kaimana",
     "bmkgEarthquakeId": "20230810090027",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230810090027.mmi.jpg",
     "fingerprintSha1": "14eb80b4c2c384579d02bc188ede66689405df7b"
