@@ -8458,5 +8458,17 @@
     "bmkgEarthquakeId": "20230810090027",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230810090027.mmi.jpg",
     "fingerprintSha1": "14eb80b4c2c384579d02bc188ede66689405df7b"
+  },
+  {
+    "earthquakeAt": "2023-08-10T06:14:45.000Z",
+    "latitude": 0.64,
+    "longitude": 121.46,
+    "magnitude": 5.2,
+    "depthInKm": 48,
+    "locationInIndonesian": "Pusat gempa berada di darat 38 km Tenggara Buol",
+    "feltOnStations": "III Toli-toli, III Pohuwato",
+    "bmkgEarthquakeId": "20230810131445",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230810131445.mmi.jpg",
+    "fingerprintSha1": "fef2ca64a39c7fe9c7eb1f82541d9533ff01b327"
   }
 ]
