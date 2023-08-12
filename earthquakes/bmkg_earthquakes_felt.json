@@ -8506,5 +8506,17 @@
     "bmkgEarthquakeId": "20230811051550",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230811051550.mmi.jpg",
     "fingerprintSha1": "6f88bb01ee8974fa22bd63276fbf713dd5657b06"
+  },
+  {
+    "earthquakeAt": "2023-08-12T13:20:15.000Z",
+    "latitude": -0.63,
+    "longitude": 121.16,
+    "magnitude": 5.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 66 km Baratlaut Tojo Una-una",
+    "feltOnStations": "III-IV Ampana, III Poso",
+    "bmkgEarthquakeId": "20230812202015",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230812202015.mmi.jpg",
+    "fingerprintSha1": "42c4a8bff49c351c8673e6580dd3419be220cd69"
   }
 ]
