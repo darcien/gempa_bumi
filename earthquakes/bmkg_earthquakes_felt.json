@@ -8530,5 +8530,17 @@
     "bmkgEarthquakeId": "20230813063122",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230813063122.mmi.jpg",
     "fingerprintSha1": "eb9d83ac77254b4812c539209aaecc446907bc6f"
+  },
+  {
+    "earthquakeAt": "2023-08-13T23:07:17.000Z",
+    "latitude": -4.06,
+    "longitude": 121.61,
+    "magnitude": 2.9,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 1.5 km Tenggara Kolaka Kab. Kolaka",
+    "feltOnStations": "II-III Kolaka",
+    "bmkgEarthquakeId": "20230814060717",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230814060717.mmi.jpg",
+    "fingerprintSha1": "7f50d42bedcf67fe480dd0f8a306f8b4e3377bb2"
   }
 ]
