@@ -8526,7 +8526,7 @@
     "magnitude": 3.9,
     "depthInKm": 24,
     "locationInIndonesian": "Pusat gempa berada di darat 17 km Tenggara Lombok Utara",
-    "feltOnStations": "III Lombok Utara, III Lombok Barat, III Mataram, II Lombok Timur",
+    "feltOnStations": "III Lombok Utara, III Lombok Barat, III Mataram, II-III Lombok Tengah, III Lombok Timur",
     "bmkgEarthquakeId": "20230813063122",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230813063122.mmi.jpg",
     "fingerprintSha1": "eb9d83ac77254b4812c539209aaecc446907bc6f"
