@@ -8542,5 +8542,17 @@
     "bmkgEarthquakeId": "20230814060717",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230814060717.mmi.jpg",
     "fingerprintSha1": "7f50d42bedcf67fe480dd0f8a306f8b4e3377bb2"
+  },
+  {
+    "earthquakeAt": "2023-08-14T09:00:03.000Z",
+    "latitude": -8.3,
+    "longitude": 116.82,
+    "magnitude": 3.3,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 18 km barat laut Pulau Panjang",
+    "feltOnStations": "II Lombok Timur",
+    "bmkgEarthquakeId": "20230814160003",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230814160003.mmi.jpg",
+    "fingerprintSha1": "eedef1ef215848743ef05b3ef79f1346b2ee4f3c"
   }
 ]
