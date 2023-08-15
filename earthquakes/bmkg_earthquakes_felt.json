@@ -8554,5 +8554,17 @@
     "bmkgEarthquakeId": "20230814160003",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230814160003.mmi.jpg",
     "fingerprintSha1": "eedef1ef215848743ef05b3ef79f1346b2ee4f3c"
+  },
+  {
+    "earthquakeAt": "2023-08-15T03:54:06.000Z",
+    "latitude": -8.65,
+    "longitude": 121.51,
+    "magnitude": 5.8,
+    "depthInKm": 164,
+    "locationInIndonesian": "Pusat gempa berada di darat 22 km timur laut Mbay-Nagekeo",
+    "feltOnStations": "III-IV Waingapu, III Sumbawa, III Dompu, III Kota Bima, III Kab. Bima, III Ngada, II-III Mataram, II-III Lombok Timur, II-III Sumbawa Barat, II Gianyar, II Denpasar, III-IV Ende, II Bajawa",
+    "bmkgEarthquakeId": "20230815105406",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230815105406.mmi.jpg",
+    "fingerprintSha1": "b3f1f1d69024530d79d72741e88badba27a2b62b"
   }
 ]
