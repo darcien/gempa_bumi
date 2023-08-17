@@ -8578,5 +8578,17 @@
     "bmkgEarthquakeId": "20230815162917",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230815162917.mmi.jpg",
     "fingerprintSha1": "3a8563a988d5ea39b9ba4542534f53a341550221"
+  },
+  {
+    "earthquakeAt": "2023-08-17T04:28:48.000Z",
+    "latitude": -7.62,
+    "longitude": 105.51,
+    "magnitude": 5.7,
+    "depthInKm": 60,
+    "locationInIndonesian": "Pusat gempa berada di laut 96 Km Barat Daya Muarabinuangeun",
+    "feltOnStations": "II-III Bandung, II Cikembar, II Bogor",
+    "bmkgEarthquakeId": "20230817112848",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230817112848.mmi.jpg",
+    "fingerprintSha1": "90ebae27bcdb199ce5c782138cb82cfb2b69913f"
   }
 ]
