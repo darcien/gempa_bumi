@@ -8590,5 +8590,17 @@
     "bmkgEarthquakeId": "20230817112848",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230817112848.mmi.jpg",
     "fingerprintSha1": "90ebae27bcdb199ce5c782138cb82cfb2b69913f"
+  },
+  {
+    "earthquakeAt": "2023-08-17T13:16:08.000Z",
+    "latitude": 4.43,
+    "longitude": 96.57,
+    "magnitude": 5.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 35 km TimurLaut Kab. Naganraya",
+    "feltOnStations": "III Takengon, III Bener Meriah, III Aceh Tengah, III Aceh Jaya, II Aceh Besar",
+    "bmkgEarthquakeId": "20230817201608",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230817201608.mmi.jpg",
+    "fingerprintSha1": "e0ba6097607be95d3554ea1bcfb9c1245eac05d0"
   }
 ]
