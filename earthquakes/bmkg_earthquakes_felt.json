@@ -8586,7 +8586,7 @@
     "magnitude": 5.7,
     "depthInKm": 60,
     "locationInIndonesian": "Pusat gempa berada di laut 96 Km Barat Daya Muarabinuangeun",
-    "feltOnStations": "II-III Bandung, II Cikembar, II Bogor",
+    "feltOnStations": "II-III Bandung, II Cikembar, II Bogor, II-III Parung Panjang, III Cianjur, III Pelabuhan Ratu, III Binuangeun, III Labuan, III Tangerang, III-IV Nyalindung, III-IV Tegalbuleud, III-IV Ciambar",
     "bmkgEarthquakeId": "20230817112848",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230817112848.mmi.jpg",
     "fingerprintSha1": "90ebae27bcdb199ce5c782138cb82cfb2b69913f"
