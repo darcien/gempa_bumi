@@ -8626,5 +8626,17 @@
     "bmkgEarthquakeId": "20230818212703",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230818212703.mmi.jpg",
     "fingerprintSha1": "1d24faeb18f330f830d61f8cf1b1c348d44846e1"
+  },
+  {
+    "earthquakeAt": "2023-08-18T18:29:15.000Z",
+    "latitude": -8.99,
+    "longitude": 111.06,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 90 km BaratDaya Pacitan",
+    "feltOnStations": "III Pacitan , II Gunungkidul, II Bantul, II Yogyakarta",
+    "bmkgEarthquakeId": "20230819012915",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230819012915.mmi.jpg",
+    "fingerprintSha1": "faccc7a17a078765d6a80b3e9b942dabcf70a3c5"
   }
 ]
