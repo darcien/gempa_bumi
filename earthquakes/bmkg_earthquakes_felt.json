@@ -8602,5 +8602,17 @@
     "bmkgEarthquakeId": "20230817201608",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230817201608.mmi.jpg",
     "fingerprintSha1": "e0ba6097607be95d3554ea1bcfb9c1245eac05d0"
+  },
+  {
+    "earthquakeAt": "2023-08-18T13:41:06.000Z",
+    "latitude": -8.92,
+    "longitude": 111.07,
+    "magnitude": 4.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 82 km Barat Daya Pacitan",
+    "feltOnStations": "II Pacitan, II Bantul, II Trenggalek",
+    "bmkgEarthquakeId": "20230818204106",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230818204106.mmi.jpg",
+    "fingerprintSha1": "5bb6ddc6855aae6c14631e3af91f857062e77b6f"
   }
 ]
