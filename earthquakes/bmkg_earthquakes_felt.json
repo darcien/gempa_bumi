@@ -8670,7 +8670,7 @@
     "magnitude": 3.1,
     "depthInKm": 11,
     "locationInIndonesian": "Pusat gempa berada di darat 7 km Barat Daya Badung",
-    "feltOnStations": "II Kuta",
+    "feltOnStations": "II Kuta, II Denpasar",
     "bmkgEarthquakeId": "20230821223729",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230821223729.mmi.jpg",
     "fingerprintSha1": "04c89a2db1ce69007936e27db84606d7b6bda1de"
