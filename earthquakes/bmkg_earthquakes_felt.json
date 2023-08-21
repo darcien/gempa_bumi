@@ -8650,5 +8650,17 @@
     "bmkgEarthquakeId": "20230820095232",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230820095232.mmi.jpg",
     "fingerprintSha1": "a1233c71f5c7024d8afea7006cd13873b07e300a"
+  },
+  {
+    "earthquakeAt": "2023-08-21T02:55:48.000Z",
+    "latitude": 4.61,
+    "longitude": 95.64,
+    "magnitude": 4.1,
+    "depthInKm": 46,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km Tenggara Calang",
+    "feltOnStations": "II-III Pasir Raya",
+    "bmkgEarthquakeId": "20230821095548",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230821095548.mmi.jpg",
+    "fingerprintSha1": "06adc907c4ff42996b880db1d02e8b7ad2209176"
   }
 ]
