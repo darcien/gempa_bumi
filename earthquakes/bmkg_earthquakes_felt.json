@@ -8674,5 +8674,17 @@
     "bmkgEarthquakeId": "20230821223729",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230821223729.mmi.jpg",
     "fingerprintSha1": "04c89a2db1ce69007936e27db84606d7b6bda1de"
+  },
+  {
+    "earthquakeAt": "2023-08-23T19:52:53.000Z",
+    "latitude": -8.74,
+    "longitude": 111.51,
+    "magnitude": 4.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 76 km Baratdaya Trenggalek",
+    "feltOnStations": "II Trenggalek, II Blitar, II Nganjuk, II Karangkates",
+    "bmkgEarthquakeId": "20230824025253",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230824025253.mmi.jpg",
+    "fingerprintSha1": "21de792943a613e303c88db8555fd2ada0338d1e"
   }
 ]
