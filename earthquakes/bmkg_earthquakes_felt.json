@@ -8710,5 +8710,17 @@
     "bmkgEarthquakeId": "20230826105436",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230826105436.mmi.jpg",
     "fingerprintSha1": "57777705cf289c47a4716d67ed93e1898701a9f0"
+  },
+  {
+    "earthquakeAt": "2023-08-26T22:45:29.000Z",
+    "latitude": 0.98,
+    "longitude": 121.95,
+    "magnitude": 5.1,
+    "depthInKm": 42,
+    "locationInIndonesian": "Pusat gempa berada di darat 57 km TimurLaut Pohuwato",
+    "feltOnStations": "III Pohuwatu, III Kabupaten Gorontalo, III Gorontalo Utara, III Kabupaten Boalemo",
+    "bmkgEarthquakeId": "20230827054529",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230827054529.mmi.jpg",
+    "fingerprintSha1": "9ac07a263ef987f62b1456869740bddaf1a4b5e2"
   }
 ]
