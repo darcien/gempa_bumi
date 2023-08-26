@@ -8698,5 +8698,17 @@
     "bmkgEarthquakeId": "20230825184223",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230825184223.mmi.jpg",
     "fingerprintSha1": "93359eb3c9ea09e818550f074237ee3f4e930f4a"
+  },
+  {
+    "earthquakeAt": "2023-08-26T03:54:36.000Z",
+    "latitude": 1.79,
+    "longitude": 117.84,
+    "magnitude": 3.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 60 km Tenggara Berau",
+    "feltOnStations": "II Tabalar Berau",
+    "bmkgEarthquakeId": "20230826105436",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230826105436.mmi.jpg",
+    "fingerprintSha1": "57777705cf289c47a4716d67ed93e1898701a9f0"
   }
 ]
