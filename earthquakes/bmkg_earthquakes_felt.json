@@ -8722,5 +8722,17 @@
     "bmkgEarthquakeId": "20230827054529",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230827054529.mmi.jpg",
     "fingerprintSha1": "9ac07a263ef987f62b1456869740bddaf1a4b5e2"
+  },
+  {
+    "earthquakeAt": "2023-08-27T14:25:18.000Z",
+    "latitude": -9.46,
+    "longitude": 115.57,
+    "magnitude": 3.6,
+    "depthInKm": 35,
+    "locationInIndonesian": "Pusat gempa berada di laut 83 km Tenggara KutaSelatan",
+    "feltOnStations": "",
+    "bmkgEarthquakeId": "20230827212518",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230827212518.mmi.jpg",
+    "fingerprintSha1": "8fbd4adfadd46d380146aaf7c60341121300ee6d"
   }
 ]
