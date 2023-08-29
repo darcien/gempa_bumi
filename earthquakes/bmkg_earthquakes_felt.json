@@ -8794,5 +8794,17 @@
     "bmkgEarthquakeId": "20230829102136",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230829102136.mmi.jpg",
     "fingerprintSha1": "87dede9afad2f15cae09d37e8eb0c5e39c35e062"
+  },
+  {
+    "earthquakeAt": "2023-08-29T04:34:46.000Z",
+    "latitude": -5.54,
+    "longitude": 130.04,
+    "magnitude": 6.4,
+    "depthInKm": 209,
+    "locationInIndonesian": "Pusat gempa berada dilaut 275Km Baratdaya Seram Bagian Timur",
+    "feltOnStations": "II-III Banda, II-III Saumlaki, II Waipirit, II Tual, II Masohi, II Geser, II Dobo, II Labuang, II Sorong",
+    "bmkgEarthquakeId": "20230829113446",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230829113446.mmi.jpg",
+    "fingerprintSha1": "15b82d757550950d14df0b92990a06d1d3ab866f"
   }
 ]
