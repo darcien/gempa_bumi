@@ -8773,14 +8773,14 @@
   },
   {
     "earthquakeAt": "2023-08-28T19:55:32.000Z",
-    "latitude": -4.38,
-    "longitude": 116.9,
-    "magnitude": 7.4,
-    "depthInKm": 10,
-    "locationInIndonesian": "Pusat gempa berada di laut 180 km Tenggara Tanahbumbu",
+    "latitude": -6.94,
+    "longitude": 116.57,
+    "magnitude": 7.1,
+    "depthInKm": 525,
+    "locationInIndonesian": "Pusat gempa berada di laut 163 km TimurLaut Lombok Utara",
     "feltOnStations": "V Kuta, IV Gianyar, IV Denpasar, IV Waingapu, IV Lombok, III-IV Karangkates, III Kuta Selatan, III Tabanan, II-III Trenggalek, II Bantul, II Blitar",
     "bmkgEarthquakeId": "20230829025532",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230829025532.mmi.jpg",
-    "fingerprintSha1": "814fb5416f311d15a2954439f5d7813c1e876af3"
+    "fingerprintSha1": "6525e64356c7f939134375bc696b63f7b8d38233"
   }
 ]
