@@ -8818,5 +8818,17 @@
     "bmkgEarthquakeId": "20230830030457",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230830030457.mmi.jpg",
     "fingerprintSha1": "37c4c14896560cd0ad9f7b190acb083a22a1bd78"
+  },
+  {
+    "earthquakeAt": "2023-08-30T02:17:02.000Z",
+    "latitude": -6.04,
+    "longitude": 103.87,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 94 km BaratDaya Pesisir Barat",
+    "feltOnStations": "II Liwa",
+    "bmkgEarthquakeId": "20230830091702",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230830091702.mmi.jpg",
+    "fingerprintSha1": "a5ec274311b7122006799e5c9469eae1bd4f8fc1"
   }
 ]
