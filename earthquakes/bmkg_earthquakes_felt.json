@@ -8838,7 +8838,7 @@
     "magnitude": 6.1,
     "depthInKm": 75,
     "locationInIndonesian": "Pusat gempa berada di darat 36 km BaratLaut Timor Tengah Selatan",
-    "feltOnStations": "III-IV Alor, II-III Kupang",
+    "feltOnStations": "III-IV Alor, II-III Kupang, III-IV Timor Tengah Selatan, III Timor Tengah Utara",
     "bmkgEarthquakeId": "20230831172930",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230831172930.mmi.jpg",
     "fingerprintSha1": "adb248b93ea9436419926aa6a3d8eb8981bbed18"
