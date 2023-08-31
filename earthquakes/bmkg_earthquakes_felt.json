@@ -8830,5 +8830,17 @@
     "bmkgEarthquakeId": "20230830091702",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230830091702.mmi.jpg",
     "fingerprintSha1": "a5ec274311b7122006799e5c9469eae1bd4f8fc1"
+  },
+  {
+    "earthquakeAt": "2023-08-31T10:29:30.000Z",
+    "latitude": -9.69,
+    "longitude": 124.1,
+    "magnitude": 6.1,
+    "depthInKm": 75,
+    "locationInIndonesian": "Pusat gempa berada di darat 36 km BaratLaut Timor Tengah Selatan",
+    "feltOnStations": "III-IV Alor, II-III Kupang",
+    "bmkgEarthquakeId": "20230831172930",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230831172930.mmi.jpg",
+    "fingerprintSha1": "adb248b93ea9436419926aa6a3d8eb8981bbed18"
   }
 ]
