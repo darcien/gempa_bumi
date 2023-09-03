@@ -8854,5 +8854,17 @@
     "bmkgEarthquakeId": "20230902093427",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230902093427.mmi.jpg",
     "fingerprintSha1": "b4621d7b470b2c80bb7b2351ca4bf3325a4f426c"
+  },
+  {
+    "earthquakeAt": "2023-09-03T22:36:05.000Z",
+    "latitude": 3.24,
+    "longitude": 97.46,
+    "magnitude": 3.5,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di darat 24 km Tenggara Kab. Aceh Selatan",
+    "feltOnStations": "II-III Kab. Aceh Selatan",
+    "bmkgEarthquakeId": "20230904053605",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230904053605.mmi.jpg",
+    "fingerprintSha1": "d415dec8a8a6c99f2f3eccd5ad4470ba61afe561"
   }
 ]
