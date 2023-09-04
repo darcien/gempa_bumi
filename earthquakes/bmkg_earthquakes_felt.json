@@ -8866,5 +8866,17 @@
     "bmkgEarthquakeId": "20230904053605",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230904053605.mmi.jpg",
     "fingerprintSha1": "d415dec8a8a6c99f2f3eccd5ad4470ba61afe561"
+  },
+  {
+    "earthquakeAt": "2023-09-04T05:43:27.000Z",
+    "latitude": -7.38,
+    "longitude": 107.53,
+    "magnitude": 3.8,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 39 Km Tenggara Kabupaten Bandung",
+    "feltOnStations": "III Cisewu, III Pakenjeng, III Pangalengan, II-III Ciwidey, II-III Cikajang, II-III Cibereum, II-III Soreang, II-III Kopo, II Cikalong, II Cimaung, II Cidaun",
+    "bmkgEarthquakeId": "20230904124327",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230904124327.mmi.jpg",
+    "fingerprintSha1": "0a30e6979be02b368afb99da56d9d2f7fe52b7a5"
   }
 ]
