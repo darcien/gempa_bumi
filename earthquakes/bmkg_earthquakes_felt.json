@@ -8890,5 +8890,17 @@
     "bmkgEarthquakeId": "20230905023835",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230905023835.mmi.jpg",
     "fingerprintSha1": "f193f72cdaca708bda1a7563999abe9c58923670"
+  },
+  {
+    "earthquakeAt": "2023-09-05T08:38:51.000Z",
+    "latitude": -4.24,
+    "longitude": 102.26,
+    "magnitude": 4.8,
+    "depthInKm": 30,
+    "locationInIndonesian": "Pusat gempa berada di laut 39 Km Barat Daya Seluma",
+    "feltOnStations": "III Kota Bengkulu",
+    "bmkgEarthquakeId": "20230905153851",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230905153851.mmi.jpg",
+    "fingerprintSha1": "95ba7d99effa254601f66d939f6e3ba8bb92faf3"
   }
 ]
