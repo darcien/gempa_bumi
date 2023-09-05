@@ -8926,5 +8926,17 @@
     "bmkgEarthquakeId": "20230905215804",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230905215804.mmi.jpg",
     "fingerprintSha1": "22d75c0c4ff8bd1e6210d4c5e0fb43a3f55465e9"
+  },
+  {
+    "earthquakeAt": "2023-09-05T15:03:19.000Z",
+    "latitude": -5.54,
+    "longitude": 142.82,
+    "magnitude": 6,
+    "depthInKm": 57,
+    "locationInIndonesian": "Pusat gempa berada di darat 236 km barat daya Wewak",
+    "feltOnStations": "II Boven Digoel",
+    "bmkgEarthquakeId": "20230905220319",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230905220319.mmi.jpg",
+    "fingerprintSha1": "87eb4e472d1058a2a3bade7dec515c398b280e4a"
   }
 ]
