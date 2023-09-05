@@ -8902,5 +8902,17 @@
     "bmkgEarthquakeId": "20230905153851",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230905153851.mmi.jpg",
     "fingerprintSha1": "95ba7d99effa254601f66d939f6e3ba8bb92faf3"
+  },
+  {
+    "earthquakeAt": "2023-09-05T14:35:54.000Z",
+    "latitude": -8.41,
+    "longitude": 109.05,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 76 km Tenggara Cilacap",
+    "feltOnStations": "III Pangandaran, II-III Garut, II-III Tasikmalaya, II Bantul",
+    "bmkgEarthquakeId": "20230905213554",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230905213554.mmi.jpg",
+    "fingerprintSha1": "2b816ceae39c047bde9fa6f56bafc7022b501d1e"
   }
 ]
