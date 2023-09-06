@@ -8938,5 +8938,17 @@
     "bmkgEarthquakeId": "20230905220319",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230905220319.mmi.jpg",
     "fingerprintSha1": "87eb4e472d1058a2a3bade7dec515c398b280e4a"
+  },
+  {
+    "earthquakeAt": "2023-09-06T11:35:54.000Z",
+    "latitude": -7.14,
+    "longitude": 107.64,
+    "magnitude": 2.9,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 18 km Tenggara Kab. Bandung",
+    "feltOnStations": "II Cibereum, II Pangalengan, II Kertasari, II Pacet",
+    "bmkgEarthquakeId": "20230906183554",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230906183554.mmi.jpg",
+    "fingerprintSha1": "6d5d17f0bbbefbbc668e5b4a80a34727c38d0109"
   }
 ]
