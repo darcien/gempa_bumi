@@ -8950,5 +8950,17 @@
     "bmkgEarthquakeId": "20230906183554",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230906183554.mmi.jpg",
     "fingerprintSha1": "6d5d17f0bbbefbbc668e5b4a80a34727c38d0109"
+  },
+  {
+    "earthquakeAt": "2023-09-06T17:33:30.000Z",
+    "latitude": -8.75,
+    "longitude": 116.17,
+    "magnitude": 3.7,
+    "depthInKm": 95,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 Km Tenggara Lombok Barat",
+    "feltOnStations": "III Lombok Barat, III Lombok Tengah",
+    "bmkgEarthquakeId": "20230907003330",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230907003330.mmi.jpg",
+    "fingerprintSha1": "7f9d3c5af21831a070304ed483eaa2eb3b5e3492"
   }
 ]
