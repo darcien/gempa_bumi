@@ -8986,5 +8986,17 @@
     "bmkgEarthquakeId": "20230907195330",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230907195330.mmi.jpg",
     "fingerprintSha1": "6d583faadf2aa9f51e2d524c6267ab801db425c8"
+  },
+  {
+    "earthquakeAt": "2023-09-08T22:50:02.000Z",
+    "latitude": 4.27,
+    "longitude": 126.4,
+    "magnitude": 4.7,
+    "depthInKm": 82,
+    "locationInIndonesian": "Pusat gempa berada di laut 43 km BaratLaut Melonguane",
+    "feltOnStations": "II-III Kep. Sangihe",
+    "bmkgEarthquakeId": "20230909055002",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230909055002.mmi.jpg",
+    "fingerprintSha1": "dd5b49d4003118a179d2125dc871eec1c96bd519"
   }
 ]
