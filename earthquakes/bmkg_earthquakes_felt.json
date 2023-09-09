@@ -9022,5 +9022,17 @@
     "bmkgEarthquakeId": "20230909042837",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230909042837.mmi.jpg",
     "fingerprintSha1": "2a3bb9bf385d2859ab9bec9348aaf210aeee9f89"
+  },
+  {
+    "earthquakeAt": "2023-09-09T14:43:24.000Z",
+    "latitude": 0.03,
+    "longitude": 119.8,
+    "magnitude": 6.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 50 km barat laut Donggala",
+    "feltOnStations": "IV Palu, IV Donggala, III Poso, III Sigi, II-III Pohuwatu, II-III Kab. Gorontalo, II Kota Gorontalo, I-II Kutai Timur, III Toli-toli",
+    "bmkgEarthquakeId": "20230909214324",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230909214324.mmi.jpg",
+    "fingerprintSha1": "6640ed527425e0ab310f9b8731af30c3e1ff33e6"
   }
 ]
