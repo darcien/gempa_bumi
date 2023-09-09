@@ -9030,7 +9030,7 @@
     "magnitude": 6.3,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 50 km barat laut Donggala",
-    "feltOnStations": "IV Palu, IV Donggala, III Poso, III Sigi, II-III Pohuwatu, II-III Kab. Gorontalo, II Kota Gorontalo, I-II Kutai Timur, III Toli-toli",
+    "feltOnStations": "IV Palu, V-VI Donggala, III Poso, III Sigi, II-III Pohuwatu, II-III Kab. Gorontalo, II Kota Gorontalo, I-II Kutai Timur, III Tolitoli",
     "bmkgEarthquakeId": "20230909214324",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230909214324.mmi.jpg",
     "fingerprintSha1": "6640ed527425e0ab310f9b8731af30c3e1ff33e6"
