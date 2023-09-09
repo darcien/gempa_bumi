@@ -8998,5 +8998,29 @@
     "bmkgEarthquakeId": "20230909055002",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230909055002.mmi.jpg",
     "fingerprintSha1": "dd5b49d4003118a179d2125dc871eec1c96bd519"
+  },
+  {
+    "earthquakeAt": "2023-09-09T00:06:16.000Z",
+    "latitude": -7.19,
+    "longitude": 116.61,
+    "magnitude": 5.7,
+    "depthInKm": 500,
+    "locationInIndonesian": "Pusat gempa berada di laut 119 km TimurLaut Lombok Utara",
+    "feltOnStations": "II-III Denpasar, II-III Lombok Utara, II-III Mataram, II-III Lombok Tengah, II-III Lombok Barat, II Kuta",
+    "bmkgEarthquakeId": "20230909070616",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230909070616.mmi.jpg",
+    "fingerprintSha1": "e80e4c788613095706bf85d23239c060c102319b"
+  },
+  {
+    "earthquakeAt": "2023-09-08T21:28:37.000Z",
+    "latitude": -8.24,
+    "longitude": 123.55,
+    "magnitude": 2.8,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di laut 26 km TimurLaut Lembata",
+    "feltOnStations": "I-II Kab. Lembata",
+    "bmkgEarthquakeId": "20230909042837",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230909042837.mmi.jpg",
+    "fingerprintSha1": "2a3bb9bf385d2859ab9bec9348aaf210aeee9f89"
   }
 ]
