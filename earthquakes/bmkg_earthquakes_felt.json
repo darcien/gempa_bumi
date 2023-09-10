@@ -9034,5 +9034,17 @@
     "bmkgEarthquakeId": "20230909214324",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230909214324.mmi.jpg",
     "fingerprintSha1": "6640ed527425e0ab310f9b8731af30c3e1ff33e6"
+  },
+  {
+    "earthquakeAt": "2023-09-10T03:55:22.000Z",
+    "latitude": 1.09,
+    "longitude": 97.16,
+    "magnitude": 4.2,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di laut 35 km BaratLaut Nias Barat",
+    "feltOnStations": "II Gunung Sitoli",
+    "bmkgEarthquakeId": "20230910105522",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230910105522.mmi.jpg",
+    "fingerprintSha1": "0de3f6f32f8a080269cfd30a4684866760630ed6"
   }
 ]
