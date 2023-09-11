@@ -9106,5 +9106,17 @@
     "bmkgEarthquakeId": "20230911235815",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230911235815.mmi.jpg",
     "fingerprintSha1": "bca66ab488a3cf05f9778dced9f0a020a516df29"
+  },
+  {
+    "earthquakeAt": "2023-09-11T22:09:24.000Z",
+    "latitude": 5.82,
+    "longitude": 94.57,
+    "magnitude": 5.2,
+    "depthInKm": 102,
+    "locationInIndonesian": "Pusat gempa berada di laut 83 km Barat Daya Kota Sabang",
+    "feltOnStations": "III Banda Aceh",
+    "bmkgEarthquakeId": "20230912050924",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230912050924.mmi.jpg",
+    "fingerprintSha1": "a36e7ab01d94906a39adafd30fb5faf3ee2ab267"
   }
 ]
