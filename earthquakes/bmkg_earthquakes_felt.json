@@ -9090,9 +9090,21 @@
     "magnitude": 5.9,
     "depthInKm": 168,
     "locationInIndonesian": "Pusat gempa berada di darat 11 km Timutlaut Jailolo",
-    "feltOnStations": "III-IV Manado, III-IV Sangihe, III-IV Kotamobagu, II-III Gorontalo, II-III Minahasa Utara",
+    "feltOnStations": "III-IV Manado, III-IV Sangihe, III-IV Kotamobagu, II-III Gorontalo, II-III Minahasa Utara, II Namlea, II Tomohon, III Ternate, III Halmahera Barat, III Halmahera Selatan, III Kep. Sula, II-III Taliabu, II-III Ambon, III-IV Jailolo, III-IV Bitung, II Bone Bolango, III-IV Kep. Talaud",
     "bmkgEarthquakeId": "20230911195133",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230911195133.mmi.jpg",
     "fingerprintSha1": "7409fe126114d48d1a254e7c069b7540c6245c3d"
+  },
+  {
+    "earthquakeAt": "2023-09-11T16:58:15.000Z",
+    "latitude": -6.86,
+    "longitude": 107.09,
+    "magnitude": 3.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km BaratDaya Kab. Cianjur",
+    "feltOnStations": "II-III Kec. Cilaku, II-III Karangtengah, II-III Cianjur",
+    "bmkgEarthquakeId": "20230911235815",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230911235815.mmi.jpg",
+    "fingerprintSha1": "bca66ab488a3cf05f9778dced9f0a020a516df29"
   }
 ]
