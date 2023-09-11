@@ -9070,5 +9070,17 @@
     "bmkgEarthquakeId": "20230910214005",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230910214005.mmi.jpg",
     "fingerprintSha1": "607597aeffd7b453536b04c55ac9dd83b86d727c"
+  },
+  {
+    "earthquakeAt": "2023-09-11T06:14:23.000Z",
+    "latitude": -3,
+    "longitude": 139.87,
+    "magnitude": 4.8,
+    "depthInKm": 75,
+    "locationInIndonesian": "Pusat gempa berada di darat 19 Km BaratDaya Lereh, Jayapura",
+    "feltOnStations": "II Kota Jayapura, II Genyem",
+    "bmkgEarthquakeId": "20230911131423",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230911131423.mmi.jpg",
+    "fingerprintSha1": "61f78362f7bc3b05c710796566ac15a845d1dbe4"
   }
 ]
