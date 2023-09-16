@@ -9166,5 +9166,17 @@
     "bmkgEarthquakeId": "20230916113547",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230916113547.mmi.jpg",
     "fingerprintSha1": "fd9392ae5708dcacd1c55d56b76b9524318557cb"
+  },
+  {
+    "earthquakeAt": "2023-09-16T10:04:55.000Z",
+    "latitude": 3.97,
+    "longitude": 126.51,
+    "magnitude": 5.3,
+    "depthInKm": 21,
+    "locationInIndonesian": "Pusat gempa berada di laut 18 km Baratdaya Melonguane",
+    "feltOnStations": "IV Talaud",
+    "bmkgEarthquakeId": "20230916170455",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230916170455.mmi.jpg",
+    "fingerprintSha1": "06a6fdd827f2f1e31187475444ae1ae98a6a661f"
   }
 ]
