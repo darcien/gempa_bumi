@@ -9154,5 +9154,17 @@
     "bmkgEarthquakeId": "20230916072827",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230916072827.mmi.jpg",
     "fingerprintSha1": "2c21ebd3f5a5bbc53c51e18f8a7a40e271f7f6f1"
+  },
+  {
+    "earthquakeAt": "2023-09-16T04:35:47.000Z",
+    "latitude": -6.77,
+    "longitude": 107.1,
+    "magnitude": 2.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km BaratLaut Kab. Cianjur",
+    "feltOnStations": "II Cilaku",
+    "bmkgEarthquakeId": "20230916113547",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230916113547.mmi.jpg",
+    "fingerprintSha1": "fd9392ae5708dcacd1c55d56b76b9524318557cb"
   }
 ]
