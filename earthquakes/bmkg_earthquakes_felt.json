@@ -9178,5 +9178,17 @@
     "bmkgEarthquakeId": "20230916170455",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230916170455.mmi.jpg",
     "fingerprintSha1": "06a6fdd827f2f1e31187475444ae1ae98a6a661f"
+  },
+  {
+    "earthquakeAt": "2023-09-17T00:44:20.000Z",
+    "latitude": 3.34,
+    "longitude": 97.9,
+    "magnitude": 4.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 18 km Tenggara Kutacane",
+    "feltOnStations": "II-III Aceh Tenggara",
+    "bmkgEarthquakeId": "20230917074420",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230917074420.mmi.jpg",
+    "fingerprintSha1": "43dc32fda621b09aad0bfd5ae583040dc7ec59b9"
   }
 ]
