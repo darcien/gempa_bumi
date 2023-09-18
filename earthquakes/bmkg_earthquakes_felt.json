@@ -9190,5 +9190,17 @@
     "bmkgEarthquakeId": "20230917074420",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230917074420.mmi.jpg",
     "fingerprintSha1": "43dc32fda621b09aad0bfd5ae583040dc7ec59b9"
+  },
+  {
+    "earthquakeAt": "2023-09-17T23:35:02.000Z",
+    "latitude": -7.67,
+    "longitude": 106.95,
+    "magnitude": 3.8,
+    "depthInKm": 32,
+    "locationInIndonesian": "Pusat gempa berada di laut 83 km Tenggara Kota Sukabumi",
+    "feltOnStations": "III Agrabinta, III Cipamingkis, III Tegalbuleud, III Surade, III Sindangbarang, III Cidaun",
+    "bmkgEarthquakeId": "20230918063502",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230918063502.mmi.jpg",
+    "fingerprintSha1": "4da8df9e0070832e6f9d56f7e7124ec4070c5378"
   }
 ]
