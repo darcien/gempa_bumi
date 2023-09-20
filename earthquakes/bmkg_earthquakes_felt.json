@@ -9238,5 +9238,17 @@
     "bmkgEarthquakeId": "20230919223922",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230919223922.mmi.jpg",
     "fingerprintSha1": "a11713a2787694f571b482799a8d5135e7856e61"
+  },
+  {
+    "earthquakeAt": "2023-09-20T18:00:43.000Z",
+    "latitude": -1.23,
+    "longitude": 134.36,
+    "magnitude": 4.7,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di Laut 37 km TimurLaut Ransiki",
+    "feltOnStations": "III Ransiki",
+    "bmkgEarthquakeId": "20230921010043",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230921010043.mmi.jpg",
+    "fingerprintSha1": "3d2826a182d568cdf1f0ad3b5c0f444e987b0bd6"
   }
 ]
