@@ -9286,5 +9286,17 @@
     "bmkgEarthquakeId": "20230922012321",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230922012321.mmi.jpg",
     "fingerprintSha1": "2c79b569beaa9e50d3bb1a2bb9a3f8398a7b45dd"
+  },
+  {
+    "earthquakeAt": "2023-09-21T19:58:15.000Z",
+    "latitude": 4.03,
+    "longitude": 96.59,
+    "magnitude": 4.8,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 38 km tenggara Kab. Naganraya",
+    "feltOnStations": "III Naganraya, II Aceh Selatan, II Aceh Barat Daya",
+    "bmkgEarthquakeId": "20230922025815",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230922025815.mmi.jpg",
+    "fingerprintSha1": "0f0e473eba98420d782d681d600df5660453828a"
   }
 ]
