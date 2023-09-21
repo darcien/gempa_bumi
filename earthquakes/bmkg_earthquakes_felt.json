@@ -9250,5 +9250,17 @@
     "bmkgEarthquakeId": "20230921010043",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230921010043.mmi.jpg",
     "fingerprintSha1": "3d2826a182d568cdf1f0ad3b5c0f444e987b0bd6"
+  },
+  {
+    "earthquakeAt": "2023-09-21T04:07:12.000Z",
+    "latitude": -1,
+    "longitude": 98.32,
+    "magnitude": 4.7,
+    "depthInKm": 22,
+    "locationInIndonesian": "Pusat gempa berada di laut 71 km Tenggara Nias",
+    "feltOnStations": "II Sibolga",
+    "bmkgEarthquakeId": "20230921110712",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230921110712.mmi.jpg",
+    "fingerprintSha1": "9f8f49365b057e6cb40066995a0d6392fac011b8"
   }
 ]
