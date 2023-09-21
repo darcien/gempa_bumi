@@ -9253,7 +9253,7 @@
   },
   {
     "earthquakeAt": "2023-09-21T04:07:12.000Z",
-    "latitude": -1,
+    "latitude": 1,
     "longitude": 98.32,
     "magnitude": 4.7,
     "depthInKm": 22,
@@ -9261,6 +9261,6 @@
     "feltOnStations": "II Sibolga",
     "bmkgEarthquakeId": "20230921110712",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230921110712.mmi.jpg",
-    "fingerprintSha1": "9f8f49365b057e6cb40066995a0d6392fac011b8"
+    "fingerprintSha1": "f6ca1c3516b4b8fcc30287c7724500b8c73427d3"
   }
 ]
