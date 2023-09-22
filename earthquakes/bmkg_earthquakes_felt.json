@@ -9298,5 +9298,17 @@
     "bmkgEarthquakeId": "20230922025815",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230922025815.mmi.jpg",
     "fingerprintSha1": "0f0e473eba98420d782d681d600df5660453828a"
+  },
+  {
+    "earthquakeAt": "2023-09-22T14:59:16.000Z",
+    "latitude": -7.13,
+    "longitude": 129.87,
+    "magnitude": 6.6,
+    "depthInKm": 214,
+    "locationInIndonesian": "Pusat gempa berada di laut 184 km Barat Laut Tanimbar",
+    "feltOnStations": "III-IV Saumlaki, III Maluku Tenggara, III Marsela, III Sorong, II Tepa",
+    "bmkgEarthquakeId": "20230922215916",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230922215916.mmi.jpg",
+    "fingerprintSha1": "4cdf488476e5d0944475ee6a4144bc5b047775ec"
   }
 ]
