@@ -9334,5 +9334,17 @@
     "bmkgEarthquakeId": "20230923140342",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230923140342.mmi.jpg",
     "fingerprintSha1": "6404b05e2bf2a25b27173c7396a2e19fdc936605"
+  },
+  {
+    "earthquakeAt": "2023-09-24T00:10:18.000Z",
+    "latitude": -8.71,
+    "longitude": 116.14,
+    "magnitude": 4.4,
+    "depthInKm": 91,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km Tenggara Lombok Barat",
+    "feltOnStations": "III Mataram , II Karangasem",
+    "bmkgEarthquakeId": "20230924071018",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230924071018.mmi.jpg",
+    "fingerprintSha1": "fa9257e928b7106176ab27ce4cdda752ed7c2383"
   }
 ]
