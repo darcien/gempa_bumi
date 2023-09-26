@@ -9358,5 +9358,17 @@
     "bmkgEarthquakeId": "20230924211114",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230924211114.mmi.jpg",
     "fingerprintSha1": "1af86d511222e2d52b70786479c982942ebb2da0"
+  },
+  {
+    "earthquakeAt": "2023-09-26T01:39:47.000Z",
+    "latitude": 4.63,
+    "longitude": 127.38,
+    "magnitude": 6.3,
+    "depthInKm": 115,
+    "locationInIndonesian": "Pusat gempa berada di Laut 36 Km Tenggara Pulau Karatung",
+    "feltOnStations": "III - IV Talaud, III Siau, II - III Tahuna",
+    "bmkgEarthquakeId": "20230926083947",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230926083947.mmi.jpg",
+    "fingerprintSha1": "f489201e9238bdf69546595fea755f5ac9b72d1c"
   }
 ]
