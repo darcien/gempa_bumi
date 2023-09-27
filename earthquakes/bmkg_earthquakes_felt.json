@@ -9382,5 +9382,17 @@
     "bmkgEarthquakeId": "20230927204257",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230927204257.mmi.jpg",
     "fingerprintSha1": "63b923234791a2c7fac9c3721efbb52f4d68c228"
+  },
+  {
+    "earthquakeAt": "2023-09-27T16:15:20.000Z",
+    "latitude": -3.28,
+    "longitude": 128.81,
+    "magnitude": 5.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 16 km BaratLaut Maluku Tengah",
+    "feltOnStations": "II-III Amahai",
+    "bmkgEarthquakeId": "20230927231520",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230927231520.mmi.jpg",
+    "fingerprintSha1": "022e1789a8febd57b817d9a614b6747527ad37ec"
   }
 ]
