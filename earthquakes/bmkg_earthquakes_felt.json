@@ -9401,10 +9401,22 @@
     "longitude": 110.02,
     "magnitude": 2.6,
     "depthInKm": 7,
-    "locationInIndonesian": "Pusat gempa berada di darat 26 km baratdaya Kendal",
+    "locationInIndonesian": "Pusat gempa berada di darat 26 km BaratDaya Kendal",
     "feltOnStations": "II Kendal",
     "bmkgEarthquakeId": "20230928011917",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230928011917.mmi.jpg",
     "fingerprintSha1": "4ee39888c8f744385174f8704ad58012f295d640"
+  },
+  {
+    "earthquakeAt": "2023-09-27T17:47:22.000Z",
+    "latitude": 0.94,
+    "longitude": 93.1,
+    "magnitude": 5.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 401 km BaratDaya Sinabang",
+    "feltOnStations": "II-III Banda Aceh",
+    "bmkgEarthquakeId": "20230928004722",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20230928004722.mmi.jpg",
+    "fingerprintSha1": "62c549524dcbd5fa15b2c9a65c31e6364724c59e"
   }
 ]
