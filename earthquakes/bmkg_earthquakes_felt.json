@@ -9462,7 +9462,7 @@
     "magnitude": 5.4,
     "depthInKm": 88,
     "locationInIndonesian": "Pusat gempa berada di darat 30 km Tenggara Kab. Sukabumi",
-    "feltOnStations": "IV Sukabumi, III Sawarna, III Pelabuhan Ratu, III Soreang, III Cianjur, II-III Cibadak, II-III Bandung, II Bogor, IV Cisolok, III Cipanas, II Lebak",
+    "feltOnStations": "IV Sukabumi, III Sawarna, III Pelabuhan Ratu, III Soreang, III Cianjur, II-III Cibadak, II-III Bandung, II Bogor, IV Cisolok, III Cipanas, II Lebak, IV Kota Sukabumi, II Tasikmalaya, II Pandeglang",
     "bmkgEarthquakeId": "20231001110026",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231001110026.mmi.jpg",
     "fingerprintSha1": "8130b8f6ac03139443332668fcfad289b2eba153"
