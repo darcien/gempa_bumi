@@ -9507,12 +9507,12 @@
     "earthquakeAt": "2023-10-03T22:17:05.000Z",
     "latitude": -5.11,
     "longitude": 102.53,
-    "magnitude": 4.9,
+    "magnitude": 5,
     "depthInKm": 11,
     "locationInIndonesian": "Pusat gempa berada di laut 24 km TimurLaut Enggano",
     "feltOnStations": "II-III Enggano",
     "bmkgEarthquakeId": "20231004051705",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231004051705.mmi.jpg",
-    "fingerprintSha1": "a97122fa4009e1da959de5e5372e78f7dac0c7bf"
+    "fingerprintSha1": "c3a84ca8c5442b499a96ef57620789e3ff8d6f72"
   }
 ]
