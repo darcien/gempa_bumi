@@ -9490,5 +9490,17 @@
     "bmkgEarthquakeId": "20231002192611",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231002192611.mmi.jpg",
     "fingerprintSha1": "8ebfe22c9855f70ca9b6d6d7d13463420620ae5a"
+  },
+  {
+    "earthquakeAt": "2023-10-03T11:32:53.000Z",
+    "latitude": -9.25,
+    "longitude": 114.53,
+    "magnitude": 4.1,
+    "depthInKm": 22,
+    "locationInIndonesian": "Pusat gempa berada di laut 92 km Barat Daya Kuta Selatan",
+    "feltOnStations": "II Kuta",
+    "bmkgEarthquakeId": "20231003183253",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231003183253.mmi.jpg",
+    "fingerprintSha1": "f43eda65557ce7150eda6a210e5a9200068d850c"
   }
 ]
