@@ -9514,5 +9514,17 @@
     "bmkgEarthquakeId": "20231004051705",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231004051705.mmi.jpg",
     "fingerprintSha1": "c3a84ca8c5442b499a96ef57620789e3ff8d6f72"
+  },
+  {
+    "earthquakeAt": "2023-10-04T02:18:47.000Z",
+    "latitude": -4.19,
+    "longitude": 121.7,
+    "magnitude": 4.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 4,3 km tenggara Baula Kab. Kolaka",
+    "feltOnStations": "III Kolaka",
+    "bmkgEarthquakeId": "20231004091847",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231004091847.mmi.jpg",
+    "fingerprintSha1": "619d2c260d224df78428789f9dc8e9c3cca0cb44"
   }
 ]
