@@ -9526,5 +9526,17 @@
     "bmkgEarthquakeId": "20231004091847",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231004091847.mmi.jpg",
     "fingerprintSha1": "619d2c260d224df78428789f9dc8e9c3cca0cb44"
+  },
+  {
+    "earthquakeAt": "2023-10-04T11:21:48.000Z",
+    "latitude": 5.43,
+    "longitude": 126.27,
+    "magnitude": 6.7,
+    "depthInKm": 145,
+    "locationInIndonesian": "Pusat gempa berada di laut 116 km BaratLaut Pulau Karatung",
+    "feltOnStations": "III - IV Sangihe, II - III Morotai Selatan, II - III Sitaro, II - III Ternate",
+    "bmkgEarthquakeId": "20231004182148",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231004182148.mmi.jpg",
+    "fingerprintSha1": "ba7342f05156971be64cc8a0018f78e7a507daac"
   }
 ]
