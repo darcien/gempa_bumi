@@ -9538,5 +9538,29 @@
     "bmkgEarthquakeId": "20231004182148",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231004182148.mmi.jpg",
     "fingerprintSha1": "ba7342f05156971be64cc8a0018f78e7a507daac"
+  },
+  {
+    "earthquakeAt": "2023-10-04T11:54:22.000Z",
+    "latitude": -9.1,
+    "longitude": 124.93,
+    "magnitude": 3,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 Km Timur Laut Belu",
+    "feltOnStations": "II-III Belu",
+    "bmkgEarthquakeId": "20231004185422",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231004185422.mmi.jpg",
+    "fingerprintSha1": "9d58d95eadc4690087ef43878fcff9e33b55d616"
+  },
+  {
+    "earthquakeAt": "2023-10-04T11:11:43.000Z",
+    "latitude": -9.27,
+    "longitude": 124.86,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 13 Km Barat Daya Belu",
+    "feltOnStations": "III-IV Belu",
+    "bmkgEarthquakeId": "20231004181143",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231004181143.mmi.jpg",
+    "fingerprintSha1": "8720f258d9c35f0f2e7ad2bdda88410101686999"
   }
 ]
