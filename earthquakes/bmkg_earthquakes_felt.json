@@ -9562,5 +9562,17 @@
     "bmkgEarthquakeId": "20231004181143",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231004181143.mmi.jpg",
     "fingerprintSha1": "8720f258d9c35f0f2e7ad2bdda88410101686999"
+  },
+  {
+    "earthquakeAt": "2023-10-04T20:07:03.000Z",
+    "latitude": -0.8,
+    "longitude": 135.85,
+    "magnitude": 4.1,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada didarat 15 km Tenggara Supiori",
+    "feltOnStations": "II - III Kab. Supiori",
+    "bmkgEarthquakeId": "20231005030703",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231005030703.mmi.jpg",
+    "fingerprintSha1": "65b7eafe8f9fd292e39fa685e1e3270f0f5b33cb"
   }
 ]
