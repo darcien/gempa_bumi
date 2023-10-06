@@ -9574,5 +9574,17 @@
     "bmkgEarthquakeId": "20231005030703",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231005030703.mmi.jpg",
     "fingerprintSha1": "65b7eafe8f9fd292e39fa685e1e3270f0f5b33cb"
+  },
+  {
+    "earthquakeAt": "2023-10-06T05:42:25.000Z",
+    "latitude": -0.64,
+    "longitude": 127.64,
+    "magnitude": 2.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km Timur Labuha",
+    "feltOnStations": "II-III Bacan Timur",
+    "bmkgEarthquakeId": "20231006124225",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231006124225.mmi.jpg",
+    "fingerprintSha1": "aac73471d4b3f13fff372675b4f42e74b2d28873"
   }
 ]
