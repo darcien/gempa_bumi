@@ -9598,5 +9598,17 @@
     "bmkgEarthquakeId": "20231006135133",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231006135133.mmi.jpg",
     "fingerprintSha1": "937596bc7b867d2f0b405dcc1bebafc0471f3e27"
+  },
+  {
+    "earthquakeAt": "2023-10-07T10:20:32.000Z",
+    "latitude": -5.98,
+    "longitude": 103.91,
+    "magnitude": 4.8,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di laut 88 Km Barat Daya Pesisir Barat",
+    "feltOnStations": "II Bangkunat",
+    "bmkgEarthquakeId": "20231007172032",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231007172032.mmi.jpg",
+    "fingerprintSha1": "60687cb77d77235a28baa2eea57ea09e2500352b"
   }
 ]
