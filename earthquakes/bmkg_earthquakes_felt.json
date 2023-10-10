@@ -9634,5 +9634,17 @@
     "bmkgEarthquakeId": "20231009105050",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231009105050.mmi.jpg",
     "fingerprintSha1": "a68b9105bcf5888a61752c329bd7e9c5d05a477b"
+  },
+  {
+    "earthquakeAt": "2023-10-10T16:42:29.000Z",
+    "latitude": -8.82,
+    "longitude": 112.5,
+    "magnitude": 4.8,
+    "depthInKm": 38,
+    "locationInIndonesian": "Pusat gempa berada di laut 76 km BaratDaya Kabupaten Malang",
+    "feltOnStations": "III Karangkates, II Kepanjen, II Blitar, II Lumajang, II Jember",
+    "bmkgEarthquakeId": "20231010234229",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231010234229.mmi.jpg",
+    "fingerprintSha1": "a993c9209b4311403d2f4c7f6d24dcf9c5456ff0"
   }
 ]
