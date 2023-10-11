@@ -9670,5 +9670,17 @@
     "bmkgEarthquakeId": "20231011114119",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231011114119.mmi.jpg",
     "fingerprintSha1": "90757240499e7a26db860c309a3a55bc8168bb52"
+  },
+  {
+    "earthquakeAt": "2023-10-11T09:05:57.000Z",
+    "latitude": -3.48,
+    "longitude": 128.39,
+    "magnitude": 3.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 16 km Selatan Kairatu",
+    "feltOnStations": "II-III Ambon, II-III Kairatu",
+    "bmkgEarthquakeId": "20231011160557",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231011160557.mmi.jpg",
+    "fingerprintSha1": "ad7bc786fee11e71b8741aa6bb1d57b7ce51cd1d"
   }
 ]
