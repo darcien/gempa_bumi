@@ -9682,5 +9682,17 @@
     "bmkgEarthquakeId": "20231011160557",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231011160557.mmi.jpg",
     "fingerprintSha1": "ad7bc786fee11e71b8741aa6bb1d57b7ce51cd1d"
+  },
+  {
+    "earthquakeAt": "2023-10-11T23:44:42.000Z",
+    "latitude": -6.75,
+    "longitude": 106.65,
+    "magnitude": 3.2,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 23 km barat daya Kota Bogor",
+    "feltOnStations": "II Klapanunggal Bogor",
+    "bmkgEarthquakeId": "20231012064442",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231012064442.mmi.jpg",
+    "fingerprintSha1": "b2c1c84bd186ed2a25040ce60ed7cc16b4e3b446"
   }
 ]
