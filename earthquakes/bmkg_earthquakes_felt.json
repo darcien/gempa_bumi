@@ -9706,5 +9706,17 @@
     "bmkgEarthquakeId": "20231012163002",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231012163002.mmi.jpg",
     "fingerprintSha1": "8bbb698873b7dc2167dcea1f144ce0635de8028a"
+  },
+  {
+    "earthquakeAt": "2023-10-13T14:17:06.000Z",
+    "latitude": 1.05,
+    "longitude": 127.47,
+    "magnitude": 2.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 1 km tenggara Jailolo",
+    "feltOnStations": "II-III Jailolo",
+    "bmkgEarthquakeId": "20231013211706",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231013211706.mmi.jpg",
+    "fingerprintSha1": "8c85f0c3841200d7e0f57e289c2e5fc90bb5b3dc"
   }
 ]
