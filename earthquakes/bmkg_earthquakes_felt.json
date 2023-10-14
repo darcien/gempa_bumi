@@ -9718,5 +9718,17 @@
     "bmkgEarthquakeId": "20231013211706",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231013211706.mmi.jpg",
     "fingerprintSha1": "8c85f0c3841200d7e0f57e289c2e5fc90bb5b3dc"
+  },
+  {
+    "earthquakeAt": "2023-10-14T03:49:30.000Z",
+    "latitude": -4.89,
+    "longitude": 103.97,
+    "magnitude": 4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km Barat Laut Lampung Barat",
+    "feltOnStations": "III Liwa, II Pesisir Barat",
+    "bmkgEarthquakeId": "20231014104930",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231014104930.mmi.jpg",
+    "fingerprintSha1": "20e74df8aa72c9ec14c6c3504449067fea6a1083"
   }
 ]
