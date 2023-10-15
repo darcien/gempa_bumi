@@ -9742,5 +9742,17 @@
     "bmkgEarthquakeId": "20231015184121",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231015184121.mmi.jpg",
     "fingerprintSha1": "7acf1ad4530877cd862000b302d1cc997997585f"
+  },
+  {
+    "earthquakeAt": "2023-10-15T15:24:44.000Z",
+    "latitude": -8.2,
+    "longitude": 118.09,
+    "magnitude": 4.4,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di darat 55 km barat laut Dompu",
+    "feltOnStations": "III Dompu, III Kab. Bima",
+    "bmkgEarthquakeId": "20231015222444",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231015222444.mmi.jpg",
+    "fingerprintSha1": "18e82bda56cfc15c66a6a8d305426f2bec60f47c"
   }
 ]
