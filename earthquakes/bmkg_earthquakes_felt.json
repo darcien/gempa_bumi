@@ -9730,5 +9730,17 @@
     "bmkgEarthquakeId": "20231014104930",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231014104930.mmi.jpg",
     "fingerprintSha1": "20e74df8aa72c9ec14c6c3504449067fea6a1083"
+  },
+  {
+    "earthquakeAt": "2023-10-15T11:41:21.000Z",
+    "latitude": -8.23,
+    "longitude": 123.02,
+    "magnitude": 3.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 11 km TimurLaut Larantuka",
+    "feltOnStations": "II - III Larantuka, II - III Adonara, II-III Lembata",
+    "bmkgEarthquakeId": "20231015184121",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231015184121.mmi.jpg",
+    "fingerprintSha1": "7acf1ad4530877cd862000b302d1cc997997585f"
   }
 ]
