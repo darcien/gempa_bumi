@@ -9754,5 +9754,17 @@
     "bmkgEarthquakeId": "20231015222444",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231015222444.mmi.jpg",
     "fingerprintSha1": "18e82bda56cfc15c66a6a8d305426f2bec60f47c"
+  },
+  {
+    "earthquakeAt": "2023-10-19T14:08:24.000Z",
+    "latitude": -8.09,
+    "longitude": 107.34,
+    "magnitude": 5.6,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di laut 114 km Barat Daya Garut",
+    "feltOnStations": "III Pelabuhan Ratu, III Cianjur, III Sukabumi, III Cilacap, III Garut, III Pangandaran, III Cikelet, II Lembang, II Bandung, II Parompong, II Bogor, II Cireunghas",
+    "bmkgEarthquakeId": "20231019210824",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231019210824.mmi.jpg",
+    "fingerprintSha1": "6c9e7a14b64b29f1051daaaf775702eed28d6dc2"
   }
 ]
