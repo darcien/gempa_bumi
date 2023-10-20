@@ -9778,5 +9778,17 @@
     "bmkgEarthquakeId": "20231020112803",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231020112803.mmi.jpg",
     "fingerprintSha1": "4c07a4582175d9e25c1a80d27ec18dbef752134f"
+  },
+  {
+    "earthquakeAt": "2023-10-20T07:57:31.000Z",
+    "latitude": -2.81,
+    "longitude": 129.94,
+    "magnitude": 5.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 69 km barat laut Seram Bagian Timur",
+    "feltOnStations": "III Kobi",
+    "bmkgEarthquakeId": "20231020145731",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231020145731.mmi.jpg",
+    "fingerprintSha1": "678dbd953266b9e3845decc765d86d0d6429bbac"
   }
 ]
