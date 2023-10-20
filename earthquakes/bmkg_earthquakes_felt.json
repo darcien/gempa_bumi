@@ -9802,5 +9802,17 @@
     "bmkgEarthquakeId": "20231020221245",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231020221245.mmi.jpg",
     "fingerprintSha1": "5d6ea96b1d1607de6e176836056a9ca219b8304b"
+  },
+  {
+    "earthquakeAt": "2023-10-20T19:51:59.000Z",
+    "latitude": 0.68,
+    "longitude": 125.3,
+    "magnitude": 5.1,
+    "depthInKm": 33,
+    "locationInIndonesian": "Pusat gempa berada di Laut 69 km Tenggara Ratahan",
+    "feltOnStations": "II-III Tondano, II-III Ratahan",
+    "bmkgEarthquakeId": "20231021025159",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231021025159.mmi.jpg",
+    "fingerprintSha1": "d82d2cfd7da86195f6b71a19decc81ec8e664886"
   }
 ]
