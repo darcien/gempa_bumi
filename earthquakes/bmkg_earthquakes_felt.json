@@ -9826,5 +9826,17 @@
     "bmkgEarthquakeId": "20231021140712",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231021140712.mmi.jpg",
     "fingerprintSha1": "a89d0fc21e7fcac158b4b730f43ba799f2543dea"
+  },
+  {
+    "earthquakeAt": "2023-10-21T10:03:48.000Z",
+    "latitude": -8.35,
+    "longitude": 115.01,
+    "magnitude": 3.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 24 km Barat Laut Tabanan",
+    "feltOnStations": "II Tabanan, II Buleleng",
+    "bmkgEarthquakeId": "20231021170348",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231021170348.mmi.jpg",
+    "fingerprintSha1": "a59247dd36a4850ee4d5e9bc2d765eb2750d49a5"
   }
 ]
