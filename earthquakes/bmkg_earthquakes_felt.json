@@ -9862,5 +9862,17 @@
     "bmkgEarthquakeId": "20231022212305",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231022212305.mmi.jpg",
     "fingerprintSha1": "ad351aeb07a858d391c8a3a9240b21d325fc0af6"
+  },
+  {
+    "earthquakeAt": "2023-10-22T18:51:10.000Z",
+    "latitude": 5.49,
+    "longitude": 95.58,
+    "magnitude": 3.4,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 27 km BaratLaut Jantho",
+    "feltOnStations": "II Banda Aceh",
+    "bmkgEarthquakeId": "20231023015110",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231023015110.mmi.jpg",
+    "fingerprintSha1": "ed80b2a846fb141dfec78ea09b2c1931646b63b8"
   }
 ]
