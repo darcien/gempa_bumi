@@ -9850,5 +9850,17 @@
     "bmkgEarthquakeId": "20231021190456",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231021190456.mmi.jpg",
     "fingerprintSha1": "752f421e877dedc48a087f9c7b8cf28b40889cba"
+  },
+  {
+    "earthquakeAt": "2023-10-22T14:23:05.000Z",
+    "latitude": 0.48,
+    "longitude": 98.37,
+    "magnitude": 5.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 62 km tenggara Nias Selatan",
+    "feltOnStations": "III-IV Pinangsori, II-III Gunung Sitoli, II-III Pasaman Barat, II Mandailing Natal, II Aek Godang, II-III Nias Selatan",
+    "bmkgEarthquakeId": "20231022212305",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231022212305.mmi.jpg",
+    "fingerprintSha1": "ad351aeb07a858d391c8a3a9240b21d325fc0af6"
   }
 ]
