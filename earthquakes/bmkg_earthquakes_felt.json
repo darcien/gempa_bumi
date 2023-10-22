@@ -9874,5 +9874,17 @@
     "bmkgEarthquakeId": "20231023015110",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231023015110.mmi.jpg",
     "fingerprintSha1": "ed80b2a846fb141dfec78ea09b2c1931646b63b8"
+  },
+  {
+    "earthquakeAt": "2023-10-22T21:51:05.000Z",
+    "latitude": 3.21,
+    "longitude": 97.19,
+    "magnitude": 3.7,
+    "depthInKm": 48,
+    "locationInIndonesian": "Pusat gempa berada di laut 11 km BaratDaya Kab-Aceh Selatan",
+    "feltOnStations": "III Aceh Selatan",
+    "bmkgEarthquakeId": "20231023045105",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231023045105.mmi.jpg",
+    "fingerprintSha1": "76ee2e40420bdde9b256a16e395a7820e8918142"
   }
 ]
