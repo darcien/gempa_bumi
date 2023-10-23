@@ -9886,5 +9886,17 @@
     "bmkgEarthquakeId": "20231023045105",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231023045105.mmi.jpg",
     "fingerprintSha1": "76ee2e40420bdde9b256a16e395a7820e8918142"
+  },
+  {
+    "earthquakeAt": "2024-10-23T10:55:58.000Z",
+    "latitude": -1.37,
+    "longitude": 119.61,
+    "magnitude": 4.3,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 km tenggara lalundu Donggala",
+    "feltOnStations": "III-IV Rio Pakava",
+    "bmkgEarthquakeId": "20241023175558",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241023175558.mmi.jpg",
+    "fingerprintSha1": "0bdb74bdf135bb04c96dd623aeed8f34aab6cd9a"
   }
 ]
