@@ -9934,5 +9934,17 @@
     "bmkgEarthquakeId": "20231024054756",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231024054756.mmi.jpg",
     "fingerprintSha1": "980227d12a300cdb91638a4e05314e80bfab76be"
+  },
+  {
+    "earthquakeAt": "2023-10-25T13:25:01.000Z",
+    "latitude": 0.99,
+    "longitude": 124.86,
+    "magnitude": 5.9,
+    "depthInKm": 123,
+    "locationInIndonesian": "Pusat gempa berada di Darat 9 Km Tenggara Ratahan",
+    "feltOnStations": "II-III Manado, II-III Tondano, II-III Bitung, II Kotamobagu",
+    "bmkgEarthquakeId": "20231025202501",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231025202501.mmi.jpg",
+    "fingerprintSha1": "35f346adaf14d8525a4b85da87dcdf19de1c549a"
   }
 ]
