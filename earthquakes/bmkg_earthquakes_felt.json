@@ -9942,7 +9942,7 @@
     "magnitude": 5.9,
     "depthInKm": 123,
     "locationInIndonesian": "Pusat gempa berada di Darat 9 Km Tenggara Ratahan",
-    "feltOnStations": "II-III Manado, II-III Tondano, II-III Bitung, II Kotamobagu",
+    "feltOnStations": "II-III Manado, II-III Tondano, II-III Bitung, II Kotamobagu, II-III Halmahera Barat, II-III Bolaang Mongondow Timur, II-III Minahasa Tenggara",
     "bmkgEarthquakeId": "20231025202501",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231025202501.mmi.jpg",
     "fingerprintSha1": "35f346adaf14d8525a4b85da87dcdf19de1c549a"
