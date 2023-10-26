@@ -9946,5 +9946,17 @@
     "bmkgEarthquakeId": "20231025202501",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231025202501.mmi.jpg",
     "fingerprintSha1": "35f346adaf14d8525a4b85da87dcdf19de1c549a"
+  },
+  {
+    "earthquakeAt": "2023-10-26T05:44:17.000Z",
+    "latitude": -7.34,
+    "longitude": 129.36,
+    "magnitude": 6.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 176 km Timur Laut Maluku Barat Daya",
+    "feltOnStations": "III-IV Saumlaki",
+    "bmkgEarthquakeId": "20231026124417",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231026124417.mmi.jpg",
+    "fingerprintSha1": "a3cd13ea5f52417914e6c0debf3af07783df4eec"
   }
 ]
