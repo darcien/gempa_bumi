@@ -9958,5 +9958,17 @@
     "bmkgEarthquakeId": "20231026124417",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231026124417.mmi.jpg",
     "fingerprintSha1": "a3cd13ea5f52417914e6c0debf3af07783df4eec"
+  },
+  {
+    "earthquakeAt": "2023-10-27T07:49:51.000Z",
+    "latitude": -9.71,
+    "longitude": 120.22,
+    "magnitude": 5.5,
+    "depthInKm": 44,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km barat daya Waingapu",
+    "feltOnStations": "III - IV Waingapu, II Waitabula, II Waikabubak, II Bima",
+    "bmkgEarthquakeId": "20231027144951",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231027144951.mmi.jpg",
+    "fingerprintSha1": "0cf2a39b06676738e30b105a72411db8555716e9"
   }
 ]
