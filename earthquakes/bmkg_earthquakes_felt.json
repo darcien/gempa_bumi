@@ -9990,7 +9990,7 @@
     "magnitude": 5.6,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 127 km BaratLaut Toli-Toli",
-    "feltOnStations": "III Kab. Berau",
+    "feltOnStations": "III Kab. Berau, III Toli Toli",
     "bmkgEarthquakeId": "20231028220157",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231028220157.mmi.jpg",
     "fingerprintSha1": "3cbc1f8ec7551c17275657f0feee28e4f9596104"
