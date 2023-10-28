@@ -9994,5 +9994,17 @@
     "bmkgEarthquakeId": "20231028220157",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231028220157.mmi.jpg",
     "fingerprintSha1": "3cbc1f8ec7551c17275657f0feee28e4f9596104"
+  },
+  {
+    "earthquakeAt": "2023-10-28T17:30:13.000Z",
+    "latitude": 4.58,
+    "longitude": 95.05,
+    "magnitude": 4.2,
+    "depthInKm": 22,
+    "locationInIndonesian": "Pusat gempa berada di laut 59 km Barat Daya Calang-Aceh Jaya",
+    "feltOnStations": "II Lhoong, Aceh Besar",
+    "bmkgEarthquakeId": "20231029003013",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231029003013.mmi.jpg",
+    "fingerprintSha1": "176438811229784153f7619f16190f3b77260ef2"
   }
 ]
