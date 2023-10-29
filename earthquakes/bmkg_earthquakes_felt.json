@@ -10006,5 +10006,17 @@
     "bmkgEarthquakeId": "20231029003013",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231029003013.mmi.jpg",
     "fingerprintSha1": "176438811229784153f7619f16190f3b77260ef2"
+  },
+  {
+    "earthquakeAt": "2023-10-29T00:56:06.000Z",
+    "latitude": -4.36,
+    "longitude": 102.02,
+    "magnitude": 5.3,
+    "depthInKm": 31,
+    "locationInIndonesian": "Pusat gempa berada di laut 69 km BaratDaya Seluma",
+    "feltOnStations": "III Bengkulu, II Kepahiang",
+    "bmkgEarthquakeId": "20231029075606",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231029075606.mmi.jpg",
+    "fingerprintSha1": "b6b1bef8141933391945157724cf33a28c1f1082"
   }
 ]
