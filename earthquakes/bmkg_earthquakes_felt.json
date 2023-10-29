@@ -10018,5 +10018,29 @@
     "bmkgEarthquakeId": "20231029075606",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231029075606.mmi.jpg",
     "fingerprintSha1": "b6b1bef8141933391945157724cf33a28c1f1082"
+  },
+  {
+    "earthquakeAt": "2023-10-29T18:21:44.000Z",
+    "latitude": -2.31,
+    "longitude": 113.02,
+    "magnitude": 4.5,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di darat 25 km TimurLaut Sampit",
+    "feltOnStations": "III Kec. Baamang, III Kec. Mentawa Baru, Ketapang",
+    "bmkgEarthquakeId": "20231030012144",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231030012144.mmi.jpg",
+    "fingerprintSha1": "82efacaedc5fcf86ab66a6183b51fa92660836eb"
+  },
+  {
+    "earthquakeAt": "2023-10-29T01:16:15.000Z",
+    "latitude": -1.84,
+    "longitude": 124.59,
+    "magnitude": 3.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 157 km Barat Sanana",
+    "feltOnStations": "II-III Bobong, II-III Taliabu Utara",
+    "bmkgEarthquakeId": "20231029081615",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231029081615.mmi.jpg",
+    "fingerprintSha1": "1c01a0021b17a0697f643714348245e7c9135721"
   }
 ]
