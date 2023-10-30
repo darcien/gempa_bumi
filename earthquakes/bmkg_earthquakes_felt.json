@@ -10042,5 +10042,17 @@
     "bmkgEarthquakeId": "20231029081615",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231029081615.mmi.jpg",
     "fingerprintSha1": "1c01a0021b17a0697f643714348245e7c9135721"
+  },
+  {
+    "earthquakeAt": "2023-10-30T12:15:16.000Z",
+    "latitude": -3.16,
+    "longitude": 128.2,
+    "magnitude": 4.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km selatan Piru",
+    "feltOnStations": "II Piru",
+    "bmkgEarthquakeId": "20231030191516",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231030191516.mmi.jpg",
+    "fingerprintSha1": "d9bd3016cd221347d2e2e7767d298549baec0a5c"
   }
 ]
