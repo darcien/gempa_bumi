@@ -10054,5 +10054,17 @@
     "bmkgEarthquakeId": "20231030191516",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231030191516.mmi.jpg",
     "fingerprintSha1": "d9bd3016cd221347d2e2e7767d298549baec0a5c"
+  },
+  {
+    "earthquakeAt": "2023-10-30T21:44:48.000Z",
+    "latitude": -8.81,
+    "longitude": 113.89,
+    "magnitude": 4.9,
+    "depthInKm": 81,
+    "locationInIndonesian": "Pusat gempa berada di laut 73 km Tenggara Jember",
+    "feltOnStations": "II Jember, II Badung",
+    "bmkgEarthquakeId": "20231031044448",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231031044448.mmi.jpg",
+    "fingerprintSha1": "6e9ba31a3692e634fd58152aafeab02ee4083bb0"
   }
 ]
