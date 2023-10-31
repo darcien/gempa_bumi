@@ -10066,5 +10066,29 @@
     "bmkgEarthquakeId": "20231031044448",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231031044448.mmi.jpg",
     "fingerprintSha1": "6e9ba31a3692e634fd58152aafeab02ee4083bb0"
+  },
+  {
+    "earthquakeAt": "2023-10-31T10:56:34.000Z",
+    "latitude": -3.68,
+    "longitude": 128.17,
+    "magnitude": 2.4,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 2 km BaratLaut Ambon",
+    "feltOnStations": "II Ambon",
+    "bmkgEarthquakeId": "20231031175634",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231031175634.mmi.jpg",
+    "fingerprintSha1": "46e5e438b8572b8646383d254d820643153e0c16"
+  },
+  {
+    "earthquakeAt": "2023-10-31T10:22:59.000Z",
+    "latitude": -0.18,
+    "longitude": 132.86,
+    "magnitude": 3.2,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 73 km BaratLaut Manokwari",
+    "feltOnStations": "III Tambrauw",
+    "bmkgEarthquakeId": "20231031172259",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231031172259.mmi.jpg",
+    "fingerprintSha1": "4ee5bc11e232425f8ae2b43a3aa1cc163e900543"
   }
 ]
