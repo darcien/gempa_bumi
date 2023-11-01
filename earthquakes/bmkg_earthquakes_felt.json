@@ -10090,5 +10090,17 @@
     "bmkgEarthquakeId": "20231031172259",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231031172259.mmi.jpg",
     "fingerprintSha1": "4ee5bc11e232425f8ae2b43a3aa1cc163e900543"
+  },
+  {
+    "earthquakeAt": "2023-11-01T14:07:50.000Z",
+    "latitude": -8.37,
+    "longitude": 121.59,
+    "magnitude": 4.9,
+    "depthInKm": 21,
+    "locationInIndonesian": "Pusat gempa berada di laut 46 km Timur Laut Mbay-Nagekeo",
+    "feltOnStations": "III-IV Maumere, III-IV Ende",
+    "bmkgEarthquakeId": "20231101210750",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231101210750.mmi.jpg",
+    "fingerprintSha1": "e0c073da9254c5b10276291ac257ebec6329a9a9"
   }
 ]
