@@ -10110,7 +10110,7 @@
     "magnitude": 6.6,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 24 Km Tenggara Kupang",
-    "feltOnStations": "V Kupang, IV-V Kabupaten Timor Tengah Selatan, III Rote, III Waingapu, III Alor, II Larantuka, II Lembata",
+    "feltOnStations": "VI Kupang, IV-V Kabupaten Timor Tengah Selatan, III Rote, III Waingapu, III Alor, II Larantuka, II Lembata",
     "bmkgEarthquakeId": "20231102040445",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231102040445.mmi.jpg",
     "fingerprintSha1": "ee1f8ed89c77c478a642964167dd226a3d29eeb9"
