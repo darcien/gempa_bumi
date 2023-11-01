@@ -10102,5 +10102,17 @@
     "bmkgEarthquakeId": "20231101210750",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231101210750.mmi.jpg",
     "fingerprintSha1": "e0c073da9254c5b10276291ac257ebec6329a9a9"
+  },
+  {
+    "earthquakeAt": "2023-11-01T21:04:45.000Z",
+    "latitude": -10.34,
+    "longitude": 123.76,
+    "magnitude": 6.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 24 Km Tenggara Kupang",
+    "feltOnStations": "V Kupang, V Kabupaten Timor Tengah Selatan, III Rote, III Waingapu, II Alor",
+    "bmkgEarthquakeId": "20231102040445",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231102040445.mmi.jpg",
+    "fingerprintSha1": "ee1f8ed89c77c478a642964167dd226a3d29eeb9"
   }
 ]
