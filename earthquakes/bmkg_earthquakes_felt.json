@@ -10114,5 +10114,17 @@
     "bmkgEarthquakeId": "20231102040445",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231102040445.mmi.jpg",
     "fingerprintSha1": "ee1f8ed89c77c478a642964167dd226a3d29eeb9"
+  },
+  {
+    "earthquakeAt": "2023-11-03T05:52:44.000Z",
+    "latitude": -4.7,
+    "longitude": 101.88,
+    "magnitude": 5.3,
+    "depthInKm": 85,
+    "locationInIndonesian": "Pusat gempa berada di laut 83 km barat laut Enggano",
+    "feltOnStations": "II-III Kota Bengkulu, II Empat Lawang, II Liwa, II-III Enggano, II-III Seluma, II Bengkulu Selatan, II Kaur",
+    "bmkgEarthquakeId": "20231103125244",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231103125244.mmi.jpg",
+    "fingerprintSha1": "326ebb738d16d32aa8227cbc8680c2bd4d713153"
   }
 ]
