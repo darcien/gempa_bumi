@@ -10198,5 +10198,17 @@
     "bmkgEarthquakeId": "20231106102221",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231106102221.mmi.jpg",
     "fingerprintSha1": "4a0b873ce316c7ade000e934e45cb1cf2704baa2"
+  },
+  {
+    "earthquakeAt": "2023-11-06T06:29:30.000Z",
+    "latitude": -5.24,
+    "longitude": 122.11,
+    "magnitude": 3.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 11 Km Timur Laut Kabaena Timur, Bombana",
+    "feltOnStations": "II-III Bombana",
+    "bmkgEarthquakeId": "20231106132930",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231106132930.mmi.jpg",
+    "fingerprintSha1": "af55e7422e2c79abcc53f1cdee88bba6b85bc227"
   }
 ]
