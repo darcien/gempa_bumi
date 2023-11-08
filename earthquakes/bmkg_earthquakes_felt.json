@@ -10246,5 +10246,17 @@
     "bmkgEarthquakeId": "20231108115253",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231108115253.mmi.jpg",
     "fingerprintSha1": "f33f381577c8281941a050cf6e0ee95d3d47cc73"
+  },
+  {
+    "earthquakeAt": "2023-11-08T07:23:47.000Z",
+    "latitude": -3.47,
+    "longitude": 129.71,
+    "magnitude": 5.1,
+    "depthInKm": 38,
+    "locationInIndonesian": "Pusat gempa berada di laut 85 km Tenggara, Maluku Tengah",
+    "feltOnStations": "II Masohi",
+    "bmkgEarthquakeId": "20231108142347",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231108142347.mmi.jpg",
+    "fingerprintSha1": "7bf286b1989057fdd0b41b4a9ede7100c92e91a5"
   }
 ]
