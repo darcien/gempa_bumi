@@ -10258,5 +10258,17 @@
     "bmkgEarthquakeId": "20231108142347",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231108142347.mmi.jpg",
     "fingerprintSha1": "7bf286b1989057fdd0b41b4a9ede7100c92e91a5"
+  },
+  {
+    "earthquakeAt": "2023-11-08T05:42:41.000Z",
+    "latitude": -6.15,
+    "longitude": 129.81,
+    "magnitude": 5.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 181 km Selatan Banda",
+    "feltOnStations": "II Selaru",
+    "bmkgEarthquakeId": "20231108124241",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231108124241.mmi.jpg",
+    "fingerprintSha1": "ff0642ed1dc7369f71b245c563cf5c6581b3d34c"
   }
 ]
