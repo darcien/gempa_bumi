@@ -10294,5 +10294,17 @@
     "bmkgEarthquakeId": "20231109111242",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231109111242.mmi.jpg",
     "fingerprintSha1": "e1761754471376c1d73cf9fb1fde318b22430eb6"
+  },
+  {
+    "earthquakeAt": "2023-11-09T14:29:47.000Z",
+    "latitude": -3.92,
+    "longitude": 122.43,
+    "magnitude": 3.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 1,7 km Timur Laut Morosi, Kab. Konawe",
+    "feltOnStations": "II - III Kendari",
+    "bmkgEarthquakeId": "20231109212947",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231109212947.mmi.jpg",
+    "fingerprintSha1": "02be6381f60fbfa550110df40c5720d81da25ab4"
   }
 ]
