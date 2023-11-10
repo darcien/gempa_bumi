@@ -10306,5 +10306,17 @@
     "bmkgEarthquakeId": "20231109212947",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231109212947.mmi.jpg",
     "fingerprintSha1": "02be6381f60fbfa550110df40c5720d81da25ab4"
+  },
+  {
+    "earthquakeAt": "2023-11-10T03:50:38.000Z",
+    "latitude": -5.97,
+    "longitude": 130.17,
+    "magnitude": 6,
+    "depthInKm": 121,
+    "locationInIndonesian": "Pusat gempa berada di laut 255 km Tanimbar",
+    "feltOnStations": "II Banda",
+    "bmkgEarthquakeId": "20231110105038",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231110105038.mmi.jpg",
+    "fingerprintSha1": "6f00de7c8fc0d98f4a2806bbc6f78c37ae723ec8"
   }
 ]
