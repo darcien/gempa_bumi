@@ -10330,5 +10330,17 @@
     "bmkgEarthquakeId": "20231110233315",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231110233315.mmi.jpg",
     "fingerprintSha1": "c4df3f416beda1e7635e9de85914e42d0827db52"
+  },
+  {
+    "earthquakeAt": "2023-11-10T18:27:32.000Z",
+    "latitude": -0.73,
+    "longitude": 133.5,
+    "magnitude": 3.9,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada didarat 50 km TimurLaut KEBAR, Manokwari",
+    "feltOnStations": "II Kabupaten Tambrauw",
+    "bmkgEarthquakeId": "20231111012732",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231111012732.mmi.jpg",
+    "fingerprintSha1": "f2761903bd46308b2d642e3254fc00628e11029d"
   }
 ]
