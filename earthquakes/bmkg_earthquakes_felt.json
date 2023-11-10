@@ -10318,5 +10318,17 @@
     "bmkgEarthquakeId": "20231110105038",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231110105038.mmi.jpg",
     "fingerprintSha1": "6f00de7c8fc0d98f4a2806bbc6f78c37ae723ec8"
+  },
+  {
+    "earthquakeAt": "2023-11-10T16:33:15.000Z",
+    "latitude": -6.84,
+    "longitude": 107.08,
+    "magnitude": 2.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km Barat Daya Kabupaten Cianjur",
+    "feltOnStations": "II-III Cugenang, II-III Nagrak, II-III Warungkondang, II-III Cilaku",
+    "bmkgEarthquakeId": "20231110233315",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231110233315.mmi.jpg",
+    "fingerprintSha1": "c4df3f416beda1e7635e9de85914e42d0827db52"
   }
 ]
