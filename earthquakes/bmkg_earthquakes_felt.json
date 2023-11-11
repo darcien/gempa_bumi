@@ -10342,5 +10342,17 @@
     "bmkgEarthquakeId": "20231111012732",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231111012732.mmi.jpg",
     "fingerprintSha1": "f2761903bd46308b2d642e3254fc00628e11029d"
+  },
+  {
+    "earthquakeAt": "2023-11-11T01:16:02.000Z",
+    "latitude": 2.53,
+    "longitude": 98.71,
+    "magnitude": 3.9,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 Km Tenggara Samosir",
+    "feltOnStations": "III Samosir",
+    "bmkgEarthquakeId": "20231111081602",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231111081602.mmi.jpg",
+    "fingerprintSha1": "09578381f0770d30c7ef2ec33a51c0c53a84d1c4"
   }
 ]
