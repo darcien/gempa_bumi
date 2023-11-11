@@ -10378,5 +10378,17 @@
     "bmkgEarthquakeId": "20231111134153",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231111134153.mmi.jpg",
     "fingerprintSha1": "494bb9be67e8fecdb2bb9615fd21fc5c94813ea7"
+  },
+  {
+    "earthquakeAt": "2023-11-11T07:56:33.000Z",
+    "latitude": -6.67,
+    "longitude": 106.61,
+    "magnitude": 2.3,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 22 Km Barat Daya Kota Bogor",
+    "feltOnStations": "II Leuwiliang, II Nanggela, II Pamijahan",
+    "bmkgEarthquakeId": "20231111145633",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231111145633.mmi.jpg",
+    "fingerprintSha1": "f8e197a7361087520852afd3857cd2af7de72cd1"
   }
 ]
