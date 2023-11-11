@@ -10354,5 +10354,17 @@
     "bmkgEarthquakeId": "20231111081602",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231111081602.mmi.jpg",
     "fingerprintSha1": "09578381f0770d30c7ef2ec33a51c0c53a84d1c4"
+  },
+  {
+    "earthquakeAt": "2023-11-11T06:57:48.000Z",
+    "latitude": -6.75,
+    "longitude": 106.57,
+    "magnitude": 3.5,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 26 Km Timur Laut Kabupaten Sukabumi",
+    "feltOnStations": "III Sukabumi , III Pelabuhan Ratu, II-III Bogor Barat, II-III Karanghawu , II-III Bayah",
+    "bmkgEarthquakeId": "20231111135748",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231111135748.mmi.jpg",
+    "fingerprintSha1": "dd97fa93d1246d72719c4c6dd02f38661373f74c"
   }
 ]
