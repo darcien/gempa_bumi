@@ -10402,5 +10402,17 @@
     "bmkgEarthquakeId": "20231112090617",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231112090617.mmi.jpg",
     "fingerprintSha1": "46299cb633f6b01468b7ab61687c9f7e4a8d0a62"
+  },
+  {
+    "earthquakeAt": "2023-11-12T13:43:34.000Z",
+    "latitude": -2.58,
+    "longitude": 121.11,
+    "magnitude": 4.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km Barat Laut Luwu Timur",
+    "feltOnStations": "III Malili, II Masamba, III Tomoni Timur",
+    "bmkgEarthquakeId": "20231112204334",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231112204334.mmi.jpg",
+    "fingerprintSha1": "901bae8b2d8ec1b6b1d50bda46f6b73ac5882a8c"
   }
 ]
