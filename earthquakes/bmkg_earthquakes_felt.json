@@ -10390,5 +10390,17 @@
     "bmkgEarthquakeId": "20231111145633",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231111145633.mmi.jpg",
     "fingerprintSha1": "f8e197a7361087520852afd3857cd2af7de72cd1"
+  },
+  {
+    "earthquakeAt": "2023-11-12T02:06:17.000Z",
+    "latitude": -10.04,
+    "longitude": 123.76,
+    "magnitude": 5.4,
+    "depthInKm": 34,
+    "locationInIndonesian": "Pusat gempa berada di laut 15 km BaratDaya Kab. Kupang",
+    "feltOnStations": "III - IV Kota Kupang, III - IV Kabupaten Kupang, II Kabupaten Rote Ndao",
+    "bmkgEarthquakeId": "20231112090617",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231112090617.mmi.jpg",
+    "fingerprintSha1": "46299cb633f6b01468b7ab61687c9f7e4a8d0a62"
   }
 ]
