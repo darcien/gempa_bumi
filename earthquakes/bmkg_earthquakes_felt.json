@@ -10462,5 +10462,17 @@
     "bmkgEarthquakeId": "20231113085417",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231113085417.mmi.jpg",
     "fingerprintSha1": "e738be0ca26f80c613e01e364f16fc884b59a602"
+  },
+  {
+    "earthquakeAt": "2023-11-14T21:15:46.000Z",
+    "latitude": -7.24,
+    "longitude": 107.67,
+    "magnitude": 2.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 25 km BaratDaya Kab. Garut",
+    "feltOnStations": "II-III Cikembang",
+    "bmkgEarthquakeId": "20231115041546",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231115041546.mmi.jpg",
+    "fingerprintSha1": "6ad46f72f37610186c620587c5e4255944b4868f"
   }
 ]
