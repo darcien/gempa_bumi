@@ -10498,5 +10498,17 @@
     "bmkgEarthquakeId": "20231116062617",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231116062617.mmi.jpg",
     "fingerprintSha1": "7bfee50f7cbb7c5cd2f24a02f90f6edac29df3c2"
+  },
+  {
+    "earthquakeAt": "2023-11-16T02:21:47.000Z",
+    "latitude": -3.71,
+    "longitude": 138.78,
+    "magnitude": 5.1,
+    "depthInKm": 127,
+    "locationInIndonesian": "Pusat gempa berada didarat 32Km BaratDaya Kobagma",
+    "feltOnStations": "II-III Wamena",
+    "bmkgEarthquakeId": "20231116092147",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231116092147.mmi.jpg",
+    "fingerprintSha1": "9e8d135cc99008f7a198dac4100d366a43794f63"
   }
 ]
