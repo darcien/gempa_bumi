@@ -10534,5 +10534,17 @@
     "bmkgEarthquakeId": "20231117100219",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231117100219.mmi.jpg",
     "fingerprintSha1": "db1be6c805614a91e9de27a37dac84db9d701720"
+  },
+  {
+    "earthquakeAt": "2023-11-17T08:14:15.000Z",
+    "latitude": 5.5,
+    "longitude": 125.18,
+    "magnitude": 6.9,
+    "depthInKm": 44,
+    "locationInIndonesian": "Pusat gempa berada di 212 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT",
+    "feltOnStations": "V Naha, III - IV KEP.TALAUD, III Manado, III Bolaang Mongondow, III Minahasa Utara",
+    "bmkgEarthquakeId": "20231117151415",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231117151415.mmi.jpg",
+    "fingerprintSha1": "671d121c133db0023118dfb88a0d1115cb08bbcf"
   }
 ]
