@@ -10558,5 +10558,17 @@
     "bmkgEarthquakeId": "20231118063428",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231118063428.mmi.jpg",
     "fingerprintSha1": "99200ea2e52ef2d2ff55034b587578e541eb6409"
+  },
+  {
+    "earthquakeAt": "2023-11-19T23:33:16.000Z",
+    "latitude": -3.32,
+    "longitude": 128.35,
+    "magnitude": 3.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km utara Kairatu",
+    "feltOnStations": "III Kairatu",
+    "bmkgEarthquakeId": "20231120063316",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231120063316.mmi.jpg",
+    "fingerprintSha1": "22695897c2d719d96a8bd27d4bccdc239a26c8c3"
   }
 ]
