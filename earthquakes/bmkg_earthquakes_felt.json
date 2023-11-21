@@ -10594,5 +10594,17 @@
     "bmkgEarthquakeId": "20231121114117",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231121114117.mmi.jpg",
     "fingerprintSha1": "37ae3868630b7a927a2a2171e0566236f8b677a9"
+  },
+  {
+    "earthquakeAt": "2023-11-21T07:12:16.000Z",
+    "latitude": -0.51,
+    "longitude": 135.64,
+    "magnitude": 5.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 27 km BaratLaut Supiori",
+    "feltOnStations": "III - IV Supiori, III Biak",
+    "bmkgEarthquakeId": "20231121141216",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231121141216.mmi.jpg",
+    "fingerprintSha1": "65171b18a823e9ebd7a18dfca71eb658ce8f02bc"
   }
 ]
