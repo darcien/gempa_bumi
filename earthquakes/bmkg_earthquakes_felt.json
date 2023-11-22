@@ -10634,13 +10634,13 @@
   {
     "earthquakeAt": "2023-11-22T02:48:54.000Z",
     "latitude": 1.77,
-    "longitude": 124.14,
+    "longitude": 127.14,
     "magnitude": 6.6,
     "depthInKm": 109,
     "locationInIndonesian": "Pusat gempa berada di laut 68 km barat laut Halmahera Barat",
-    "feltOnStations": "III-IV Manado, III - IV Ternate, IV Siau, III Bitung, III Halmahera Barat, III Halmahera Timur, III Halmahera Utara , III Tomohon , III Talaud, III Tidore",
+    "feltOnStations": "III-IV Manado, III - IV Ternate, IV Siau, III Bitung, III Halmahera Barat, III Halmahera Timur, III Halmahera Utara , III Tomohon , III Talaud, III Tidore, III - IV Minahasa Utara, III - IV Minahasa",
     "bmkgEarthquakeId": "20231122094854",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231122094854.mmi.jpg",
-    "fingerprintSha1": "82dc3d29dcbe156ab0d938316f00354fad854a60"
+    "fingerprintSha1": "f6759b70da353544078574ebc5d2afe410524e93"
   }
 ]
