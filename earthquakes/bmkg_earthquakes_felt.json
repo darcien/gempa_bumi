@@ -10642,5 +10642,17 @@
     "bmkgEarthquakeId": "20231122094854",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231122094854.mmi.jpg",
     "fingerprintSha1": "f6759b70da353544078574ebc5d2afe410524e93"
+  },
+  {
+    "earthquakeAt": "2023-11-23T05:58:05.000Z",
+    "latitude": -8.56,
+    "longitude": 116.03,
+    "magnitude": 3.2,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 18 km barat laut Lombok Barat",
+    "feltOnStations": "II - III Lombok Barat, II - III Mataram, II - III Lombok Utara",
+    "bmkgEarthquakeId": "20231123125805",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231123125805.mmi.jpg",
+    "fingerprintSha1": "10c9d6985a1318cd1afa69e5d8f9651a45373d46"
   }
 ]
