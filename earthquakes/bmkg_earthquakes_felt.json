@@ -10678,5 +10678,17 @@
     "bmkgEarthquakeId": "20231124110815",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231124110815.mmi.jpg",
     "fingerprintSha1": "38cf179cdb50cfd464ded2a2ea099db422585d49"
+  },
+  {
+    "earthquakeAt": "2023-11-24T09:48:34.000Z",
+    "latitude": -1,
+    "longitude": 100.29,
+    "magnitude": 3.4,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km BaratDaya Padang",
+    "feltOnStations": "III Padang",
+    "bmkgEarthquakeId": "20231124164834",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231124164834.mmi.jpg",
+    "fingerprintSha1": "78bc2dc3bee2576eeb638803094f66cbe5ce6019"
   }
 ]
