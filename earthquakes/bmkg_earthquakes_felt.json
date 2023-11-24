@@ -10666,5 +10666,17 @@
     "bmkgEarthquakeId": "20231123150613",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231123150613.mmi.jpg",
     "fingerprintSha1": "2da454d0c4da0da39e394d1421a15ae8c7fcd4d9"
+  },
+  {
+    "earthquakeAt": "2023-11-24T04:08:15.000Z",
+    "latitude": -8.14,
+    "longitude": 107.9,
+    "magnitude": 4,
+    "depthInKm": 30,
+    "locationInIndonesian": "Pusat gempa berada di Laut 82 km BaratDaya Kabupaten Pangandaran",
+    "feltOnStations": "III Pangandaran, III Cikajang, III Bungbulang, II-III Ciamis, II - III Salopa, II - III Karangnunggal, II - III Singaparna",
+    "bmkgEarthquakeId": "20231124110815",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231124110815.mmi.jpg",
+    "fingerprintSha1": "38cf179cdb50cfd464ded2a2ea099db422585d49"
   }
 ]
