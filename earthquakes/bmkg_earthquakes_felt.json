@@ -10702,5 +10702,17 @@
     "bmkgEarthquakeId": "20231125063659",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231125063659.mmi.jpg",
     "fingerprintSha1": "8faacd432f6bdc00792d3bdd66b6e1c3ab814cb0"
+  },
+  {
+    "earthquakeAt": "2023-11-25T11:22:09.000Z",
+    "latitude": -8.23,
+    "longitude": 114.81,
+    "magnitude": 1.8,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di darat 27 km Timur laut Jembrana",
+    "feltOnStations": "II Gerokgag",
+    "bmkgEarthquakeId": "20231125182209",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231125182209.mmi.jpg",
+    "fingerprintSha1": "8883bba2a11c75a11508beb210e8b548fdcb4f02"
   }
 ]
