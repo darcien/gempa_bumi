@@ -10690,5 +10690,17 @@
     "bmkgEarthquakeId": "20231124164834",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231124164834.mmi.jpg",
     "fingerprintSha1": "78bc2dc3bee2576eeb638803094f66cbe5ce6019"
+  },
+  {
+    "earthquakeAt": "2023-11-24T23:36:59.000Z",
+    "latitude": -7.03,
+    "longitude": 106.65,
+    "magnitude": 3.5,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 km Tenggara Kab. Sukabumi",
+    "feltOnStations": "II-III Sukabumi",
+    "bmkgEarthquakeId": "20231125063659",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231125063659.mmi.jpg",
+    "fingerprintSha1": "8faacd432f6bdc00792d3bdd66b6e1c3ab814cb0"
   }
 ]
