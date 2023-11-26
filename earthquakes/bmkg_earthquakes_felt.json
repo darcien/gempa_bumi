@@ -10714,5 +10714,17 @@
     "bmkgEarthquakeId": "20231125182209",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231125182209.mmi.jpg",
     "fingerprintSha1": "8883bba2a11c75a11508beb210e8b548fdcb4f02"
+  },
+  {
+    "earthquakeAt": "2023-11-26T08:21:48.000Z",
+    "latitude": 1.32,
+    "longitude": 128.01,
+    "magnitude": 5.2,
+    "depthInKm": 132,
+    "locationInIndonesian": "Pusat gempa berada di laut 24 km tenggara Halmahera Utara",
+    "feltOnStations": "II Halmahera Timur",
+    "bmkgEarthquakeId": "20231126152148",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231126152148.mmi.jpg",
+    "fingerprintSha1": "0b15e64cfee77fbee29e0a29a67ebaf1dd38d9fd"
   }
 ]
