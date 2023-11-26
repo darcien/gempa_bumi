@@ -10726,5 +10726,17 @@
     "bmkgEarthquakeId": "20231126152148",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231126152148.mmi.jpg",
     "fingerprintSha1": "0b15e64cfee77fbee29e0a29a67ebaf1dd38d9fd"
+  },
+  {
+    "earthquakeAt": "2023-11-26T16:18:55.000Z",
+    "latitude": 0.83,
+    "longitude": 120.4,
+    "magnitude": 4.2,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di Laut 40 Km Barat Daya Toli-Toli",
+    "feltOnStations": "III Toli-Toli",
+    "bmkgEarthquakeId": "20231126231855",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231126231855.mmi.jpg",
+    "fingerprintSha1": "317c4e6edc0e08efad4da9a5b31aec9008244209"
   }
 ]
