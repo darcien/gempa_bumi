@@ -10738,5 +10738,17 @@
     "bmkgEarthquakeId": "20231126231855",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231126231855.mmi.jpg",
     "fingerprintSha1": "317c4e6edc0e08efad4da9a5b31aec9008244209"
+  },
+  {
+    "earthquakeAt": "2023-11-27T01:13:25.000Z",
+    "latitude": -4.66,
+    "longitude": 129.56,
+    "magnitude": 2.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 40 km Barat Banda",
+    "feltOnStations": "II Banda",
+    "bmkgEarthquakeId": "20231127081325",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231127081325.mmi.jpg",
+    "fingerprintSha1": "88b2fe860a4a42efad8dc1d018c2a2320776c50b"
   }
 ]
