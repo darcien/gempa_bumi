@@ -10750,5 +10750,17 @@
     "bmkgEarthquakeId": "20231127081325",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231127081325.mmi.jpg",
     "fingerprintSha1": "88b2fe860a4a42efad8dc1d018c2a2320776c50b"
+  },
+  {
+    "earthquakeAt": "2023-11-27T08:19:01.000Z",
+    "latitude": -8.86,
+    "longitude": 112.81,
+    "magnitude": 4.7,
+    "depthInKm": 109,
+    "locationInIndonesian": "Pusat gempa berada di laut 84 km Tenggara Kab. Malang",
+    "feltOnStations": "II Trenggalek, II Gunung Kidul, II Karangkates, II Jember, II Banyuwangi, II Blitar",
+    "bmkgEarthquakeId": "20231127151901",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231127151901.mmi.jpg",
+    "fingerprintSha1": "19b5b17e466310238fa79865037d35641a2d1418"
   }
 ]
