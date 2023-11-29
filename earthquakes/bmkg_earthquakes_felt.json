@@ -10810,5 +10810,17 @@
     "bmkgEarthquakeId": "20231128214213",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231128214213.mmi.jpg",
     "fingerprintSha1": "b5bf80c58cc02d037f1d6598c16e92c7127ec8f0"
+  },
+  {
+    "earthquakeAt": "2023-11-29T07:55:32.000Z",
+    "latitude": 2.26,
+    "longitude": 96.14,
+    "magnitude": 4.7,
+    "depthInKm": 16,
+    "locationInIndonesian": "Pusat gempa berada di laut 34 km barat daya Sinabang",
+    "feltOnStations": "III Sinabang",
+    "bmkgEarthquakeId": "20231129145532",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231129145532.mmi.jpg",
+    "fingerprintSha1": "6b4e4c4dfa1eaffc0d1f74c0c10459752a1d14cb"
   }
 ]
