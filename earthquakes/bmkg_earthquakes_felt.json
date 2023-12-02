@@ -10882,5 +10882,17 @@
     "bmkgEarthquakeId": "20231202213707",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231202213707.mmi.jpg",
     "fingerprintSha1": "2fdfc37c073aa4ee3d3e75d03879e8aea649f8fd"
+  },
+  {
+    "earthquakeAt": "2023-12-02T14:57:22.000Z",
+    "latitude": -2.67,
+    "longitude": 129.62,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 21 km TimurLaut Wahai",
+    "feltOnStations": "II Kairatu",
+    "bmkgEarthquakeId": "20231202215722",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231202215722.mmi.jpg",
+    "fingerprintSha1": "a93f0c0a31dd874428060b856f7ec08ace0c6cdb"
   }
 ]
