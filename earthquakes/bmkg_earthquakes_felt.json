@@ -10894,5 +10894,17 @@
     "bmkgEarthquakeId": "20231202215722",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231202215722.mmi.jpg",
     "fingerprintSha1": "a93f0c0a31dd874428060b856f7ec08ace0c6cdb"
+  },
+  {
+    "earthquakeAt": "2023-12-02T18:32:02.000Z",
+    "latitude": -7.22,
+    "longitude": 107.43,
+    "magnitude": 2.7,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat, 24 km BaratDaya Kab. Bandung",
+    "feltOnStations": "II - III Kab. Bandung, III Cianjur",
+    "bmkgEarthquakeId": "20231203013202",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231203013202.mmi.jpg",
+    "fingerprintSha1": "fedfc0a30b5249ef79e5f37d12993789539174e5"
   }
 ]
