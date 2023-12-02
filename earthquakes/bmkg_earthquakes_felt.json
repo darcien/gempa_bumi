@@ -10870,5 +10870,17 @@
     "bmkgEarthquakeId": "20231202204204",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231202204204.mmi.jpg",
     "fingerprintSha1": "872fe0b2baa39da8255149ee1fde7a04e6398c12"
+  },
+  {
+    "earthquakeAt": "2023-12-02T14:37:07.000Z",
+    "latitude": 8.53,
+    "longitude": 126.59,
+    "magnitude": 7.5,
+    "depthInKm": 56,
+    "locationInIndonesian": "Pusat gempa berada di laut 420 km BaratLaut Pulau Karatung",
+    "feltOnStations": "III Naha",
+    "bmkgEarthquakeId": "20231202213707",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231202213707.mmi.jpg",
+    "fingerprintSha1": "2fdfc37c073aa4ee3d3e75d03879e8aea649f8fd"
   }
 ]
