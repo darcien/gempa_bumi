@@ -10834,5 +10834,17 @@
     "bmkgEarthquakeId": "20231201071509",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231201071509.mmi.jpg",
     "fingerprintSha1": "e99e80c6449a996cd870a74a62c6b7cfaf368456"
+  },
+  {
+    "earthquakeAt": "2023-12-02T05:37:31.000Z",
+    "latitude": -9.38,
+    "longitude": 112.65,
+    "magnitude": 5.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 138 km Tenggara Kab. Malang",
+    "feltOnStations": "II Malang",
+    "bmkgEarthquakeId": "20231202123731",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231202123731.mmi.jpg",
+    "fingerprintSha1": "b72f1f252b7983ad81231f6e2ed42590fe5a8bb1"
   }
 ]
