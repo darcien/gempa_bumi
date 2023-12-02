@@ -10842,9 +10842,21 @@
     "magnitude": 5.2,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 138 km Tenggara Kab. Malang",
-    "feltOnStations": "II Malang",
+    "feltOnStations": "II Malang, II Lumajang",
     "bmkgEarthquakeId": "20231202123731",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231202123731.mmi.jpg",
     "fingerprintSha1": "b72f1f252b7983ad81231f6e2ed42590fe5a8bb1"
+  },
+  {
+    "earthquakeAt": "2023-12-02T12:01:02.000Z",
+    "latitude": -7.13,
+    "longitude": 129.81,
+    "magnitude": 6,
+    "depthInKm": 157,
+    "locationInIndonesian": "Pusat gempa berada di laut 190 km BaratLaut Tanimbar",
+    "feltOnStations": "II-III Saumlaki, II Tual, II Damer",
+    "bmkgEarthquakeId": "20231202190102",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231202190102.mmi.jpg",
+    "fingerprintSha1": "92205939a8469ad79bb0253acffdce5388ba9370"
   }
 ]
