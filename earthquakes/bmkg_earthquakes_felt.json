@@ -10858,5 +10858,17 @@
     "bmkgEarthquakeId": "20231202190102",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231202190102.mmi.jpg",
     "fingerprintSha1": "92205939a8469ad79bb0253acffdce5388ba9370"
+  },
+  {
+    "earthquakeAt": "2023-12-02T13:42:04.000Z",
+    "latitude": -3.53,
+    "longitude": 102.01,
+    "magnitude": 5,
+    "depthInKm": 108,
+    "locationInIndonesian": "Pusat gempa berada di laut 23 km BaratDaya Bengkulu Utara",
+    "feltOnStations": "II-III Kota Bengkulu, II Mukomuko",
+    "bmkgEarthquakeId": "20231202204204",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231202204204.mmi.jpg",
+    "fingerprintSha1": "872fe0b2baa39da8255149ee1fde7a04e6398c12"
   }
 ]
