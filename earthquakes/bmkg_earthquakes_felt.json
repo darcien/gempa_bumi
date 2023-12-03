@@ -10906,5 +10906,17 @@
     "bmkgEarthquakeId": "20231203013202",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231203013202.mmi.jpg",
     "fingerprintSha1": "fedfc0a30b5249ef79e5f37d12993789539174e5"
+  },
+  {
+    "earthquakeAt": "2023-12-03T01:16:28.000Z",
+    "latitude": -8.95,
+    "longitude": 118.79,
+    "magnitude": 4.7,
+    "depthInKm": 67,
+    "locationInIndonesian": "Pusat gempa berada di Laut 54 Tenggara Kota Bima",
+    "feltOnStations": "II-III Bima",
+    "bmkgEarthquakeId": "20231203081628",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231203081628.mmi.jpg",
+    "fingerprintSha1": "adb8d816f5914846582b6887389fc31cd293ec3b"
   }
 ]
