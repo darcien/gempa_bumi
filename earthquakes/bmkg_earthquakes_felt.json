@@ -10918,5 +10918,17 @@
     "bmkgEarthquakeId": "20231203081628",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231203081628.mmi.jpg",
     "fingerprintSha1": "adb8d816f5914846582b6887389fc31cd293ec3b"
+  },
+  {
+    "earthquakeAt": "2023-12-04T11:12:53.000Z",
+    "latitude": 5.23,
+    "longitude": 96.21,
+    "magnitude": 4.3,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di Laut 27 Km BaratLaut Kab. Pidie Jaya",
+    "feltOnStations": "III Pidie Jaya, III Pidie, II Bener Meriah",
+    "bmkgEarthquakeId": "20231204181253",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231204181253.mmi.jpg",
+    "fingerprintSha1": "fe02ad000cc9871469e8dd090a09b13dfd93c7b8"
   }
 ]
