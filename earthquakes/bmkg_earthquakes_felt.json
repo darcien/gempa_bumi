@@ -10930,5 +10930,17 @@
     "bmkgEarthquakeId": "20231204181253",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231204181253.mmi.jpg",
     "fingerprintSha1": "fe02ad000cc9871469e8dd090a09b13dfd93c7b8"
+  },
+  {
+    "earthquakeAt": "2023-12-05T09:14:13.000Z",
+    "latitude": -7.23,
+    "longitude": 107.73,
+    "magnitude": 3.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 18 km Baratdaya Garut",
+    "feltOnStations": "III Garut, II-III Majalaya, II-III Kertasari, II-III Ciwidey, II-III Balegede, II-III Rancabali, II Pangalengan",
+    "bmkgEarthquakeId": "20231205161413",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231205161413.mmi.jpg",
+    "fingerprintSha1": "35d0cb26dee50f7b1fdc30c8d8326a45d8da6e2c"
   }
 ]
