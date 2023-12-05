@@ -10942,5 +10942,29 @@
     "bmkgEarthquakeId": "20231205161413",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231205161413.mmi.jpg",
     "fingerprintSha1": "35d0cb26dee50f7b1fdc30c8d8326a45d8da6e2c"
+  },
+  {
+    "earthquakeAt": "2023-12-05T12:50:51.000Z",
+    "latitude": -6.82,
+    "longitude": 107.07,
+    "magnitude": 2.6,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km barat laut Kab. Cianjur",
+    "feltOnStations": "II-III Cugenang, II-III Cianjur",
+    "bmkgEarthquakeId": "20231205195051",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231205195051.mmi.jpg",
+    "fingerprintSha1": "57a813b091c5ab4ae1eeba0f18c0db60c73b6aca"
+  },
+  {
+    "earthquakeAt": "2023-12-05T12:36:37.000Z",
+    "latitude": 2.64,
+    "longitude": 128.24,
+    "magnitude": 5.6,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di laut 64 km timur laut Pulaudoi",
+    "feltOnStations": "IV Morotai, III Halmahera Utara",
+    "bmkgEarthquakeId": "20231205193637",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231205193637.mmi.jpg",
+    "fingerprintSha1": "dbe2d3333ced0756543723ec2b2ccc3b0c56a390"
   }
 ]
