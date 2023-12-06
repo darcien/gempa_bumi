@@ -10978,5 +10978,17 @@
     "bmkgEarthquakeId": "20231206202002",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231206202002.mmi.jpg",
     "fingerprintSha1": "4d0a94fb71edb231461a8e07683375a573143be7"
+  },
+  {
+    "earthquakeAt": "2023-12-06T14:20:06.000Z",
+    "latitude": -6.76,
+    "longitude": 106.54,
+    "magnitude": 3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 25 km barat laut Kab. Sukabumi",
+    "feltOnStations": "II-III Bogor Barat, II-III Cisolok, II-III Bayah, II-III Leuwiliang",
+    "bmkgEarthquakeId": "20231206212006",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231206212006.mmi.jpg",
+    "fingerprintSha1": "3da5cb92d6dc39ec96db163a4f47692e8050610c"
   }
 ]
