@@ -11014,5 +11014,17 @@
     "bmkgEarthquakeId": "20231207175339",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231207175339.mmi.jpg",
     "fingerprintSha1": "53dd4e25c9f90414ee7fbd1f43e7401af2ca6c70"
+  },
+  {
+    "earthquakeAt": "2023-12-07T14:00:02.000Z",
+    "latitude": -8.73,
+    "longitude": 115.37,
+    "magnitude": 3.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 17 km Timur Laut Kuta Selatan",
+    "feltOnStations": "II Nusa Dua",
+    "bmkgEarthquakeId": "20231207210002",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231207210002.mmi.jpg",
+    "fingerprintSha1": "8a72927022d9d017f6b404da9a8ecf17401b3331"
   }
 ]
