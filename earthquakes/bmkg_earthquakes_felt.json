@@ -11026,5 +11026,17 @@
     "bmkgEarthquakeId": "20231207210002",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231207210002.mmi.jpg",
     "fingerprintSha1": "8a72927022d9d017f6b404da9a8ecf17401b3331"
+  },
+  {
+    "earthquakeAt": "2023-12-07T19:00:45.000Z",
+    "latitude": -6.73,
+    "longitude": 106.61,
+    "magnitude": 4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 25 km Barat Daya Kota Bogor",
+    "feltOnStations": "III Kalapanunggal Sukabumi",
+    "bmkgEarthquakeId": "20231208020045",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231208020045.mmi.jpg",
+    "fingerprintSha1": "7d902ed48ab170a5efb47246d39d4f423bd5d85a"
   }
 ]
