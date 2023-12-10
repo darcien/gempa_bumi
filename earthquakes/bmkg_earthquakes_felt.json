@@ -11038,5 +11038,17 @@
     "bmkgEarthquakeId": "20231208020045",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231208020045.mmi.jpg",
     "fingerprintSha1": "7d902ed48ab170a5efb47246d39d4f423bd5d85a"
+  },
+  {
+    "earthquakeAt": "2023-12-10T04:49:46.000Z",
+    "latitude": -3.55,
+    "longitude": 141.05,
+    "magnitude": 5.3,
+    "depthInKm": 105,
+    "locationInIndonesian": "Pusat gempa berada di darat 32 km Tenggara Senggi-Keerom",
+    "feltOnStations": "III Kota Jayapura, II Kab. Jayapura",
+    "bmkgEarthquakeId": "20231210114946",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231210114946.mmi.jpg",
+    "fingerprintSha1": "4979aedf3b9be5f9dc1fef40e7a83e92de1344e9"
   }
 ]
