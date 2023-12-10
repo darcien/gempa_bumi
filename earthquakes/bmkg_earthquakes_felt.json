@@ -11050,5 +11050,17 @@
     "bmkgEarthquakeId": "20231210114946",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231210114946.mmi.jpg",
     "fingerprintSha1": "4979aedf3b9be5f9dc1fef40e7a83e92de1344e9"
+  },
+  {
+    "earthquakeAt": "2023-12-10T19:52:14.000Z",
+    "latitude": -4.39,
+    "longitude": 139.67,
+    "magnitude": 5.5,
+    "depthInKm": 72,
+    "locationInIndonesian": "Pusat gempa berada di darat 55 km TimurLaut Yahukimo",
+    "feltOnStations": "III-IV Oksibil",
+    "bmkgEarthquakeId": "20231211025214",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231211025214.mmi.jpg",
+    "fingerprintSha1": "75f8ba98dbdaefa384fa904265889ab89303cd4e"
   }
 ]
