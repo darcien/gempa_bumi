@@ -11062,5 +11062,17 @@
     "bmkgEarthquakeId": "20231211025214",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231211025214.mmi.jpg",
     "fingerprintSha1": "75f8ba98dbdaefa384fa904265889ab89303cd4e"
+  },
+  {
+    "earthquakeAt": "2023-12-11T04:33:32.000Z",
+    "latitude": 2.62,
+    "longitude": 128.23,
+    "magnitude": 5.3,
+    "depthInKm": 114,
+    "locationInIndonesian": "Pusat gempa berada di laut 62 km Timur Laut Pulaudoi",
+    "feltOnStations": "II Tobelo",
+    "bmkgEarthquakeId": "20231211113332",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231211113332.mmi.jpg",
+    "fingerprintSha1": "05e5eaac3e432e44bdf482aaf479239057296c92"
   }
 ]
