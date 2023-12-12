@@ -11098,5 +11098,17 @@
     "bmkgEarthquakeId": "20231213003716",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231213003716.mmi.jpg",
     "fingerprintSha1": "7a5653918ad8342c9905a2be1fb1f43d25255b96"
+  },
+  {
+    "earthquakeAt": "2023-12-12T21:01:52.000Z",
+    "latitude": -0.45,
+    "longitude": 100.25,
+    "magnitude": 3.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km BaratLaut Padang Panjang",
+    "feltOnStations": "II Padang Panjang",
+    "bmkgEarthquakeId": "20231213040152",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231213040152.mmi.jpg",
+    "fingerprintSha1": "4dbd98e2a9e5a47a0db2c3e8ae770d3070fd6475"
   }
 ]
