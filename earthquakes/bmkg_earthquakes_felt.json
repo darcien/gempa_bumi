@@ -11110,5 +11110,17 @@
     "bmkgEarthquakeId": "20231213040152",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231213040152.mmi.jpg",
     "fingerprintSha1": "4dbd98e2a9e5a47a0db2c3e8ae770d3070fd6475"
+  },
+  {
+    "earthquakeAt": "2023-12-13T10:35:55.000Z",
+    "latitude": -8.12,
+    "longitude": 107.93,
+    "magnitude": 4.3,
+    "depthInKm": 29,
+    "locationInIndonesian": "Pusat gempa berada di laut 78 Km Barat Daya Kab. Pangandaran",
+    "feltOnStations": "II - III Tasikmalaya, II-III Cipatujah, II - III Cikajang, II-III Ciamis, II-III Pangandaran, II-III Cijulang",
+    "bmkgEarthquakeId": "20231213173555",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231213173555.mmi.jpg",
+    "fingerprintSha1": "b7769779b9c2f21a958ff060144c8cd8544d3918"
   }
 ]
