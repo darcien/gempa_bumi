@@ -11122,5 +11122,17 @@
     "bmkgEarthquakeId": "20231213173555",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231213173555.mmi.jpg",
     "fingerprintSha1": "b7769779b9c2f21a958ff060144c8cd8544d3918"
+  },
+  {
+    "earthquakeAt": "2023-12-13T15:15:24.000Z",
+    "latitude": -7.94,
+    "longitude": 110.49,
+    "magnitude": 3.6,
+    "depthInKm": 16,
+    "locationInIndonesian": "Pusat gempa berada di darat 14 km Baratlaut Gunungkidul",
+    "feltOnStations": "II-III Gunung Kidul, II-III Bantul, II-III Kulon Progo",
+    "bmkgEarthquakeId": "20231213221524",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231213221524.mmi.jpg",
+    "fingerprintSha1": "b8a971617cf5b8d716688fb512b67ee2e64e4bb6"
   }
 ]
