@@ -11170,5 +11170,17 @@
     "bmkgEarthquakeId": "20231214142718",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231214142718.mmi.jpg",
     "fingerprintSha1": "3e141c0bbca57b6d5e36bc60b83c3093d114f0ff"
+  },
+  {
+    "earthquakeAt": "2023-12-14T11:08:31.000Z",
+    "latitude": -6.73,
+    "longitude": 106.55,
+    "magnitude": 3.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 28 km Utara Kab. Sukabumi",
+    "feltOnStations": "II Pamijahan",
+    "bmkgEarthquakeId": "20231214180831",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231214180831.mmi.jpg",
+    "fingerprintSha1": "94a25b38e55570915ae5df75a80c56cde0bdcc6c"
   }
 ]
