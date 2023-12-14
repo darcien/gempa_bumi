@@ -11134,5 +11134,17 @@
     "bmkgEarthquakeId": "20231213221524",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231213221524.mmi.jpg",
     "fingerprintSha1": "b8a971617cf5b8d716688fb512b67ee2e64e4bb6"
+  },
+  {
+    "earthquakeAt": "2023-12-13T23:35:12.000Z",
+    "latitude": -6.76,
+    "longitude": 106.53,
+    "magnitude": 4.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 25 km Barat Laut Kab. Sukabumi",
+    "feltOnStations": "III - IV Pamijahan, III Panggarangan, III Bayah, III Kalapanunggal, III Cilograng, III Bogor , II - III Ciputat, II - III Tangerang, II Pelabuhan Ratu",
+    "bmkgEarthquakeId": "20231214063512",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231214063512.mmi.jpg",
+    "fingerprintSha1": "12aa7925286d9f8434e3b1c19665a3584fbffeca"
   }
 ]
