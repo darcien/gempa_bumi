@@ -11158,5 +11158,17 @@
     "bmkgEarthquakeId": "20231214080552",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231214080552.mmi.jpg",
     "fingerprintSha1": "0440aa56b950e7c14c56f64329693c88a6b2faff"
+  },
+  {
+    "earthquakeAt": "2023-12-14T07:27:18.000Z",
+    "latitude": -7.26,
+    "longitude": 106.13,
+    "magnitude": 4.9,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di laut 39 km BaratDaya Bayah",
+    "feltOnStations": "III - IV Malingping, III - IV Malasari, III - IV Leuwiliang, III Bayah, II - III Kalapanunggal, III Pelabuhan Ratu, III Gandasoli, III Cireungas, III Sukabumi, III Karanghawu, III Muarabinuangeun, III Jampang",
+    "bmkgEarthquakeId": "20231214142718",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231214142718.mmi.jpg",
+    "fingerprintSha1": "3e141c0bbca57b6d5e36bc60b83c3093d114f0ff"
   }
 ]
