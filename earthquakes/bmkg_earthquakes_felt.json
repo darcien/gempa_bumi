@@ -11146,5 +11146,17 @@
     "bmkgEarthquakeId": "20231214063512",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231214063512.mmi.jpg",
     "fingerprintSha1": "12aa7925286d9f8434e3b1c19665a3584fbffeca"
+  },
+  {
+    "earthquakeAt": "2023-12-14T01:05:52.000Z",
+    "latitude": 0,
+    "longitude": 124.08,
+    "magnitude": 5.5,
+    "depthInKm": 99,
+    "locationInIndonesian": "Pusat gempa berada di laut 42 Km Tenggara BOLAANGUKI-BOLSEL",
+    "feltOnStations": "III Bolaang Uki, II Bone Bolango, II Kotamobagu, II Taliabu",
+    "bmkgEarthquakeId": "20231214080552",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231214080552.mmi.jpg",
+    "fingerprintSha1": "0440aa56b950e7c14c56f64329693c88a6b2faff"
   }
 ]
