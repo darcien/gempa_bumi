@@ -11142,7 +11142,7 @@
     "magnitude": 4.6,
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di darat 25 km Barat Laut Kab. Sukabumi",
-    "feltOnStations": "III - IV Pamijahan, III Panggarangan, III Bayah, III Kalapanunggal, III Cilograng, III Bogor , II - III Ciputat, II - III Tangerang, II Pelabuhan Ratu",
+    "feltOnStations": "IV-V Pamijahan, III Panggarangan, III Bayah, III Kalapanunggal, III Cilograng, III Bogor , II - III Ciputat, II - III Tangerang, II Pelabuhan Ratu",
     "bmkgEarthquakeId": "20231214063512",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231214063512.mmi.jpg",
     "fingerprintSha1": "12aa7925286d9f8434e3b1c19665a3584fbffeca"
