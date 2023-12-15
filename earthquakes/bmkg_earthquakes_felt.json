@@ -11194,5 +11194,17 @@
     "bmkgEarthquakeId": "20231215102323",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231215102323.mmi.jpg",
     "fingerprintSha1": "51c74b63a1d8f2bdb0b59a104c6c746771eb5ee9"
+  },
+  {
+    "earthquakeAt": "2023-12-15T14:24:34.000Z",
+    "latitude": -7.15,
+    "longitude": 108.86,
+    "magnitude": 4.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 34 km barat daya Kab. Tegal",
+    "feltOnStations": "III Cirebon, II-III Tegal, II-III Brebes, II-III Banjar, II Subang",
+    "bmkgEarthquakeId": "20231215212434",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231215212434.mmi.jpg",
+    "fingerprintSha1": "4d66683c280b8e348c636d7ffec0081e7c4a74ee"
   }
 ]
