@@ -11206,5 +11206,17 @@
     "bmkgEarthquakeId": "20231215212434",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231215212434.mmi.jpg",
     "fingerprintSha1": "4d66683c280b8e348c636d7ffec0081e7c4a74ee"
+  },
+  {
+    "earthquakeAt": "2023-12-15T18:42:58.000Z",
+    "latitude": -7.15,
+    "longitude": 108.89,
+    "magnitude": 4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 31 km barat daya Kab. Tegal",
+    "feltOnStations": "II-III Majenang, II-III Kuningan",
+    "bmkgEarthquakeId": "20231216014258",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231216014258.mmi.jpg",
+    "fingerprintSha1": "6ad8223d8534f3426e978da0aa1f809d9df3cd68"
   }
 ]
