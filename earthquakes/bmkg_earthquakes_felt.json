@@ -11226,7 +11226,7 @@
     "magnitude": 5.4,
     "depthInKm": 19,
     "locationInIndonesian": "Pusat gempa berada di laut 130 km BaratDaya Pasaman Barat",
-    "feltOnStations": "III-IV Padang Pariaman, III-IV Hibala, II-III Padang Panjang, II-III Padang",
+    "feltOnStations": "III-IV Padang Pariaman, III-IV Hibala, II-III Padang Panjang, II-III Padang, III-IV Pariaman, III-IV Lubuk Basung, III-IV Kepulauan Batu, III-IV Pasaman Barat, II Painan, II Pasaman",
     "bmkgEarthquakeId": "20231216134554",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231216134554.mmi.jpg",
     "fingerprintSha1": "7ca1c5bbb8f05433df9208e24653ecb652e56fa2"
