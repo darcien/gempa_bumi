@@ -11218,5 +11218,17 @@
     "bmkgEarthquakeId": "20231216014258",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231216014258.mmi.jpg",
     "fingerprintSha1": "6ad8223d8534f3426e978da0aa1f809d9df3cd68"
+  },
+  {
+    "earthquakeAt": "2023-12-16T06:45:54.000Z",
+    "latitude": -0.35,
+    "longitude": 98.75,
+    "magnitude": 5.4,
+    "depthInKm": 19,
+    "locationInIndonesian": "Pusat gempa berada di laut 130 km BaratDaya Pasaman Barat",
+    "feltOnStations": "III-IV Padang Pariaman, III-IV Hibala, II-III Padang Panjang, II-III Padang",
+    "bmkgEarthquakeId": "20231216134554",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231216134554.mmi.jpg",
+    "fingerprintSha1": "7ca1c5bbb8f05433df9208e24653ecb652e56fa2"
   }
 ]
