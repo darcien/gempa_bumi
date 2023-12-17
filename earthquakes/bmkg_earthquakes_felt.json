@@ -11230,5 +11230,17 @@
     "bmkgEarthquakeId": "20231216134554",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231216134554.mmi.jpg",
     "fingerprintSha1": "7ca1c5bbb8f05433df9208e24653ecb652e56fa2"
+  },
+  {
+    "earthquakeAt": "2023-12-17T00:47:38.000Z",
+    "latitude": -3.11,
+    "longitude": 130.56,
+    "magnitude": 4.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di Laut, 79 km TimurLaut Bula-SBT",
+    "feltOnStations": "II-III Bula",
+    "bmkgEarthquakeId": "20231217074738",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231217074738.mmi.jpg",
+    "fingerprintSha1": "b9bd73275c404a559a1064a9a1b551ade719afdd"
   }
 ]
