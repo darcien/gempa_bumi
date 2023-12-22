@@ -11266,5 +11266,17 @@
     "bmkgEarthquakeId": "20231220120151",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231220120151.mmi.jpg",
     "fingerprintSha1": "15281352815167ee2401fc40da021a3756a44918"
+  },
+  {
+    "earthquakeAt": "2023-12-22T11:33:58.000Z",
+    "latitude": 2.72,
+    "longitude": 128.18,
+    "magnitude": 5.4,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di laut 65 km TimurLaut Pulau Doi",
+    "feltOnStations": "III - IV Morotai",
+    "bmkgEarthquakeId": "20231222183358",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231222183358.mmi.jpg",
+    "fingerprintSha1": "59f94b9cf204e932868cd3608e72aa7319fed3de"
   }
 ]
