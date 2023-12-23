@@ -11278,5 +11278,17 @@
     "bmkgEarthquakeId": "20231222183358",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231222183358.mmi.jpg",
     "fingerprintSha1": "59f94b9cf204e932868cd3608e72aa7319fed3de"
+  },
+  {
+    "earthquakeAt": "2023-12-23T03:08:46.000Z",
+    "latitude": -5.08,
+    "longitude": 123.02,
+    "magnitude": 3.3,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di laut 10 km Tenggara Kambowa, Kab. Buton Utara",
+    "feltOnStations": "III Lasalimu",
+    "bmkgEarthquakeId": "20231223100846",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231223100846.mmi.jpg",
+    "fingerprintSha1": "9ab939116b280223a8e5e9023ec6e30c0ef10180"
   }
 ]
