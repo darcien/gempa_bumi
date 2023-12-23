@@ -11310,7 +11310,7 @@
     "magnitude": 4.5,
     "depthInKm": 28,
     "locationInIndonesian": "Pusat gempa berada di laut 82 km BaratDaya Air Bangis, Pasaman Barat",
-    "feltOnStations": "III Pariaman, III Agam, II Padang Panjang",
+    "feltOnStations": "III Pariaman, III Agam, II Padang Panjang, III Pasaman Barat, II Pasaman",
     "bmkgEarthquakeId": "20231223172622",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231223172622.mmi.jpg",
     "fingerprintSha1": "4c2a1d16a02ee7b1a4541326b943421c1ce97d31"
