@@ -11290,5 +11290,17 @@
     "bmkgEarthquakeId": "20231223100846",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231223100846.mmi.jpg",
     "fingerprintSha1": "9ab939116b280223a8e5e9023ec6e30c0ef10180"
+  },
+  {
+    "earthquakeAt": "2023-12-23T09:09:15.000Z",
+    "latitude": 0.41,
+    "longitude": 125.47,
+    "magnitude": 4.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 102 km Tenggara Tutuyan",
+    "feltOnStations": "II Bolaang Mongondow",
+    "bmkgEarthquakeId": "20231223160915",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231223160915.mmi.jpg",
+    "fingerprintSha1": "865f1552d676e66c9e1394176bfda3b9db2ff539"
   }
 ]
