@@ -11314,5 +11314,17 @@
     "bmkgEarthquakeId": "20231223172622",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231223172622.mmi.jpg",
     "fingerprintSha1": "4c2a1d16a02ee7b1a4541326b943421c1ce97d31"
+  },
+  {
+    "earthquakeAt": "2023-12-24T06:00:55.000Z",
+    "latitude": -7.99,
+    "longitude": 117.85,
+    "magnitude": 4.7,
+    "depthInKm": 35,
+    "locationInIndonesian": "Pusat gempa berada di laut 73 km TimurLaut Sumbawa",
+    "feltOnStations": "II-III Dompu",
+    "bmkgEarthquakeId": "20231224130055",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231224130055.mmi.jpg",
+    "fingerprintSha1": "6c75410d22feac48305e52e8f222c7becf4ec5e7"
   }
 ]
