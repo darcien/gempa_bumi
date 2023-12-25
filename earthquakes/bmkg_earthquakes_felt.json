@@ -11338,5 +11338,17 @@
     "bmkgEarthquakeId": "20231225124805",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231225124805.mmi.jpg",
     "fingerprintSha1": "d6953de474f78f9a9607caebab90077a63fc2b5b"
+  },
+  {
+    "earthquakeAt": "2023-12-25T22:47:56.000Z",
+    "latitude": -8.49,
+    "longitude": 115.83,
+    "magnitude": 3.5,
+    "depthInKm": 19,
+    "locationInIndonesian": "Pusat gempa berada di laut 37 km Tenggara Karangasem",
+    "feltOnStations": "II-III Mataram, II-III Lombok Barat, II-III Lombok Tengah",
+    "bmkgEarthquakeId": "20231226054756",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231226054756.mmi.jpg",
+    "fingerprintSha1": "e3fa14be0ac0deef69273df1a80a3d3c72e383ef"
   }
 ]
