@@ -11326,5 +11326,17 @@
     "bmkgEarthquakeId": "20231224130055",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231224130055.mmi.jpg",
     "fingerprintSha1": "6c75410d22feac48305e52e8f222c7becf4ec5e7"
+  },
+  {
+    "earthquakeAt": "2023-12-25T05:48:05.000Z",
+    "latitude": -6.47,
+    "longitude": 107.45,
+    "magnitude": 3.1,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km TimurLaut Kab. Purwakarta",
+    "feltOnStations": "I-II Purwakarta, I-II Cikampek",
+    "bmkgEarthquakeId": "20231225124805",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231225124805.mmi.jpg",
+    "fingerprintSha1": "d6953de474f78f9a9607caebab90077a63fc2b5b"
   }
 ]
