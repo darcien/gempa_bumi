@@ -11350,5 +11350,17 @@
     "bmkgEarthquakeId": "20231226054756",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231226054756.mmi.jpg",
     "fingerprintSha1": "e3fa14be0ac0deef69273df1a80a3d3c72e383ef"
+  },
+  {
+    "earthquakeAt": "2023-12-26T11:12:57.000Z",
+    "latitude": -9.66,
+    "longitude": 124.89,
+    "magnitude": 4.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 14 km BaratDaya Malaka",
+    "feltOnStations": "III Malaka",
+    "bmkgEarthquakeId": "20231226181257",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231226181257.mmi.jpg",
+    "fingerprintSha1": "e5c3badcec7e3165ed70573f1a20943cc41b1c65"
   }
 ]
