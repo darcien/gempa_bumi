@@ -11362,5 +11362,29 @@
     "bmkgEarthquakeId": "20231226181257",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231226181257.mmi.jpg",
     "fingerprintSha1": "e5c3badcec7e3165ed70573f1a20943cc41b1c65"
+  },
+  {
+    "earthquakeAt": "2023-12-27T13:10:52.000Z",
+    "latitude": -6.75,
+    "longitude": 106.55,
+    "magnitude": 3,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 26 km utara Kab. Sukabumi",
+    "feltOnStations": "II Pamijahan, II Kabandungan",
+    "bmkgEarthquakeId": "20231227201052",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231227201052.mmi.jpg",
+    "fingerprintSha1": "109d2cc616aba3ae2c839326a2c3644f1092f60a"
+  },
+  {
+    "earthquakeAt": "2023-12-27T13:08:15.000Z",
+    "latitude": -6.74,
+    "longitude": 106.55,
+    "magnitude": 3.2,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 27 km utara Kab. Sukabumi",
+    "feltOnStations": "II-III Pamijahan, II-III Leuwiliang, II-III Kabandungan",
+    "bmkgEarthquakeId": "20231227200815",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231227200815.mmi.jpg",
+    "fingerprintSha1": "e735d3aa472de8d372b75b63ddf57a3ac29f4b59"
   }
 ]
