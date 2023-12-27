@@ -11410,5 +11410,17 @@
     "bmkgEarthquakeId": "20231227221928",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231227221928.mmi.jpg",
     "fingerprintSha1": "23273ef0d67aacc3b78b678937bd22b736f74325"
+  },
+  {
+    "earthquakeAt": "2023-12-27T18:52:46.000Z",
+    "latitude": -10.08,
+    "longitude": 123.78,
+    "magnitude": 5.1,
+    "depthInKm": 32,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km barat daya Kab. Kupang",
+    "feltOnStations": "III Kota Kupang",
+    "bmkgEarthquakeId": "20231228015246",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231228015246.mmi.jpg",
+    "fingerprintSha1": "04b6bd9f5da3ef68c1ebced7a30aa3f63fa914c2"
   }
 ]
