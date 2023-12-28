@@ -11458,5 +11458,17 @@
     "bmkgEarthquakeId": "20231228112254",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231228112254.mmi.jpg",
     "fingerprintSha1": "93995f1172cbea4397eb15835ee58ba8cb91ecb6"
+  },
+  {
+    "earthquakeAt": "2023-12-28T04:54:14.000Z",
+    "latitude": -3.53,
+    "longitude": 128.34,
+    "magnitude": 3.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada didarat 25 Km TimurLaut Ambon",
+    "feltOnStations": "III Passo",
+    "bmkgEarthquakeId": "20231228115414",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231228115414.mmi.jpg",
+    "fingerprintSha1": "493522a63b8d3f1216e49e948a3d4156934fabf6"
   }
 ]
