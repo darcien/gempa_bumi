@@ -11430,9 +11430,21 @@
     "magnitude": 5.5,
     "depthInKm": 14,
     "locationInIndonesian": "Pusat gempa berada di laut 80 km Barat Daya Kab. Pangandaran",
-    "feltOnStations": "IV Garut, III Cilacap, III Pelabuhan Ratu, III Sukabumi, II - III Bandung",
+    "feltOnStations": "IV Garut, III Cilacap, III Pelabuhan Ratu, III Sukabumi, II - III Bandung, III Cianjur, III Pangandaran, II-III Bogor",
     "bmkgEarthquakeId": "20231228054354",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231228054354.mmi.jpg",
     "fingerprintSha1": "50dc8682f5daec2acae6dcfaf267c2802c8ecffb"
+  },
+  {
+    "earthquakeAt": "2023-12-28T00:41:53.000Z",
+    "latitude": 1.33,
+    "longitude": 127.22,
+    "magnitude": 4.4,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di laut 40 km barat laut Jailolo",
+    "feltOnStations": "III Halmahera Barat",
+    "bmkgEarthquakeId": "20231228074153",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231228074153.mmi.jpg",
+    "fingerprintSha1": "8c8a46f6e3a54dc4a62f0c041939331349841cca"
   }
 ]
