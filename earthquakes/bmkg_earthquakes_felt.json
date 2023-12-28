@@ -11482,5 +11482,17 @@
     "bmkgEarthquakeId": "20231228123127",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231228123127.mmi.jpg",
     "fingerprintSha1": "5352bc4703940fc5316a20331320130286fa1638"
+  },
+  {
+    "earthquakeAt": "2023-12-28T11:43:18.000Z",
+    "latitude": -1.26,
+    "longitude": 121.12,
+    "magnitude": 4.1,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di laut 43 km timur laut Poso",
+    "feltOnStations": "II-III Poso",
+    "bmkgEarthquakeId": "20231228184318",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231228184318.mmi.jpg",
+    "fingerprintSha1": "16467757af44c25dddaa51a612f677e45011695b"
   }
 ]
