@@ -11446,5 +11446,17 @@
     "bmkgEarthquakeId": "20231228074153",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231228074153.mmi.jpg",
     "fingerprintSha1": "8c8a46f6e3a54dc4a62f0c041939331349841cca"
+  },
+  {
+    "earthquakeAt": "2023-12-28T04:22:54.000Z",
+    "latitude": -0.21,
+    "longitude": 100.37,
+    "magnitude": 2.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km timur laut Bukittinggi",
+    "feltOnStations": "III Bukittinggi",
+    "bmkgEarthquakeId": "20231228112254",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231228112254.mmi.jpg",
+    "fingerprintSha1": "93995f1172cbea4397eb15835ee58ba8cb91ecb6"
   }
 ]
