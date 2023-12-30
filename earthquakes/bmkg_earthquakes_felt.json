@@ -11518,5 +11518,17 @@
     "bmkgEarthquakeId": "20231230120811",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231230120811.mmi.jpg",
     "fingerprintSha1": "988ba8d55daac7b44ea758697d089a3f2e888584"
+  },
+  {
+    "earthquakeAt": "2023-12-30T17:16:26.000Z",
+    "latitude": -2.89,
+    "longitude": 139.44,
+    "magnitude": 6.5,
+    "depthInKm": 30,
+    "locationInIndonesian": "Pusat gempa berada di darat 95 km TimurLaut Kobagma",
+    "feltOnStations": "III - IV Kab. Jayapura, III Kota Jayapura, III Sarmi, II - III Wamena",
+    "bmkgEarthquakeId": "20231231001626",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231231001626.mmi.jpg",
+    "fingerprintSha1": "6fd030f328b74a60874a90818d5933cf5d37ebaa"
   }
 ]
