@@ -11566,5 +11566,17 @@
     "bmkgEarthquakeId": "20231231143534",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231231143534.mmi.jpg",
     "fingerprintSha1": "cf3d355c9836bfa8cffd8ce181c8034c236b7058"
+  },
+  {
+    "earthquakeAt": "2023-12-31T13:34:24.000Z",
+    "latitude": -6.85,
+    "longitude": 107.94,
+    "magnitude": 4.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km Timur Laut Kab.Sumedang",
+    "feltOnStations": "III-IV Sumedang, III Lembang, II - III Subang, II-III Bandung, II Garut",
+    "bmkgEarthquakeId": "20231231203424",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231231203424.mmi.jpg",
+    "fingerprintSha1": "733cb54acdf7a7bc8cba70755cb54cfdfedac2b9"
   }
 ]
