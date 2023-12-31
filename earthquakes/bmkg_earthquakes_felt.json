@@ -11538,9 +11538,33 @@
     "magnitude": 5,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di Garut 90 km Barat Daya Kabupaten Pangandaran",
-    "feltOnStations": "II-III Garut, II Banjar",
+    "feltOnStations": "II-III Garut, II Banjar, II Cianjur, II Tasikmalaya, II-III Pangalengan",
     "bmkgEarthquakeId": "20231231115234",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231231115234.mmi.jpg",
     "fingerprintSha1": "49ed23644a28913dce9fe0a616f069ad5e6772fe"
+  },
+  {
+    "earthquakeAt": "2023-12-31T08:38:10.000Z",
+    "latitude": -6.84,
+    "longitude": 107.94,
+    "magnitude": 3.4,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km Timur Laut Kab.Sumedang",
+    "feltOnStations": "III Sumedang",
+    "bmkgEarthquakeId": "20231231153810",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231231153810.mmi.jpg",
+    "fingerprintSha1": "057f3e75f8fe69a539ba9a7720807ce75ed12ec7"
+  },
+  {
+    "earthquakeAt": "2023-12-31T07:35:34.000Z",
+    "latitude": -6.85,
+    "longitude": 107.93,
+    "magnitude": 4.1,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km Timur Laut Kab.Sumedang",
+    "feltOnStations": "IV Sumedang, II-III Cileunyi, II-III Rancaekek, II - III Lembang, II - III Cicalengka, II - III Subang, II Garut, II Bandung",
+    "bmkgEarthquakeId": "20231231143534",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231231143534.mmi.jpg",
+    "fingerprintSha1": "cf3d355c9836bfa8cffd8ce181c8034c236b7058"
   }
 ]
