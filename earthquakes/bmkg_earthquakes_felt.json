@@ -11530,5 +11530,17 @@
     "bmkgEarthquakeId": "20231231001626",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231231001626.mmi.jpg",
     "fingerprintSha1": "6fd030f328b74a60874a90818d5933cf5d37ebaa"
+  },
+  {
+    "earthquakeAt": "2023-12-31T04:52:34.000Z",
+    "latitude": -8.22,
+    "longitude": 107.87,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di Garut 90 km Barat Daya Kabupaten Pangandaran",
+    "feltOnStations": "II-III Garut, II Banjar",
+    "bmkgEarthquakeId": "20231231115234",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231231115234.mmi.jpg",
+    "fingerprintSha1": "49ed23644a28913dce9fe0a616f069ad5e6772fe"
   }
 ]
