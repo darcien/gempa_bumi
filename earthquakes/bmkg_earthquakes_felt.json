@@ -11578,5 +11578,17 @@
     "bmkgEarthquakeId": "20231231203424",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231231203424.mmi.jpg",
     "fingerprintSha1": "733cb54acdf7a7bc8cba70755cb54cfdfedac2b9"
+  },
+  {
+    "earthquakeAt": "2023-12-31T15:15:10.000Z",
+    "latitude": -2.94,
+    "longitude": 119.42,
+    "magnitude": 3.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km Tenggara MAMASA",
+    "feltOnStations": "II Mamasa",
+    "bmkgEarthquakeId": "20231231221510",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231231221510.mmi.jpg",
+    "fingerprintSha1": "365384196131263dfcd6c92f93f57933a0151139"
   }
 ]
