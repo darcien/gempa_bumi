@@ -11626,5 +11626,17 @@
     "bmkgEarthquakeId": "20240101102246",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240101102246.mmi.jpg",
     "fingerprintSha1": "5e6dc1320b706ef75310d62ed485a7e3ed1626a7"
+  },
+  {
+    "earthquakeAt": "2024-01-01T13:46:48.000Z",
+    "latitude": -6.82,
+    "longitude": 107.92,
+    "magnitude": 4.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km Utara Kab. Sumedang",
+    "feltOnStations": "III Rancakalong, III Jatinangor, III Bandung, II Cirebon, II Garut, II Subang",
+    "bmkgEarthquakeId": "20240101204648",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240101204648.mmi.jpg",
+    "fingerprintSha1": "5b07d6a7d6049d42e27b75c1ab08d95102118d7d"
   }
 ]
