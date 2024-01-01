@@ -11597,10 +11597,34 @@
     "longitude": 117.87,
     "magnitude": 4.9,
     "depthInKm": 20,
-    "locationInIndonesian": "Pusat gempa berada di laut, 76 km TimurLaut Sumbawa NTB",
+    "locationInIndonesian": "Pusat gempa berada di laut, 76 km TimurLaut Sumbawa",
     "feltOnStations": "II - III Sumbawa Besar, II-III Bima, II-III Dompu",
     "bmkgEarthquakeId": "20240101122256",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240101122256.mmi.jpg",
     "fingerprintSha1": "cf0b3e2786776bfc9786869792246608b254efda"
+  },
+  {
+    "earthquakeAt": "2024-01-01T07:52:44.000Z",
+    "latitude": -0.2,
+    "longitude": 123.65,
+    "magnitude": 5.4,
+    "depthInKm": 47,
+    "locationInIndonesian": "Pusat gempa berada di laut 74 km BaratDaya Bolaanguki",
+    "feltOnStations": "III Luwuk, III Bolaang Mongondow Selatan , III Kotamobagu, II - III kab. Gorontalo, II Minahasa Tenggara",
+    "bmkgEarthquakeId": "20240101145244",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240101145244.mmi.jpg",
+    "fingerprintSha1": "d454c736b4e0dd71f35066b5032459acec6044a6"
+  },
+  {
+    "earthquakeAt": "2024-01-01T03:22:46.000Z",
+    "latitude": 4.62,
+    "longitude": 96.65,
+    "magnitude": 3.3,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat, 21 Km BaratDaya Takengon",
+    "feltOnStations": "II Kabupaten Bener Meriah",
+    "bmkgEarthquakeId": "20240101102246",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240101102246.mmi.jpg",
+    "fingerprintSha1": "5e6dc1320b706ef75310d62ed485a7e3ed1626a7"
   }
 ]
