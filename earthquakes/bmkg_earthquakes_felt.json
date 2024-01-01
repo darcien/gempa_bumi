@@ -11590,5 +11590,17 @@
     "bmkgEarthquakeId": "20231231221510",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20231231221510.mmi.jpg",
     "fingerprintSha1": "365384196131263dfcd6c92f93f57933a0151139"
+  },
+  {
+    "earthquakeAt": "2024-01-01T05:22:56.000Z",
+    "latitude": -7.97,
+    "longitude": 117.87,
+    "magnitude": 4.9,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di laut, 76 km TimurLaut Sumbawa NTB",
+    "feltOnStations": "II - III Sumbawa Besar, II-III Bima, II-III Dompu",
+    "bmkgEarthquakeId": "20240101122256",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240101122256.mmi.jpg",
+    "fingerprintSha1": "cf0b3e2786776bfc9786869792246608b254efda"
   }
 ]
