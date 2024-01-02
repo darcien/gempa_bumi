@@ -11650,5 +11650,17 @@
     "bmkgEarthquakeId": "20240102080356",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240102080356.mmi.jpg",
     "fingerprintSha1": "d9aa6fcc0678e186d414836d7c2049b9fc85dad1"
+  },
+  {
+    "earthquakeAt": "2024-01-02T04:46:32.000Z",
+    "latitude": -10.06,
+    "longitude": 123.75,
+    "magnitude": 5.1,
+    "depthInKm": 37,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km BaratDaya Kab.Kupang",
+    "feltOnStations": "II Kupang, II Kab. Kupang",
+    "bmkgEarthquakeId": "20240102114632",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240102114632.mmi.jpg",
+    "fingerprintSha1": "83eb6464a1e47553dcc7e858ecb635053a2c6ccf"
   }
 ]
