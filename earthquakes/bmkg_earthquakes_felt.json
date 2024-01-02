@@ -11638,5 +11638,17 @@
     "bmkgEarthquakeId": "20240101204648",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240101204648.mmi.jpg",
     "fingerprintSha1": "5b07d6a7d6049d42e27b75c1ab08d95102118d7d"
+  },
+  {
+    "earthquakeAt": "2024-01-02T01:03:56.000Z",
+    "latitude": -8.35,
+    "longitude": 108.47,
+    "magnitude": 3.7,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada dilaut 72 km BaratDaya Kab. Pangandaran",
+    "feltOnStations": "II Pangandaran, II Legokjawa, II Sindangsari, II Cikalong",
+    "bmkgEarthquakeId": "20240102080356",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240102080356.mmi.jpg",
+    "fingerprintSha1": "d9aa6fcc0678e186d414836d7c2049b9fc85dad1"
   }
 ]
