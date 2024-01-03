@@ -11686,5 +11686,17 @@
     "bmkgEarthquakeId": "20240103075349",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240103075349.mmi.jpg",
     "fingerprintSha1": "8b2df6aeee9448049a42caa61e074e68e281d8b7"
+  },
+  {
+    "earthquakeAt": "2024-01-03T11:55:00.000Z",
+    "latitude": -3.8,
+    "longitude": 136.4,
+    "magnitude": 3.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 14 km Timur Laut Enarotali",
+    "feltOnStations": "II-III Enarotali",
+    "bmkgEarthquakeId": "20240103185500",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240103185500.mmi.jpg",
+    "fingerprintSha1": "0d3c187cecc93d2d4548721f7007dd1b5693b817"
   }
 ]
