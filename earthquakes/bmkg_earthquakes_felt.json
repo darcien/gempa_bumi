@@ -11674,5 +11674,17 @@
     "bmkgEarthquakeId": "20240102143522",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240102143522.mmi.jpg",
     "fingerprintSha1": "b4f7ac2edcc9b207ba3ab23d74d858d9d84dfc2a"
+  },
+  {
+    "earthquakeAt": "2024-01-03T00:53:49.000Z",
+    "latitude": -7.57,
+    "longitude": 106.14,
+    "magnitude": 5.9,
+    "depthInKm": 74,
+    "locationInIndonesian": "Pusat gempa berada di laut 72 Km Barat Daya Bayah",
+    "feltOnStations": "IV Surade, IV Sukabumi, III Pelabuhan Ratu, III Cianjur, III Panggarangan, III Lebak, III Garut, II-III Lembang, II-III Cimahi, II-III Bandung Barat, II Tangerang Selatan",
+    "bmkgEarthquakeId": "20240103075349",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240103075349.mmi.jpg",
+    "fingerprintSha1": "8b2df6aeee9448049a42caa61e074e68e281d8b7"
   }
 ]
