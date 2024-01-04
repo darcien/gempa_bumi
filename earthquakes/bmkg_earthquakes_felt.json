@@ -11722,5 +11722,17 @@
     "bmkgEarthquakeId": "20240104074319",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240104074319.mmi.jpg",
     "fingerprintSha1": "0adfa225d8c8eea2f35deb1d93c6618791ffe353"
+  },
+  {
+    "earthquakeAt": "2024-01-04T01:40:05.000Z",
+    "latitude": -1.87,
+    "longitude": 136.07,
+    "magnitude": 4.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 19 km Barat Laut Serui",
+    "feltOnStations": "II-III Serui",
+    "bmkgEarthquakeId": "20240104084005",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240104084005.mmi.jpg",
+    "fingerprintSha1": "d2ddbbd7a6c44fb76c3a8dc884eed6a7594f0097"
   }
 ]
