@@ -11746,5 +11746,17 @@
     "bmkgEarthquakeId": "20240104135457",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240104135457.mmi.jpg",
     "fingerprintSha1": "ba6e6c60229044985a4b54e4f29192a07fda4175"
+  },
+  {
+    "earthquakeAt": "2024-01-04T09:22:11.000Z",
+    "latitude": -6.81,
+    "longitude": 107.93,
+    "magnitude": 2.5,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km TimurLaut Kab. Sumedang",
+    "feltOnStations": "II Sumedang",
+    "bmkgEarthquakeId": "20240104162211",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240104162211.mmi.jpg",
+    "fingerprintSha1": "d30e2cef329bc80aea1a91cc3c7ae5760639035c"
   }
 ]
