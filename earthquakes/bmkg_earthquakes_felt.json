@@ -11734,5 +11734,17 @@
     "bmkgEarthquakeId": "20240104084005",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240104084005.mmi.jpg",
     "fingerprintSha1": "d2ddbbd7a6c44fb76c3a8dc884eed6a7594f0097"
+  },
+  {
+    "earthquakeAt": "2024-01-04T06:54:57.000Z",
+    "latitude": -8.01,
+    "longitude": 107.89,
+    "magnitude": 3.5,
+    "depthInKm": 28,
+    "locationInIndonesian": "Pusat gempa berada di laut 75 km BaratDaya Kab. Pangandaran",
+    "feltOnStations": "II Capatujah, II Sindangkerta, II Cikatomas, II Cijulang, II Pangandaran",
+    "bmkgEarthquakeId": "20240104135457",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240104135457.mmi.jpg",
+    "fingerprintSha1": "ba6e6c60229044985a4b54e4f29192a07fda4175"
   }
 ]
