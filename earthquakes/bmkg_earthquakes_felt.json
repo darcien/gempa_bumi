@@ -11698,5 +11698,17 @@
     "bmkgEarthquakeId": "20240103185500",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240103185500.mmi.jpg",
     "fingerprintSha1": "0d3c187cecc93d2d4548721f7007dd1b5693b817"
+  },
+  {
+    "earthquakeAt": "2024-01-04T00:15:49.000Z",
+    "latitude": -7.27,
+    "longitude": 107.72,
+    "magnitude": 3.1,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 20 km BaratDaya Kab.Garut",
+    "feltOnStations": "II Pasirwangi, II Pacet, II Darajat, II Kertasari, II Pangalengan, II Cisurupan",
+    "bmkgEarthquakeId": "20240104071549",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240104071549.mmi.jpg",
+    "fingerprintSha1": "2a2ac454d8abef818a17d8a07a343ce68f315751"
   }
 ]
