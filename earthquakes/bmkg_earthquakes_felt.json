@@ -11794,5 +11794,17 @@
     "bmkgEarthquakeId": "20240107144025",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240107144025.mmi.jpg",
     "fingerprintSha1": "c53ede1ec1d05f07e6037a2914048d99a2310a9c"
+  },
+  {
+    "earthquakeAt": "2024-01-07T10:38:23.000Z",
+    "latitude": -1.85,
+    "longitude": 122.49,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada dilaut 85 km BaratDaya Banggai Kepulauan",
+    "feltOnStations": "III Luwuk, III Morowali, II - III Bungku",
+    "bmkgEarthquakeId": "20240107173823",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240107173823.mmi.jpg",
+    "fingerprintSha1": "1875ddd58fb672faf280ecd28f7961e4e388ec7a"
   }
 ]
