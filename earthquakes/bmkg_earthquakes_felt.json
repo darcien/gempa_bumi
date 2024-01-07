@@ -11782,5 +11782,17 @@
     "bmkgEarthquakeId": "20240107100545",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240107100545.mmi.jpg",
     "fingerprintSha1": "1ea531776027d5d819c389d30676fa340c822f9d"
+  },
+  {
+    "earthquakeAt": "2024-01-07T07:40:25.000Z",
+    "latitude": -2.98,
+    "longitude": 101.53,
+    "magnitude": 4,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada dilaut 64 km Tenggara Mukomuko",
+    "feltOnStations": "II - III Mukomuko, II Pesisir Selatan",
+    "bmkgEarthquakeId": "20240107144025",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240107144025.mmi.jpg",
+    "fingerprintSha1": "c53ede1ec1d05f07e6037a2914048d99a2310a9c"
   }
 ]
