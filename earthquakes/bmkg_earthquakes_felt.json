@@ -11758,5 +11758,29 @@
     "bmkgEarthquakeId": "20240104162211",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240104162211.mmi.jpg",
     "fingerprintSha1": "d30e2cef329bc80aea1a91cc3c7ae5760639035c"
+  },
+  {
+    "earthquakeAt": "2024-01-07T03:27:39.000Z",
+    "latitude": -0.34,
+    "longitude": 98.81,
+    "magnitude": 4.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 66 Km Tenggara Kepulauan Batu",
+    "feltOnStations": "II Kepulauan Batu, I - II Kepulauan Mentawai, I - II Pasaman Barat",
+    "bmkgEarthquakeId": "20240107102739",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240107102739.mmi.jpg",
+    "fingerprintSha1": "4def4660497453630f8eb6966e869827c613f8ab"
+  },
+  {
+    "earthquakeAt": "2024-01-07T03:05:45.000Z",
+    "latitude": 3.43,
+    "longitude": 96.55,
+    "magnitude": 4.1,
+    "depthInKm": 25,
+    "locationInIndonesian": "Pusat gempa berada di laut 64 Km Barat Daya Blang Pidie",
+    "feltOnStations": "II Blang Pidie",
+    "bmkgEarthquakeId": "20240107100545",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240107100545.mmi.jpg",
+    "fingerprintSha1": "1ea531776027d5d819c389d30676fa340c822f9d"
   }
 ]
