@@ -11842,5 +11842,17 @@
     "bmkgEarthquakeId": "20240108140203",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240108140203.mmi.jpg",
     "fingerprintSha1": "cc54e9178fcab58d84143a94dfdd42094cb9bddd"
+  },
+  {
+    "earthquakeAt": "2024-01-08T09:51:32.000Z",
+    "latitude": -2.24,
+    "longitude": 99.66,
+    "magnitude": 5.3,
+    "depthInKm": 24,
+    "locationInIndonesian": "Pusat gempa berada di darat 24 km Tenggara Tuapejat",
+    "feltOnStations": "II-III Tuapejat",
+    "bmkgEarthquakeId": "20240108165132",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240108165132.mmi.jpg",
+    "fingerprintSha1": "6d7d88fc265c2b4aaa485a276df877f66125ee0e"
   }
 ]
