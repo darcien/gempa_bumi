@@ -11814,9 +11814,21 @@
     "magnitude": 2.7,
     "depthInKm": 6,
     "locationInIndonesian": "Pusat gempa berada di Darat 8 km Barat Laut Kab. Garut",
-    "feltOnStations": "II Garut, II Sukabumi",
+    "feltOnStations": "II Garut",
     "bmkgEarthquakeId": "20240108072607",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240108072607.mmi.jpg",
     "fingerprintSha1": "30d055ef34d277fde7e50d081a0677db56cffbdf"
+  },
+  {
+    "earthquakeAt": "2024-01-08T01:21:11.000Z",
+    "latitude": 4.85,
+    "longitude": 96.07,
+    "magnitude": 4.4,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 28 km Barat Daya Kab. Pidie Jaya",
+    "feltOnStations": "II - III Pidie, II Pidie Jaya",
+    "bmkgEarthquakeId": "20240108082111",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240108082111.mmi.jpg",
+    "fingerprintSha1": "567b7a0e9348262c0d1ae76b2a4882b2b55df399"
   }
 ]
