@@ -11850,9 +11850,21 @@
     "magnitude": 5.3,
     "depthInKm": 24,
     "locationInIndonesian": "Pusat gempa berada di darat 24 km Tenggara Tuapejat",
-    "feltOnStations": "II-III Tuapejat",
+    "feltOnStations": "II-III Tuapejat, II Padang",
     "bmkgEarthquakeId": "20240108165132",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240108165132.mmi.jpg",
     "fingerprintSha1": "6d7d88fc265c2b4aaa485a276df877f66125ee0e"
+  },
+  {
+    "earthquakeAt": "2024-01-08T20:48:45.000Z",
+    "latitude": 4.92,
+    "longitude": 126.33,
+    "magnitude": 7,
+    "depthInKm": 56,
+    "locationInIndonesian": "Pusat gempa berada di laut 85 km Barat Laut Pulau Karatung",
+    "feltOnStations": "IV Kepulauan Sangihe, IV Kepulauan Talaud, III Bitung, II-III Halmahera Utara, II Manado",
+    "bmkgEarthquakeId": "20240109034845",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240109034845.mmi.jpg",
+    "fingerprintSha1": "bc7b8dd0355bd827f427c97a99c6627c7af5252b"
   }
 ]
