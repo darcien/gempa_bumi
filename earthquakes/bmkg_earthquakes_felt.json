@@ -11838,7 +11838,7 @@
     "magnitude": 3.1,
     "depthInKm": 7,
     "locationInIndonesian": "Pusat gempa berada di darat 6 km TimurLaut Kab. Sumedang",
-    "feltOnStations": "II-III Sumedang Utara",
+    "feltOnStations": "II-III Sumedang Utara, II-III Cimalaka",
     "bmkgEarthquakeId": "20240108140203",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240108140203.mmi.jpg",
     "fingerprintSha1": "cc54e9178fcab58d84143a94dfdd42094cb9bddd"
