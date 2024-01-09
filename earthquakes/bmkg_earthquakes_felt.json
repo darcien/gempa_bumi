@@ -11866,5 +11866,17 @@
     "bmkgEarthquakeId": "20240109034845",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240109034845.mmi.jpg",
     "fingerprintSha1": "bc7b8dd0355bd827f427c97a99c6627c7af5252b"
+  },
+  {
+    "earthquakeAt": "2024-01-09T13:50:29.000Z",
+    "latitude": -2.59,
+    "longitude": 140.28,
+    "magnitude": 3.5,
+    "depthInKm": 21,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 km Timur laut Genyem-Jayapura",
+    "feltOnStations": "II-III Kab. Jayapura",
+    "bmkgEarthquakeId": "20240109205029",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240109205029.mmi.jpg",
+    "fingerprintSha1": "106a6ef03a19b531f6ade0e594a88858b7fde850"
   }
 ]
