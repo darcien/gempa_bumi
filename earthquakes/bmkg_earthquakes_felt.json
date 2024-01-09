@@ -11878,5 +11878,17 @@
     "bmkgEarthquakeId": "20240109205029",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240109205029.mmi.jpg",
     "fingerprintSha1": "106a6ef03a19b531f6ade0e594a88858b7fde850"
+  },
+  {
+    "earthquakeAt": "2024-01-09T16:11:06.000Z",
+    "latitude": -8.08,
+    "longitude": 107.89,
+    "magnitude": 4.2,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di laut 79 km Barat Daya Kab. Pangandaran",
+    "feltOnStations": "II Garut",
+    "bmkgEarthquakeId": "20240109231106",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240109231106.mmi.jpg",
+    "fingerprintSha1": "98f89d21ac642b3cfc4c26164035fa861b4f1acf"
   }
 ]
