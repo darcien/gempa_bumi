@@ -11902,5 +11902,17 @@
     "bmkgEarthquakeId": "20240110201726",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240110201726.mmi.jpg",
     "fingerprintSha1": "f9223e05e59222893923144825e2c1be714bc4dc"
+  },
+  {
+    "earthquakeAt": "2024-01-12T02:04:20.000Z",
+    "latitude": -3.42,
+    "longitude": 128.72,
+    "magnitude": 4.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 19 km Timur Laut Saparua",
+    "feltOnStations": "III Kairatu, III Saparua, II Amahai",
+    "bmkgEarthquakeId": "20240112090420",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240112090420.mmi.jpg",
+    "fingerprintSha1": "8c7a58d3c23f26ee3d6a4abd0a9e5f4fe25d1485"
   }
 ]
