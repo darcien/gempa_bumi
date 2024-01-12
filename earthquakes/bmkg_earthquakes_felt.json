@@ -11914,5 +11914,17 @@
     "bmkgEarthquakeId": "20240112090420",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240112090420.mmi.jpg",
     "fingerprintSha1": "8c7a58d3c23f26ee3d6a4abd0a9e5f4fe25d1485"
+  },
+  {
+    "earthquakeAt": "2024-01-12T02:05:04.000Z",
+    "latitude": 4.82,
+    "longitude": 126.36,
+    "magnitude": 4.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 80 km Barat Laut Pulau Karatung",
+    "feltOnStations": "II-III Tahuna",
+    "bmkgEarthquakeId": "20240112090504",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240112090504.mmi.jpg",
+    "fingerprintSha1": "d062d044e0e7b44806b156e89f409282f5b3a5f9"
   }
 ]
