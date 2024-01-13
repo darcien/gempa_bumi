@@ -11986,5 +11986,17 @@
     "bmkgEarthquakeId": "20240113102617",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240113102617.mmi.jpg",
     "fingerprintSha1": "e1fb9b810742a3946bd94d2022e04d0220aabe29"
+  },
+  {
+    "earthquakeAt": "2024-01-13T11:56:20.000Z",
+    "latitude": -3.87,
+    "longitude": 126.88,
+    "magnitude": 3.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 16 Km Timur Namrole- Buru Selatan",
+    "feltOnStations": "III Namrole",
+    "bmkgEarthquakeId": "20240113185620",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240113185620.mmi.jpg",
+    "fingerprintSha1": "61180e099e5479aa01ff285445729ec33885f084"
   }
 ]
