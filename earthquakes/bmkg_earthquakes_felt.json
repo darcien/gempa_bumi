@@ -11998,5 +11998,17 @@
     "bmkgEarthquakeId": "20240113185620",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240113185620.mmi.jpg",
     "fingerprintSha1": "61180e099e5479aa01ff285445729ec33885f084"
+  },
+  {
+    "earthquakeAt": "2024-01-13T12:22:55.000Z",
+    "latitude": 2.22,
+    "longitude": 96.25,
+    "magnitude": 3.9,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada dilaut 30 km Barat Daya Sinabang",
+    "feltOnStations": "II-III Sinabang",
+    "bmkgEarthquakeId": "20240113192255",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240113192255.mmi.jpg",
+    "fingerprintSha1": "3785163a122ff103e2029a827987b21c4a132baf"
   }
 ]
