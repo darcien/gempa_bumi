@@ -11962,5 +11962,17 @@
     "bmkgEarthquakeId": "20240113015030",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240113015030.mmi.jpg",
     "fingerprintSha1": "2607b03eacb52044bee533599a962050117e5572"
+  },
+  {
+    "earthquakeAt": "2024-01-13T02:24:58.000Z",
+    "latitude": -2.41,
+    "longitude": 120.94,
+    "magnitude": 4.3,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 32 Km BaratLaut Luwutimur",
+    "feltOnStations": "III Tomoni, II Malili",
+    "bmkgEarthquakeId": "20240113092458",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240113092458.mmi.jpg",
+    "fingerprintSha1": "2d61a42033fe9f460b0b7440559167765d2aab93"
   }
 ]
