@@ -11974,5 +11974,17 @@
     "bmkgEarthquakeId": "20240113092458",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240113092458.mmi.jpg",
     "fingerprintSha1": "2d61a42033fe9f460b0b7440559167765d2aab93"
+  },
+  {
+    "earthquakeAt": "2024-01-13T03:26:17.000Z",
+    "latitude": -8.28,
+    "longitude": 120.64,
+    "magnitude": 4.2,
+    "depthInKm": 28,
+    "locationInIndonesian": "Pusat gempa berada di darat 41 km TimurLaut Ruteng-Manggarai",
+    "feltOnStations": "III Ruteng",
+    "bmkgEarthquakeId": "20240113102617",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240113102617.mmi.jpg",
+    "fingerprintSha1": "e1fb9b810742a3946bd94d2022e04d0220aabe29"
   }
 ]
