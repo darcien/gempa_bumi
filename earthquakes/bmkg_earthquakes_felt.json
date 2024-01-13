@@ -12022,5 +12022,17 @@
     "bmkgEarthquakeId": "20240113220913",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240113220913.mmi.jpg",
     "fingerprintSha1": "8af6476537f09a7b1eb9147b090babb86e3674e2"
+  },
+  {
+    "earthquakeAt": "2024-01-13T20:13:37.000Z",
+    "latitude": -6.75,
+    "longitude": 106.55,
+    "magnitude": 3.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 26 km Utara Kab Sukabumi",
+    "feltOnStations": "II Bogor",
+    "bmkgEarthquakeId": "20240114031337",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240114031337.mmi.jpg",
+    "fingerprintSha1": "e6b4d1e816404d5015ea3603862f4a3e3af39555"
   }
 ]
