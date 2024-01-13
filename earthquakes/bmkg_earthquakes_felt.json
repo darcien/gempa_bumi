@@ -11950,5 +11950,17 @@
     "bmkgEarthquakeId": "20240113075531",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240113075531.mmi.jpg",
     "fingerprintSha1": "1ecedc81bb84a3bc2bb935f72ac3a2e8262f4c91"
+  },
+  {
+    "earthquakeAt": "2024-01-12T18:50:30.000Z",
+    "latitude": -3.56,
+    "longitude": 120.8,
+    "magnitude": 2.4,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 10.5 km barat daya Lasusua",
+    "feltOnStations": "II - III Lasusua",
+    "bmkgEarthquakeId": "20240113015030",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240113015030.mmi.jpg",
+    "fingerprintSha1": "2607b03eacb52044bee533599a962050117e5572"
   }
 ]
