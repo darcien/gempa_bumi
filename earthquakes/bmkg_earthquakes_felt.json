@@ -12034,5 +12034,17 @@
     "bmkgEarthquakeId": "20240114031337",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240114031337.mmi.jpg",
     "fingerprintSha1": "e6b4d1e816404d5015ea3603862f4a3e3af39555"
+  },
+  {
+    "earthquakeAt": "2024-01-15T09:07:08.000Z",
+    "latitude": -3.98,
+    "longitude": 122.45,
+    "magnitude": 2.6,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 2,5 km BaratDaya Puuwati Kota Kendari",
+    "feltOnStations": "II Kendari",
+    "bmkgEarthquakeId": "20240115160708",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240115160708.mmi.jpg",
+    "fingerprintSha1": "aa0f8c378716be71509786eaedd428fc36e45db9"
   }
 ]
