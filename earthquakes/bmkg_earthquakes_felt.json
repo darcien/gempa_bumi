@@ -12046,5 +12046,17 @@
     "bmkgEarthquakeId": "20240115160708",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240115160708.mmi.jpg",
     "fingerprintSha1": "aa0f8c378716be71509786eaedd428fc36e45db9"
+  },
+  {
+    "earthquakeAt": "2024-01-16T18:03:51.000Z",
+    "latitude": 1.41,
+    "longitude": 126.39,
+    "magnitude": 5,
+    "depthInKm": 22,
+    "locationInIndonesian": "Pusat gempa berada di laut 125 km Barat Laut Jailolo",
+    "feltOnStations": "II Bitung, II Ternate",
+    "bmkgEarthquakeId": "20240117010351",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240117010351.mmi.jpg",
+    "fingerprintSha1": "2906edec85797ae3bce25d2ae8fe1dd7f1f3a26a"
   }
 ]
