@@ -12082,5 +12082,17 @@
     "bmkgEarthquakeId": "20240217052817",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240217052817.mmi.jpg",
     "fingerprintSha1": "3a654e6b8298021d4cebbe3dc8afbf892919b35a"
+  },
+  {
+    "earthquakeAt": "2024-01-16T22:28:17.000Z",
+    "latitude": -8.55,
+    "longitude": 118.37,
+    "magnitude": 4.5,
+    "depthInKm": 114,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km BaratDaya Bompu",
+    "feltOnStations": "II Sumbawa",
+    "bmkgEarthquakeId": "20240117052817",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240117052817.mmi.jpg",
+    "fingerprintSha1": "d81b9f7b4acbcb202793fb77a04931a722f74485"
   }
 ]
