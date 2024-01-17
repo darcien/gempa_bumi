@@ -12106,5 +12106,17 @@
     "bmkgEarthquakeId": "20240117200224",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240117200224.mmi.jpg",
     "fingerprintSha1": "962d053d3e229d443a0aed2309838d795a667095"
+  },
+  {
+    "earthquakeAt": "2024-01-17T15:18:05.000Z",
+    "latitude": 3.89,
+    "longitude": 95.84,
+    "magnitude": 4.9,
+    "depthInKm": 27,
+    "locationInIndonesian": "Pusat gempa berada di laut 42 Km Barat Daya Meulaboh-Aceh Barat",
+    "feltOnStations": "III Banda Aceh, II-III Calang Aceh Jaya, II-III Aceh Besar",
+    "bmkgEarthquakeId": "20240117221805",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240117221805.mmi.jpg",
+    "fingerprintSha1": "e8197c8263e377acec9848a3ecbe1fdbe8263436"
   }
 ]
