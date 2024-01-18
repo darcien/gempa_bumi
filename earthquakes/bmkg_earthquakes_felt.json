@@ -12090,7 +12090,7 @@
     "magnitude": 4.5,
     "depthInKm": 114,
     "locationInIndonesian": "Pusat gempa berada di darat 10 km BaratDaya Bompu",
-    "feltOnStations": "II Sumbawa",
+    "feltOnStations": "",
     "bmkgEarthquakeId": "20240117052817",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240117052817.mmi.jpg",
     "fingerprintSha1": "d81b9f7b4acbcb202793fb77a04931a722f74485"
@@ -12118,5 +12118,17 @@
     "bmkgEarthquakeId": "20240117221805",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240117221805.mmi.jpg",
     "fingerprintSha1": "e8197c8263e377acec9848a3ecbe1fdbe8263436"
+  },
+  {
+    "earthquakeAt": "2024-01-18T16:06:40.000Z",
+    "latitude": -1.09,
+    "longitude": 121.49,
+    "magnitude": 4.5,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km BaratLaut Tojo Una-Una",
+    "feltOnStations": "II-III Ampana, II-III Poso",
+    "bmkgEarthquakeId": "20240118230640",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240118230640.mmi.jpg",
+    "fingerprintSha1": "0016eee47a8fd62cbe7938edf768e00b63e112d2"
   }
 ]
