@@ -12130,5 +12130,17 @@
     "bmkgEarthquakeId": "20240118230640",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240118230640.mmi.jpg",
     "fingerprintSha1": "0016eee47a8fd62cbe7938edf768e00b63e112d2"
+  },
+  {
+    "earthquakeAt": "2024-01-18T17:36:18.000Z",
+    "latitude": -1.1,
+    "longitude": 121.45,
+    "magnitude": 5.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km BaratDaya Tojo Una-Una",
+    "feltOnStations": "III - IV Tojo Una-una, III - IV Poso",
+    "bmkgEarthquakeId": "20240119003618",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240119003618.mmi.jpg",
+    "fingerprintSha1": "3d81795eb841d69937032430de0503461a84cd77"
   }
 ]
