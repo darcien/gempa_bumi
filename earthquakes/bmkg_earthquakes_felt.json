@@ -12142,5 +12142,17 @@
     "bmkgEarthquakeId": "20240119003618",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240119003618.mmi.jpg",
     "fingerprintSha1": "3d81795eb841d69937032430de0503461a84cd77"
+  },
+  {
+    "earthquakeAt": "2024-01-18T22:05:37.000Z",
+    "latitude": -0.42,
+    "longitude": 99.1,
+    "magnitude": 4.8,
+    "depthInKm": 42,
+    "locationInIndonesian": "Pusat gempa berada di laut 75 km Barat Daya Air Bangis- Pasaman Barat",
+    "feltOnStations": "III Pasaman Barat, II Siberut, II Padang, II Padang Pariaman",
+    "bmkgEarthquakeId": "20240119050537",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240119050537.mmi.jpg",
+    "fingerprintSha1": "ccfcb0816d4f67289b10a61399b4da57b8240346"
   }
 ]
