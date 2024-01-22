@@ -12154,5 +12154,17 @@
     "bmkgEarthquakeId": "20240119050537",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240119050537.mmi.jpg",
     "fingerprintSha1": "ccfcb0816d4f67289b10a61399b4da57b8240346"
+  },
+  {
+    "earthquakeAt": "2024-01-22T04:02:22.000Z",
+    "latitude": -10.5,
+    "longitude": 120.18,
+    "magnitude": 4.9,
+    "depthInKm": 22,
+    "locationInIndonesian": "Pusat gempa berada di laut 20 Km Barat daya Karera Sumba Timur",
+    "feltOnStations": "III Waingapu",
+    "bmkgEarthquakeId": "20240122110222",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240122110222.mmi.jpg",
+    "fingerprintSha1": "5cd31294330dde6d49536f8e9fee3d0e763cf12c"
   }
 ]
