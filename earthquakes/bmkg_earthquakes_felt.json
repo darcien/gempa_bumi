@@ -12166,5 +12166,17 @@
     "bmkgEarthquakeId": "20240122110222",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240122110222.mmi.jpg",
     "fingerprintSha1": "5cd31294330dde6d49536f8e9fee3d0e763cf12c"
+  },
+  {
+    "earthquakeAt": "2024-01-22T08:19:59.000Z",
+    "latitude": -8.6,
+    "longitude": 112.38,
+    "magnitude": 4.4,
+    "depthInKm": 129,
+    "locationInIndonesian": "Pusat gempa berada di laut 55 km barat daya Kab. Malang",
+    "feltOnStations": "II Trenggalek",
+    "bmkgEarthquakeId": "20240122151959",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240122151959.mmi.jpg",
+    "fingerprintSha1": "1e15aca8a90e02077905ca141c6e8b0f5573e673"
   }
 ]
