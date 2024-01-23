@@ -12202,5 +12202,17 @@
     "bmkgEarthquakeId": "20240123160503",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240123160503.mmi.jpg",
     "fingerprintSha1": "18e3667c52717ea3f9fb4d9d47322c9f194525e6"
+  },
+  {
+    "earthquakeAt": "2024-01-23T09:54:40.000Z",
+    "latitude": -0.63,
+    "longitude": 135.83,
+    "magnitude": 4.7,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di laut 16 km TimurLaut Supiori",
+    "feltOnStations": "II-III Supiori",
+    "bmkgEarthquakeId": "20240123165440",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240123165440.mmi.jpg",
+    "fingerprintSha1": "365302852624fec487a8819a41541ff26f3771a1"
   }
 ]
