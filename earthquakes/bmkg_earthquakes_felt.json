@@ -12190,5 +12190,17 @@
     "bmkgEarthquakeId": "20240123110721",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240123110721.mmi.jpg",
     "fingerprintSha1": "9cacd9c4b97c339e8d796edfa04537a8e706501e"
+  },
+  {
+    "earthquakeAt": "2024-01-23T09:05:03.000Z",
+    "latitude": -1.42,
+    "longitude": 100.53,
+    "magnitude": 4.1,
+    "depthInKm": 52,
+    "locationInIndonesian": "Pusat gempa berada di laut 9 km BaratDaya Painan",
+    "feltOnStations": "II Painan",
+    "bmkgEarthquakeId": "20240123160503",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240123160503.mmi.jpg",
+    "fingerprintSha1": "18e3667c52717ea3f9fb4d9d47322c9f194525e6"
   }
 ]
