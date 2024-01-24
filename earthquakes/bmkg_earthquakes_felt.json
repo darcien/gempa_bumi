@@ -12214,5 +12214,17 @@
     "bmkgEarthquakeId": "20240123165440",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240123165440.mmi.jpg",
     "fingerprintSha1": "365302852624fec487a8819a41541ff26f3771a1"
+  },
+  {
+    "earthquakeAt": "2024-01-24T01:29:46.000Z",
+    "latitude": -6.16,
+    "longitude": 130.3,
+    "magnitude": 5.9,
+    "depthInKm": 160,
+    "locationInIndonesian": "Pusat gempa berada di 230 km Barat Laut Tanimbar",
+    "feltOnStations": "II Kaimana, II Saumlaki",
+    "bmkgEarthquakeId": "20240124082946",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240124082946.mmi.jpg",
+    "fingerprintSha1": "ce8aa8c1e58538d26abc9a96a61deff1876d95b9"
   }
 ]
