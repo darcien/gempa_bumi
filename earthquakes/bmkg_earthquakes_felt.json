@@ -12274,5 +12274,17 @@
     "bmkgEarthquakeId": "20240125192413",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240125192413.mmi.jpg",
     "fingerprintSha1": "c7806ca1bf2a2f9e5d4b05b4accc641a70e0991c"
+  },
+  {
+    "earthquakeAt": "2024-01-25T14:41:28.000Z",
+    "latitude": -8.99,
+    "longitude": 115.69,
+    "magnitude": 4.8,
+    "depthInKm": 101,
+    "locationInIndonesian": "Pusat gempa berada di laut 55 km Tenggara Kuta Selatan",
+    "feltOnStations": "III Mataram, III Lombok Timur , III Lombok Barat, III Lombok Tengah , II-III Kuta, II-III Kuta Selatan, II-III Tabanan, II-III Klungkung, II-III Bangli, II-III Gianyar, II-III Denpasar, II Lombok Utara, II Sumbawa Barat",
+    "bmkgEarthquakeId": "20240125214128",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240125214128.mmi.jpg",
+    "fingerprintSha1": "58871bf05c91514ec3c90ac0dc6ac74b4eeca055"
   }
 ]
