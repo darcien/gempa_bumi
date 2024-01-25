@@ -12262,5 +12262,17 @@
     "bmkgEarthquakeId": "20240125150317",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240125150317.mmi.jpg",
     "fingerprintSha1": "34f17b28b0e765ca51d42b55b5a39dbd67595d42"
+  },
+  {
+    "earthquakeAt": "2024-01-25T12:24:13.000Z",
+    "latitude": -8.26,
+    "longitude": 121.2,
+    "magnitude": 5.6,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 47 km BaratLaut Mbay",
+    "feltOnStations": "III Ruteng, III Waingapu, III Bajawa, III Ende, III Maumere, III Labuan Bajo, II Kupang",
+    "bmkgEarthquakeId": "20240125192413",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240125192413.mmi.jpg",
+    "fingerprintSha1": "c7806ca1bf2a2f9e5d4b05b4accc641a70e0991c"
   }
 ]
