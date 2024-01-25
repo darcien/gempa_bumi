@@ -12270,7 +12270,7 @@
     "magnitude": 5.6,
     "depthInKm": 11,
     "locationInIndonesian": "Pusat gempa berada di laut 47 km BaratLaut Mbay",
-    "feltOnStations": "III Ruteng, III Waingapu, III Bajawa, III Ende, III Maumere, III Labuan Bajo, II Kupang",
+    "feltOnStations": "III Ruteng, III Waingapu, III Bajawa, III Ende, III Maumere, III Labuan Bajo, II Kupang, III Kota Bima",
     "bmkgEarthquakeId": "20240125192413",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240125192413.mmi.jpg",
     "fingerprintSha1": "c7806ca1bf2a2f9e5d4b05b4accc641a70e0991c"
