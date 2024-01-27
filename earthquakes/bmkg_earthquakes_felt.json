@@ -12346,5 +12346,17 @@
     "bmkgEarthquakeId": "20240127201848",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240127201848.mmi.jpg",
     "fingerprintSha1": "03e178516b34975e29ab2c7c53ca3380298ca202"
+  },
+  {
+    "earthquakeAt": "2024-01-27T16:50:44.000Z",
+    "latitude": -0.52,
+    "longitude": 100.56,
+    "magnitude": 4.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 7km Barat Daya Batusangkar, Tanah Datar",
+    "feltOnStations": "III Padang Panjang, III Bukittinggi, II-III Padang, II-III Padang Pariaman, II-III Pariaman, II-III Pasaman Barat, II-III Solok Selatan",
+    "bmkgEarthquakeId": "20240127235044",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240127235044.mmi.jpg",
+    "fingerprintSha1": "c9c4e00e0dc0ba610258658b03b57ad5e585851a"
   }
 ]
