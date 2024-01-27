@@ -12322,5 +12322,17 @@
     "bmkgEarthquakeId": "20240127154544",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240127154544.mmi.jpg",
     "fingerprintSha1": "3fbee34fe5873cb866cfb30d84daf792d2803ef7"
+  },
+  {
+    "earthquakeAt": "2024-01-27T09:33:17.000Z",
+    "latitude": -11.78,
+    "longitude": 113.35,
+    "magnitude": 5.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 391 km Barat Daya Kuta Selatan",
+    "feltOnStations": "III Kuta, III Mataram , III Lombok Barat, II Denpasar, II Gianyar",
+    "bmkgEarthquakeId": "20240127163317",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240127163317.mmi.jpg",
+    "fingerprintSha1": "4e45c6f6ae43836d86e774f9ef6d8f0ae016004a"
   }
 ]
