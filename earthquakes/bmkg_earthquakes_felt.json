@@ -12334,5 +12334,17 @@
     "bmkgEarthquakeId": "20240127163317",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240127163317.mmi.jpg",
     "fingerprintSha1": "4e45c6f6ae43836d86e774f9ef6d8f0ae016004a"
+  },
+  {
+    "earthquakeAt": "2024-01-27T13:18:48.000Z",
+    "latitude": -8.23,
+    "longitude": 121.17,
+    "magnitude": 4.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 51 km Barat Laut Mbay-Nagekeo",
+    "feltOnStations": "III Ende",
+    "bmkgEarthquakeId": "20240127201848",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240127201848.mmi.jpg",
+    "fingerprintSha1": "03e178516b34975e29ab2c7c53ca3380298ca202"
   }
 ]
