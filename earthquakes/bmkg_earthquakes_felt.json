@@ -12286,5 +12286,17 @@
     "bmkgEarthquakeId": "20240125214128",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240125214128.mmi.jpg",
     "fingerprintSha1": "58871bf05c91514ec3c90ac0dc6ac74b4eeca055"
+  },
+  {
+    "earthquakeAt": "2024-01-27T01:47:27.000Z",
+    "latitude": -6.22,
+    "longitude": 120.29,
+    "magnitude": 4.8,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada dilaut 25 Km Barat Laut Selayar",
+    "feltOnStations": "III Selayar",
+    "bmkgEarthquakeId": "20240127084727",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240127084727.mmi.jpg",
+    "fingerprintSha1": "4501d11682feb571a06a291b372d5ba4e6ff9fe3"
   }
 ]
