@@ -12310,5 +12310,17 @@
     "bmkgEarthquakeId": "20240127143655",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240127143655.mmi.jpg",
     "fingerprintSha1": "1337306cb72730ce9008eea33130b17374c8868b"
+  },
+  {
+    "earthquakeAt": "2024-01-27T08:45:44.000Z",
+    "latitude": -0.56,
+    "longitude": 100.52,
+    "magnitude": 3.1,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 14 km Barat Daya Batusangkar - Tanah Datar",
+    "feltOnStations": "II Bukittinggi, II Padang Panjang",
+    "bmkgEarthquakeId": "20240127154544",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240127154544.mmi.jpg",
+    "fingerprintSha1": "3fbee34fe5873cb866cfb30d84daf792d2803ef7"
   }
 ]
