@@ -12370,5 +12370,17 @@
     "bmkgEarthquakeId": "20240128001823",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240128001823.mmi.jpg",
     "fingerprintSha1": "ac851a5c16ec3ca8a66ca5715026c87b3d0aacbf"
+  },
+  {
+    "earthquakeAt": "2024-01-28T02:30:06.000Z",
+    "latitude": -2.98,
+    "longitude": 130.5,
+    "magnitude": 4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 15 Km Utara Bula-SBT",
+    "feltOnStations": "II-III Bula",
+    "bmkgEarthquakeId": "20240128093006",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240128093006.mmi.jpg",
+    "fingerprintSha1": "e607c0dfadb96ac7d9b9cfb2c800bcbdfdca09a6"
   }
 ]
