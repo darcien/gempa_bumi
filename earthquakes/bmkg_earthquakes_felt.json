@@ -12394,5 +12394,17 @@
     "bmkgEarthquakeId": "20240129110831",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240129110831.mmi.jpg",
     "fingerprintSha1": "5db94daca6aa20eb0710c1c89910ac5b55f1436d"
+  },
+  {
+    "earthquakeAt": "2024-01-30T01:38:49.000Z",
+    "latitude": -3.54,
+    "longitude": 102.42,
+    "magnitude": 3.8,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 13 km BaratDaya RajangLebong",
+    "feltOnStations": "III Kepahiang",
+    "bmkgEarthquakeId": "20240130083849",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240130083849.mmi.jpg",
+    "fingerprintSha1": "55c460e5e4351bbddd7a86edf65fb726e3ead3be"
   }
 ]
