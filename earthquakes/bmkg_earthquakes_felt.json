@@ -12478,5 +12478,17 @@
     "bmkgEarthquakeId": "20240202120221",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240202120221.mmi.jpg",
     "fingerprintSha1": "0836f239c89eef7947e9e37fad6c17bb6d4b92c4"
+  },
+  {
+    "earthquakeAt": "2024-02-02T10:21:36.000Z",
+    "latitude": -7.28,
+    "longitude": 107.62,
+    "magnitude": 3.1,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 30 km Tenggara Kab. Bandung",
+    "feltOnStations": "II-III Pangalengan, II-III Cibereum, II-III Cikajang, II-III Bungbulang",
+    "bmkgEarthquakeId": "20240202172136",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240202172136.mmi.jpg",
+    "fingerprintSha1": "ca4ee62c704c9ef0cf280d7c294e9806ea39f41d"
   }
 ]
