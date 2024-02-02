@@ -12490,5 +12490,17 @@
     "bmkgEarthquakeId": "20240202172136",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240202172136.mmi.jpg",
     "fingerprintSha1": "ca4ee62c704c9ef0cf280d7c294e9806ea39f41d"
+  },
+  {
+    "earthquakeAt": "2024-02-02T13:03:08.000Z",
+    "latitude": -6.08,
+    "longitude": 104.3,
+    "magnitude": 4,
+    "depthInKm": 30,
+    "locationInIndonesian": "Pusat gempa berada di laut 78 km BaratDaya Tanggamus",
+    "feltOnStations": "II Kota Agung",
+    "bmkgEarthquakeId": "20240202200308",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240202200308.mmi.jpg",
+    "fingerprintSha1": "d1ae63f6da8e3bea4e88790065fb51b2d4f956d4"
   }
 ]
