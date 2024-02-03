@@ -12502,5 +12502,17 @@
     "bmkgEarthquakeId": "20240202200308",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240202200308.mmi.jpg",
     "fingerprintSha1": "d1ae63f6da8e3bea4e88790065fb51b2d4f956d4"
+  },
+  {
+    "earthquakeAt": "2024-02-03T08:25:10.000Z",
+    "latitude": 2.49,
+    "longitude": 127.06,
+    "magnitude": 5.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 83 km Barat Laut Pulau Doi",
+    "feltOnStations": "II-III Tobelo",
+    "bmkgEarthquakeId": "20240203152510",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240203152510.mmi.jpg",
+    "fingerprintSha1": "18d579d1662d7e319eb721ec053b1519cf6ffd64"
   }
 ]
