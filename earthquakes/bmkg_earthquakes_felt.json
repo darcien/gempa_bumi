@@ -12514,5 +12514,17 @@
     "bmkgEarthquakeId": "20240203152510",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240203152510.mmi.jpg",
     "fingerprintSha1": "18d579d1662d7e319eb721ec053b1519cf6ffd64"
+  },
+  {
+    "earthquakeAt": "2024-02-04T04:41:57.000Z",
+    "latitude": -0.72,
+    "longitude": 133.32,
+    "magnitude": 3.7,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 31 km TimurLaut Kebar",
+    "feltOnStations": "II Tambrauw",
+    "bmkgEarthquakeId": "20240204114157",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240204114157.mmi.jpg",
+    "fingerprintSha1": "f346d0314effb8588af3a3d857459601cf6bbff8"
   }
 ]
