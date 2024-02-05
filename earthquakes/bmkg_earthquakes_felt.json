@@ -12562,5 +12562,17 @@
     "bmkgEarthquakeId": "20240205082754",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240205082754.mmi.jpg",
     "fingerprintSha1": "118d278fee3c52f666b2d13649b7bb856fa710b8"
+  },
+  {
+    "earthquakeAt": "2024-02-05T10:25:16.000Z",
+    "latitude": 0.77,
+    "longitude": 121.38,
+    "magnitude": 4.9,
+    "depthInKm": 73,
+    "locationInIndonesian": "Pusat gempa berada di darat 22 km Tenggara Buol",
+    "feltOnStations": "III Tolitoli, III Pohuwatu, II - III Boalemo",
+    "bmkgEarthquakeId": "20240205172516",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240205172516.mmi.jpg",
+    "fingerprintSha1": "d0244a3fc50af1370e20fbfde02eaff8db311ad6"
   }
 ]
