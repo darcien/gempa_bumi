@@ -12574,5 +12574,17 @@
     "bmkgEarthquakeId": "20240205172516",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240205172516.mmi.jpg",
     "fingerprintSha1": "d0244a3fc50af1370e20fbfde02eaff8db311ad6"
+  },
+  {
+    "earthquakeAt": "2024-02-05T12:38:46.000Z",
+    "latitude": -0.42,
+    "longitude": 124.27,
+    "magnitude": 5.3,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di laut 93 km Tenggara Bolaanguki-Bolaang Mongondow Selatan",
+    "feltOnStations": "II - III Banggai Laut",
+    "bmkgEarthquakeId": "20240205193846",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240205193846.mmi.jpg",
+    "fingerprintSha1": "5a1f766d5654d0aa19bb98971fad726d34b36400"
   }
 ]
