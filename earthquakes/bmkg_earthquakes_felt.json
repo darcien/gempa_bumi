@@ -12538,5 +12538,17 @@
     "bmkgEarthquakeId": "20240205075222",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240205075222.mmi.jpg",
     "fingerprintSha1": "02e54efc60fdf5098582dffa4bb427e0b21d5696"
+  },
+  {
+    "earthquakeAt": "2024-02-05T01:25:23.000Z",
+    "latitude": -6.79,
+    "longitude": 107.08,
+    "magnitude": 2.9,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 Km Baratlaut Cianjur",
+    "feltOnStations": "III Pacet, III Cugenang, III Cianjur",
+    "bmkgEarthquakeId": "20240205082523",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240205082523.mmi.jpg",
+    "fingerprintSha1": "6e2f72ef5b6ac4fcb62e8769480b6e9fa277c72e"
   }
 ]
