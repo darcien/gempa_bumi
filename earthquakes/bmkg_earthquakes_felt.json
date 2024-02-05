@@ -12526,5 +12526,17 @@
     "bmkgEarthquakeId": "20240204114157",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240204114157.mmi.jpg",
     "fingerprintSha1": "f346d0314effb8588af3a3d857459601cf6bbff8"
+  },
+  {
+    "earthquakeAt": "2024-02-05T00:52:22.000Z",
+    "latitude": -2.14,
+    "longitude": 100.41,
+    "magnitude": 5.7,
+    "depthInKm": 16,
+    "locationInIndonesian": "Pusat gempa berada di laut 89 km BaratDaya Pesisir Selatan",
+    "feltOnStations": "III Mentawai, III Padang, III Agam, III Padang Pariaman, II Pesisir Selatan, II Padang Panjang, II Bukittinggi",
+    "bmkgEarthquakeId": "20240205075222",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240205075222.mmi.jpg",
+    "fingerprintSha1": "02e54efc60fdf5098582dffa4bb427e0b21d5696"
   }
 ]
