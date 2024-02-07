@@ -12598,5 +12598,17 @@
     "bmkgEarthquakeId": "20240205210524",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240205210524.mmi.jpg",
     "fingerprintSha1": "3611bdb3b805249b87ba68b43bd6f696c2130967"
+  },
+  {
+    "earthquakeAt": "2024-02-07T18:31:03.000Z",
+    "latitude": -7.64,
+    "longitude": 106.91,
+    "magnitude": 4.5,
+    "depthInKm": 29,
+    "locationInIndonesian": "Pusat gempa berada di laut 80 km BaratDaya Kota Sukabumi",
+    "feltOnStations": "II Kab. Sukabumi, II Kab. Cianjur",
+    "bmkgEarthquakeId": "20240208013103",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240208013103.mmi.jpg",
+    "fingerprintSha1": "a950d3860537cbabd053634e3c8581e773dfa30e"
   }
 ]
