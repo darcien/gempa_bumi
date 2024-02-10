@@ -12646,5 +12646,17 @@
     "bmkgEarthquakeId": "20240210065326",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240210065326.mmi.jpg",
     "fingerprintSha1": "42606121b21725943184867804b043958e6acc17"
+  },
+  {
+    "earthquakeAt": "2024-02-10T14:44:30.000Z",
+    "latitude": -2.21,
+    "longitude": 140.06,
+    "magnitude": 4.2,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di 44 km BaratLaut GENYEM-JAYAPURA`",
+    "feltOnStations": "",
+    "bmkgEarthquakeId": "20240210214430",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240210214430.mmi.jpg",
+    "fingerprintSha1": "db1c964ecc6691b78656aace00c1632762ff8b05"
   }
 ]
