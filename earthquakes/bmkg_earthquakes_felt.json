@@ -12658,5 +12658,17 @@
     "bmkgEarthquakeId": "20240210214430",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240210214430.mmi.jpg",
     "fingerprintSha1": "db1c964ecc6691b78656aace00c1632762ff8b05"
+  },
+  {
+    "earthquakeAt": "2024-02-11T10:42:01.000Z",
+    "latitude": -8.62,
+    "longitude": 120.42,
+    "magnitude": 2.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km BaratDaya Ruteng-Manggarai",
+    "feltOnStations": "II Ruteng",
+    "bmkgEarthquakeId": "20240211174201",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240211174201.mmi.jpg",
+    "fingerprintSha1": "ca0d7ec2177aaae64f620dc752425e04238a24fc"
   }
 ]
