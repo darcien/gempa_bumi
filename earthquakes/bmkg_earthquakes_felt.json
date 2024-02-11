@@ -12653,8 +12653,8 @@
     "longitude": 140.06,
     "magnitude": 4.2,
     "depthInKm": 6,
-    "locationInIndonesian": "Pusat gempa berada di 44 km BaratLaut GENYEM-JAYAPURA`",
-    "feltOnStations": "",
+    "locationInIndonesian": "Pusat gempa berada di 44 km BaratLaut GENYEM-JAYAPURA",
+    "feltOnStations": "II Kab. Jayapura",
     "bmkgEarthquakeId": "20240210214430",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240210214430.mmi.jpg",
     "fingerprintSha1": "db1c964ecc6691b78656aace00c1632762ff8b05"
