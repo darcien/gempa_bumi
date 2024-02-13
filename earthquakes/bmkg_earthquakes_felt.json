@@ -12694,5 +12694,17 @@
     "bmkgEarthquakeId": "20240212040422",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240212040422.mmi.jpg",
     "fingerprintSha1": "ae917097a13cd6c6f3b2a7dfa838ce533f54f6b2"
+  },
+  {
+    "earthquakeAt": "2024-02-13T01:22:24.000Z",
+    "latitude": -3.19,
+    "longitude": 115.12,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 19 km Timur Laut Banjarmasin",
+    "feltOnStations": "II-III Banjarmasin, II-III Kota Marabahan, II-III Pulau Pisau, II-III Palangkaraya, II-III Sampit",
+    "bmkgEarthquakeId": "20240213082224",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240213082224.mmi.jpg",
+    "fingerprintSha1": "887306a8f095c333f9d5567a036fc57590e5c27f"
   }
 ]
