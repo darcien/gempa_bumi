@@ -12706,5 +12706,17 @@
     "bmkgEarthquakeId": "20240213082224",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240213082224.mmi.jpg",
     "fingerprintSha1": "887306a8f095c333f9d5567a036fc57590e5c27f"
+  },
+  {
+    "earthquakeAt": "2024-02-13T02:51:56.000Z",
+    "latitude": 2.05,
+    "longitude": 98.93,
+    "magnitude": 3,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km BaratLaut Tapanuli Utara",
+    "feltOnStations": "III Tarutung",
+    "bmkgEarthquakeId": "20240213095156",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240213095156.mmi.jpg",
+    "fingerprintSha1": "7f3ee01a983b46e61fa1d4c0469ca053cfcd75c8"
   }
 ]
