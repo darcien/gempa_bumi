@@ -12718,5 +12718,17 @@
     "bmkgEarthquakeId": "20240213095156",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240213095156.mmi.jpg",
     "fingerprintSha1": "7f3ee01a983b46e61fa1d4c0469ca053cfcd75c8"
+  },
+  {
+    "earthquakeAt": "2024-02-13T07:09:17.000Z",
+    "latitude": -3.23,
+    "longitude": 115.18,
+    "magnitude": 3.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 22 km TimurLaut Banjar",
+    "feltOnStations": "III Kab. Banjar",
+    "bmkgEarthquakeId": "20240213140917",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240213140917.mmi.jpg",
+    "fingerprintSha1": "ccd0e7d457c381005658aa9760039dc38722cba5"
   }
 ]
