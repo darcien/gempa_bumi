@@ -12742,5 +12742,17 @@
     "bmkgEarthquakeId": "20240214013202",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240214013202.mmi.jpg",
     "fingerprintSha1": "bcf200fb65c75d199fbedee6faad39626ec85e35"
+  },
+  {
+    "earthquakeAt": "2024-02-15T11:25:09.000Z",
+    "latitude": -5.05,
+    "longitude": 123.22,
+    "magnitude": 2.9,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di laut 22 Km Timur laut Lasalimu kabupaten buton",
+    "feltOnStations": "II-III Lasalimu",
+    "bmkgEarthquakeId": "20240215182509",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240215182509.mmi.jpg",
+    "fingerprintSha1": "f6e8cf92678be1519822e747d61e9531323102ff"
   }
 ]
