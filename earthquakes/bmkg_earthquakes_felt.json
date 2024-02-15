@@ -12754,5 +12754,17 @@
     "bmkgEarthquakeId": "20240215182509",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240215182509.mmi.jpg",
     "fingerprintSha1": "f6e8cf92678be1519822e747d61e9531323102ff"
+  },
+  {
+    "earthquakeAt": "2024-02-15T15:54:03.000Z",
+    "latitude": -8.56,
+    "longitude": 112.22,
+    "magnitude": 4.6,
+    "depthInKm": 100,
+    "locationInIndonesian": "Pusat gempa berada di laut 47 km Tenggara Kab. Blitar",
+    "feltOnStations": "II Blitar, II Karangkates, II Trenggalek, II Malang, II Pacitan",
+    "bmkgEarthquakeId": "20240215225403",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240215225403.mmi.jpg",
+    "fingerprintSha1": "b0cb45f2d00b9c303f94b46f480f3b95026d5753"
   }
 ]
