@@ -12778,5 +12778,17 @@
     "bmkgEarthquakeId": "20240216152248",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240216152248.mmi.jpg",
     "fingerprintSha1": "3513bbf875c63acdb5b4fe1a7b412cd94c389fec"
+  },
+  {
+    "earthquakeAt": "2024-02-16T11:51:58.000Z",
+    "latitude": -7.38,
+    "longitude": 108.24,
+    "magnitude": 3.1,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km tenggara Kota Tasikmalaya",
+    "feltOnStations": "II-III Tasikmalaya, II-III Pangandaran, II-III Ciamis",
+    "bmkgEarthquakeId": "20240216185158",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240216185158.mmi.jpg",
+    "fingerprintSha1": "4bdb7012d63479d302e47e3a26c398db8c1b5247"
   }
 ]
