@@ -12766,5 +12766,17 @@
     "bmkgEarthquakeId": "20240215225403",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240215225403.mmi.jpg",
     "fingerprintSha1": "b0cb45f2d00b9c303f94b46f480f3b95026d5753"
+  },
+  {
+    "earthquakeAt": "2024-02-16T08:22:48.000Z",
+    "latitude": 2.15,
+    "longitude": 97.85,
+    "magnitude": 4.4,
+    "depthInKm": 31,
+    "locationInIndonesian": "Pusat gempa berada di laut 21 km Tenggara Kab. Aceh Singkil",
+    "feltOnStations": "III - IV Kab. Aceh Singkil, III Kota Subulussalam",
+    "bmkgEarthquakeId": "20240216152248",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240216152248.mmi.jpg",
+    "fingerprintSha1": "3513bbf875c63acdb5b4fe1a7b412cd94c389fec"
   }
 ]
