@@ -12802,5 +12802,17 @@
     "bmkgEarthquakeId": "20240217234728",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240217234728.mmi.jpg",
     "fingerprintSha1": "4566d7debd3fc57ef520968e50aa274bbf774791"
+  },
+  {
+    "earthquakeAt": "2024-02-18T04:32:42.000Z",
+    "latitude": -2.78,
+    "longitude": 115.69,
+    "magnitude": 3.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 26 km Tenggara Hulu Sungai Tengah",
+    "feltOnStations": "II - III Tapin",
+    "bmkgEarthquakeId": "20240218113242",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240218113242.mmi.jpg",
+    "fingerprintSha1": "ff79bd1bd7843d806803cbde7c4ea1db52ec82d8"
   }
 ]
