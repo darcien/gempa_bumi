@@ -12814,5 +12814,17 @@
     "bmkgEarthquakeId": "20240218113242",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240218113242.mmi.jpg",
     "fingerprintSha1": "ff79bd1bd7843d806803cbde7c4ea1db52ec82d8"
+  },
+  {
+    "earthquakeAt": "2024-02-19T00:00:25.000Z",
+    "latitude": -9.49,
+    "longitude": 115.93,
+    "magnitude": 4.3,
+    "depthInKm": 41,
+    "locationInIndonesian": "Pusat gempa berada di Laut 92 km BaratDaya Lombok Barat",
+    "feltOnStations": "II Mataram, II Lombok Barat, II Lombok Tengah",
+    "bmkgEarthquakeId": "20240219070025",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240219070025.mmi.jpg",
+    "fingerprintSha1": "8f7df4490efe0b3107713962f19360776303d9af"
   }
 ]
