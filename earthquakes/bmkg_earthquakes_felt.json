@@ -12850,5 +12850,17 @@
     "bmkgEarthquakeId": "20240220112714",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240220112714.mmi.jpg",
     "fingerprintSha1": "e18f01bc36da39472ff20d07afaa2ddb50b1101e"
+  },
+  {
+    "earthquakeAt": "2024-02-20T11:00:52.000Z",
+    "latitude": -2.56,
+    "longitude": 140.65,
+    "magnitude": 2.7,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di darat, 5 km BaratLaut Kota Jayapura",
+    "feltOnStations": "II Jayapura",
+    "bmkgEarthquakeId": "20240220180052",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240220180052.mmi.jpg",
+    "fingerprintSha1": "7b378e9e5f3f50b94e675cd9098aaf8ea7d69e22"
   }
 ]
