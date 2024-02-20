@@ -12838,5 +12838,17 @@
     "bmkgEarthquakeId": "20240220104655",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240220104655.mmi.jpg",
     "fingerprintSha1": "d540ec6b4cff026279113b024c5532b4ee9193b9"
+  },
+  {
+    "earthquakeAt": "2024-02-20T04:27:14.000Z",
+    "latitude": -8.2,
+    "longitude": 108.44,
+    "magnitude": 3.7,
+    "depthInKm": 37,
+    "locationInIndonesian": "Pusat gempa berada di Laut 55 km Barat Daya Kab. Pangandaran",
+    "feltOnStations": "III Pangandaran",
+    "bmkgEarthquakeId": "20240220112714",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240220112714.mmi.jpg",
+    "fingerprintSha1": "e18f01bc36da39472ff20d07afaa2ddb50b1101e"
   }
 ]
