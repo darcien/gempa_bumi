@@ -12826,5 +12826,17 @@
     "bmkgEarthquakeId": "20240219070025",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240219070025.mmi.jpg",
     "fingerprintSha1": "8f7df4490efe0b3107713962f19360776303d9af"
+  },
+  {
+    "earthquakeAt": "2024-02-20T03:46:55.000Z",
+    "latitude": -3.46,
+    "longitude": 139.86,
+    "magnitude": 4.8,
+    "depthInKm": 79,
+    "locationInIndonesian": "Pusat gempa berada di darat 58 Km Timurlaut Yalimo",
+    "feltOnStations": "II Genyem",
+    "bmkgEarthquakeId": "20240220104655",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240220104655.mmi.jpg",
+    "fingerprintSha1": "d540ec6b4cff026279113b024c5532b4ee9193b9"
   }
 ]
