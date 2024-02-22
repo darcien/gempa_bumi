@@ -12874,5 +12874,17 @@
     "bmkgEarthquakeId": "20240221131247",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240221131247.mmi.jpg",
     "fingerprintSha1": "ecb8ed4a9974edd617c9b07cd9974cba99a7b211"
+  },
+  {
+    "earthquakeAt": "2024-02-22T03:06:34.000Z",
+    "latitude": -8.05,
+    "longitude": 107.74,
+    "magnitude": 3.2,
+    "depthInKm": 24,
+    "locationInIndonesian": "Pusat gempa berada di laut 87 km BaratDaya Kab. Tasikmalaya",
+    "feltOnStations": "II Kab. Tasikmalaya",
+    "bmkgEarthquakeId": "20240222100634",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240222100634.mmi.jpg",
+    "fingerprintSha1": "42b31dd21374b7dc55d7b0300f40d444d1540a0e"
   }
 ]
