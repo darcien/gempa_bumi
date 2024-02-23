@@ -12898,5 +12898,17 @@
     "bmkgEarthquakeId": "20240223005509",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240223005509.mmi.jpg",
     "fingerprintSha1": "66e8e71e5b32d28e50ebbc063e86489f0eb6460e"
+  },
+  {
+    "earthquakeAt": "2024-02-23T07:46:30.000Z",
+    "latitude": -0.67,
+    "longitude": 98.5,
+    "magnitude": 5.6,
+    "depthInKm": 26,
+    "locationInIndonesian": "Pusat gempa berada di laut 157 km tenggara Nias Selatan",
+    "feltOnStations": "III Teluk Dalam, III Pulau Hibala, II Padang",
+    "bmkgEarthquakeId": "20240223144630",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240223144630.mmi.jpg",
+    "fingerprintSha1": "5f5509fce611c6d5fd85598b93eb264b807b7189"
   }
 ]
