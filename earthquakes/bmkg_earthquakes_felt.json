@@ -12922,5 +12922,17 @@
     "bmkgEarthquakeId": "20240223195552",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240223195552.mmi.jpg",
     "fingerprintSha1": "3b3de592e0dbfe40f31386209aedc2471b4d185d"
+  },
+  {
+    "earthquakeAt": "2024-02-23T13:16:13.000Z",
+    "latitude": 2.22,
+    "longitude": 117.28,
+    "magnitude": 2.8,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km barat laut Berau",
+    "feltOnStations": "II-III Berau",
+    "bmkgEarthquakeId": "20240223201613",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240223201613.mmi.jpg",
+    "fingerprintSha1": "e5c0b4a096929efd8eb804b932e0f67706bf5080"
   }
 ]
