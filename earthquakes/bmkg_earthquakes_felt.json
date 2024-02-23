@@ -12910,5 +12910,17 @@
     "bmkgEarthquakeId": "20240223144630",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240223144630.mmi.jpg",
     "fingerprintSha1": "5f5509fce611c6d5fd85598b93eb264b807b7189"
+  },
+  {
+    "earthquakeAt": "2024-02-23T12:55:52.000Z",
+    "latitude": -2.96,
+    "longitude": 119.38,
+    "magnitude": 3.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km tenggara Mamasa",
+    "feltOnStations": "III Mamasa",
+    "bmkgEarthquakeId": "20240223195552",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240223195552.mmi.jpg",
+    "fingerprintSha1": "3b3de592e0dbfe40f31386209aedc2471b4d185d"
   }
 ]
