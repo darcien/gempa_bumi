@@ -12970,5 +12970,17 @@
     "bmkgEarthquakeId": "20240225220456",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240225220456.mmi.jpg",
     "fingerprintSha1": "c0c4ea066567227c1c2c8d2734b5c8971b9ff7d6"
+  },
+  {
+    "earthquakeAt": "2024-02-25T17:33:47.000Z",
+    "latitude": 0.63,
+    "longitude": 98.52,
+    "magnitude": 4.8,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 78 km TimurLaut Nias Selatan",
+    "feltOnStations": "II-III Tapanuli Tengah",
+    "bmkgEarthquakeId": "20240226003347",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240226003347.mmi.jpg",
+    "fingerprintSha1": "dcb6e53891fd53547b623bd955487631fd346414"
   }
 ]
