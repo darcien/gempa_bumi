@@ -12946,5 +12946,17 @@
     "bmkgEarthquakeId": "20240225200703",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240225200703.mmi.jpg",
     "fingerprintSha1": "c05c475e74fe9137a62227580d6319ec17063db8"
+  },
+  {
+    "earthquakeAt": "2024-02-25T14:34:29.000Z",
+    "latitude": -8.42,
+    "longitude": 120.72,
+    "magnitude": 3.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada didarat 35 Km Timur Laut Ruteng",
+    "feltOnStations": "II Ruteng",
+    "bmkgEarthquakeId": "20240225213429",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240225213429.mmi.jpg",
+    "fingerprintSha1": "2cef8b0d9fe38293a6a280aedf03924d3e952541"
   }
 ]
