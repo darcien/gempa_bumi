@@ -12934,5 +12934,17 @@
     "bmkgEarthquakeId": "20240223201613",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240223201613.mmi.jpg",
     "fingerprintSha1": "e5c0b4a096929efd8eb804b932e0f67706bf5080"
+  },
+  {
+    "earthquakeAt": "2024-02-25T13:07:03.000Z",
+    "latitude": -7.61,
+    "longitude": 105.9,
+    "magnitude": 5.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 85 km BaratDaya Bayah",
+    "feltOnStations": "II-III Cilacap , II Serang, II-III Panimbang, II-III Cigelis , II Lembang, III Garut, II-III Bandung",
+    "bmkgEarthquakeId": "20240225200703",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240225200703.mmi.jpg",
+    "fingerprintSha1": "c05c475e74fe9137a62227580d6319ec17063db8"
   }
 ]
