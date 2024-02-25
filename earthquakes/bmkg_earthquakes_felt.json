@@ -12958,5 +12958,17 @@
     "bmkgEarthquakeId": "20240225213429",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240225213429.mmi.jpg",
     "fingerprintSha1": "2cef8b0d9fe38293a6a280aedf03924d3e952541"
+  },
+  {
+    "earthquakeAt": "2024-02-25T15:04:56.000Z",
+    "latitude": -7.54,
+    "longitude": 105.95,
+    "magnitude": 5.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 75 km BaratDaya Bayah",
+    "feltOnStations": "II Surade, II Pelabuhan Ratu, II Panimbang, II Tanjung Lesung",
+    "bmkgEarthquakeId": "20240225220456",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240225220456.mmi.jpg",
+    "fingerprintSha1": "c0c4ea066567227c1c2c8d2734b5c8971b9ff7d6"
   }
 ]
