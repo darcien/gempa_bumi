@@ -13006,5 +13006,17 @@
     "bmkgEarthquakeId": "20240226190649",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240226190649.mmi.jpg",
     "fingerprintSha1": "5ad19f60ad467a96157db338fa6f943db57978f9"
+  },
+  {
+    "earthquakeAt": "2024-02-26T17:09:54.000Z",
+    "latitude": -2.95,
+    "longitude": 119.36,
+    "magnitude": 2.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km Tenggara Mamasa",
+    "feltOnStations": "II Mamasa",
+    "bmkgEarthquakeId": "20240227000954",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240227000954.mmi.jpg",
+    "fingerprintSha1": "22c819534c43d15c09316d0cf586395e54fe93c9"
   }
 ]
