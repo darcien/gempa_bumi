@@ -13030,5 +13030,17 @@
     "bmkgEarthquakeId": "20240227030951",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240227030951.mmi.jpg",
     "fingerprintSha1": "de5870bd00c88d82e81e3b7c8b2735de2ef62b99"
+  },
+  {
+    "earthquakeAt": "2024-02-27T04:49:13.000Z",
+    "latitude": -9.71,
+    "longitude": 125.05,
+    "magnitude": 5.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di Laut 25 km Tenggara Malaka",
+    "feltOnStations": "III Malaka",
+    "bmkgEarthquakeId": "20240227114913",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240227114913.mmi.jpg",
+    "fingerprintSha1": "0ea89c269d4547b034395e6547ed363e17c7928c"
   }
 ]
