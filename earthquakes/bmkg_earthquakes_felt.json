@@ -13042,5 +13042,29 @@
     "bmkgEarthquakeId": "20240227114913",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240227114913.mmi.jpg",
     "fingerprintSha1": "0ea89c269d4547b034395e6547ed363e17c7928c"
+  },
+  {
+    "earthquakeAt": "2024-02-27T10:50:54.000Z",
+    "latitude": -2.96,
+    "longitude": 119.39,
+    "magnitude": 2.6,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km Tenggara Mamasa",
+    "feltOnStations": "II-III Mamasa",
+    "bmkgEarthquakeId": "20240227175054",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240227175054.mmi.jpg",
+    "fingerprintSha1": "dc886b7211759736912d891ae78eed3bc6086f85"
+  },
+  {
+    "earthquakeAt": "2024-02-27T10:13:56.000Z",
+    "latitude": -4.44,
+    "longitude": 122.85,
+    "magnitude": 3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 12 km barat daya Kab. Buton Utara",
+    "feltOnStations": "II-III Konawe Selatan",
+    "bmkgEarthquakeId": "20240227171356",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240227171356.mmi.jpg",
+    "fingerprintSha1": "575503e1bee12582cbdf9ca6fd6dc8b25a7f3921"
   }
 ]
