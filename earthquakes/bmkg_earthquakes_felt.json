@@ -13090,5 +13090,17 @@
     "bmkgEarthquakeId": "20240228195012",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240228195012.mmi.jpg",
     "fingerprintSha1": "74fd59249284b71770a6320137e266f8ddcc474a"
+  },
+  {
+    "earthquakeAt": "2024-02-28T17:44:36.000Z",
+    "latitude": 5.14,
+    "longitude": 94.7,
+    "magnitude": 4.2,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di laut 101 km BaratDaya JANTHO-ACEH BESAR",
+    "feltOnStations": "II Banda Aceh",
+    "bmkgEarthquakeId": "20240229004436",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240229004436.mmi.jpg",
+    "fingerprintSha1": "60fabfa720c8b0f855e70b9fae311ac866c392a9"
   }
 ]
