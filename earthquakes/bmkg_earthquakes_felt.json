@@ -13078,5 +13078,17 @@
     "bmkgEarthquakeId": "20240228074809",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240228074809.mmi.jpg",
     "fingerprintSha1": "942700f58a62d3af142b66c7de300f02181a9b6c"
+  },
+  {
+    "earthquakeAt": "2024-02-28T12:50:12.000Z",
+    "latitude": -6.9,
+    "longitude": 106.94,
+    "magnitude": 1.8,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km TimurLaut Kota Sukabumi",
+    "feltOnStations": "II Kab. Sukabumi",
+    "bmkgEarthquakeId": "20240228195012",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240228195012.mmi.jpg",
+    "fingerprintSha1": "74fd59249284b71770a6320137e266f8ddcc474a"
   }
 ]
