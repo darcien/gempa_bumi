@@ -13066,5 +13066,17 @@
     "bmkgEarthquakeId": "20240227171356",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240227171356.mmi.jpg",
     "fingerprintSha1": "575503e1bee12582cbdf9ca6fd6dc8b25a7f3921"
+  },
+  {
+    "earthquakeAt": "2024-02-28T00:48:09.000Z",
+    "latitude": -6.7,
+    "longitude": 107.63,
+    "magnitude": 2.9,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 20 km Barat Daya Kab. Subang",
+    "feltOnStations": "II-III Subang",
+    "bmkgEarthquakeId": "20240228074809",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240228074809.mmi.jpg",
+    "fingerprintSha1": "942700f58a62d3af142b66c7de300f02181a9b6c"
   }
 ]
