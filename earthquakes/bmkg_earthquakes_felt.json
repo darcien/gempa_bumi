@@ -13114,5 +13114,17 @@
     "bmkgEarthquakeId": "20240229223421",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240229223421.mmi.jpg",
     "fingerprintSha1": "3b9645ff5c87cfc040c9d41bdf308a9c3c18a307"
+  },
+  {
+    "earthquakeAt": "2024-02-29T20:19:45.000Z",
+    "latitude": -10.48,
+    "longitude": 113.62,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 253 km BaratDaya Jember",
+    "feltOnStations": "II Karangkates",
+    "bmkgEarthquakeId": "20240301031945",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240301031945.mmi.jpg",
+    "fingerprintSha1": "9c7dafc2c063f65a75559846b72aee544794db7c"
   }
 ]
