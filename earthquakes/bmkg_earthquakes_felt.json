@@ -13126,5 +13126,17 @@
     "bmkgEarthquakeId": "20240301031945",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240301031945.mmi.jpg",
     "fingerprintSha1": "9c7dafc2c063f65a75559846b72aee544794db7c"
+  },
+  {
+    "earthquakeAt": "2024-03-01T07:06:38.000Z",
+    "latitude": -4.7,
+    "longitude": 139.54,
+    "magnitude": 5.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 22 km tenggara Yahukimo",
+    "feltOnStations": "II Wamena, III Yahukimo",
+    "bmkgEarthquakeId": "20240301140638",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240301140638.mmi.jpg",
+    "fingerprintSha1": "8f289ce691deb362ac1d3b8d9a53a29bf52293d6"
   }
 ]
