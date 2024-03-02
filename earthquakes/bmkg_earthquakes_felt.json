@@ -13182,9 +13182,21 @@
     "magnitude": 4.9,
     "depthInKm": 28,
     "locationInIndonesian": "Pusat gempa berada di laut 64 km Tenggara Kab Sukabumi",
-    "feltOnStations": "III Kab Sukabumi, III Pelabuhan Ratu, II - III Kota Sukabumi",
+    "feltOnStations": "III Kab Sukabumi, III Pelabuhan Ratu, III Simpenan, III Surade, II-III Kota Sukabumi, II-III Kalapanunggal, II-III Cireunghas, II Cianjur, II Pangalengan, II Tasikmalaya, II Soreang, II Kota Bandung",
     "bmkgEarthquakeId": "20240302174844",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240302174844.mmi.jpg",
     "fingerprintSha1": "a0860b86ac412a125d101ee806412882785b49bc"
+  },
+  {
+    "earthquakeAt": "2024-03-02T16:40:55.000Z",
+    "latitude": -9.51,
+    "longitude": 116.3,
+    "magnitude": 4,
+    "depthInKm": 39,
+    "locationInIndonesian": "Pusat gempa berada di laut 89 km Tenggara Lombok Tengah",
+    "feltOnStations": "II Lombok Tengah , II Mataram, II Lombok Barat",
+    "bmkgEarthquakeId": "20240302234055",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240302234055.mmi.jpg",
+    "fingerprintSha1": "ada07d17db945fb080c12bcbacbcbe88fa69b9af"
   }
 ]
