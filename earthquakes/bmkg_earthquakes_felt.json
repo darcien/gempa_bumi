@@ -13150,5 +13150,17 @@
     "bmkgEarthquakeId": "20240301205936",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240301205936.mmi.jpg",
     "fingerprintSha1": "f10df27f1fcd934de112b929f0b39fe51c0f4cf2"
+  },
+  {
+    "earthquakeAt": "2024-03-01T18:39:25.000Z",
+    "latitude": 0.56,
+    "longitude": 98.51,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di Laut 77 km Tenggara Nias Selatan",
+    "feltOnStations": "II-III Pinang Sori, II-III Tapanuli Tengah",
+    "bmkgEarthquakeId": "20240302013925",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240302013925.mmi.jpg",
+    "fingerprintSha1": "405d606a146b08969bdb53d7b20d0037a52907b8"
   }
 ]
