@@ -13198,5 +13198,17 @@
     "bmkgEarthquakeId": "20240302234055",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240302234055.mmi.jpg",
     "fingerprintSha1": "ada07d17db945fb080c12bcbacbcbe88fa69b9af"
+  },
+  {
+    "earthquakeAt": "2024-03-03T02:16:57.000Z",
+    "latitude": -7.24,
+    "longitude": 107.69,
+    "magnitude": 2.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 23 km BaratDaya Kab. Garut",
+    "feltOnStations": "III Pasirwangi, III Kertasari",
+    "bmkgEarthquakeId": "20240303091657",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240303091657.mmi.jpg",
+    "fingerprintSha1": "190ec707d9bdd159127e11f73d842852898631a6"
   }
 ]
