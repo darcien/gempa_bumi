@@ -13222,5 +13222,17 @@
     "bmkgEarthquakeId": "20240303203759",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240303203759.mmi.jpg",
     "fingerprintSha1": "7abf81e3d27bc3d19ee8203f67a81b90c337027d"
+  },
+  {
+    "earthquakeAt": "2024-03-03T15:07:42.000Z",
+    "latitude": -5.08,
+    "longitude": 103.06,
+    "magnitude": 5.1,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di laut 45 km Barat Daya Kaur",
+    "feltOnStations": "III Liwa, I-II Kaur, I-II Kepahiang, I-II Oku Selatan, I-II Bengkulu Utara",
+    "bmkgEarthquakeId": "20240303220742",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240303220742.mmi.jpg",
+    "fingerprintSha1": "506fa8dd37cb2cff62e16ed85a383d32e3ecaf14"
   }
 ]
