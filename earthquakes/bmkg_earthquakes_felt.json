@@ -13258,5 +13258,17 @@
     "bmkgEarthquakeId": "20240304135513",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240304135513.mmi.jpg",
     "fingerprintSha1": "d6529ce3213dd6da094f414274eb56df5d980e6f"
+  },
+  {
+    "earthquakeAt": "2024-03-04T15:14:23.000Z",
+    "latitude": -3.47,
+    "longitude": 128.37,
+    "magnitude": 3.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 14 km Selatan Kairatu-SBB",
+    "feltOnStations": "III Kairatu",
+    "bmkgEarthquakeId": "20240304221423",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240304221423.mmi.jpg",
+    "fingerprintSha1": "54995006966edf92d3fab8577c53b3611c322b78"
   }
 ]
