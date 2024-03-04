@@ -13246,5 +13246,17 @@
     "bmkgEarthquakeId": "20240304094823",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240304094823.mmi.jpg",
     "fingerprintSha1": "20e9bedb19a6d014bb851d43ee63e4bb354d4a0d"
+  },
+  {
+    "earthquakeAt": "2024-03-04T06:55:13.000Z",
+    "latitude": -4.92,
+    "longitude": 102.79,
+    "magnitude": 4.9,
+    "depthInKm": 27,
+    "locationInIndonesian": "Pusat gempa berada di laut 53 km Barat Daya Bengkulu Selatan",
+    "feltOnStations": "II Liwa, I-II Krui",
+    "bmkgEarthquakeId": "20240304135513",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240304135513.mmi.jpg",
+    "fingerprintSha1": "d6529ce3213dd6da094f414274eb56df5d980e6f"
   }
 ]
