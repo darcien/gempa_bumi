@@ -13282,5 +13282,17 @@
     "bmkgEarthquakeId": "20240305084033",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240305084033.mmi.jpg",
     "fingerprintSha1": "262bc9c33cc2a268a9a8511c99e621aa3c0fd690"
+  },
+  {
+    "earthquakeAt": "2024-03-05T09:37:23.000Z",
+    "latitude": -9.59,
+    "longitude": 115.24,
+    "magnitude": 4.5,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di laut 88 km tenggara Kuta Selatan",
+    "feltOnStations": "II Denpasar, II Kuta, II Kuta Selatan, II Karangasem",
+    "bmkgEarthquakeId": "20240305163723",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240305163723.mmi.jpg",
+    "fingerprintSha1": "6a0b700e7a15d7318fb61c11744c45e110267d90"
   }
 ]
