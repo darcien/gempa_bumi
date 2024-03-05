@@ -13270,5 +13270,17 @@
     "bmkgEarthquakeId": "20240304221423",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240304221423.mmi.jpg",
     "fingerprintSha1": "54995006966edf92d3fab8577c53b3611c322b78"
+  },
+  {
+    "earthquakeAt": "2024-03-05T01:40:33.000Z",
+    "latitude": -9.74,
+    "longitude": 119.63,
+    "magnitude": 3.7,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 13 km Tenggara Waibakul",
+    "feltOnStations": "II-III Langgaliru",
+    "bmkgEarthquakeId": "20240305084033",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240305084033.mmi.jpg",
+    "fingerprintSha1": "262bc9c33cc2a268a9a8511c99e621aa3c0fd690"
   }
 ]
