@@ -13294,5 +13294,17 @@
     "bmkgEarthquakeId": "20240305163723",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240305163723.mmi.jpg",
     "fingerprintSha1": "6a0b700e7a15d7318fb61c11744c45e110267d90"
+  },
+  {
+    "earthquakeAt": "2024-03-07T09:33:09.000Z",
+    "latitude": -3.66,
+    "longitude": 133.71,
+    "magnitude": 2.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km BaratDaya Kaimana",
+    "feltOnStations": "II Kaimana",
+    "bmkgEarthquakeId": "20240307163309",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240307163309.mmi.jpg",
+    "fingerprintSha1": "40ac2958aa9c4136e7e439bb474df2fd80b64893"
   }
 ]
