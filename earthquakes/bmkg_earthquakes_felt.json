@@ -13306,5 +13306,17 @@
     "bmkgEarthquakeId": "20240307163309",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240307163309.mmi.jpg",
     "fingerprintSha1": "40ac2958aa9c4136e7e439bb474df2fd80b64893"
+  },
+  {
+    "earthquakeAt": "2024-03-07T13:11:53.000Z",
+    "latitude": -9.02,
+    "longitude": 112.79,
+    "magnitude": 4.5,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di laut 101 km Tenggara Kab. Malang",
+    "feltOnStations": "II Malang",
+    "bmkgEarthquakeId": "20240307201153",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240307201153.mmi.jpg",
+    "fingerprintSha1": "8e4641071c7ff66a53bb708f23061de1b58abe5b"
   }
 ]
