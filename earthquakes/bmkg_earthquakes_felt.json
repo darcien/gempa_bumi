@@ -13318,5 +13318,17 @@
     "bmkgEarthquakeId": "20240307201153",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240307201153.mmi.jpg",
     "fingerprintSha1": "8e4641071c7ff66a53bb708f23061de1b58abe5b"
+  },
+  {
+    "earthquakeAt": "2024-03-08T09:11:48.000Z",
+    "latitude": 5.73,
+    "longitude": 126.88,
+    "magnitude": 6,
+    "depthInKm": 141,
+    "locationInIndonesian": "Pusat gempa berada di laut 110 Km Baratlaut Pulau Karatung",
+    "feltOnStations": "III Talaud",
+    "bmkgEarthquakeId": "20240308161148",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240308161148.mmi.jpg",
+    "fingerprintSha1": "c754b9638b780893f2769a1af41fa92033499b58"
   }
 ]
