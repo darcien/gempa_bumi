@@ -13342,5 +13342,17 @@
     "bmkgEarthquakeId": "20240311223104",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240311223104.mmi.jpg",
     "fingerprintSha1": "821d5fb216877ab0136e2d49a9c1193c98526616"
+  },
+  {
+    "earthquakeAt": "2024-03-12T13:10:46.000Z",
+    "latitude": -3.2,
+    "longitude": 128.76,
+    "magnitude": 4,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km Utara Elpaputih",
+    "feltOnStations": "III Elpaputih, II Masohi",
+    "bmkgEarthquakeId": "20240312201046",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240312201046.mmi.jpg",
+    "fingerprintSha1": "431eef1dc20d191964c6fd88f096399b766ba5b5"
   }
 ]
