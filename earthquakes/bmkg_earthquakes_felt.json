@@ -13378,5 +13378,17 @@
     "bmkgEarthquakeId": "20240313215320",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240313215320.mmi.jpg",
     "fingerprintSha1": "47bce0fb2e3048540580094e2019c2727236a4b0"
+  },
+  {
+    "earthquakeAt": "2024-03-13T18:56:14.000Z",
+    "latitude": -0.21,
+    "longitude": 125.24,
+    "magnitude": 6.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut laut 128 km Tenggara Tuntuyan BolTim",
+    "feltOnStations": "III Minahasa Selatan , II Minahasa Utara, II Bolaang Mongondow",
+    "bmkgEarthquakeId": "20240314015614",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240314015614.mmi.jpg",
+    "fingerprintSha1": "c1c2f0787e1421b5337a58163d41eee10ed755a7"
   }
 ]
