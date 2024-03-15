@@ -13390,5 +13390,17 @@
     "bmkgEarthquakeId": "20240314015614",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240314015614.mmi.jpg",
     "fingerprintSha1": "c1c2f0787e1421b5337a58163d41eee10ed755a7"
+  },
+  {
+    "earthquakeAt": "2024-03-15T01:29:19.000Z",
+    "latitude": -7.99,
+    "longitude": 108.1,
+    "magnitude": 4,
+    "depthInKm": 51,
+    "locationInIndonesian": "Pusat gempa berada di laut 54 Km Barat Daya Kab. Pangandaran",
+    "feltOnStations": "III Pangandaran, III Garut, III Cijulang, III Pamengpeuk, III Karangnunggal, II Pengalengan",
+    "bmkgEarthquakeId": "20240315082919",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240315082919.mmi.jpg",
+    "fingerprintSha1": "4ef4aea6be046e3cf97021671c681fbd63127d19"
   }
 ]
