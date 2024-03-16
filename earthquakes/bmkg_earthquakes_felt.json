@@ -13434,9 +13434,21 @@
     "magnitude": 4.9,
     "depthInKm": 37,
     "locationInIndonesian": "Pusat gempa berada di darat 16 km timur laut Kodi-Sumba Barat Daya",
-    "feltOnStations": "II Waingapu",
+    "feltOnStations": "II Waingapu, II Kodi, II Bima",
     "bmkgEarthquakeId": "20240316153356",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240316153356.mmi.jpg",
     "fingerprintSha1": "a114856164b6c44fc2c0b2ce59d78dbd0adc08ef"
+  },
+  {
+    "earthquakeAt": "2024-03-16T08:05:12.000Z",
+    "latitude": -2.06,
+    "longitude": 125.75,
+    "magnitude": 4.5,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di laut 135 km Barat Laut Airbuaya-Buru",
+    "feltOnStations": "III Sanana",
+    "bmkgEarthquakeId": "20240316150512",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240316150512.mmi.jpg",
+    "fingerprintSha1": "8f5e7aee2afc8784c8e5c27862626ee3aee960c5"
   }
 ]
