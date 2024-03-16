@@ -13414,5 +13414,17 @@
     "bmkgEarthquakeId": "20240315103738",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240315103738.mmi.jpg",
     "fingerprintSha1": "a34f3dd4b64be0b749b7392a7b4d72ab4122c73c"
+  },
+  {
+    "earthquakeAt": "2024-03-16T00:49:43.000Z",
+    "latitude": -8.19,
+    "longitude": 119.87,
+    "magnitude": 4.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di Laut 33 km BaratLaut Labuhan Bajo",
+    "feltOnStations": "II Labuhan Bajo",
+    "bmkgEarthquakeId": "20240316074943",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240316074943.mmi.jpg",
+    "fingerprintSha1": "644d4a1b50462d6d5832e6260e19f5d97187098b"
   }
 ]
