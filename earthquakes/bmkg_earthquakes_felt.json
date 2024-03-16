@@ -13426,5 +13426,17 @@
     "bmkgEarthquakeId": "20240316074943",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240316074943.mmi.jpg",
     "fingerprintSha1": "644d4a1b50462d6d5832e6260e19f5d97187098b"
+  },
+  {
+    "earthquakeAt": "2024-03-16T08:33:56.000Z",
+    "latitude": -9.45,
+    "longitude": 119.01,
+    "magnitude": 4.9,
+    "depthInKm": 37,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km timur laut Kodi-Sumba Barat Daya",
+    "feltOnStations": "II Waingapu",
+    "bmkgEarthquakeId": "20240316153356",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240316153356.mmi.jpg",
+    "fingerprintSha1": "a114856164b6c44fc2c0b2ce59d78dbd0adc08ef"
   }
 ]
