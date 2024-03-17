@@ -13450,5 +13450,17 @@
     "bmkgEarthquakeId": "20240316150512",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240316150512.mmi.jpg",
     "fingerprintSha1": "8f5e7aee2afc8784c8e5c27862626ee3aee960c5"
+  },
+  {
+    "earthquakeAt": "2024-03-17T09:36:45.000Z",
+    "latitude": -9.17,
+    "longitude": 119.14,
+    "magnitude": 4.3,
+    "depthInKm": 44,
+    "locationInIndonesian": "Pusat gempa berada di Laut 25 km Barat Laut TAMBOLAKA",
+    "feltOnStations": "II Bima, II Waingapu",
+    "bmkgEarthquakeId": "20240317163645",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240317163645.mmi.jpg",
+    "fingerprintSha1": "78b363457796ac0272505829c6075456b3441cfc"
   }
 ]
