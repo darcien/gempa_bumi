@@ -13462,5 +13462,17 @@
     "bmkgEarthquakeId": "20240317163645",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240317163645.mmi.jpg",
     "fingerprintSha1": "78b363457796ac0272505829c6075456b3441cfc"
+  },
+  {
+    "earthquakeAt": "2024-03-17T16:17:00.000Z",
+    "latitude": -9.34,
+    "longitude": 113.2,
+    "magnitude": 4.6,
+    "depthInKm": 30,
+    "locationInIndonesian": "Pusat gempa berada di laut 134 km BaratDaya Lumajang",
+    "feltOnStations": "II Lumajang, II Banyuwangi",
+    "bmkgEarthquakeId": "20240317231700",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240317231700.mmi.jpg",
+    "fingerprintSha1": "d13a6cb62c20ac80315f1cadc70b73521d8c5a39"
   }
 ]
