@@ -13474,5 +13474,17 @@
     "bmkgEarthquakeId": "20240317231700",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240317231700.mmi.jpg",
     "fingerprintSha1": "d13a6cb62c20ac80315f1cadc70b73521d8c5a39"
+  },
+  {
+    "earthquakeAt": "2024-03-19T11:11:46.000Z",
+    "latitude": -10.38,
+    "longitude": 123.85,
+    "magnitude": 3.5,
+    "depthInKm": 25,
+    "locationInIndonesian": "Pusat gempa berada di laut 43 km Barat Daya Kab. Kupang",
+    "feltOnStations": "II Kab. Kupang",
+    "bmkgEarthquakeId": "20240319181146",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240319181146.mmi.jpg",
+    "fingerprintSha1": "4c3dacc4fd14c48c409f2d06a398f07104407003"
   }
 ]
