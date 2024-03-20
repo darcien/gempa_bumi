@@ -13498,5 +13498,17 @@
     "bmkgEarthquakeId": "20240320093821",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240320093821.mmi.jpg",
     "fingerprintSha1": "4a9eb88576716600968bb310e280147124bd08e3"
+  },
+  {
+    "earthquakeAt": "2024-03-20T08:24:57.000Z",
+    "latitude": -2.09,
+    "longitude": 100.44,
+    "magnitude": 5.3,
+    "depthInKm": 21,
+    "locationInIndonesian": "Pusat gempa berada di laut 83 km Barat Daya Pesisir Selatan",
+    "feltOnStations": "II - III Mukomuko, II Padang, II-III Pesisir Selatan",
+    "bmkgEarthquakeId": "20240320152457",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240320152457.mmi.jpg",
+    "fingerprintSha1": "46c7be6beeae429150de58db24da6a1705e2922e"
   }
 ]
