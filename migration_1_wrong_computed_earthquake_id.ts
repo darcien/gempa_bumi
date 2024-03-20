@@ -1,5 +1,7 @@
 import { computeBmkgEarthquakeId, getBmkgShakeMapUrl } from "./bmkg_utils.ts";
-import oldData from "./earthquakes/bmkg_earthquakes_felt.json" assert { type: "json" };
+import oldData from "./earthquakes/bmkg_earthquakes_felt.json" with {
+  type: "json",
+};
 import { writeJsonFile } from "./utils.ts";
 
 const savePath = "./earthquakes/bmkg_earthquakes_felt.json";
@@ -11,7 +13,7 @@ const savePath = "./earthquakes/bmkg_earthquakes_felt.json";
 // to 2 digits, creating an invalid id.
 const fixedData = oldData.map((earthquake) => {
   const fixedEarthquakeId = computeBmkgEarthquakeId(
-    new Date(earthquake.earthquakeAt)
+    new Date(earthquake.earthquakeAt),
   );
   return {
     ...earthquake,

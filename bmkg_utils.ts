@@ -13,7 +13,7 @@ export function parseWibTextDate(text: string) {
   // as it will be evaluated against local timezone, not UTC.
   // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/Date
   return new Date(
-    `${year}-${month}-${day}T${hours}:${minutes}:${seconds}.000+07:00`
+    `${year}-${month}-${day}T${hours}:${minutes}:${seconds}.000+07:00`,
   );
 }
 
@@ -65,7 +65,7 @@ export function parseLatitudeLongitudeText(text: string) {
 export function parseDepthText(text: string) {
   if (!text.includes(" Km")) {
     throw new Error(
-      `Unexpected depth unit, received: '${text}', expected: 'xx Km'`
+      `Unexpected depth unit, received: '${text}', expected: 'xx Km'`,
     );
   }
 
