@@ -1,16 +1,19 @@
 # gempa_bumi
 
-Unofficial historical data of earthquakes from [Indonesia's BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)](https://www.bmkg.go.id/).
-The oldest data is earthquake on 2022-12-14.
+Historical data of earthquakes scraped from
+[Indonesia's BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)](https://www.bmkg.go.id/).
 
-## Quick links
+Check `earthquakes/` for the data. Or view it using [Flat Viewer][flatviewer].
+The oldest record is earthquake on 2022-12-14.
 
-- [Flat Viewer](https://flatgithub.com/darcien/gempa_bumi)
+[flatviewer]: https://flatgithub.com/darcien/gempa_bumi
 
-## Why
+## Attribution, license, data usage etc.
 
-[BMKG online portal](https://dataonline.bmkg.go.id/home) for downloading earthquakes historical data sucks, requires registering an account and filling service surveys, and is limited for the last 10 days data. It says I can contact them for more data, but I doubt I will get any responses from those official channels.
+The source code available here is licensed under the MIT license.
 
-## Inspiration
+I do not own the earthquakes data.
+The earthquakes data is owned by BMKG and should be attributed to them.
+For usage rights of the data, please contact [DATA ONLINE BMKG][dataonline].
 
-Inspiration from [previous attempt on git scraping](https://github.com/darcien/kapan_diskon) and all works listed in it.
+[dataonline]: https://dataonline.bmkg.go.id/home

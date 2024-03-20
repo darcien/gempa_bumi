@@ -1,2 +1,0 @@
-- scrape https://data.bmkg.go.id/DataMKG/TEWS/gempaterkini.json for magnitude >= 5
-- scrape https://data.bmkg.go.id/DataMKG/TEWS/autogempa.json for realtime, might not worth it because it requires running the scraper more often
