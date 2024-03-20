@@ -9897,7 +9897,10 @@
     "feltOnStations": "III-IV Rio Pakava",
     "bmkgEarthquakeId": "20241023175558",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241023175558.mmi.jpg",
-    "fingerprintSha1": "0bdb74bdf135bb04c96dd623aeed8f34aab6cd9a"
+    "fingerprintSha1": "0bdb74bdf135bb04c96dd623aeed8f34aab6cd9a",
+    "meta": {
+      "erroneousDataReason": "FUTURE_EARTHQUAKE"
+    }
   },
   {
     "earthquakeAt": "2023-10-23T10:55:58.000Z",

@@ -19,6 +19,8 @@ const depthSchema = z.custom<`${number} km`>((value) =>
   depthRegex.test(String(value))
 );
 
+const now = new Date();
+
 const bmkgApiResSchema = z
   .object({
     Infogempa: z.object({
@@ -42,14 +44,14 @@ const bmkgApiResSchema = z
           // Not using z.coerce.number() here as it uses Number(...)
           Magnitude: z.preprocess(
             (value) => parseFloat(String(value)),
-            z.number()
+            z.number(),
           ),
           Kedalaman: depthSchema.transform((arg) =>
             parseFloat(arg.split(" km").shift() || "")
           ),
           Wilayah: z.string(),
           Dirasakan: z.string(),
-        })
+        }),
       ),
     }),
   })
@@ -68,6 +70,8 @@ const bmkgApiResSchema = z
         // so this field is unstable.
         feltOnStations: earthquake.Dirasakan,
       };
+
+      const isFutureEarthquake = fresh.earthquakeAt > now;
 
       // Looking at the DOM,
       // looks like BMKG site use the date for keying the earthquake,
@@ -98,7 +102,10 @@ const bmkgApiResSchema = z
           magnitude: fresh.magnitude,
           depthInKm: fresh.depthInKm,
         }),
-      };
+        ...(isFutureEarthquake
+          ? { meta: { erroneousDataReason: "FUTURE_EARTHQUAKE" } }
+          : null),
+      } satisfies Earthquake;
     })
   );
 
@@ -107,7 +114,9 @@ enum MergeKey {
   BmkgEarthquakeId = "bmkgEarthquakeId",
 }
 
-type Earthquake = {
+type ErroneousDataReason = "FUTURE_EARTHQUAKE";
+
+export type Earthquake = {
   bmkgEarthquakeId: string;
   fingerprintSha1: string;
   earthquakeAt: string;
@@ -118,6 +127,7 @@ type Earthquake = {
   locationInIndonesian: string;
   feltOnStations: string;
   shakeMapUrl: string;
+  meta?: { erroneousDataReason?: ErroneousDataReason };
 };
 
 type FreshEarthquakes = z.infer<typeof bmkgApiResSchema>;
@@ -128,11 +138,11 @@ function mergeFeltEarthquakes(
   freshEarthquakes: Array<FreshEarthquake>,
   options: {
     mergeKey: MergeKey;
-  }
+  },
 ): Array<Earthquake> {
   const { mergeKey } = options;
   const merged = new Map(
-    staleEarthquakes.map((earthquake) => [earthquake[mergeKey], earthquake])
+    staleEarthquakes.map((earthquake) => [earthquake[mergeKey], earthquake]),
   );
 
   freshEarthquakes.forEach((fresh) => {
@@ -145,7 +155,7 @@ function mergeFeltEarthquakes(
           arrays: "replace",
           maps: "replace",
           sets: "replace",
-        })
+        }),
       );
     } else {
       merged.set(key, fresh);
