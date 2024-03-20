@@ -23,5 +23,8 @@
   "peacock.color": "#6b88c7",
   "explorer.fileNesting.patterns": {
     "*.ts": "${capture}.js, ${capture}_test.ts"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
   }
 }
