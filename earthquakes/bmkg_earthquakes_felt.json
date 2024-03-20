@@ -13486,5 +13486,17 @@
     "bmkgEarthquakeId": "20240319181146",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240319181146.mmi.jpg",
     "fingerprintSha1": "4c3dacc4fd14c48c409f2d06a398f07104407003"
+  },
+  {
+    "earthquakeAt": "2024-03-20T02:38:21.000Z",
+    "latitude": -6.95,
+    "longitude": 111.46,
+    "magnitude": 2.8,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km TimurLaut Blora",
+    "feltOnStations": "III Kec. Jepon",
+    "bmkgEarthquakeId": "20240320093821",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240320093821.mmi.jpg",
+    "fingerprintSha1": "4a9eb88576716600968bb310e280147124bd08e3"
   }
 ]
