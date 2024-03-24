@@ -13693,5 +13693,17 @@
     "bmkgEarthquakeId": "20240324223406",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240324223406.mmi.jpg",
     "fingerprintSha1": "09834d5d2c2cd975d29370567d5eaa8450ca43da"
+  },
+  {
+    "earthquakeAt": "2024-03-24T19:49:06.000Z",
+    "latitude": 4.26,
+    "longitude": 96.86,
+    "magnitude": 4.9,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 40 km Tenggara Takengon-Aceh Tengah",
+    "feltOnStations": "II-III Gayo Lues",
+    "bmkgEarthquakeId": "20240325024906",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240325024906.mmi.jpg",
+    "fingerprintSha1": "1e1b84a8e7db7b944f17f9a6bc7142e69a766688"
   }
 ]
