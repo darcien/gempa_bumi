@@ -13681,5 +13681,17 @@
     "bmkgEarthquakeId": "20240321174532",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240321174532.mmi.jpg",
     "fingerprintSha1": "49582dc2f8131d250d1364ed18e28c87d7d74c7a"
+  },
+  {
+    "earthquakeAt": "2024-03-24T15:34:06.000Z",
+    "latitude": -7.84,
+    "longitude": 108.62,
+    "magnitude": 4.7,
+    "depthInKm": 80,
+    "locationInIndonesian": "Pusat gempa berada di laut 20 km Tenggara Kabupaten Pangandaran",
+    "feltOnStations": "III Pangandaran, II-III Tasikmalaya, II-III Cilacap, II Banyumas",
+    "bmkgEarthquakeId": "20240324223406",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240324223406.mmi.jpg",
+    "fingerprintSha1": "09834d5d2c2cd975d29370567d5eaa8450ca43da"
   }
 ]
