@@ -6,7 +6,7 @@ Historical data of earthquakes scraped from
 Check `earthquakes/` for the data. Or view it using [Flat Viewer][flatviewer].
 The oldest record is earthquake on 2022-12-14.
 
-[flatviewer]: https://flatgithub.com/darcien/gempa_bumi
+[flatviewer]: https://flatgithub.com/darcien/gempa_bumi?filename=earthquakes%2Fbmkg_earthquakes_felt.json
 
 ## Attribution, license, data usage etc.
 
