@@ -13729,5 +13729,17 @@
     "bmkgEarthquakeId": "20240325185424",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240325185424.mmi.jpg",
     "fingerprintSha1": "243b805adc9c4fdf1fcaded162dc8dd38a6f4b43"
+  },
+  {
+    "earthquakeAt": "2024-03-25T12:37:05.000Z",
+    "latitude": -1.58,
+    "longitude": 120.21,
+    "magnitude": 4.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km Utara Doda",
+    "feltOnStations": "III Lore Utara, III Lore Peore, II-III Kulawi",
+    "bmkgEarthquakeId": "20240325193705",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240325193705.mmi.jpg",
+    "fingerprintSha1": "80501e225a42c3e305ca6ff555b9dc427f65f20c"
   }
 ]
