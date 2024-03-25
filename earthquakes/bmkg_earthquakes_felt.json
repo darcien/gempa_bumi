@@ -13749,7 +13749,7 @@
     "magnitude": 3.6,
     "depthInKm": 7,
     "locationInIndonesian": "Pusat gempa berada di darat 36 km Timur Laut Bone",
-    "feltOnStations": "III Watampone, III Mare",
+    "feltOnStations": "III Watampone, III Mare, III Sibulue",
     "bmkgEarthquakeId": "20240325202138",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240325202138.mmi.jpg",
     "fingerprintSha1": "3f93cc3f551c91ba25a8c191f90da5ff1946999f"
