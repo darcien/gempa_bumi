@@ -13813,5 +13813,17 @@
     "bmkgEarthquakeId": "20240326040554",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240326040554.mmi.jpg",
     "fingerprintSha1": "166fb61549478b274d581c7018d9bfa7a1cdea5e"
+  },
+  {
+    "earthquakeAt": "2024-03-25T21:42:09.000Z",
+    "latitude": -1.62,
+    "longitude": 120.35,
+    "magnitude": 3.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 Km Timur Laut Doda, Kab.Poso",
+    "feltOnStations": "II-III Poso",
+    "bmkgEarthquakeId": "20240326044209",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240326044209.mmi.jpg",
+    "fingerprintSha1": "b73343c6d5bcf8adafe800e011208770f6e0edbf"
   }
 ]
