@@ -13777,5 +13777,17 @@
     "bmkgEarthquakeId": "20240325204050",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240325204050.mmi.jpg",
     "fingerprintSha1": "7c6eb54ab521985fb711146100edd77c9988770c"
+  },
+  {
+    "earthquakeAt": "2024-03-25T17:36:36.000Z",
+    "latitude": 0.83,
+    "longitude": 125.4,
+    "magnitude": 4.8,
+    "depthInKm": 40,
+    "locationInIndonesian": "Pusat gempa berada di laut 71 km Tenggara Ratahan",
+    "feltOnStations": "II-III Bitung, II Manado, II Tondano",
+    "bmkgEarthquakeId": "20240326003636",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240326003636.mmi.jpg",
+    "fingerprintSha1": "1b5746af2e325837c1bc29163c1cce7425aa19e5"
   }
 ]
