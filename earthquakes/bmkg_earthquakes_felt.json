@@ -13741,5 +13741,17 @@
     "bmkgEarthquakeId": "20240325193705",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240325193705.mmi.jpg",
     "fingerprintSha1": "80501e225a42c3e305ca6ff555b9dc427f65f20c"
+  },
+  {
+    "earthquakeAt": "2024-03-25T13:21:38.000Z",
+    "latitude": -4.64,
+    "longitude": 120.38,
+    "magnitude": 3.6,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 36 km Timur Laut Bone",
+    "feltOnStations": "III Watampone, III Mare",
+    "bmkgEarthquakeId": "20240325202138",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240325202138.mmi.jpg",
+    "fingerprintSha1": "3f93cc3f551c91ba25a8c191f90da5ff1946999f"
   }
 ]
