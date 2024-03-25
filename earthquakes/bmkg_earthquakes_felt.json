@@ -13825,5 +13825,17 @@
     "bmkgEarthquakeId": "20240326044209",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240326044209.mmi.jpg",
     "fingerprintSha1": "b73343c6d5bcf8adafe800e011208770f6e0edbf"
+  },
+  {
+    "earthquakeAt": "2024-03-25T22:06:04.000Z",
+    "latitude": -6.82,
+    "longitude": 108.09,
+    "magnitude": 3.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 Km Barat Laut Kab.Majalengka",
+    "feltOnStations": "II Bandung Barat, II Sumedang",
+    "bmkgEarthquakeId": "20240326050604",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240326050604.mmi.jpg",
+    "fingerprintSha1": "88c9a5f7c613c5f9a5424ba9957e0b8fab73ca9d"
   }
 ]
