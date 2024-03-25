@@ -13717,5 +13717,17 @@
     "bmkgEarthquakeId": "20240325025507",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240325025507.mmi.jpg",
     "fingerprintSha1": "e14086262d9fce254743f53c13d6c4ddcaa4c3f0"
+  },
+  {
+    "earthquakeAt": "2024-03-25T11:54:24.000Z",
+    "latitude": 1.14,
+    "longitude": 113,
+    "magnitude": 4.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 34 km Barat Laut Kapuas Hulu",
+    "feltOnStations": "III Kapuas Hulu, III Putusibau",
+    "bmkgEarthquakeId": "20240325185424",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240325185424.mmi.jpg",
+    "fingerprintSha1": "243b805adc9c4fdf1fcaded162dc8dd38a6f4b43"
   }
 ]
