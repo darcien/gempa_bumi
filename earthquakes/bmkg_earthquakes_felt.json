@@ -13861,5 +13861,17 @@
     "bmkgEarthquakeId": "20240326141412",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240326141412.mmi.jpg",
     "fingerprintSha1": "239da674b625b8a2fcaba0ba56292dc0de39f761"
+  },
+  {
+    "earthquakeAt": "2024-03-26T08:29:20.000Z",
+    "latitude": -4.38,
+    "longitude": 122.64,
+    "magnitude": 3.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat, 4.1 km TimurLaut Lainea, Kab. Konawe Selatan",
+    "feltOnStations": "II-III Konawe Selatan",
+    "bmkgEarthquakeId": "20240326152920",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240326152920.mmi.jpg",
+    "fingerprintSha1": "13dd04e78dc5353c9318db2eff4672ff0fe6fc99"
   }
 ]
