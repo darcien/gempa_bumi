@@ -13885,5 +13885,17 @@
     "bmkgEarthquakeId": "20240326215410",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240326215410.mmi.jpg",
     "fingerprintSha1": "91f728c4c442ebe01cc612ed110cde3820c765fd"
+  },
+  {
+    "earthquakeAt": "2024-03-27T08:10:12.000Z",
+    "latitude": -2.14,
+    "longitude": 136.64,
+    "magnitude": 4.1,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada didarat 31km TimurLaut Waropen",
+    "feltOnStations": "II Serui",
+    "bmkgEarthquakeId": "20240327151012",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240327151012.mmi.jpg",
+    "fingerprintSha1": "0c67f579cd08486e33a8016f7c741edc85c9fee6"
   }
 ]
