@@ -13897,5 +13897,17 @@
     "bmkgEarthquakeId": "20240327151012",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240327151012.mmi.jpg",
     "fingerprintSha1": "0c67f579cd08486e33a8016f7c741edc85c9fee6"
+  },
+  {
+    "earthquakeAt": "2024-03-27T19:46:59.000Z",
+    "latitude": -8.5,
+    "longitude": 116.87,
+    "magnitude": 3.2,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km BaratDaya Pulaupanjang",
+    "feltOnStations": "II Kab Sumbawa",
+    "bmkgEarthquakeId": "20240328024659",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240328024659.mmi.jpg",
+    "fingerprintSha1": "c6576d3fd8a8d8b9c7061f10d72f1ab70a1d027a"
   }
 ]
