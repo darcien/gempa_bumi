@@ -13909,5 +13909,17 @@
     "bmkgEarthquakeId": "20240328024659",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240328024659.mmi.jpg",
     "fingerprintSha1": "c6576d3fd8a8d8b9c7061f10d72f1ab70a1d027a"
+  },
+  {
+    "earthquakeAt": "2024-03-28T02:28:14.000Z",
+    "latitude": -3.66,
+    "longitude": 116.15,
+    "magnitude": 3.3,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 68 km Tenggara Tanah Bumbu",
+    "feltOnStations": "II-III Kotabaru",
+    "bmkgEarthquakeId": "20240328092814",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240328092814.mmi.jpg",
+    "fingerprintSha1": "2d186a868d83eb32b7040eb6569f751c5726549c"
   }
 ]
