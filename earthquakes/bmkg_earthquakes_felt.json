@@ -13933,5 +13933,17 @@
     "bmkgEarthquakeId": "20240328150152",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240328150152.mmi.jpg",
     "fingerprintSha1": "940a26ed64ad29dc2042e7fc34a51a66533f5d21"
+  },
+  {
+    "earthquakeAt": "2024-03-28T21:23:03.000Z",
+    "latitude": -5.86,
+    "longitude": 112.52,
+    "magnitude": 4.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 127 km TimurLaut Tuban",
+    "feltOnStations": "II-III Bawean, II-III Lamongan, II-III Gresik, II-III Tuban, II Pati, II Rembang",
+    "bmkgEarthquakeId": "20240329042303",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240329042303.mmi.jpg",
+    "fingerprintSha1": "5b454d0e4d1bf984cb32ecb6c5da3b4fdede3bbc"
   }
 ]
