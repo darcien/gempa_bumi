@@ -13921,5 +13921,17 @@
     "bmkgEarthquakeId": "20240328092814",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240328092814.mmi.jpg",
     "fingerprintSha1": "2d186a868d83eb32b7040eb6569f751c5726549c"
+  },
+  {
+    "earthquakeAt": "2024-03-28T08:01:52.000Z",
+    "latitude": -9.3,
+    "longitude": 110.17,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di Laut 153 Km BaratDaya Gunung Kidul",
+    "feltOnStations": "III Kulonprogo, II Bantul, II Pacitan, II Trenggalek, II Wonogiri",
+    "bmkgEarthquakeId": "20240328150152",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240328150152.mmi.jpg",
+    "fingerprintSha1": "940a26ed64ad29dc2042e7fc34a51a66533f5d21"
   }
 ]
