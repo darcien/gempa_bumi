@@ -13945,5 +13945,17 @@
     "bmkgEarthquakeId": "20240329042303",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240329042303.mmi.jpg",
     "fingerprintSha1": "5b454d0e4d1bf984cb32ecb6c5da3b4fdede3bbc"
+  },
+  {
+    "earthquakeAt": "2024-03-29T14:22:42.000Z",
+    "latitude": -6.73,
+    "longitude": 106.63,
+    "magnitude": 3,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 23 km Barat Daya Kota Bogor",
+    "feltOnStations": "II-III Pamijahan, II-III Kalapanunggal, II Bogor",
+    "bmkgEarthquakeId": "20240329212242",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240329212242.mmi.jpg",
+    "fingerprintSha1": "cf62aefc7b353cf6569c6fcf1bed86747bcc3f1a"
   }
 ]
