@@ -14029,5 +14029,17 @@
     "bmkgEarthquakeId": "20240401032120",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240401032120.mmi.jpg",
     "fingerprintSha1": "b800fa3210899080f615043f2b248e42e45919f4"
+  },
+  {
+    "earthquakeAt": "2024-03-31T23:05:19.000Z",
+    "latitude": -5.73,
+    "longitude": 122.64,
+    "magnitude": 3.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut, 13.2 km BaratDaya Sampolawa",
+    "feltOnStations": "II-III Buton Selatan",
+    "bmkgEarthquakeId": "20240401060519",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240401060519.mmi.jpg",
+    "fingerprintSha1": "c4487584ef1aaa2bce1928dd3086a18b752b3ce8"
   }
 ]
