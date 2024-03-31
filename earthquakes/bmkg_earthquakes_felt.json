@@ -13993,5 +13993,17 @@
     "bmkgEarthquakeId": "20240331044318",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240331044318.mmi.jpg",
     "fingerprintSha1": "6e914d2d3021b9cbd6e4a93aa4a64a56e94ecdad"
+  },
+  {
+    "earthquakeAt": "2024-03-31T06:09:31.000Z",
+    "latitude": -3.73,
+    "longitude": 114.78,
+    "magnitude": 2.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 5km Barat Laut TANAH LAUT",
+    "feltOnStations": "I-II Pelaihari",
+    "bmkgEarthquakeId": "20240331130931",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240331130931.mmi.jpg",
+    "fingerprintSha1": "0926d814342047933e668f9f66a55547a90153c4"
   }
 ]
