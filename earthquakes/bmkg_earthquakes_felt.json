@@ -14053,5 +14053,17 @@
     "bmkgEarthquakeId": "20240401172626",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240401172626.mmi.jpg",
     "fingerprintSha1": "3449a3b006e2c973868f1c9f3431a98667a638ca"
+  },
+  {
+    "earthquakeAt": "2024-04-01T12:43:23.000Z",
+    "latitude": -3.47,
+    "longitude": 120.35,
+    "magnitude": 3.2,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km Tenggara Luwu",
+    "feltOnStations": "II-III Bajo, II-III Belopa",
+    "bmkgEarthquakeId": "20240401194323",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240401194323.mmi.jpg",
+    "fingerprintSha1": "460861940733348e932d9f436b79f14df830f483"
   }
 ]
