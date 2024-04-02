@@ -14065,5 +14065,17 @@
     "bmkgEarthquakeId": "20240401194323",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240401194323.mmi.jpg",
     "fingerprintSha1": "460861940733348e932d9f436b79f14df830f483"
+  },
+  {
+    "earthquakeAt": "2024-04-02T14:05:23.000Z",
+    "latitude": -1.38,
+    "longitude": 115.52,
+    "magnitude": 2.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada didarat 54Km BaratLaut Tabalong",
+    "feltOnStations": "II Banjarmasin",
+    "bmkgEarthquakeId": "20240402210523",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240402210523.mmi.jpg",
+    "fingerprintSha1": "eea3329da28c883fd5f609e7d29c4489127944ba"
   }
 ]
