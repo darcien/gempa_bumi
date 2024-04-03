@@ -14089,5 +14089,17 @@
     "bmkgEarthquakeId": "20240403013548",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240403013548.mmi.jpg",
     "fingerprintSha1": "ea994c07aa2a17aef5689fe4442305037f9a3b04"
+  },
+  {
+    "earthquakeAt": "2024-04-03T09:02:16.000Z",
+    "latitude": -5.73,
+    "longitude": 112.37,
+    "magnitude": 5.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 134 km Timur Laut Tuban",
+    "feltOnStations": "II-III Surabaya, II-III Tuban, II-III Gresik , II-III Kendal, II-III Blora, II-III Bojonegoro",
+    "bmkgEarthquakeId": "20240403160216",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240403160216.mmi.jpg",
+    "fingerprintSha1": "d4283a234e1c6a0558ee411269713f1b7123976b"
   }
 ]
