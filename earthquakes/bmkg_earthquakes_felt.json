@@ -14097,7 +14097,7 @@
     "magnitude": 5.6,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 134 km Timur Laut Tuban",
-    "feltOnStations": "II-III Surabaya, II-III Tuban, II-III Gresik , II-III Kendal, II-III Blora, II-III Bojonegoro",
+    "feltOnStations": "II-III Surabaya, II-III Tuban, II-III Gresik , II-III Kendal, II-III Blora, II-III Bojonegoro, III-IV Bawean",
     "bmkgEarthquakeId": "20240403160216",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240403160216.mmi.jpg",
     "fingerprintSha1": "d4283a234e1c6a0558ee411269713f1b7123976b"
