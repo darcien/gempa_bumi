@@ -14113,5 +14113,17 @@
     "bmkgEarthquakeId": "20240404175151",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240404175151.mmi.jpg",
     "fingerprintSha1": "bebf12cde518b5215cc8226a13c2e411954cf5dc"
+  },
+  {
+    "earthquakeAt": "2024-04-06T08:24:31.000Z",
+    "latitude": -3.06,
+    "longitude": 138.36,
+    "magnitude": 5.2,
+    "depthInKm": 101,
+    "locationInIndonesian": "Pusat gempa berada didarat 48 Km Barat Laut Tolikara",
+    "feltOnStations": "II Wamena",
+    "bmkgEarthquakeId": "20240406152431",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240406152431.mmi.jpg",
+    "fingerprintSha1": "7c9697c7dcbd007358789e26ec206359a7785019"
   }
 ]
