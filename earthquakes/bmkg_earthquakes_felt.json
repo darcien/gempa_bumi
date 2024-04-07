@@ -14137,5 +14137,17 @@
     "bmkgEarthquakeId": "20240407215719",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240407215719.mmi.jpg",
     "fingerprintSha1": "386d8986422d1f2a9c6700abc0661b2628430a71"
+  },
+  {
+    "earthquakeAt": "2024-04-07T17:46:19.000Z",
+    "latitude": -6.62,
+    "longitude": 103.97,
+    "magnitude": 5.4,
+    "depthInKm": 64,
+    "locationInIndonesian": "Pusat gempa berada di laut 149 km Barat daya Tanggamus",
+    "feltOnStations": "II Krui",
+    "bmkgEarthquakeId": "20240408004619",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240408004619.mmi.jpg",
+    "fingerprintSha1": "c1f920b52f004bca8505f7b169dd090b82ecf6b8"
   }
 ]
