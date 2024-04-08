@@ -14161,5 +14161,17 @@
     "bmkgEarthquakeId": "20240408095053",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240408095053.mmi.jpg",
     "fingerprintSha1": "2fef31a2c57a89bb718d767965554ed461c3569f"
+  },
+  {
+    "earthquakeAt": "2024-04-08T07:07:59.000Z",
+    "latitude": -7.26,
+    "longitude": 107.64,
+    "magnitude": 2.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 28 km BaratDaya KAB-GARUT",
+    "feltOnStations": "II Kec. Majalaya, II Kec. Kertasari",
+    "bmkgEarthquakeId": "20240408140759",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240408140759.mmi.jpg",
+    "fingerprintSha1": "f278bb2c9e0a7cc62b45ae15bdd924176899c8e9"
   }
 ]
