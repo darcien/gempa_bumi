@@ -14173,5 +14173,17 @@
     "bmkgEarthquakeId": "20240408140759",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240408140759.mmi.jpg",
     "fingerprintSha1": "f278bb2c9e0a7cc62b45ae15bdd924176899c8e9"
+  },
+  {
+    "earthquakeAt": "2024-04-08T13:31:32.000Z",
+    "latitude": -7.31,
+    "longitude": 106.57,
+    "magnitude": 3.4,
+    "depthInKm": 34,
+    "locationInIndonesian": "Pusat gempa berada di darat 35 km Tenggara Kab.Sukabumi",
+    "feltOnStations": "II Sukabumi",
+    "bmkgEarthquakeId": "20240408203132",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240408203132.mmi.jpg",
+    "fingerprintSha1": "d9811e622d10bb76315bc542cc2ee9885816d943"
   }
 ]
