@@ -14149,5 +14149,17 @@
     "bmkgEarthquakeId": "20240408004619",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240408004619.mmi.jpg",
     "fingerprintSha1": "c1f920b52f004bca8505f7b169dd090b82ecf6b8"
+  },
+  {
+    "earthquakeAt": "2024-04-08T02:50:53.000Z",
+    "latitude": -8.63,
+    "longitude": 118.39,
+    "magnitude": 4.1,
+    "depthInKm": 117,
+    "locationInIndonesian": "Pusat gempa berada di laut 13 km BaratDaya Dompu",
+    "feltOnStations": "II Dompu",
+    "bmkgEarthquakeId": "20240408095053",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240408095053.mmi.jpg",
+    "fingerprintSha1": "2fef31a2c57a89bb718d767965554ed461c3569f"
   }
 ]
