@@ -14209,5 +14209,17 @@
     "bmkgEarthquakeId": "20240409070253",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240409070253.mmi.jpg",
     "fingerprintSha1": "7280f3896366692116b7f275567b2310291de1cb"
+  },
+  {
+    "earthquakeAt": "2024-04-09T09:48:01.000Z",
+    "latitude": 2.75,
+    "longitude": 127.14,
+    "magnitude": 6.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 87 km Barat Laut Pulau Doi",
+    "feltOnStations": "IV Morotai Selatan, III - IV Halmahera Barat , III-IV Sofifi, II-III Halmahera Tengah , III Manado , III Kota Ternate , II Minhasa Utara",
+    "bmkgEarthquakeId": "20240409164801",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240409164801.mmi.jpg",
+    "fingerprintSha1": "90bb207a8654c441c10cb23e94cb4b93ae002f5c"
   }
 ]
