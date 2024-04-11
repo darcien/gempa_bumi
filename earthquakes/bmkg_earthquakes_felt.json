@@ -14245,5 +14245,17 @@
     "bmkgEarthquakeId": "20240411214257",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240411214257.mmi.jpg",
     "fingerprintSha1": "638888457acfd2fc5aef5950abc6c43eb6c13389"
+  },
+  {
+    "earthquakeAt": "2024-04-11T15:50:23.000Z",
+    "latitude": -2.72,
+    "longitude": 129.39,
+    "magnitude": 4.9,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 14 km barat laut Wahai-Maluku Tengah",
+    "feltOnStations": "III Seram Utara",
+    "bmkgEarthquakeId": "20240411225023",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240411225023.mmi.jpg",
+    "fingerprintSha1": "66071878e510a35ac4fededad3c6ab797d8b3906"
   }
 ]
