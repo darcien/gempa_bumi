@@ -14233,5 +14233,17 @@
     "bmkgEarthquakeId": "20240411145528",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240411145528.mmi.jpg",
     "fingerprintSha1": "9a68cde34ed46e22026234f90df853b1d5f0de84"
+  },
+  {
+    "earthquakeAt": "2024-04-11T14:42:57.000Z",
+    "latitude": -8.12,
+    "longitude": 115.27,
+    "magnitude": 3.1,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 19 km Tenggara Buleleng",
+    "feltOnStations": "III Buleleng",
+    "bmkgEarthquakeId": "20240411214257",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240411214257.mmi.jpg",
+    "fingerprintSha1": "638888457acfd2fc5aef5950abc6c43eb6c13389"
   }
 ]
