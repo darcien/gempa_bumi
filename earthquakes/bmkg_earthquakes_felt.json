@@ -14269,5 +14269,17 @@
     "bmkgEarthquakeId": "20240412214340",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240412214340.mmi.jpg",
     "fingerprintSha1": "d57f7e2f79c03a672255778a7b023f94bfbdd720"
+  },
+  {
+    "earthquakeAt": "2024-04-13T16:40:55.000Z",
+    "latitude": 2.18,
+    "longitude": 126.72,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 118 km barat daya Pulaudoi",
+    "feltOnStations": "II-III Manado",
+    "bmkgEarthquakeId": "20240413234055",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240413234055.mmi.jpg",
+    "fingerprintSha1": "1c7153917e13ddee57643d06f17de5559ae98a5d"
   }
 ]
