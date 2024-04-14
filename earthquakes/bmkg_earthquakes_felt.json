@@ -14281,5 +14281,17 @@
     "bmkgEarthquakeId": "20240413234055",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240413234055.mmi.jpg",
     "fingerprintSha1": "1c7153917e13ddee57643d06f17de5559ae98a5d"
+  },
+  {
+    "earthquakeAt": "2024-04-14T08:57:36.000Z",
+    "latitude": 3,
+    "longitude": 97.42,
+    "magnitude": 4.2,
+    "depthInKm": 16,
+    "locationInIndonesian": "Pusat gempa berada di darat 37 km Tenggara Kab. Aceh Selatan",
+    "feltOnStations": "III-IV Aceh Selatan",
+    "bmkgEarthquakeId": "20240414155736",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240414155736.mmi.jpg",
+    "fingerprintSha1": "30b4790e5c216aa356b600bd31297da0d6c0dba0"
   }
 ]
