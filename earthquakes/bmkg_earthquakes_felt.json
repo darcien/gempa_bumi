@@ -14293,5 +14293,17 @@
     "bmkgEarthquakeId": "20240414155736",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240414155736.mmi.jpg",
     "fingerprintSha1": "30b4790e5c216aa356b600bd31297da0d6c0dba0"
+  },
+  {
+    "earthquakeAt": "2024-04-16T03:18:23.000Z",
+    "latitude": -7.37,
+    "longitude": 106.07,
+    "magnitude": 4.7,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di Laut 52 Km Barat Daya Bayah",
+    "feltOnStations": "II Cibadak, II Sukabumi",
+    "bmkgEarthquakeId": "20240416101823",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240416101823.mmi.jpg",
+    "fingerprintSha1": "45f91f25272ac3f2f49d2b68f066198c281e1da5"
   }
 ]
