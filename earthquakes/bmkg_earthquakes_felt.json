@@ -14317,5 +14317,17 @@
     "bmkgEarthquakeId": "20240416231022",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240416231022.mmi.jpg",
     "fingerprintSha1": "bef1f0ed128dbc16dcca8ac54ee7ff42ea5fe056"
+  },
+  {
+    "earthquakeAt": "2024-04-17T03:55:39.000Z",
+    "latitude": -1.53,
+    "longitude": 134.61,
+    "magnitude": 4.9,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di laut 49 km tenggara Ransiki",
+    "feltOnStations": "II Manokwari",
+    "bmkgEarthquakeId": "20240417105539",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240417105539.mmi.jpg",
+    "fingerprintSha1": "f8fed5f0e68ff009b7a1c229293997217d86afa9"
   }
 ]
