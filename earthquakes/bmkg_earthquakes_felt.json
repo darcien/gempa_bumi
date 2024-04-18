@@ -14365,5 +14365,17 @@
     "bmkgEarthquakeId": "20240417153230",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240417153230.mmi.jpg",
     "fingerprintSha1": "7620d4f24f8a44edc5821aa972cb4fa4ad3f0cbb"
+  },
+  {
+    "earthquakeAt": "2024-04-18T06:03:40.000Z",
+    "latitude": -0.69,
+    "longitude": 133.53,
+    "magnitude": 3.9,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di darat 54 km timur laut Kebar, Manokwari",
+    "feltOnStations": "II-III Kebar",
+    "bmkgEarthquakeId": "20240418130340",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240418130340.mmi.jpg",
+    "fingerprintSha1": "6c4b87555d7d3c13c7fdaff59a0a95bc255e14ee"
   }
 ]
