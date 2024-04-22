@@ -14437,5 +14437,17 @@
     "bmkgEarthquakeId": "20240422160516",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240422160516.mmi.jpg",
     "fingerprintSha1": "c6460826a3360b0e9e628ee750b565b07d6e3c6c"
+  },
+  {
+    "earthquakeAt": "2024-04-22T11:10:47.000Z",
+    "latitude": -9.11,
+    "longitude": 111.31,
+    "magnitude": 5.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 105 km Tenggara Pacitan",
+    "feltOnStations": "II-III Pacitan, II-III Trenggalek, II-III Gunung Kidul, II Bantul, II Kota Yogyakarta, II Kulonprogo, II Blitar, II Blora, II-III Wonogiri",
+    "bmkgEarthquakeId": "20240422181047",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240422181047.mmi.jpg",
+    "fingerprintSha1": "60a6e769bc5a908a278746153df6a00be6bc84d7"
   }
 ]
