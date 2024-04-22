@@ -14413,5 +14413,17 @@
     "bmkgEarthquakeId": "20240422100313",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240422100313.mmi.jpg",
     "fingerprintSha1": "96ee041fb9572b101df0e2e91f24d43276ab1b0a"
+  },
+  {
+    "earthquakeAt": "2024-04-22T06:06:05.000Z",
+    "latitude": -2.04,
+    "longitude": 100.65,
+    "magnitude": 4.6,
+    "depthInKm": 27,
+    "locationInIndonesian": "Pusat gempa berada di laut 30 Km Baratdaya Airhaji Pesisir Selatan",
+    "feltOnStations": "III Pesisir Selatan, III Padang, II Kerinci",
+    "bmkgEarthquakeId": "20240422130605",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240422130605.mmi.jpg",
+    "fingerprintSha1": "292cc63b254252db3042294246311a38a76a5436"
   }
 ]
