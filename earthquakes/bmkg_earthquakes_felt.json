@@ -14401,5 +14401,17 @@
     "bmkgEarthquakeId": "20240422074802",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240422074802.mmi.jpg",
     "fingerprintSha1": "0874311586daca77cb998187fb878511ddab6747"
+  },
+  {
+    "earthquakeAt": "2024-04-22T03:03:13.000Z",
+    "latitude": 1.09,
+    "longitude": 127.02,
+    "magnitude": 4.6,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 49 km Baratlaut Jailolo",
+    "feltOnStations": "III-IV Ternate",
+    "bmkgEarthquakeId": "20240422100313",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240422100313.mmi.jpg",
+    "fingerprintSha1": "96ee041fb9572b101df0e2e91f24d43276ab1b0a"
   }
 ]
