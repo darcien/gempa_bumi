@@ -14425,5 +14425,17 @@
     "bmkgEarthquakeId": "20240422130605",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240422130605.mmi.jpg",
     "fingerprintSha1": "292cc63b254252db3042294246311a38a76a5436"
+  },
+  {
+    "earthquakeAt": "2024-04-22T09:05:16.000Z",
+    "latitude": -7.1,
+    "longitude": 111.85,
+    "magnitude": 3.3,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km BaratLaut Bojonegoro",
+    "feltOnStations": "II-III Tuban, III Bojonegoro",
+    "bmkgEarthquakeId": "20240422160516",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240422160516.mmi.jpg",
+    "fingerprintSha1": "c6460826a3360b0e9e628ee750b565b07d6e3c6c"
   }
 ]
