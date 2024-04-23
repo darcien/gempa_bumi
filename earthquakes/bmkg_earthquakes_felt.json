@@ -14461,5 +14461,17 @@
     "bmkgEarthquakeId": "20240422181848",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240422181848.mmi.jpg",
     "fingerprintSha1": "0a6933085216b797d19ffa36caf6f343b322a52f"
+  },
+  {
+    "earthquakeAt": "2024-04-23T16:48:15.000Z",
+    "latitude": -0.82,
+    "longitude": 127.39,
+    "magnitude": 3.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di Laut 23 Km Barat Daya Labuha",
+    "feltOnStations": "III Labuha",
+    "bmkgEarthquakeId": "20240423234815",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240423234815.mmi.jpg",
+    "fingerprintSha1": "721f6bc4f648578017f6de6d282c79681385c1d4"
   }
 ]
