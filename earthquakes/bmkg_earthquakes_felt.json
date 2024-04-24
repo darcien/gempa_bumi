@@ -14505,7 +14505,7 @@
     "magnitude": 5.3,
     "depthInKm": 156,
     "locationInIndonesian": "Pusat gempa berada di laut 45 km Tenggara Boalemo",
-    "feltOnStations": "III-IV Gorontalo",
+    "feltOnStations": "III-IV Gorontalo, IV Kab. Bone Bolango, III-IV Kab. Gorontalo",
     "bmkgEarthquakeId": "20240425000102",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240425000102.mmi.jpg",
     "fingerprintSha1": "8e38deec53bfa30647e9f80aa7fda930bc3372bf"
