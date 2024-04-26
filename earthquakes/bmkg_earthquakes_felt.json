@@ -14545,5 +14545,17 @@
     "bmkgEarthquakeId": "20240425201431",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240425201431.mmi.jpg",
     "fingerprintSha1": "de8844c6411945a3b612bb2ebc055e24fe52f707"
+  },
+  {
+    "earthquakeAt": "2024-04-26T09:57:10.000Z",
+    "latitude": -2.91,
+    "longitude": 119.41,
+    "magnitude": 2.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 Km Timur Laut Mamasa",
+    "feltOnStations": "III Mamasa",
+    "bmkgEarthquakeId": "20240426165710",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240426165710.mmi.jpg",
+    "fingerprintSha1": "272baefa8e6ce15ba19dc917df4caca980080084"
   }
 ]
