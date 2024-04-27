@@ -14601,7 +14601,7 @@
     "magnitude": 6.5,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 151 km barat daya Kabupaten Garut",
-    "feltOnStations": "IV Sukabumi, III-IV Bandung, III Tangerang",
+    "feltOnStations": "IV Sukabumi, III-IV Bandung, III Tangerang, IV Tasikmalaya, III-IV Garut, III-IV Bogor, III Jakarta, III Kebumen, III Banyumas, III Cilacap, II Bantul, II Sleman, II Kulonprogo, II Trenggalek, II Malang",
     "bmkgEarthquakeId": "20240427232947",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240427232947.mmi.jpg",
     "fingerprintSha1": "b9f5ed4e24727d91d0ddb436544a48290acce7f5"
