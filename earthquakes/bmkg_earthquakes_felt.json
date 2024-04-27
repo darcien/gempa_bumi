@@ -14581,5 +14581,17 @@
     "bmkgEarthquakeId": "20240427152712",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240427152712.mmi.jpg",
     "fingerprintSha1": "0133c8d77ea389a58f30bb8cd2da8d7e34dd2e96"
+  },
+  {
+    "earthquakeAt": "2024-04-27T13:22:59.000Z",
+    "latitude": -6.83,
+    "longitude": 107,
+    "magnitude": 3.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 km TimurLaut Kota Sukabumi",
+    "feltOnStations": "III Cianjur, III Sukabumi",
+    "bmkgEarthquakeId": "20240427202259",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240427202259.mmi.jpg",
+    "fingerprintSha1": "f56c2f7fbbda72c24674f58a0b508ab135113a6c"
   }
 ]
