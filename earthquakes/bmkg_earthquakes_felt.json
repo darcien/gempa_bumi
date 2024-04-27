@@ -14569,5 +14569,17 @@
     "bmkgEarthquakeId": "20240427120708",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240427120708.mmi.jpg",
     "fingerprintSha1": "d991a2f7f3649e2d37006f4bd15100b604c5f4b2"
+  },
+  {
+    "earthquakeAt": "2024-04-27T08:27:12.000Z",
+    "latitude": -7.14,
+    "longitude": 105.35,
+    "magnitude": 4.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 58 km BaratDaya Sumur",
+    "feltOnStations": "III Lebak, II-III Tangerang, II-III Tangerang Selatan, II-III Jakarta Selatan, II-III Bogor, II Sukabumi",
+    "bmkgEarthquakeId": "20240427152712",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240427152712.mmi.jpg",
+    "fingerprintSha1": "0133c8d77ea389a58f30bb8cd2da8d7e34dd2e96"
   }
 ]
