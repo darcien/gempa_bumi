@@ -14617,5 +14617,17 @@
     "bmkgEarthquakeId": "20240428063550",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240428063550.mmi.jpg",
     "fingerprintSha1": "c148f6c59d5811e948f2d145dd12bbdb56332702"
+  },
+  {
+    "earthquakeAt": "2024-04-28T23:38:09.000Z",
+    "latitude": -8.15,
+    "longitude": 107.88,
+    "magnitude": 3.7,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di laut 84 km Barat Daya",
+    "feltOnStations": "III Taraju, III Cibalong, III Cipatujah, III Pamengkuk, III Pangandaran, II Cikajang, II Cisurupan",
+    "bmkgEarthquakeId": "20240429063809",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240429063809.mmi.jpg",
+    "fingerprintSha1": "273ce33efe3bb0f73aa7637e0836bda50eca2026"
   }
 ]
