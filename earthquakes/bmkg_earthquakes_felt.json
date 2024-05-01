@@ -14653,5 +14653,17 @@
     "bmkgEarthquakeId": "20240501100610",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240501100610.mmi.jpg",
     "fingerprintSha1": "0199d284bf28ee4db7c8f80f7791fac83a7f1b00"
+  },
+  {
+    "earthquakeAt": "2024-05-01T13:35:01.000Z",
+    "latitude": -7.82,
+    "longitude": 107.26,
+    "magnitude": 4,
+    "depthInKm": 24,
+    "locationInIndonesian": "Pusat gempa berada dilaut 93 km BaratDaya KAB-BANDUNG",
+    "feltOnStations": "III Cidora, III Pamengpeuk, III Cisewu, III Bungbulang, III Singaparna, III Talegong, II Cikajang, II Pamulihan",
+    "bmkgEarthquakeId": "20240501203501",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240501203501.mmi.jpg",
+    "fingerprintSha1": "9a99d156d848bf9f2598be211a516e2765644932"
   }
 ]
