@@ -14641,5 +14641,17 @@
     "bmkgEarthquakeId": "20240430024335",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240430024335.mmi.jpg",
     "fingerprintSha1": "ac6909019f58070b8e60ad0b342d408768ef8b67"
+  },
+  {
+    "earthquakeAt": "2024-05-01T03:06:10.000Z",
+    "latitude": -7.2,
+    "longitude": 107.57,
+    "magnitude": 4.2,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 20 km Tenggara KAB-BANDUNG",
+    "feltOnStations": "III Majalaya, III Cibereum, III Pangalengan, III Garut, II Soreang",
+    "bmkgEarthquakeId": "20240501100610",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240501100610.mmi.jpg",
+    "fingerprintSha1": "0199d284bf28ee4db7c8f80f7791fac83a7f1b00"
   }
 ]
