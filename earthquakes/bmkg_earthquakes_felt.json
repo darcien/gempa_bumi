@@ -14689,5 +14689,17 @@
     "bmkgEarthquakeId": "20240502180313",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240502180313.mmi.jpg",
     "fingerprintSha1": "5d4dcbd4bb1ee5c257c2cb28e157b32e62aee3c8"
+  },
+  {
+    "earthquakeAt": "2024-05-02T11:59:06.000Z",
+    "latitude": -2.82,
+    "longitude": 126.66,
+    "magnitude": 4.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 41 km timur laut Air Buaya - Buru",
+    "feltOnStations": "II Namlea",
+    "bmkgEarthquakeId": "20240502185906",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240502185906.mmi.jpg",
+    "fingerprintSha1": "4b8b730b92263b16b622a98c3db7a7964b6d5561"
   }
 ]
