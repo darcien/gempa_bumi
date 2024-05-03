@@ -14701,5 +14701,17 @@
     "bmkgEarthquakeId": "20240502185906",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240502185906.mmi.jpg",
     "fingerprintSha1": "4b8b730b92263b16b622a98c3db7a7964b6d5561"
+  },
+  {
+    "earthquakeAt": "2024-05-03T09:48:59.000Z",
+    "latitude": -4,
+    "longitude": 122.63,
+    "magnitude": 2.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 3.9 km Barat Laut Moramo Utara, kab. Konawe Selatan",
+    "feltOnStations": "III Kendari",
+    "bmkgEarthquakeId": "20240503164859",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240503164859.mmi.jpg",
+    "fingerprintSha1": "65589a3ef314fa9b9ef04e761d3a1091a4c81621"
   }
 ]
