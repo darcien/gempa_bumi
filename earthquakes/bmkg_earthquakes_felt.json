@@ -14713,5 +14713,17 @@
     "bmkgEarthquakeId": "20240503164859",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240503164859.mmi.jpg",
     "fingerprintSha1": "65589a3ef314fa9b9ef04e761d3a1091a4c81621"
+  },
+  {
+    "earthquakeAt": "2024-05-04T04:02:53.000Z",
+    "latitude": -9.4,
+    "longitude": 119.02,
+    "magnitude": 4.9,
+    "depthInKm": 39,
+    "locationInIndonesian": "Pusat gempa berada di Laut 17 km BaratDaya Tambolaka",
+    "feltOnStations": "II Bima",
+    "bmkgEarthquakeId": "20240504110253",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240504110253.mmi.jpg",
+    "fingerprintSha1": "e31eb21a5841c10fb0f283d88bf25cdecd6e08a3"
   }
 ]
