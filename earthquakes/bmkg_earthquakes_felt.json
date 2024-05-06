@@ -14785,5 +14785,17 @@
     "bmkgEarthquakeId": "20240506033714",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240506033714.mmi.jpg",
     "fingerprintSha1": "d5151ffcaf18aa71c9504ddf28cbadc9dc99e2b8"
+  },
+  {
+    "earthquakeAt": "2024-05-06T23:33:42.000Z",
+    "latitude": -1.09,
+    "longitude": 120.41,
+    "magnitude": 4.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km Barat Daya Sausu-Kab. Parigi Moutong",
+    "feltOnStations": "III - IV Sausu, II - III Poso",
+    "bmkgEarthquakeId": "20240507063342",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240507063342.mmi.jpg",
+    "fingerprintSha1": "a33c2e2a47b25b45cf56eb401528bfc909665dc9"
   }
 ]
