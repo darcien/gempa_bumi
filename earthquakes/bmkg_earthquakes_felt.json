@@ -14821,5 +14821,17 @@
     "bmkgEarthquakeId": "20240507165001",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240507165001.mmi.jpg",
     "fingerprintSha1": "08e127fc15e93c41f73a6022e9e68acfadb66a71"
+  },
+  {
+    "earthquakeAt": "2024-05-07T15:15:40.000Z",
+    "latitude": -7.38,
+    "longitude": 111.47,
+    "magnitude": 3.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat, 4 km TimurLaut Ngawi",
+    "feltOnStations": "III Ngawi",
+    "bmkgEarthquakeId": "20240507221540",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240507221540.mmi.jpg",
+    "fingerprintSha1": "5f70d2e7c72dc49d712e9b809b05ca3713695d0e"
   }
 ]
