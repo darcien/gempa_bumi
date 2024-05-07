@@ -14833,5 +14833,17 @@
     "bmkgEarthquakeId": "20240507221540",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240507221540.mmi.jpg",
     "fingerprintSha1": "5f70d2e7c72dc49d712e9b809b05ca3713695d0e"
+  },
+  {
+    "earthquakeAt": "2024-05-07T22:09:55.000Z",
+    "latitude": -9.51,
+    "longitude": 115.84,
+    "magnitude": 5.2,
+    "depthInKm": 78,
+    "locationInIndonesian": "Pusat gempa berada di laut 97 km Barat Daya Lombok Barat",
+    "feltOnStations": "III Badung, III Denpasar, III Gianyar, III Tabanan, III Lombok Tengah, III Lombok Barat, III Lombok Timur, III Lombok Utara, III Kota Mataram, III Sumbawa Barat, II Karangasem",
+    "bmkgEarthquakeId": "20240508050955",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240508050955.mmi.jpg",
+    "fingerprintSha1": "50fa98863971f1103fd5373cb6a20ef886622971"
   }
 ]
