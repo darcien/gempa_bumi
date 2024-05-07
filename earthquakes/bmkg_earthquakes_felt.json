@@ -14805,9 +14805,21 @@
     "magnitude": 5,
     "depthInKm": 24,
     "locationInIndonesian": "Pusat gempa berada di Laut, 73 km BaratDaya Pacitan",
-    "feltOnStations": "III Bantul, III Yogyakarta, III Wonogiri, III Pacitan, II-III Trenggalek, II-III Blitar, II-III Tulungagung, II-III Malang, II Nganjuk",
+    "feltOnStations": "III Bantul, III Yogyakarta, II Sukoharjo, III Pacitan, II-III Trenggalek, II-III Blitar, II-III Tulungagung, II-III Malang, II Nganjuk, III Wonogiri, II Klaten",
     "bmkgEarthquakeId": "20240507103459",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240507103459.mmi.jpg",
     "fingerprintSha1": "490306d7e062fc23fb157bb21c49978be9e11389"
+  },
+  {
+    "earthquakeAt": "2024-05-07T09:50:01.000Z",
+    "latitude": 0.6,
+    "longitude": 110.43,
+    "magnitude": 3.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 52 km Barat Laut Sanggau",
+    "feltOnStations": "II - III Sanggau",
+    "bmkgEarthquakeId": "20240507165001",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240507165001.mmi.jpg",
+    "fingerprintSha1": "08e127fc15e93c41f73a6022e9e68acfadb66a71"
   }
 ]
