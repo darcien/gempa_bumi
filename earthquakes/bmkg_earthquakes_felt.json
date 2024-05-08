@@ -14845,5 +14845,17 @@
     "bmkgEarthquakeId": "20240508050955",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240508050955.mmi.jpg",
     "fingerprintSha1": "50fa98863971f1103fd5373cb6a20ef886622971"
+  },
+  {
+    "earthquakeAt": "2024-05-08T03:16:41.000Z",
+    "latitude": 1.48,
+    "longitude": 122.99,
+    "magnitude": 4.5,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di laut 70 km Boroko-Bolaang Mongondow Utara",
+    "feltOnStations": "II - III Kota Gorontalo, II kab. Gorontalo",
+    "bmkgEarthquakeId": "20240508101641",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240508101641.mmi.jpg",
+    "fingerprintSha1": "76c644193b097dde9da04e0801f4d26382c17f3c"
   }
 ]
