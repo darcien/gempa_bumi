@@ -14857,5 +14857,17 @@
     "bmkgEarthquakeId": "20240508101641",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240508101641.mmi.jpg",
     "fingerprintSha1": "76c644193b097dde9da04e0801f4d26382c17f3c"
+  },
+  {
+    "earthquakeAt": "2024-05-08T14:37:54.000Z",
+    "latitude": -5.97,
+    "longitude": 103.64,
+    "magnitude": 4.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 92 km BaratDaya Pesisir Barat Lampung",
+    "feltOnStations": "II Liwa",
+    "bmkgEarthquakeId": "20240508213754",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240508213754.mmi.jpg",
+    "fingerprintSha1": "641b84c8437d1c7322d1a44225da37800e23f603"
   }
 ]
