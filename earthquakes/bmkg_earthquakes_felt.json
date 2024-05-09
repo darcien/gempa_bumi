@@ -14869,5 +14869,17 @@
     "bmkgEarthquakeId": "20240508213754",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240508213754.mmi.jpg",
     "fingerprintSha1": "641b84c8437d1c7322d1a44225da37800e23f603"
+  },
+  {
+    "earthquakeAt": "2024-05-09T07:14:18.000Z",
+    "latitude": -6.79,
+    "longitude": 106.64,
+    "magnitude": 3.3,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 24 km Timur Laut Kabupaten Sukabumi",
+    "feltOnStations": "III Bogor Barat, III Sukabumi, III Cibadak, III Cicurug, III Kabandungan",
+    "bmkgEarthquakeId": "20240509141418",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240509141418.mmi.jpg",
+    "fingerprintSha1": "89a5c9b2570233a76bab314d902917961510b0d7"
   }
 ]
