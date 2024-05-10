@@ -14905,5 +14905,17 @@
     "bmkgEarthquakeId": "20240510222048",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240510222048.mmi.jpg",
     "fingerprintSha1": "498aa93c004493a3d365630b690e90d650a64f56"
+  },
+  {
+    "earthquakeAt": "2024-05-10T19:34:37.000Z",
+    "latitude": -9.13,
+    "longitude": 113.06,
+    "magnitude": 5.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 112 km BaratDaya Lumajang",
+    "feltOnStations": "II - III Jember, II Kepajen, II Pacitan, II Blitar, II Surabaya",
+    "bmkgEarthquakeId": "20240511023437",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240511023437.mmi.jpg",
+    "fingerprintSha1": "1defad0d68e1cd163dad1c05948df2921e97b852"
   }
 ]
