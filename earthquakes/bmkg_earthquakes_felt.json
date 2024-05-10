@@ -14893,5 +14893,17 @@
     "bmkgEarthquakeId": "20240509191226",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240509191226.mmi.jpg",
     "fingerprintSha1": "6360febe835030d0d19c898b2860a57c8ad54510"
+  },
+  {
+    "earthquakeAt": "2024-05-10T15:20:48.000Z",
+    "latitude": -3.48,
+    "longitude": 101.63,
+    "magnitude": 4.7,
+    "depthInKm": 24,
+    "locationInIndonesian": "Pusat gempa berada di laut 63 km Barat Daya Bengkulu Utara",
+    "feltOnStations": "III Bengkulu Utara, II - III Seluma, II - III Kota Bengkulu, II - III Mukomuko, II - III Bengkulu Tengah, II - III Rejang Lebong, II Kepahiang",
+    "bmkgEarthquakeId": "20240510222048",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240510222048.mmi.jpg",
+    "fingerprintSha1": "498aa93c004493a3d365630b690e90d650a64f56"
   }
 ]
