@@ -14917,5 +14917,41 @@
     "bmkgEarthquakeId": "20240511023437",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240511023437.mmi.jpg",
     "fingerprintSha1": "1defad0d68e1cd163dad1c05948df2921e97b852"
+  },
+  {
+    "earthquakeAt": "2024-05-12T14:33:07.000Z",
+    "latitude": -5.87,
+    "longitude": 112.56,
+    "magnitude": 4.3,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di laut 128 km Timur Laut Tuban",
+    "feltOnStations": "III Tuban",
+    "bmkgEarthquakeId": "20240512213307",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240512213307.mmi.jpg",
+    "fingerprintSha1": "a1cec3c59e84600497bd4f3b91ae8e3853b94b3a"
+  },
+  {
+    "earthquakeAt": "2024-05-12T14:12:01.000Z",
+    "latitude": -6.74,
+    "longitude": 106.58,
+    "magnitude": 3.2,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada didarat 27 Km Timur Laut Kab. Sukabumi",
+    "feltOnStations": "III Kabandungan, II Bogor, II Kalapanunggal",
+    "bmkgEarthquakeId": "20240512211201",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240512211201.mmi.jpg",
+    "fingerprintSha1": "db859ce31df610dd7bc3576ed87a50d4d3f2329f"
+  },
+  {
+    "earthquakeAt": "2024-05-12T14:01:25.000Z",
+    "latitude": -5.88,
+    "longitude": 112.52,
+    "magnitude": 3.2,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada dilaut 125 km Timur Laut Tuban",
+    "feltOnStations": "II Bawean",
+    "bmkgEarthquakeId": "20240512210125",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240512210125.mmi.jpg",
+    "fingerprintSha1": "f5974e9db99fc31713ee15e6f9ab75eee0e5b7ee"
   }
 ]
