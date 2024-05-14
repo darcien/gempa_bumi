@@ -14977,5 +14977,17 @@
     "bmkgEarthquakeId": "20240514085131",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240514085131.mmi.jpg",
     "fingerprintSha1": "1ca444291ff5c57a2851f44789140ba5771438a6"
+  },
+  {
+    "earthquakeAt": "2024-05-14T08:11:10.000Z",
+    "latitude": -8.4,
+    "longitude": 116.03,
+    "magnitude": 5.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 15 km Barat Daya Lombok Utara",
+    "feltOnStations": "III Kota Mataram, III Lombok Barat, III Lombok Timur, III Lombok Tengah, III Lombok Utara, III Sumbawa Barat, III Sumbawa, III Badung, III Denpasar, III Karangasem, III Bangli, II Tabanan",
+    "bmkgEarthquakeId": "20240514151110",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240514151110.mmi.jpg",
+    "fingerprintSha1": "78e6e3ee5efdb1654bf8cee0956c0eac5da31e43"
   }
 ]
