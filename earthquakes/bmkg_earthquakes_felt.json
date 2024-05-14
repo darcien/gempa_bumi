@@ -14965,5 +14965,17 @@
     "bmkgEarthquakeId": "20240513134233",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240513134233.mmi.jpg",
     "fingerprintSha1": "b96353182e83cfc4a0145b00eaab7c49e2ec90a7"
+  },
+  {
+    "earthquakeAt": "2024-05-14T01:51:31.000Z",
+    "latitude": -0.32,
+    "longitude": 121.93,
+    "magnitude": 4.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 86 km barat daya Pohuwato",
+    "feltOnStations": "III Wakai",
+    "bmkgEarthquakeId": "20240514085131",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240514085131.mmi.jpg",
+    "fingerprintSha1": "1ca444291ff5c57a2851f44789140ba5771438a6"
   }
 ]
