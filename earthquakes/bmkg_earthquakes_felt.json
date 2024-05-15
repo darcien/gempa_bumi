@@ -15049,5 +15049,17 @@
     "bmkgEarthquakeId": "20240515154552",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240515154552.mmi.jpg",
     "fingerprintSha1": "e72f40bddbc95189941e9fbbf34e461b50440b6f"
+  },
+  {
+    "earthquakeAt": "2024-05-15T13:06:23.000Z",
+    "latitude": -6.86,
+    "longitude": 107.1,
+    "magnitude": 3,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 6km baratdaya Kab. Cianjur",
+    "feltOnStations": "III Kota Cianjur, III Warungkondang, III Cipanas, III Cugenang, III Cilaku",
+    "bmkgEarthquakeId": "20240515200623",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240515200623.mmi.jpg",
+    "fingerprintSha1": "4f0e9706f041bb5349c37f84e8ea5a033c93c118"
   }
 ]
