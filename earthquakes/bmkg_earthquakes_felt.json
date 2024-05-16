@@ -15085,5 +15085,17 @@
     "bmkgEarthquakeId": "20240516093608",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240516093608.mmi.jpg",
     "fingerprintSha1": "0e5d7fe6e2a7dbcf4f236f9dcb3343f529399d94"
+  },
+  {
+    "earthquakeAt": "2024-05-16T12:52:40.000Z",
+    "latitude": -4.05,
+    "longitude": 122.49,
+    "magnitude": 2.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 1.6 km tenggara Baruga",
+    "feltOnStations": "II-III Kendari, II-III Konawe Selatan",
+    "bmkgEarthquakeId": "20240516195240",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240516195240.mmi.jpg",
+    "fingerprintSha1": "0c4febcf832b6926aad146ecd18cbee8b104df52"
   }
 ]
