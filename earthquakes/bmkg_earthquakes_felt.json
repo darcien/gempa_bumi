@@ -15109,5 +15109,17 @@
     "bmkgEarthquakeId": "20240517222504",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240517222504.mmi.jpg",
     "fingerprintSha1": "218eb62830928b91b0ee1cc791535dd376973b07"
+  },
+  {
+    "earthquakeAt": "2024-05-17T19:54:53.000Z",
+    "latitude": -6.82,
+    "longitude": 107.94,
+    "magnitude": 3.5,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km Timurlaut Kab. Sumedang",
+    "feltOnStations": "III-IV Sumedang Utara, III-IV Sumedang Selatan, III Cimalaka, III Situraja, III Jatimulya, II Bandung",
+    "bmkgEarthquakeId": "20240518025453",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240518025453.mmi.jpg",
+    "fingerprintSha1": "2ecd89225536af1e50f14c2bb70654b4af76064e"
   }
 ]
