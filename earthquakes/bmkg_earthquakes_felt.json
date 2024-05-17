@@ -15097,5 +15097,17 @@
     "bmkgEarthquakeId": "20240516195240",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240516195240.mmi.jpg",
     "fingerprintSha1": "0c4febcf832b6926aad146ecd18cbee8b104df52"
+  },
+  {
+    "earthquakeAt": "2024-05-17T15:25:04.000Z",
+    "latitude": -0.49,
+    "longitude": 130.66,
+    "magnitude": 4,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di laut 21 km Baratdaya Rajaampat",
+    "feltOnStations": "III Kab. Raja Ampat",
+    "bmkgEarthquakeId": "20240517222504",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240517222504.mmi.jpg",
+    "fingerprintSha1": "218eb62830928b91b0ee1cc791535dd376973b07"
   }
 ]
