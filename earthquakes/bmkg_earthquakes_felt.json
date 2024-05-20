@@ -15121,5 +15121,17 @@
     "bmkgEarthquakeId": "20240518025453",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240518025453.mmi.jpg",
     "fingerprintSha1": "2ecd89225536af1e50f14c2bb70654b4af76064e"
+  },
+  {
+    "earthquakeAt": "2024-05-20T13:42:24.000Z",
+    "latitude": -7.69,
+    "longitude": 106.42,
+    "magnitude": 4.6,
+    "depthInKm": 22,
+    "locationInIndonesian": "Pusat gempa berada di laut 79 km BaratDaya Kabupaten Sukabumi",
+    "feltOnStations": "III Sindangbarang, III Nagrak, III Cibinong, III Cipamingkis, III Surade, III Jampang, II - III Cigaru, II-III Simpenan, II - III Kabupaten Sukabumi",
+    "bmkgEarthquakeId": "20240520204224",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240520204224.mmi.jpg",
+    "fingerprintSha1": "17d624afa313c97a0f2c77e6f9f8203c3ab5febc"
   }
 ]
