@@ -15145,5 +15145,17 @@
     "bmkgEarthquakeId": "20240521024213",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240521024213.mmi.jpg",
     "fingerprintSha1": "a088eb169c2a5e0bf9e002f10e4a1fe098e3cd6a"
+  },
+  {
+    "earthquakeAt": "2024-05-21T05:16:46.000Z",
+    "latitude": 0.84,
+    "longitude": 121.97,
+    "magnitude": 4.7,
+    "depthInKm": 37,
+    "locationInIndonesian": "Pusat gempa berada di darat 42 Km Timur Laut Pohuwato, Gorontalo",
+    "feltOnStations": "II-III Pohuwato",
+    "bmkgEarthquakeId": "20240521121646",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240521121646.mmi.jpg",
+    "fingerprintSha1": "102c2ab598752631b3f29e128f4b82a476d51045"
   }
 ]
