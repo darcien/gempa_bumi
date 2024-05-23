@@ -15181,5 +15181,29 @@
     "bmkgEarthquakeId": "20240522122704",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240522122704.mmi.jpg",
     "fingerprintSha1": "74e8bd4d70561d829bd2c5d5d29c7accf0622f88"
+  },
+  {
+    "earthquakeAt": "2024-05-23T08:27:56.000Z",
+    "latitude": -6.82,
+    "longitude": 107.95,
+    "magnitude": 2.8,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km Timur Laut Kabupaten Sumedang",
+    "feltOnStations": "III Sumedang",
+    "bmkgEarthquakeId": "20240523152756",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240523152756.mmi.jpg",
+    "fingerprintSha1": "0af6e87d878743a62d81ed7400ca3e6e47fd7ccb"
+  },
+  {
+    "earthquakeAt": "2024-05-21T08:31:58.000Z",
+    "latitude": -2.19,
+    "longitude": 138.2,
+    "magnitude": 5.3,
+    "depthInKm": 16,
+    "locationInIndonesian": "Pusat gempa berada di darat 22 km arah Timur Laut Kasonaweja",
+    "feltOnStations": "II - III Mamberamo Raya",
+    "bmkgEarthquakeId": "20240521153158",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240521153158.mmi.jpg",
+    "fingerprintSha1": "31ea89db4b197b3788e4263f9b00d7997f40527e"
   }
 ]
