@@ -15217,5 +15217,17 @@
     "bmkgEarthquakeId": "20240524062513",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240524062513.mmi.jpg",
     "fingerprintSha1": "518cfedbeb4dfe8c80f5c409f852f7d3d76a428b"
+  },
+  {
+    "earthquakeAt": "2024-05-24T08:43:46.000Z",
+    "latitude": -2.15,
+    "longitude": 121.3,
+    "magnitude": 2.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 50 km timur laut Luwu Timur",
+    "feltOnStations": "II Morowali Utara",
+    "bmkgEarthquakeId": "20240524154346",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240524154346.mmi.jpg",
+    "fingerprintSha1": "d02b85ec97625866671eb6f2e3bbc0c3368ca0e4"
   }
 ]
