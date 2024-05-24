@@ -15229,5 +15229,17 @@
     "bmkgEarthquakeId": "20240524154346",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240524154346.mmi.jpg",
     "fingerprintSha1": "d02b85ec97625866671eb6f2e3bbc0c3368ca0e4"
+  },
+  {
+    "earthquakeAt": "2024-05-24T10:00:41.000Z",
+    "latitude": -8.15,
+    "longitude": 107.88,
+    "magnitude": 3.9,
+    "depthInKm": 25,
+    "locationInIndonesian": "Pusat gempa berada di laut 84 km barat daya Kab. Pangandaran",
+    "feltOnStations": "II Pangandaran, II Tasikmalaya, II - III Pamengpeuk, II - III Singaparna, II - III Karangnunggal",
+    "bmkgEarthquakeId": "20240524170041",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240524170041.mmi.jpg",
+    "fingerprintSha1": "ed905c2c8ad7c39aa45a0b733899e3710487637a"
   }
 ]
