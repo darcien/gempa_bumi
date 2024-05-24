@@ -15241,5 +15241,17 @@
     "bmkgEarthquakeId": "20240524170041",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240524170041.mmi.jpg",
     "fingerprintSha1": "ed905c2c8ad7c39aa45a0b733899e3710487637a"
+  },
+  {
+    "earthquakeAt": "2024-05-24T16:38:07.000Z",
+    "latitude": -6.84,
+    "longitude": 107.06,
+    "magnitude": 3,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km BaratDaya Kab. Cianjur",
+    "feltOnStations": "III Kabupaten Cianjur",
+    "bmkgEarthquakeId": "20240524233807",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240524233807.mmi.jpg",
+    "fingerprintSha1": "26accd0cb2e7500ef4a5326bfb4b2f9db03f4a2d"
   }
 ]
