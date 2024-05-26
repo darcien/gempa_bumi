@@ -15301,5 +15301,17 @@
     "bmkgEarthquakeId": "20240526191121",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240526191121.mmi.jpg",
     "fingerprintSha1": "19462dd205f0095ce54d5b0980ad0c042ff6c6c6"
+  },
+  {
+    "earthquakeAt": "2024-05-26T15:32:00.000Z",
+    "latitude": -2.19,
+    "longitude": 120.81,
+    "magnitude": 4.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 59 km Barat Laut Luwu Timur",
+    "feltOnStations": "III Mangkutana",
+    "bmkgEarthquakeId": "20240526223200",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240526223200.mmi.jpg",
+    "fingerprintSha1": "b976b9edfaf4bbdbca2733c4a94b4355c0fe7533"
   }
 ]
