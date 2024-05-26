@@ -15273,9 +15273,21 @@
     "magnitude": 3.7,
     "depthInKm": 7,
     "locationInIndonesian": "Pusat gempa berada di darat 4 km tenggara Bukit Tinggi",
-    "feltOnStations": "II - III Padang Panjang, II - III Bukittinggi",
+    "feltOnStations": "II - III Padang Panjang, II - III Bukittinggi, II - III Agam, II Payakumbuh",
     "bmkgEarthquakeId": "20240526104632",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240526104632.mmi.jpg",
     "fingerprintSha1": "70a0af88ad1f957447743ca6daa38085279f0cff"
+  },
+  {
+    "earthquakeAt": "2024-05-26T07:42:22.000Z",
+    "latitude": -0.31,
+    "longitude": 100.41,
+    "magnitude": 3.3,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km tenggara Bukittinggi",
+    "feltOnStations": "II Bukittinggi",
+    "bmkgEarthquakeId": "20240526144222",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240526144222.mmi.jpg",
+    "fingerprintSha1": "6aa9c1a0796b5f67b0c11191d65dcc5f03c94ad5"
   }
 ]
