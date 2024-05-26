@@ -15265,5 +15265,17 @@
     "bmkgEarthquakeId": "20240526035044",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240526035044.mmi.jpg",
     "fingerprintSha1": "db9e01b3fb1d79aa9d5168db8108b460640019d7"
+  },
+  {
+    "earthquakeAt": "2024-05-26T03:46:32.000Z",
+    "latitude": -0.33,
+    "longitude": 100.4,
+    "magnitude": 3.7,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km tenggara Bukit Tinggi",
+    "feltOnStations": "II - III Padang Panjang, II - III Bukittinggi",
+    "bmkgEarthquakeId": "20240526104632",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240526104632.mmi.jpg",
+    "fingerprintSha1": "70a0af88ad1f957447743ca6daa38085279f0cff"
   }
 ]
