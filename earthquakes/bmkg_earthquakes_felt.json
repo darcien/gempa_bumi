@@ -15313,5 +15313,17 @@
     "bmkgEarthquakeId": "20240526223200",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240526223200.mmi.jpg",
     "fingerprintSha1": "b976b9edfaf4bbdbca2733c4a94b4355c0fe7533"
+  },
+  {
+    "earthquakeAt": "2024-05-28T09:20:22.000Z",
+    "latitude": -7.67,
+    "longitude": 106.89,
+    "magnitude": 4.1,
+    "depthInKm": 24,
+    "locationInIndonesian": "Pusat gempa berada di laut 83 km barat daya Kota Sukabumi",
+    "feltOnStations": "III Cipamingkis, II-III Bungbulang, II-III Cikelet",
+    "bmkgEarthquakeId": "20240528162022",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240528162022.mmi.jpg",
+    "fingerprintSha1": "eb0aa10ec42251d801d8c291d539e115324c60bd"
   }
 ]
