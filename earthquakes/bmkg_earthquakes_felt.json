@@ -15325,5 +15325,17 @@
     "bmkgEarthquakeId": "20240528162022",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240528162022.mmi.jpg",
     "fingerprintSha1": "eb0aa10ec42251d801d8c291d539e115324c60bd"
+  },
+  {
+    "earthquakeAt": "2024-05-28T11:52:38.000Z",
+    "latitude": 2.76,
+    "longitude": 95.41,
+    "magnitude": 6.2,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 111 km baratlaut Sinabang",
+    "feltOnStations": "IV Nagan Raya, IV Aceh Barat, III Aceh Barat Daya, III Aceh Selatan, IV Simeulue, II Banda Aceh",
+    "bmkgEarthquakeId": "20240528185238",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240528185238.mmi.jpg",
+    "fingerprintSha1": "990ab14643371dd05bb420fb32180ab87b8b2a1f"
   }
 ]
