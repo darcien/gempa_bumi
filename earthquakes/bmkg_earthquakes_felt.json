@@ -15424,5 +15424,29 @@
     "meta": {
       "erroneousDataReason": "FUTURE_EARTHQUAKE"
     }
+  },
+  {
+    "earthquakeAt": "2024-05-30T17:08:19.000Z",
+    "latitude": -2.76,
+    "longitude": 122.18,
+    "magnitude": 5.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 31 km tenggara Morowali",
+    "feltOnStations": "III-IV Morowali",
+    "bmkgEarthquakeId": "20240531000819",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240531000819.mmi.jpg",
+    "fingerprintSha1": "46a0fb3c80a1121f5dbc70af94e2ff86e112a5d3"
+  },
+  {
+    "earthquakeAt": "2024-05-30T16:42:38.000Z",
+    "latitude": -3.19,
+    "longitude": 135.56,
+    "magnitude": 3.7,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di darat 20 k, timur laut Nabire",
+    "feltOnStations": "II Nabire",
+    "bmkgEarthquakeId": "20240530234238",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240530234238.mmi.jpg",
+    "fingerprintSha1": "7b646a13b5fdcd59e711dba750fa5c54fbc44d1c"
   }
 ]
