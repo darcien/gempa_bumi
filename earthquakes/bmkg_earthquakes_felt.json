@@ -15460,5 +15460,17 @@
     "bmkgEarthquakeId": "20240601155124",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240601155124.mmi.jpg",
     "fingerprintSha1": "14afdd48c9785a144e7840358524906f0ff798f4"
+  },
+  {
+    "earthquakeAt": "2024-06-01T11:01:40.000Z",
+    "latitude": -1.51,
+    "longitude": 134.53,
+    "magnitude": 5.2,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 41 km Tenggara Ransiki",
+    "feltOnStations": "III Ransiki, III Manokwari, II Serui, II Biak",
+    "bmkgEarthquakeId": "20240601180140",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240601180140.mmi.jpg",
+    "fingerprintSha1": "cff3578eed4f652dc396ebfd13e0614e534c6523"
   }
 ]
