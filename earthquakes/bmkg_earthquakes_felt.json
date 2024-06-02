@@ -15484,5 +15484,17 @@
     "bmkgEarthquakeId": "20240602065712",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240602065712.mmi.jpg",
     "fingerprintSha1": "6df896a7b30257c2fbc8dd5d1217b5a9f065961d"
+  },
+  {
+    "earthquakeAt": "2024-06-02T06:47:29.000Z",
+    "latitude": 0.8,
+    "longitude": 125.38,
+    "magnitude": 4.9,
+    "depthInKm": 32,
+    "locationInIndonesian": "Pusat gempa berada di laut 70 km tenggara Ratahan-Mitra",
+    "feltOnStations": "II-III Bolaang Mongondow Selatan, II-III Minahasa Tenggara, II Manado",
+    "bmkgEarthquakeId": "20240602134729",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240602134729.mmi.jpg",
+    "fingerprintSha1": "dcc2dbfa83dba18ab348be35e22d90fb0e3e189c"
   }
 ]
