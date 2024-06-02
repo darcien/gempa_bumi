@@ -15496,5 +15496,17 @@
     "bmkgEarthquakeId": "20240602134729",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240602134729.mmi.jpg",
     "fingerprintSha1": "dcc2dbfa83dba18ab348be35e22d90fb0e3e189c"
+  },
+  {
+    "earthquakeAt": "2024-06-02T13:58:03.000Z",
+    "latitude": -0.18,
+    "longitude": 122.46,
+    "magnitude": 4.8,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di laut 79 km tenggara Boalemo",
+    "feltOnStations": "III Pohuwato",
+    "bmkgEarthquakeId": "20240602205803",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240602205803.mmi.jpg",
+    "fingerprintSha1": "3e7fb39f62d8690ee065074d3d724d99cc3da40c"
   }
 ]
