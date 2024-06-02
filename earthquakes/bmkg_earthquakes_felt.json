@@ -15508,5 +15508,17 @@
     "bmkgEarthquakeId": "20240602205803",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240602205803.mmi.jpg",
     "fingerprintSha1": "3e7fb39f62d8690ee065074d3d724d99cc3da40c"
+  },
+  {
+    "earthquakeAt": "2024-06-02T21:43:44.000Z",
+    "latitude": -2.77,
+    "longitude": 138.89,
+    "magnitude": 5,
+    "depthInKm": 31,
+    "locationInIndonesian": "Pusat gempa berada di darat 77 km tenggara Mamberamo Tengah",
+    "feltOnStations": "II - III Wamena, II Sarmi",
+    "bmkgEarthquakeId": "20240603044344",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240603044344.mmi.jpg",
+    "fingerprintSha1": "e273e38630bc7ab099151a5f19cd47eb6619b525"
   }
 ]
