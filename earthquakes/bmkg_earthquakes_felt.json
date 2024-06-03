@@ -15520,5 +15520,17 @@
     "bmkgEarthquakeId": "20240603044344",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240603044344.mmi.jpg",
     "fingerprintSha1": "e273e38630bc7ab099151a5f19cd47eb6619b525"
+  },
+  {
+    "earthquakeAt": "2024-06-03T00:10:37.000Z",
+    "latitude": 0.86,
+    "longitude": 117.19,
+    "magnitude": 3.5,
+    "depthInKm": 43,
+    "locationInIndonesian": "Pusat gempa berada di darat 24 km tenggara Kutai Timur",
+    "feltOnStations": "III Kutai Timur",
+    "bmkgEarthquakeId": "20240603071037",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240603071037.mmi.jpg",
+    "fingerprintSha1": "38c4c735bc41d94181a918ee2dd33cea3dd0c0d6"
   }
 ]
