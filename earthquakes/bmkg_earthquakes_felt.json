@@ -15532,5 +15532,17 @@
     "bmkgEarthquakeId": "20240603071037",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240603071037.mmi.jpg",
     "fingerprintSha1": "38c4c735bc41d94181a918ee2dd33cea3dd0c0d6"
+  },
+  {
+    "earthquakeAt": "2024-06-03T21:16:11.000Z",
+    "latitude": -4.16,
+    "longitude": 123.31,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 34 km tenggara Konawe",
+    "feltOnStations": "II-III Buton Utara",
+    "bmkgEarthquakeId": "20240604041611",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240604041611.mmi.jpg",
+    "fingerprintSha1": "e05922adaec09ccbf917b82f76f64f6356e54150"
   }
 ]
