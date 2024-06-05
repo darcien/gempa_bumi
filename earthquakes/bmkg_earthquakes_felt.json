@@ -15580,5 +15580,17 @@
     "bmkgEarthquakeId": "20240605181614",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240605181614.mmi.jpg",
     "fingerprintSha1": "721886d3689f8a422b263981a549e669779d5221"
+  },
+  {
+    "earthquakeAt": "2024-06-05T19:21:11.000Z",
+    "latitude": -6.82,
+    "longitude": 107.93,
+    "magnitude": 2.7,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km timur laut Kab. Sumedang",
+    "feltOnStations": "II Sumedang Selatan, II Cimalaka",
+    "bmkgEarthquakeId": "20240606022111",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240606022111.mmi.jpg",
+    "fingerprintSha1": "b2287ca845082cec1f525b583457eff9bf16792c"
   }
 ]
