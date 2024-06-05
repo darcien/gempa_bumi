@@ -15568,5 +15568,17 @@
     "bmkgEarthquakeId": "20240605133020",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240605133020.mmi.jpg",
     "fingerprintSha1": "42728c015ff8a5b924e9d985925cd953d47595ae"
+  },
+  {
+    "earthquakeAt": "2024-06-05T11:16:14.000Z",
+    "latitude": 0.42,
+    "longitude": 98.5,
+    "magnitude": 5.7,
+    "depthInKm": 57,
+    "locationInIndonesian": "Pusat gempa berada di laut 78 Km tenggara Nias Selatan",
+    "feltOnStations": "III Nias Selatan, II Gunung Sitoli, III Pasaman Barat, III Padang Pariaman, III Agam, II Padang Panjang",
+    "bmkgEarthquakeId": "20240605181614",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240605181614.mmi.jpg",
+    "fingerprintSha1": "721886d3689f8a422b263981a549e669779d5221"
   }
 ]
