@@ -15556,5 +15556,17 @@
     "bmkgEarthquakeId": "20240605092028",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240605092028.mmi.jpg",
     "fingerprintSha1": "8d7749cf4e5b99d833488a25f38030985dd2c175"
+  },
+  {
+    "earthquakeAt": "2024-06-05T06:30:20.000Z",
+    "latitude": -8.23,
+    "longitude": 118,
+    "magnitude": 4.7,
+    "depthInKm": 214,
+    "locationInIndonesian": "Pusat gempa berada di darat 61 Km barat laut Dompu",
+    "feltOnStations": "II Sumbawa",
+    "bmkgEarthquakeId": "20240605133020",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240605133020.mmi.jpg",
+    "fingerprintSha1": "42728c015ff8a5b924e9d985925cd953d47595ae"
   }
 ]
