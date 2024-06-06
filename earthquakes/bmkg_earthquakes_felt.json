@@ -15628,5 +15628,17 @@
     "bmkgEarthquakeId": "20240606201540",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240606201540.mmi.jpg",
     "fingerprintSha1": "b5cfd9f2f524e779db112d8054e99fa6e32b0b0d"
+  },
+  {
+    "earthquakeAt": "2024-06-06T19:57:52.000Z",
+    "latitude": -7.79,
+    "longitude": 107.29,
+    "magnitude": 4.2,
+    "depthInKm": 24,
+    "locationInIndonesian": "Pusat gempa berada di laut 89 km BaratDaya Kab Bandung",
+    "feltOnStations": "II Garut, II Cianjur, II Tasikmalaya, II GunungHalu",
+    "bmkgEarthquakeId": "20240607025752",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240607025752.mmi.jpg",
+    "fingerprintSha1": "dda1ee275045248a77cf367f29ec513168dee11b"
   }
 ]
