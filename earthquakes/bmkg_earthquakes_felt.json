@@ -15604,5 +15604,29 @@
     "bmkgEarthquakeId": "20240606194626",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240606194626.mmi.jpg",
     "fingerprintSha1": "fc74d00213c52428c0f615e22ee8c96b06c89838"
+  },
+  {
+    "earthquakeAt": "2024-06-06T13:40:29.000Z",
+    "latitude": -1.43,
+    "longitude": 133.91,
+    "magnitude": 3.2,
+    "depthInKm": 35,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km barat daya Pegunungan Arfak",
+    "feltOnStations": "II Manokwari Selatan",
+    "bmkgEarthquakeId": "20240606204029",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240606204029.mmi.jpg",
+    "fingerprintSha1": "ca805acfc4b45e70703470e34682c12ed308c609"
+  },
+  {
+    "earthquakeAt": "2024-06-06T13:15:40.000Z",
+    "latitude": -9.22,
+    "longitude": 116.94,
+    "magnitude": 5.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 52 km Tenggara Sumbawa Barat",
+    "feltOnStations": "III Gianyar, III Badung, III Denpasar, III Sumbawa Barat, III Sumbawa, III Lombok Tengah, III Lombok Barat, III Mataram, III Lombok Timur, III Lombok Utara, III Dompu",
+    "bmkgEarthquakeId": "20240606201540",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240606201540.mmi.jpg",
+    "fingerprintSha1": "b5cfd9f2f524e779db112d8054e99fa6e32b0b0d"
   }
 ]
