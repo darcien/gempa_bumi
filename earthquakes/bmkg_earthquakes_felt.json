@@ -15652,5 +15652,17 @@
     "bmkgEarthquakeId": "20240607074650",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240607074650.mmi.jpg",
     "fingerprintSha1": "05a0930894e67be1c125f8ad7bb7df8f10061f4c"
+  },
+  {
+    "earthquakeAt": "2024-06-07T16:31:06.000Z",
+    "latitude": -2.86,
+    "longitude": 139.37,
+    "magnitude": 5.8,
+    "depthInKm": 45,
+    "locationInIndonesian": "Pusat gempa berada di darat 95 km timur laut Kobagma",
+    "feltOnStations": "III Kab. Jayapura",
+    "bmkgEarthquakeId": "20240607233106",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240607233106.mmi.jpg",
+    "fingerprintSha1": "6b1cfcc4bad534cdf13462db0b5fed878a131327"
   }
 ]
