@@ -15688,5 +15688,17 @@
     "bmkgEarthquakeId": "20240609000156",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240609000156.mmi.jpg",
     "fingerprintSha1": "4ad02aa937987df9154eea302e71644bb5bd82e4"
+  },
+  {
+    "earthquakeAt": "2024-06-09T22:54:54.000Z",
+    "latitude": -0.45,
+    "longitude": 100.25,
+    "magnitude": 4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km barat laut Padang Panjang",
+    "feltOnStations": "III Padang Panjang, II - III Bukittinggi, II - III Padang Pariaman",
+    "bmkgEarthquakeId": "20240610055454",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240610055454.mmi.jpg",
+    "fingerprintSha1": "0a9bb383b8016bea0e6b614f04e64a199ade9068"
   }
 ]
