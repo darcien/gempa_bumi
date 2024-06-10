@@ -15712,5 +15712,17 @@
     "bmkgEarthquakeId": "20240610103535",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240610103535.mmi.jpg",
     "fingerprintSha1": "30485253d97f78fff2d55e85b70ed34ff9158b74"
+  },
+  {
+    "earthquakeAt": "2024-06-10T06:02:05.000Z",
+    "latitude": 0.17,
+    "longitude": 124.9,
+    "magnitude": 4.8,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di laut 72 km tenggara Tutuyan - Bolaang Mongondow Timur",
+    "feltOnStations": "II Minahasa",
+    "bmkgEarthquakeId": "20240610130205",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240610130205.mmi.jpg",
+    "fingerprintSha1": "55dc4f2323d3417ea91b13fe43aa24cbb958f0cf"
   }
 ]
