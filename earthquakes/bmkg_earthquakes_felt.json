@@ -15696,9 +15696,21 @@
     "magnitude": 4,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 15 km barat laut Padang Panjang",
-    "feltOnStations": "III Padang Panjang, II - III Bukittinggi, II - III Padang Pariaman",
+    "feltOnStations": "III Padang Panjang, II - III Bukittinggi, II - III Padang Pariaman, II - III Agam",
     "bmkgEarthquakeId": "20240610055454",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240610055454.mmi.jpg",
     "fingerprintSha1": "0a9bb383b8016bea0e6b614f04e64a199ade9068"
+  },
+  {
+    "earthquakeAt": "2024-06-10T03:35:35.000Z",
+    "latitude": -2.78,
+    "longitude": 122.14,
+    "magnitude": 3.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 27 km tenggara Morowali",
+    "feltOnStations": "III Bahodopi",
+    "bmkgEarthquakeId": "20240610103535",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240610103535.mmi.jpg",
+    "fingerprintSha1": "30485253d97f78fff2d55e85b70ed34ff9158b74"
   }
 ]
