@@ -15772,5 +15772,17 @@
     "bmkgEarthquakeId": "20240611064610",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240611064610.mmi.jpg",
     "fingerprintSha1": "e6ca86994fa4e9870063219d4be92096dcbe719b"
+  },
+  {
+    "earthquakeAt": "2024-06-11T08:07:20.000Z",
+    "latitude": 0.89,
+    "longitude": 97.76,
+    "magnitude": 4.5,
+    "depthInKm": 31,
+    "locationInIndonesian": "Pusat gempa berada di darat 27 km tenggara Nias",
+    "feltOnStations": "II-III Gunungsitoli, II-III Kab. Nias, II-III Kab. Nias Selatan",
+    "bmkgEarthquakeId": "20240611150720",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240611150720.mmi.jpg",
+    "fingerprintSha1": "ebe3e6a8a36cd34005962be1313524682976394b"
   }
 ]
