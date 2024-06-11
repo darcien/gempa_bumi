@@ -15760,5 +15760,17 @@
     "bmkgEarthquakeId": "20240611002936",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240611002936.mmi.jpg",
     "fingerprintSha1": "6a75a87c744d7ce94392e7edc96fe078868789b8"
+  },
+  {
+    "earthquakeAt": "2024-06-10T23:46:10.000Z",
+    "latitude": 4.72,
+    "longitude": 95.88,
+    "magnitude": 4.6,
+    "depthInKm": 79,
+    "locationInIndonesian": "Pusat gempa berada di darat 34 km timur laut Calang - Aceh Jaya",
+    "feltOnStations": "II-III Lamno",
+    "bmkgEarthquakeId": "20240611064610",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240611064610.mmi.jpg",
+    "fingerprintSha1": "e6ca86994fa4e9870063219d4be92096dcbe719b"
   }
 ]
