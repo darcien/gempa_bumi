@@ -15796,5 +15796,17 @@
     "bmkgEarthquakeId": "20240613000123",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240613000123.mmi.jpg",
     "fingerprintSha1": "3a4dfd35d905733e02c89212a50ff9d32a064195"
+  },
+  {
+    "earthquakeAt": "2024-06-14T05:39:43.000Z",
+    "latitude": -1.87,
+    "longitude": 100.39,
+    "magnitude": 4.7,
+    "depthInKm": 25,
+    "locationInIndonesian": "Pusat gempa berada di laut 57 km BaratLaut Pesisir Selatan, Sumatera Barat",
+    "feltOnStations": "II-III Padang, II-III Pesisir Selatan",
+    "bmkgEarthquakeId": "20240614123943",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240614123943.mmi.jpg",
+    "fingerprintSha1": "eece72d445a93b44a434fd5bb8640f50841082be"
   }
 ]
