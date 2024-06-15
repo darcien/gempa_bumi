@@ -15816,9 +15816,21 @@
     "magnitude": 5.7,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 112 km barat laut Pulau Doi",
-    "feltOnStations": "II Tomohon, II Manado, II Bolaang Mongondow Selatan, II Minahasa Tenggara, II Kepulauan Talaud",
+    "feltOnStations": "II Tomohon, II Manado, II Bolaang Mongondow Selatan, II Minahasa Tenggara, II Kepulauan Talaud, II Minahasa Utara, II Minahasa, II Siau Tagulandang Biaro",
     "bmkgEarthquakeId": "20240615200815",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240615200815.mmi.jpg",
     "fingerprintSha1": "f5349a9880bdc4962614c75a3e982fe3949b1657"
+  },
+  {
+    "earthquakeAt": "2024-06-15T15:31:03.000Z",
+    "latitude": -4.89,
+    "longitude": 103.02,
+    "magnitude": 4.8,
+    "depthInKm": 30,
+    "locationInIndonesian": "Pusat gempa berada di laut 38 km barat daya Kaur",
+    "feltOnStations": "II-III Bengkulu Selatan, II-III Kaur, III Pesisir Barat, III Lampung Barat",
+    "bmkgEarthquakeId": "20240615223103",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240615223103.mmi.jpg",
+    "fingerprintSha1": "1eb834c74feb6fd3a3d4662acfee1e5766c601bc"
   }
 ]
