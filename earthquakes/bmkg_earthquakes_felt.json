@@ -15816,7 +15816,7 @@
     "magnitude": 5.7,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 112 km barat laut Pulau Doi",
-    "feltOnStations": "II Tomohon, II Manado",
+    "feltOnStations": "II Tomohon, II Manado, II Bolaang Mongondow Selatan, II Minahasa Tenggara, II Kepulauan Talaud",
     "bmkgEarthquakeId": "20240615200815",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240615200815.mmi.jpg",
     "fingerprintSha1": "f5349a9880bdc4962614c75a3e982fe3949b1657"
