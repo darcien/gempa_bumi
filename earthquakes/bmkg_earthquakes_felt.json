@@ -15868,5 +15868,17 @@
     "bmkgEarthquakeId": "20240618104335",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240618104335.mmi.jpg",
     "fingerprintSha1": "798b8ed29656b10ab208e2202ef31e662c7ada50"
+  },
+  {
+    "earthquakeAt": "2024-06-18T11:02:29.000Z",
+    "latitude": -6.88,
+    "longitude": 107.08,
+    "magnitude": 2.5,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km Barat Daya Cianjur Jawa Barat",
+    "feltOnStations": "II Cugenang",
+    "bmkgEarthquakeId": "20240618180229",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240618180229.mmi.jpg",
+    "fingerprintSha1": "56c3606e4c0e7e705269ca577151ea139474d75b"
   }
 ]
