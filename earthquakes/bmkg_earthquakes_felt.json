@@ -15880,5 +15880,41 @@
     "bmkgEarthquakeId": "20240618180229",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240618180229.mmi.jpg",
     "fingerprintSha1": "56c3606e4c0e7e705269ca577151ea139474d75b"
+  },
+  {
+    "earthquakeAt": "2024-06-19T02:39:42.000Z",
+    "latitude": 2.42,
+    "longitude": 95.52,
+    "magnitude": 4.1,
+    "depthInKm": 69,
+    "locationInIndonesian": "Pusat gempa berada di Laut 94 Km barat daya Sinabang",
+    "feltOnStations": "III Alafan",
+    "bmkgEarthquakeId": "20240619093942",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240619093942.mmi.jpg",
+    "fingerprintSha1": "7b73d0234f5552e6bfc363276820ac69ed1327fe"
+  },
+  {
+    "earthquakeAt": "2024-06-19T02:34:21.000Z",
+    "latitude": 2.47,
+    "longitude": 95.52,
+    "magnitude": 3.8,
+    "depthInKm": 70,
+    "locationInIndonesian": "Pusat gempa berada di Laut 94 Km barat daya Sinabang",
+    "feltOnStations": "III Alafan",
+    "bmkgEarthquakeId": "20240619093421",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240619093421.mmi.jpg",
+    "fingerprintSha1": "a23472f30bf63ca11c0a49708b15dec58de0b248"
+  },
+  {
+    "earthquakeAt": "2024-06-19T02:32:25.000Z",
+    "latitude": 2.69,
+    "longitude": 95.7,
+    "magnitude": 3.6,
+    "depthInKm": 22,
+    "locationInIndonesian": "Pusat gempa berada di Laut 78 Km barat laut Sinabang",
+    "feltOnStations": "III Alafan",
+    "bmkgEarthquakeId": "20240619093225",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240619093225.mmi.jpg",
+    "fingerprintSha1": "ca0eecf15b9cc27dcc5210a86222735080b1d935"
   }
 ]
