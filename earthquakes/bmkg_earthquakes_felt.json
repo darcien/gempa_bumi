@@ -15916,5 +15916,17 @@
     "bmkgEarthquakeId": "20240619093225",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240619093225.mmi.jpg",
     "fingerprintSha1": "ca0eecf15b9cc27dcc5210a86222735080b1d935"
+  },
+  {
+    "earthquakeAt": "2024-06-20T12:31:42.000Z",
+    "latitude": -3.51,
+    "longitude": 128.63,
+    "magnitude": 2.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 8 km utara Saparua - Maluku Tengah",
+    "feltOnStations": "III Saparua",
+    "bmkgEarthquakeId": "20240620193142",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240620193142.mmi.jpg",
+    "fingerprintSha1": "245febac4164764f6369ff63ddd338bca5e6d546"
   }
 ]
