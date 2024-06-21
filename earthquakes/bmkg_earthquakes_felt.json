@@ -15940,5 +15940,17 @@
     "bmkgEarthquakeId": "20240620194123",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240620194123.mmi.jpg",
     "fingerprintSha1": "267e03ddab63193e2e809f0dfe463d4c2564e4f4"
+  },
+  {
+    "earthquakeAt": "2024-06-21T00:11:19.000Z",
+    "latitude": -3.54,
+    "longitude": 140.01,
+    "magnitude": 5.7,
+    "depthInKm": 78,
+    "locationInIndonesian": "Pusat gempa berada di darat 68 km timur laut Yalimo",
+    "feltOnStations": "II-III Wamena, II Kota Jayapura, II Kab. Jayapura",
+    "bmkgEarthquakeId": "20240621071119",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240621071119.mmi.jpg",
+    "fingerprintSha1": "db3bd74903399943809ef4c5f58ea9561a4b3d50"
   }
 ]
