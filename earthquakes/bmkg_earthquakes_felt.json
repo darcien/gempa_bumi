@@ -15976,5 +15976,17 @@
     "bmkgEarthquakeId": "20240623005252",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240623005252.mmi.jpg",
     "fingerprintSha1": "0cad011983afef2d6fd4fcc4476e03bcf499d169"
+  },
+  {
+    "earthquakeAt": "2024-06-22T19:33:43.000Z",
+    "latitude": 2.58,
+    "longitude": 98.66,
+    "magnitude": 3.8,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km barat daya Samosir",
+    "feltOnStations": "III Samosir",
+    "bmkgEarthquakeId": "20240623023343",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240623023343.mmi.jpg",
+    "fingerprintSha1": "54f14b313d32a3d116da0403045cb1fbd8b5f3c5"
   }
 ]
