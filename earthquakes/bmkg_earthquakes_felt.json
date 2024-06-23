@@ -15988,5 +15988,17 @@
     "bmkgEarthquakeId": "20240623023343",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240623023343.mmi.jpg",
     "fingerprintSha1": "54f14b313d32a3d116da0403045cb1fbd8b5f3c5"
+  },
+  {
+    "earthquakeAt": "2024-06-23T06:54:03.000Z",
+    "latitude": -0.95,
+    "longitude": 119.88,
+    "magnitude": 2.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km selatan Palu",
+    "feltOnStations": "II-III Palu",
+    "bmkgEarthquakeId": "20240623135403",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240623135403.mmi.jpg",
+    "fingerprintSha1": "25ffcb0166c9fd5b4de5933f5c43dda1dfe40c0d"
   }
 ]
