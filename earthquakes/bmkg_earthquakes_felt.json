@@ -16012,5 +16012,17 @@
     "bmkgEarthquakeId": "20240623184350",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240623184350.mmi.jpg",
     "fingerprintSha1": "ad6f311446fb6a439d7e09b6c2a7953c8a508532"
+  },
+  {
+    "earthquakeAt": "2024-06-23T20:21:46.000Z",
+    "latitude": -3.3,
+    "longitude": 128.35,
+    "magnitude": 3.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 32 km tenggara Piru",
+    "feltOnStations": "II-III Kairatu",
+    "bmkgEarthquakeId": "20240624032146",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240624032146.mmi.jpg",
+    "fingerprintSha1": "f373977ac90d439fcd9041d2ab4698c056d22e63"
   }
 ]
