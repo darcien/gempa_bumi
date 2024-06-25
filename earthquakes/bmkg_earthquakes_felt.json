@@ -16048,5 +16048,17 @@
     "bmkgEarthquakeId": "20240624221450",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240624221450.mmi.jpg",
     "fingerprintSha1": "389142e3993e1fef92e16bc6697764e514a08994"
+  },
+  {
+    "earthquakeAt": "2024-06-25T01:09:08.000Z",
+    "latitude": 0.2,
+    "longitude": 100.12,
+    "magnitude": 3.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km barat laut Lubuksikaping-Pasaman",
+    "feltOnStations": "II Pasaman",
+    "bmkgEarthquakeId": "20240625080908",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240625080908.mmi.jpg",
+    "fingerprintSha1": "949b52cf712b26f077f40c5497eedd596a283e1c"
   }
 ]
