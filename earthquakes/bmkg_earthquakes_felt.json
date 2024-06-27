@@ -16120,5 +16120,17 @@
     "bmkgEarthquakeId": "20240627051644",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240627051644.mmi.jpg",
     "fingerprintSha1": "9ba802906fbff8c80b3ce906123bdd8a24adb79e"
+  },
+  {
+    "earthquakeAt": "2024-06-27T03:46:32.000Z",
+    "latitude": -0.24,
+    "longitude": 123.31,
+    "magnitude": 5.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 88 km Tenggara Bonebolango",
+    "feltOnStations": "II-III Pohuwato, II-III Kota Gorontalo, II - III Luwuk",
+    "bmkgEarthquakeId": "20240627104632",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240627104632.mmi.jpg",
+    "fingerprintSha1": "46158713158a6d1617eb0e5d999e54b0c29b9263"
   }
 ]
