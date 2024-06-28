@@ -16168,5 +16168,17 @@
     "bmkgEarthquakeId": "20240628025803",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240628025803.mmi.jpg",
     "fingerprintSha1": "8da1292a420f4819619355014689e6dbcb69492e"
+  },
+  {
+    "earthquakeAt": "2024-06-28T16:29:46.000Z",
+    "latitude": -3.41,
+    "longitude": 101.64,
+    "magnitude": 4.3,
+    "depthInKm": 26,
+    "locationInIndonesian": "Pusat gempa berada di laut 61 km Barat Laut Bengkulu Utara",
+    "feltOnStations": "III Bengkulu, III Argamakmur",
+    "bmkgEarthquakeId": "20240628232946",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240628232946.mmi.jpg",
+    "fingerprintSha1": "de071cf096ebe170ae18135148913301b8edb368"
   }
 ]
