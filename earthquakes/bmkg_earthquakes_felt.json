@@ -16180,5 +16180,17 @@
     "bmkgEarthquakeId": "20240628232946",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240628232946.mmi.jpg",
     "fingerprintSha1": "de071cf096ebe170ae18135148913301b8edb368"
+  },
+  {
+    "earthquakeAt": "2024-06-28T21:15:46.000Z",
+    "latitude": -6.94,
+    "longitude": 111.83,
+    "magnitude": 3.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 22 km barat daya Tuban",
+    "feltOnStations": "II-III Kec. Montong, II - III Kec. Kerek, II - III Kec. Merakurak",
+    "bmkgEarthquakeId": "20240629041546",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240629041546.mmi.jpg",
+    "fingerprintSha1": "57e7ba3e181bebd76086bfa7d50365e4120482e6"
   }
 ]
