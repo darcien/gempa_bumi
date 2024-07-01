@@ -16192,5 +16192,17 @@
     "bmkgEarthquakeId": "20240629041546",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240629041546.mmi.jpg",
     "fingerprintSha1": "57e7ba3e181bebd76086bfa7d50365e4120482e6"
+  },
+  {
+    "earthquakeAt": "2024-07-01T09:14:36.000Z",
+    "latitude": -2.22,
+    "longitude": 120.82,
+    "magnitude": 4.9,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 56 km baratlaut Luwu Timur",
+    "feltOnStations": "III-IV Masamba",
+    "bmkgEarthquakeId": "20240701161436",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240701161436.mmi.jpg",
+    "fingerprintSha1": "626805c206217f9a2552914d8d151c0efda368ef"
   }
 ]
