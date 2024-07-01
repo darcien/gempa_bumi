@@ -16204,5 +16204,17 @@
     "bmkgEarthquakeId": "20240701161436",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240701161436.mmi.jpg",
     "fingerprintSha1": "626805c206217f9a2552914d8d151c0efda368ef"
+  },
+  {
+    "earthquakeAt": "2024-07-01T16:05:28.000Z",
+    "latitude": -2.33,
+    "longitude": 120.65,
+    "magnitude": 3.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 64 km barat laut Luwu Timur",
+    "feltOnStations": "III Luwu Utara",
+    "bmkgEarthquakeId": "20240701230528",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240701230528.mmi.jpg",
+    "fingerprintSha1": "4a178617070114749098c50ff879a55c28b0059c"
   }
 ]
