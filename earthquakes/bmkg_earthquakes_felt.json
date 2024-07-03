@@ -16216,5 +16216,17 @@
     "bmkgEarthquakeId": "20240701230528",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240701230528.mmi.jpg",
     "fingerprintSha1": "4a178617070114749098c50ff879a55c28b0059c"
+  },
+  {
+    "earthquakeAt": "2024-07-03T13:27:53.000Z",
+    "latitude": -3.13,
+    "longitude": 135.62,
+    "magnitude": 4.1,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di laut 29km Timur Laut Nabire`",
+    "feltOnStations": "Nabire II-III",
+    "bmkgEarthquakeId": "20240703202753",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240703202753.mmi.jpg",
+    "fingerprintSha1": "6f4a67e46d9bd6bef51f0c55d88357c288c478dd"
   }
 ]
