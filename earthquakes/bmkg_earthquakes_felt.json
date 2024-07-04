@@ -16228,5 +16228,17 @@
     "bmkgEarthquakeId": "20240703202753",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240703202753.mmi.jpg",
     "fingerprintSha1": "6f4a67e46d9bd6bef51f0c55d88357c288c478dd"
+  },
+  {
+    "earthquakeAt": "2024-07-03T21:51:22.000Z",
+    "latitude": -4.87,
+    "longitude": 122.69,
+    "magnitude": 2.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 3.3 km BaratDaya Duruka",
+    "feltOnStations": "II - III Duruka",
+    "bmkgEarthquakeId": "20240704045122",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240704045122.mmi.jpg",
+    "fingerprintSha1": "c013d9672ec5ab484b9d131d45a513ef4dd3796d"
   }
 ]
