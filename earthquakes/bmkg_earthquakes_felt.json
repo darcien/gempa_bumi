@@ -16240,5 +16240,17 @@
     "bmkgEarthquakeId": "20240704045122",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240704045122.mmi.jpg",
     "fingerprintSha1": "c013d9672ec5ab484b9d131d45a513ef4dd3796d"
+  },
+  {
+    "earthquakeAt": "2024-07-05T03:20:58.000Z",
+    "latitude": -5.31,
+    "longitude": 103.06,
+    "magnitude": 4.3,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di laut 65 km barat daya Kaur",
+    "feltOnStations": "II Liwa",
+    "bmkgEarthquakeId": "20240705102058",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240705102058.mmi.jpg",
+    "fingerprintSha1": "88015c04c2eccfb2b2656463cb8c6b6ada7423d4"
   }
 ]
