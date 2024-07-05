@@ -16288,5 +16288,29 @@
     "bmkgEarthquakeId": "20240705182914",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240705182914.mmi.jpg",
     "fingerprintSha1": "fb4da4dd9f1d6a31dfb8ba167798aec11e83d85f"
+  },
+  {
+    "earthquakeAt": "2024-07-05T18:51:54.000Z",
+    "latitude": -4.3,
+    "longitude": 102.28,
+    "magnitude": 4.6,
+    "depthInKm": 24,
+    "locationInIndonesian": "Pusat gempa berada di laut 41 km barat daya Seluma",
+    "feltOnStations": "II-III Kota Bengkulu",
+    "bmkgEarthquakeId": "20240706015154",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240706015154.mmi.jpg",
+    "fingerprintSha1": "ce9238e28d4650ba55816c5b1e805b52665a4061"
+  },
+  {
+    "earthquakeAt": "2024-07-05T16:31:11.000Z",
+    "latitude": -0.81,
+    "longitude": 110.31,
+    "magnitude": 4.6,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 32 km Kayong Utara",
+    "feltOnStations": "II-III Ketapang",
+    "bmkgEarthquakeId": "20240705233111",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240705233111.mmi.jpg",
+    "fingerprintSha1": "211621b33c422caea622eb3e0c03f12e7e08eb7d"
   }
 ]
