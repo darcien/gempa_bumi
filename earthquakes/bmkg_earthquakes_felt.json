@@ -16264,5 +16264,17 @@
     "bmkgEarthquakeId": "20240705132855",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240705132855.mmi.jpg",
     "fingerprintSha1": "e8af836fd83ea69be17e31549d6ae65b2b32fdc5"
+  },
+  {
+    "earthquakeAt": "2024-07-05T08:14:55.000Z",
+    "latitude": 2.3,
+    "longitude": 96.19,
+    "magnitude": 4.8,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di laut 27 km barat daya Sinabang",
+    "feltOnStations": "IV Simeuleu",
+    "bmkgEarthquakeId": "20240705151455",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240705151455.mmi.jpg",
+    "fingerprintSha1": "48b9c2f67854e34e888c34502dda4b06edf99ee0"
   }
 ]
