@@ -16312,5 +16312,17 @@
     "bmkgEarthquakeId": "20240705233111",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240705233111.mmi.jpg",
     "fingerprintSha1": "211621b33c422caea622eb3e0c03f12e7e08eb7d"
+  },
+  {
+    "earthquakeAt": "2024-07-06T13:26:47.000Z",
+    "latitude": -8.81,
+    "longitude": 112.48,
+    "magnitude": 4.5,
+    "depthInKm": 56,
+    "locationInIndonesian": "Pusat gempa berada di laut 75 km barat daya Malang",
+    "feltOnStations": "III Gondanglegi, II - III Karangkates, II - III Kepanjen, II Trenggalek",
+    "bmkgEarthquakeId": "20240706202647",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240706202647.mmi.jpg",
+    "fingerprintSha1": "a16241aedc1fe0e5343a11a1d5fa1935d355be29"
   }
 ]
