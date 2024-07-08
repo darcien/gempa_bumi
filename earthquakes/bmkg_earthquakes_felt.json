@@ -16336,5 +16336,29 @@
     "bmkgEarthquakeId": "20240707143524",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240707143524.mmi.jpg",
     "fingerprintSha1": "05f1a2265381dadf66f9f0b8797d057007217773"
+  },
+  {
+    "earthquakeAt": "2024-07-08T04:33:40.000Z",
+    "latitude": -7,
+    "longitude": 107.18,
+    "magnitude": 2.5,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat, 20 km tenggara Kab. Cianjur",
+    "feltOnStations": "II - III Cibeber, II - III Cempaka",
+    "bmkgEarthquakeId": "20240708113340",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240708113340.mmi.jpg",
+    "fingerprintSha1": "63a22b8d52173be809bc736c76cfb82b5d12d292"
+  },
+  {
+    "earthquakeAt": "2024-07-08T04:08:05.000Z",
+    "latitude": -6.82,
+    "longitude": 107.09,
+    "magnitude": 2.3,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat, 5 km barat laut Kab. Cianjur",
+    "feltOnStations": "II-III Warungkondang",
+    "bmkgEarthquakeId": "20240708110805",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240708110805.mmi.jpg",
+    "fingerprintSha1": "5e33e42d5349aa0f23a4fd0b4881dbf64aabcfcd"
   }
 ]
