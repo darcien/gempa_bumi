@@ -16360,5 +16360,17 @@
     "bmkgEarthquakeId": "20240708110805",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240708110805.mmi.jpg",
     "fingerprintSha1": "5e33e42d5349aa0f23a4fd0b4881dbf64aabcfcd"
+  },
+  {
+    "earthquakeAt": "2024-07-09T13:50:01.000Z",
+    "latitude": 1.11,
+    "longitude": 128.28,
+    "magnitude": 4.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 31 km Barat Daya Halmahera Timur",
+    "feltOnStations": "II-III Subaim-Halmahera Timur",
+    "bmkgEarthquakeId": "20240709205001",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240709205001.mmi.jpg",
+    "fingerprintSha1": "c9fd9be2ba5e18af5e716cb818741ca36718903f"
   }
 ]
