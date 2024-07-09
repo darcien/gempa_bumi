@@ -16372,5 +16372,17 @@
     "bmkgEarthquakeId": "20240709205001",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240709205001.mmi.jpg",
     "fingerprintSha1": "c9fd9be2ba5e18af5e716cb818741ca36718903f"
+  },
+  {
+    "earthquakeAt": "2024-07-09T15:32:01.000Z",
+    "latitude": -9.64,
+    "longitude": 118.95,
+    "magnitude": 3.1,
+    "depthInKm": 24,
+    "locationInIndonesian": "Pusat gempa berada di laut 6 km barat daya Kodi- Sumba Barat Daya",
+    "feltOnStations": "II Pero Konda",
+    "bmkgEarthquakeId": "20240709223201",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240709223201.mmi.jpg",
+    "fingerprintSha1": "e94c82ba70b8a13672dc41cc975005a7cdc59942"
   }
 ]
