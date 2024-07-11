@@ -16384,5 +16384,17 @@
     "bmkgEarthquakeId": "20240709223201",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240709223201.mmi.jpg",
     "fingerprintSha1": "e94c82ba70b8a13672dc41cc975005a7cdc59942"
+  },
+  {
+    "earthquakeAt": "2024-07-11T02:13:17.000Z",
+    "latitude": 6.14,
+    "longitude": 123.28,
+    "magnitude": 7,
+    "depthInKm": 632,
+    "locationInIndonesian": "Pusat gempa berada di laut 373 km baratlaut Tahuna",
+    "feltOnStations": "II-III Halmahera Barat, II-III Halmahera Selatan, II-III Halmahera Tengah, II-III Taliabu, II-III Ternate, II - III Talaud",
+    "bmkgEarthquakeId": "20240711091317",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240711091317.mmi.jpg",
+    "fingerprintSha1": "7c6c2a17cc90206f6a687f14d5ae01c8b57d354b"
   }
 ]
