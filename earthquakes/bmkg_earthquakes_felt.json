@@ -16420,5 +16420,17 @@
     "bmkgEarthquakeId": "20240711175345",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240711175345.mmi.jpg",
     "fingerprintSha1": "6d68662b49026688c0e22283ce8d804156fd3148"
+  },
+  {
+    "earthquakeAt": "2024-07-11T20:43:03.000Z",
+    "latitude": -2.57,
+    "longitude": 121.24,
+    "magnitude": 3.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km Timur Laut LUWU TIMUR",
+    "feltOnStations": "III Wasuponda",
+    "bmkgEarthquakeId": "20240712034303",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240712034303.mmi.jpg",
+    "fingerprintSha1": "b1681fa8613af94c7974eb8957b3c2a985f03433"
   }
 ]
