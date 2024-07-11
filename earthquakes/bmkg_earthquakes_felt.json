@@ -16396,5 +16396,17 @@
     "bmkgEarthquakeId": "20240711091317",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240711091317.mmi.jpg",
     "fingerprintSha1": "7c6c2a17cc90206f6a687f14d5ae01c8b57d354b"
+  },
+  {
+    "earthquakeAt": "2024-07-11T03:19:10.000Z",
+    "latitude": -3.9,
+    "longitude": 122.24,
+    "magnitude": 3.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 2.1 km Tenggara Kab. Konawe",
+    "feltOnStations": "II-III Konawe, II-III Konawe Utara",
+    "bmkgEarthquakeId": "20240711101910",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240711101910.mmi.jpg",
+    "fingerprintSha1": "a3167df8efd01bce7ffc8d543d70fa734860da2f"
   }
 ]
