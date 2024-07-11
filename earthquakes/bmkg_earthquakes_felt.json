@@ -16408,5 +16408,17 @@
     "bmkgEarthquakeId": "20240711101910",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240711101910.mmi.jpg",
     "fingerprintSha1": "a3167df8efd01bce7ffc8d543d70fa734860da2f"
+  },
+  {
+    "earthquakeAt": "2024-07-11T10:53:45.000Z",
+    "latitude": -8.27,
+    "longitude": 115.53,
+    "magnitude": 3.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km timur laut Karangasem",
+    "feltOnStations": "II Karangasem, II Bangli",
+    "bmkgEarthquakeId": "20240711175345",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240711175345.mmi.jpg",
+    "fingerprintSha1": "6d68662b49026688c0e22283ce8d804156fd3148"
   }
 ]
