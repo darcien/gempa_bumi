@@ -16456,5 +16456,17 @@
     "bmkgEarthquakeId": "20240712115257",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240712115257.mmi.jpg",
     "fingerprintSha1": "7f1daa45616f3f6e50763085190ad10ed710cee6"
+  },
+  {
+    "earthquakeAt": "2024-07-12T06:36:20.000Z",
+    "latitude": -8.45,
+    "longitude": 117.48,
+    "magnitude": 2.9,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di darat, 8 km timur laut Sumbawa",
+    "feltOnStations": "II-III Sumbawa",
+    "bmkgEarthquakeId": "20240712133620",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240712133620.mmi.jpg",
+    "fingerprintSha1": "cc27a5c0c479a6d7aa23d1c8ecd6b1c213b364a2"
   }
 ]
