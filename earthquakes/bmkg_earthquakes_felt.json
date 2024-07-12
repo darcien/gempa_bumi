@@ -16476,7 +16476,7 @@
     "magnitude": 4.8,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut, 127 km Barat Laut Jailolo",
-    "feltOnStations": "II-III Tondano",
+    "feltOnStations": "II-III Tondano, II - III Bitung, II - III Minahasa Utara",
     "bmkgEarthquakeId": "20240712173403",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240712173403.mmi.jpg",
     "fingerprintSha1": "375688757a925c552358a7057cca3b26913d0635"
