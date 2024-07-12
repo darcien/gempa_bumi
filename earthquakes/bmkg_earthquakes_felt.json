@@ -16444,5 +16444,17 @@
     "bmkgEarthquakeId": "20240712092109",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240712092109.mmi.jpg",
     "fingerprintSha1": "328bb31f6ab04614ed94667d90c422143273d13e"
+  },
+  {
+    "earthquakeAt": "2024-07-12T04:52:57.000Z",
+    "latitude": 2.67,
+    "longitude": 97.84,
+    "magnitude": 3.4,
+    "depthInKm": 45,
+    "locationInIndonesian": "Pusat gempa berada di darat 19 km barat laut Subulussalam",
+    "feltOnStations": "II Simpang Kiri",
+    "bmkgEarthquakeId": "20240712115257",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240712115257.mmi.jpg",
+    "fingerprintSha1": "7f1daa45616f3f6e50763085190ad10ed710cee6"
   }
 ]
