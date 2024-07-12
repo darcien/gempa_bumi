@@ -16468,5 +16468,17 @@
     "bmkgEarthquakeId": "20240712133620",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240712133620.mmi.jpg",
     "fingerprintSha1": "cc27a5c0c479a6d7aa23d1c8ecd6b1c213b364a2"
+  },
+  {
+    "earthquakeAt": "2024-07-12T10:34:03.000Z",
+    "latitude": 1.36,
+    "longitude": 126.36,
+    "magnitude": 4.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut, 127 km Barat Laut Jailolo",
+    "feltOnStations": "II-III Tondano",
+    "bmkgEarthquakeId": "20240712173403",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240712173403.mmi.jpg",
+    "fingerprintSha1": "375688757a925c552358a7057cca3b26913d0635"
   }
 ]
