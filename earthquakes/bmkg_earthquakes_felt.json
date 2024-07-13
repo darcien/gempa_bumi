@@ -16492,5 +16492,17 @@
     "bmkgEarthquakeId": "20240713073832",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240713073832.mmi.jpg",
     "fingerprintSha1": "c7a9e20643c5af3fbbd459df257e49177f66b60e"
+  },
+  {
+    "earthquakeAt": "2024-07-13T06:27:49.000Z",
+    "latitude": -4.2,
+    "longitude": 122.65,
+    "magnitude": 2.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 46 km barat daya Konawe Kepulauan",
+    "feltOnStations": "II-III Kendari",
+    "bmkgEarthquakeId": "20240713132749",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240713132749.mmi.jpg",
+    "fingerprintSha1": "73f0bb9dca46b321403fa9c04f0a560710727a16"
   }
 ]
