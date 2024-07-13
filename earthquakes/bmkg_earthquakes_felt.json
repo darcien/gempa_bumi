@@ -16504,5 +16504,17 @@
     "bmkgEarthquakeId": "20240713132749",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240713132749.mmi.jpg",
     "fingerprintSha1": "73f0bb9dca46b321403fa9c04f0a560710727a16"
+  },
+  {
+    "earthquakeAt": "2024-07-13T13:35:25.000Z",
+    "latitude": -3.28,
+    "longitude": 129.42,
+    "magnitude": 3.1,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di darat 46 km tenggara Sawai-Maluku Tengah",
+    "feltOnStations": "II Tehoru",
+    "bmkgEarthquakeId": "20240713203525",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240713203525.mmi.jpg",
+    "fingerprintSha1": "b65d6fbbc55ba7c1da732c88c1e6d2ace6d9b6fc"
   }
 ]
