@@ -16576,5 +16576,17 @@
     "bmkgEarthquakeId": "20240715155421",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240715155421.mmi.jpg",
     "fingerprintSha1": "6676fb70cbebd1f0c5b421a8e8720e5cbb08e2a8"
+  },
+  {
+    "earthquakeAt": "2024-07-15T12:55:53.000Z",
+    "latitude": -3.79,
+    "longitude": 120,
+    "magnitude": 3.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km BaratDaya Sidenreng Rappang",
+    "feltOnStations": "II-III Sidenreng Rappang",
+    "bmkgEarthquakeId": "20240715195553",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240715195553.mmi.jpg",
+    "fingerprintSha1": "05b419e0a3d3bb158dee0b2fbed395c9ab0be3ec"
   }
 ]
