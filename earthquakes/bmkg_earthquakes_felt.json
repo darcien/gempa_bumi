@@ -16540,5 +16540,17 @@
     "bmkgEarthquakeId": "20240715065954",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240715065954.mmi.jpg",
     "fingerprintSha1": "c2b69cc87d63869b6e9a723897f8ef9bf2eabbab"
+  },
+  {
+    "earthquakeAt": "2024-07-15T05:29:06.000Z",
+    "latitude": -8.15,
+    "longitude": 114.86,
+    "magnitude": 3.7,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 25 km barat daya Buleleng",
+    "feltOnStations": "II seririt",
+    "bmkgEarthquakeId": "20240715122906",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240715122906.mmi.jpg",
+    "fingerprintSha1": "246126e39ce4497e4e7d866f338fb55a805ffc67"
   }
 ]
