@@ -16528,5 +16528,17 @@
     "bmkgEarthquakeId": "20240714093833",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240714093833.mmi.jpg",
     "fingerprintSha1": "2685a1a28274af95ff6ddaf411665ea3037db59d"
+  },
+  {
+    "earthquakeAt": "2024-07-14T23:59:54.000Z",
+    "latitude": -5.31,
+    "longitude": 121.92,
+    "magnitude": 3.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km barat daya Kabaena Tengah",
+    "feltOnStations": "III kabaena Tengah",
+    "bmkgEarthquakeId": "20240715065954",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240715065954.mmi.jpg",
+    "fingerprintSha1": "c2b69cc87d63869b6e9a723897f8ef9bf2eabbab"
   }
 ]
