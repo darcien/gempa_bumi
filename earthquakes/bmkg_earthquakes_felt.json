@@ -16600,5 +16600,17 @@
     "bmkgEarthquakeId": "20240716095309",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240716095309.mmi.jpg",
     "fingerprintSha1": "06b5e7d5cfec698ceaec09738cbef526e05dac8e"
+  },
+  {
+    "earthquakeAt": "2024-07-16T15:57:03.000Z",
+    "latitude": -7.21,
+    "longitude": 109.91,
+    "magnitude": 3.6,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km timur laut Wonosobo",
+    "feltOnStations": "III Wonosobo, III Dieng, III Batang, III Kendal, III Temanggung",
+    "bmkgEarthquakeId": "20240716225703",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240716225703.mmi.jpg",
+    "fingerprintSha1": "81e6badbe81f69c483c55557c093b0b2cfeaa79e"
   }
 ]
