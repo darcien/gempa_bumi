@@ -16588,5 +16588,17 @@
     "bmkgEarthquakeId": "20240715195553",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240715195553.mmi.jpg",
     "fingerprintSha1": "05b419e0a3d3bb158dee0b2fbed395c9ab0be3ec"
+  },
+  {
+    "earthquakeAt": "2024-07-16T02:53:09.000Z",
+    "latitude": -4.35,
+    "longitude": 101.99,
+    "magnitude": 4.9,
+    "depthInKm": 36,
+    "locationInIndonesian": "Pusat gempa berada di laut 72 km BaratDaya Seluma",
+    "feltOnStations": "II-III Kota Bengkulu",
+    "bmkgEarthquakeId": "20240716095309",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240716095309.mmi.jpg",
+    "fingerprintSha1": "06b5e7d5cfec698ceaec09738cbef526e05dac8e"
   }
 ]
