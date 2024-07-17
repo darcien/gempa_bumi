@@ -16636,5 +16636,17 @@
     "bmkgEarthquakeId": "20240717063932",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240717063932.mmi.jpg",
     "fingerprintSha1": "eab7d8f7ce6897e70d0a29ebb8e0256a693a8c77"
+  },
+  {
+    "earthquakeAt": "2024-07-17T17:08:20.000Z",
+    "latitude": -2.41,
+    "longitude": 120.91,
+    "magnitude": 3.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 34 km baratlaut Luwutimur",
+    "feltOnStations": "III-IV Mangkutana",
+    "bmkgEarthquakeId": "20240718000820",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240718000820.mmi.jpg",
+    "fingerprintSha1": "9a7d22d6714906facd1b23afc3fbe5e643263fac"
   }
 ]
