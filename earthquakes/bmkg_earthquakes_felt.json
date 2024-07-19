@@ -16648,5 +16648,17 @@
     "bmkgEarthquakeId": "20240718000820",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240718000820.mmi.jpg",
     "fingerprintSha1": "9a7d22d6714906facd1b23afc3fbe5e643263fac"
+  },
+  {
+    "earthquakeAt": "2024-07-19T06:50:00.000Z",
+    "latitude": -3.22,
+    "longitude": 139.19,
+    "magnitude": 4.5,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di darat 52 km timur laut Kobagma",
+    "feltOnStations": "II - III Wamena",
+    "bmkgEarthquakeId": "20240719135000",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240719135000.mmi.jpg",
+    "fingerprintSha1": "da0098ded210d35e518946159fd80c1aba956e78"
   }
 ]
