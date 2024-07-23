@@ -16684,5 +16684,17 @@
     "bmkgEarthquakeId": "20240720195149",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240720195149.mmi.jpg",
     "fingerprintSha1": "8b1cc745abac3b170bb827b435c10d6efdababd6"
+  },
+  {
+    "earthquakeAt": "2024-07-23T03:10:12.000Z",
+    "latitude": -1.69,
+    "longitude": 99.57,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 36 km Timur Laut Kep. Mentawai",
+    "feltOnStations": "III-IV Mentawai, III Padang, III Pariaman, III Padang Pariaman, III Agam, II Padang Panjang",
+    "bmkgEarthquakeId": "20240723101012",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240723101012.mmi.jpg",
+    "fingerprintSha1": "91c8361a8f61248189590c6ee56507a0d9e5413f"
   }
 ]
