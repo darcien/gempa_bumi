@@ -16708,5 +16708,17 @@
     "bmkgEarthquakeId": "20240723162838",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240723162838.mmi.jpg",
     "fingerprintSha1": "4627675541cba000f858e76de113dee181824486"
+  },
+  {
+    "earthquakeAt": "2024-07-23T18:32:53.000Z",
+    "latitude": -3.43,
+    "longitude": 128.37,
+    "magnitude": 4.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 35 barat laut Saparua",
+    "feltOnStations": "III Kairatu",
+    "bmkgEarthquakeId": "20240724013253",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240724013253.mmi.jpg",
+    "fingerprintSha1": "af0a9456ef67f39b71ee32618df18431a83d289a"
   }
 ]
