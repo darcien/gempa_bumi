@@ -16696,5 +16696,17 @@
     "bmkgEarthquakeId": "20240723101012",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240723101012.mmi.jpg",
     "fingerprintSha1": "91c8361a8f61248189590c6ee56507a0d9e5413f"
+  },
+  {
+    "earthquakeAt": "2024-07-23T09:28:38.000Z",
+    "latitude": 1.54,
+    "longitude": 127.78,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 13 km barat laut Halmahera Utara",
+    "feltOnStations": "II-III Tobelo",
+    "bmkgEarthquakeId": "20240723162838",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240723162838.mmi.jpg",
+    "fingerprintSha1": "4627675541cba000f858e76de113dee181824486"
   }
 ]
