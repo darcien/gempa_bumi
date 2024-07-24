@@ -16756,5 +16756,17 @@
     "bmkgEarthquakeId": "20240724222215",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240724222215.mmi.jpg",
     "fingerprintSha1": "e10ede5e68dee182851dce3572890f7fff63a58a"
+  },
+  {
+    "earthquakeAt": "2024-07-24T21:01:58.000Z",
+    "latitude": -6.98,
+    "longitude": 108.51,
+    "magnitude": 3.6,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km tenggara Kab. Kuningan",
+    "feltOnStations": "II-III Kuningan",
+    "bmkgEarthquakeId": "20240725040158",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240725040158.mmi.jpg",
+    "fingerprintSha1": "79d2957f52c371e46eb8cabddfcb2bc331e5bbb4"
   }
 ]
