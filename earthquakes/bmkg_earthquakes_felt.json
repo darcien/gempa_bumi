@@ -16720,5 +16720,17 @@
     "bmkgEarthquakeId": "20240724013253",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240724013253.mmi.jpg",
     "fingerprintSha1": "af0a9456ef67f39b71ee32618df18431a83d289a"
+  },
+  {
+    "earthquakeAt": "2024-07-24T00:22:09.000Z",
+    "latitude": -2.86,
+    "longitude": 139.38,
+    "magnitude": 5.3,
+    "depthInKm": 26,
+    "locationInIndonesian": "Pusat gempa berada di darat 96 km timur laut Kobagma",
+    "feltOnStations": "II Genyem",
+    "bmkgEarthquakeId": "20240724072209",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240724072209.mmi.jpg",
+    "fingerprintSha1": "7dff251fc775fabfc5cbb8d1d745dd437bb341d4"
   }
 ]
