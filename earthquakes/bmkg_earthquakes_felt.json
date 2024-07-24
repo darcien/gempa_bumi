@@ -16732,5 +16732,17 @@
     "bmkgEarthquakeId": "20240724072209",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240724072209.mmi.jpg",
     "fingerprintSha1": "7dff251fc775fabfc5cbb8d1d745dd437bb341d4"
+  },
+  {
+    "earthquakeAt": "2024-07-24T08:09:01.000Z",
+    "latitude": -10.34,
+    "longitude": 123.76,
+    "magnitude": 5.1,
+    "depthInKm": 33,
+    "locationInIndonesian": "Pusat gempa berada didarat 24 Km Tenggara Kupang",
+    "feltOnStations": "IV-V Kupang, II-III Soe, I-II Alor",
+    "bmkgEarthquakeId": "20240724150901",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240724150901.mmi.jpg",
+    "fingerprintSha1": "0157267b5e273755378a315495871dcd50c48e56"
   }
 ]
