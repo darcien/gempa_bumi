@@ -16744,5 +16744,17 @@
     "bmkgEarthquakeId": "20240724150901",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240724150901.mmi.jpg",
     "fingerprintSha1": "0157267b5e273755378a315495871dcd50c48e56"
+  },
+  {
+    "earthquakeAt": "2024-07-24T15:22:15.000Z",
+    "latitude": 4.56,
+    "longitude": 96.41,
+    "magnitude": 4.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 37 km timur laut Kab. Nagan Raya",
+    "feltOnStations": "II-III Seunagan",
+    "bmkgEarthquakeId": "20240724222215",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240724222215.mmi.jpg",
+    "fingerprintSha1": "e10ede5e68dee182851dce3572890f7fff63a58a"
   }
 ]
