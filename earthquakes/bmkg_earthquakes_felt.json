@@ -16780,5 +16780,17 @@
     "bmkgEarthquakeId": "20240725173641",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240725173641.mmi.jpg",
     "fingerprintSha1": "d9fb1aee57a8cd64662d9381b4f79aa12c62990c"
+  },
+  {
+    "earthquakeAt": "2024-07-25T12:14:21.000Z",
+    "latitude": -2.46,
+    "longitude": 120.79,
+    "magnitude": 3.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 44 km barat laut Luwutimur",
+    "feltOnStations": "II Tomoni",
+    "bmkgEarthquakeId": "20240725191421",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240725191421.mmi.jpg",
+    "fingerprintSha1": "ccbfde4d503d28e092ffbcc91dd6be9b932c1ea4"
   }
 ]
