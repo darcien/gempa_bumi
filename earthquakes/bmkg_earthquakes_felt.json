@@ -16792,5 +16792,17 @@
     "bmkgEarthquakeId": "20240725191421",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240725191421.mmi.jpg",
     "fingerprintSha1": "ccbfde4d503d28e092ffbcc91dd6be9b932c1ea4"
+  },
+  {
+    "earthquakeAt": "2024-07-25T17:11:41.000Z",
+    "latitude": -6.02,
+    "longitude": 102.87,
+    "magnitude": 5.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 100 km tenggara Enggano",
+    "feltOnStations": "II - III Kec. Pesisir Selatan",
+    "bmkgEarthquakeId": "20240726001141",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240726001141.mmi.jpg",
+    "fingerprintSha1": "991876ebd97e2abbb91bca236c81a82140318243"
   }
 ]
