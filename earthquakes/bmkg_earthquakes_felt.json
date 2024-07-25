@@ -16804,5 +16804,17 @@
     "bmkgEarthquakeId": "20240726001141",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240726001141.mmi.jpg",
     "fingerprintSha1": "991876ebd97e2abbb91bca236c81a82140318243"
+  },
+  {
+    "earthquakeAt": "2024-07-25T20:32:18.000Z",
+    "latitude": -7.6,
+    "longitude": 128.71,
+    "magnitude": 6.3,
+    "depthInKm": 157,
+    "locationInIndonesian": "Pusat gempa berada di laut 121 km TimurLaut MALUKUBRTDAYA",
+    "feltOnStations": "II - III Tiakur",
+    "bmkgEarthquakeId": "20240726033218",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240726033218.mmi.jpg",
+    "fingerprintSha1": "627af753f3b637ddbe1cb74b1086fd0d9c3ca4b1"
   }
 ]
