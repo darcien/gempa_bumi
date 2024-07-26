@@ -16828,5 +16828,17 @@
     "bmkgEarthquakeId": "20240726104945",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240726104945.mmi.jpg",
     "fingerprintSha1": "85132b8c0e5526033bd6856d149145c76280973a"
+  },
+  {
+    "earthquakeAt": "2024-07-26T07:30:01.000Z",
+    "latitude": 1.67,
+    "longitude": 125.29,
+    "magnitude": 3.8,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di laut 31 km Timur laut Bitung",
+    "feltOnStations": "III Bitung",
+    "bmkgEarthquakeId": "20240726143001",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240726143001.mmi.jpg",
+    "fingerprintSha1": "fbb57c8e2e47d5c52b98459ca1586887b5f0e3cb"
   }
 ]
