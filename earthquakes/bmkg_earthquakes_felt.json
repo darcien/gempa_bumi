@@ -16816,5 +16816,17 @@
     "bmkgEarthquakeId": "20240726033218",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240726033218.mmi.jpg",
     "fingerprintSha1": "627af753f3b637ddbe1cb74b1086fd0d9c3ca4b1"
+  },
+  {
+    "earthquakeAt": "2024-07-26T03:49:45.000Z",
+    "latitude": -6.92,
+    "longitude": 108.46,
+    "magnitude": 3.9,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 Km Baratlaut Kuningan",
+    "feltOnStations": "II - III Kuningan, I-II Ciamis, I-II Banjar",
+    "bmkgEarthquakeId": "20240726104945",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240726104945.mmi.jpg",
+    "fingerprintSha1": "85132b8c0e5526033bd6856d149145c76280973a"
   }
 ]
