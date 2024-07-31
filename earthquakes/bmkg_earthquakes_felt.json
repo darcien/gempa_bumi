@@ -16891,5 +16891,17 @@
     "bmkgEarthquakeId": "20240731063031",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240731063031.mmi.jpg",
     "fingerprintSha1": "25f1548439aace549cdb6c4d5b614d2e66b81595"
+  },
+  {
+    "earthquakeAt": "2024-07-31T16:36:00.000Z",
+    "latitude": -5.37,
+    "longitude": 105.16,
+    "magnitude": 2.5,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km Timutlaut Pesawaran",
+    "feltOnStations": "I-II Pesawaran",
+    "bmkgEarthquakeId": "20240731233600",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240731233600.mmi.jpg",
+    "fingerprintSha1": "849e49fbb3a4b6d435d3c34b462dfba9cc4fd58c"
   }
 ]
