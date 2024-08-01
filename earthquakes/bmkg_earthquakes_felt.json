@@ -16915,5 +16915,17 @@
     "bmkgEarthquakeId": "20240801070007",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240801070007.mmi.jpg",
     "fingerprintSha1": "e12b9d4660f8b95df7eecd697bc10eeffd5a6655"
+  },
+  {
+    "earthquakeAt": "2024-08-01T17:07:47.000Z",
+    "latitude": -5.87,
+    "longitude": 105.12,
+    "magnitude": 3.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 52 km Tenggara Pesawaran",
+    "feltOnStations": "I-II Kelumbayan Barat (Kab. Tanggamus), I-II Punduh Pidada (Kab. Pesawaran)",
+    "bmkgEarthquakeId": "20240802000747",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240802000747.mmi.jpg",
+    "fingerprintSha1": "bfded42ce037dcf582663fc768150ee04d74b21e"
   }
 ]
