@@ -16927,5 +16927,17 @@
     "bmkgEarthquakeId": "20240802000747",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240802000747.mmi.jpg",
     "fingerprintSha1": "bfded42ce037dcf582663fc768150ee04d74b21e"
+  },
+  {
+    "earthquakeAt": "2024-08-03T05:32:58.000Z",
+    "latitude": -3.39,
+    "longitude": 138.09,
+    "magnitude": 5,
+    "depthInKm": 100,
+    "locationInIndonesian": "Pusat gempa berada di 28 km Timurlaut Puncakjaya",
+    "feltOnStations": "II Wamena, III Puncakjaya",
+    "bmkgEarthquakeId": "20240803123258",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240803123258.mmi.jpg",
+    "fingerprintSha1": "66efa783f2ca6d4a6abc85893e3fb3764200bc22"
   }
 ]
