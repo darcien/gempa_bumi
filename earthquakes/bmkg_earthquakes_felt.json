@@ -16951,5 +16951,17 @@
     "bmkgEarthquakeId": "20240803223755",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240803223755.mmi.jpg",
     "fingerprintSha1": "4d39bbcde529381740650c003b586130a499924d"
+  },
+  {
+    "earthquakeAt": "2024-08-03T20:39:58.000Z",
+    "latitude": -6.89,
+    "longitude": 109.74,
+    "magnitude": 2.7,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di darat, 2 km TimurLaut Batang",
+    "feltOnStations": "II Batang",
+    "bmkgEarthquakeId": "20240804033958",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240804033958.mmi.jpg",
+    "fingerprintSha1": "6e894c3c49f502c41cb9adea736aef6b326d8a13"
   }
 ]
