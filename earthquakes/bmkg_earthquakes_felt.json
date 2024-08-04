@@ -16975,5 +16975,17 @@
     "bmkgEarthquakeId": "20240804111110",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240804111110.mmi.jpg",
     "fingerprintSha1": "2157278e49060d376bbfdee3b4cbd50c74591d6d"
+  },
+  {
+    "earthquakeAt": "2024-08-04T06:23:25.000Z",
+    "latitude": -5.67,
+    "longitude": 113.08,
+    "magnitude": 4.1,
+    "depthInKm": 33,
+    "locationInIndonesian": "Pusat gempa berada di laut 153 km Timur laut Bangkalan",
+    "feltOnStations": "II Bawean",
+    "bmkgEarthquakeId": "20240804132325",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240804132325.mmi.jpg",
+    "fingerprintSha1": "212c65874d4504c9ae5163b42e5a9f05b3cc06b7"
   }
 ]
