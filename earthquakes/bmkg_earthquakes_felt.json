@@ -16987,5 +16987,17 @@
     "bmkgEarthquakeId": "20240804132325",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240804132325.mmi.jpg",
     "fingerprintSha1": "212c65874d4504c9ae5163b42e5a9f05b3cc06b7"
+  },
+  {
+    "earthquakeAt": "2024-08-04T08:03:26.000Z",
+    "latitude": -3.65,
+    "longitude": 128.46,
+    "magnitude": 4.8,
+    "depthInKm": 123,
+    "locationInIndonesian": "Pusat gempa berada di Laut 23 Km Barat Saparua",
+    "feltOnStations": "II Ambon",
+    "bmkgEarthquakeId": "20240804150326",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240804150326.mmi.jpg",
+    "fingerprintSha1": "f51dde849cc91b418b174fda4060b36a4686079b"
   }
 ]
