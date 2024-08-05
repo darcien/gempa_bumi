@@ -17011,5 +17011,17 @@
     "bmkgEarthquakeId": "20240804231653",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240804231653.mmi.jpg",
     "fingerprintSha1": "6eb963c7637d302917192aaf8da1d172d411c294"
+  },
+  {
+    "earthquakeAt": "2024-08-05T09:10:32.000Z",
+    "latitude": 1.53,
+    "longitude": 126.93,
+    "magnitude": 4.9,
+    "depthInKm": 106,
+    "locationInIndonesian": "Pusat gempa berada di laut 76 Km Baratlaut Halmahera Barat",
+    "feltOnStations": "II - III Ternate, II Siau , II Sitaro",
+    "bmkgEarthquakeId": "20240805161032",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240805161032.mmi.jpg",
+    "fingerprintSha1": "93de903c4b1099e8c2dcafd8df9981e0e68184d0"
   }
 ]
