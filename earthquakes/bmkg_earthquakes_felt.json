@@ -17023,5 +17023,17 @@
     "bmkgEarthquakeId": "20240805161032",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240805161032.mmi.jpg",
     "fingerprintSha1": "93de903c4b1099e8c2dcafd8df9981e0e68184d0"
+  },
+  {
+    "earthquakeAt": "2024-08-05T12:44:03.000Z",
+    "latitude": -6.33,
+    "longitude": 103.57,
+    "magnitude": 5.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 133 km BaratDaya Pesisir Barat",
+    "feltOnStations": "III Liwa, III Bengkunat, III Pesisir Barat, II Kota Agung",
+    "bmkgEarthquakeId": "20240805194403",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240805194403.mmi.jpg",
+    "fingerprintSha1": "34e8caa69ca35635eb6f5759b2a12c1fd4e5b76d"
   }
 ]
