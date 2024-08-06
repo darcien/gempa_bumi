@@ -17035,5 +17035,17 @@
     "bmkgEarthquakeId": "20240805194403",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240805194403.mmi.jpg",
     "fingerprintSha1": "34e8caa69ca35635eb6f5759b2a12c1fd4e5b76d"
+  },
+  {
+    "earthquakeAt": "2024-08-06T15:14:22.000Z",
+    "latitude": -8.43,
+    "longitude": 115.69,
+    "magnitude": 2.8,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 20 km Tenggara KARANGASEM",
+    "feltOnStations": "II Karangasem",
+    "bmkgEarthquakeId": "20240806221422",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240806221422.mmi.jpg",
+    "fingerprintSha1": "feb173aba7366de1b633201510f4bdc7103c71e7"
   }
 ]
