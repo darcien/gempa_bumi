@@ -17055,7 +17055,7 @@
     "magnitude": 3.1,
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di darat 2 Km BaratLaut Ranomeeto, Kab. Konawe Selatan",
-    "feltOnStations": "III Konawe Selatan, II-III Kendari",
+    "feltOnStations": "III Konawe Selatan, II-III Kendari, II-III Konawe",
     "bmkgEarthquakeId": "20240807174026",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240807174026.mmi.jpg",
     "fingerprintSha1": "b20949b6a6b64798d9848fb41bd6f47458bd8fe8"
