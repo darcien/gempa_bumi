@@ -17059,5 +17059,17 @@
     "bmkgEarthquakeId": "20240807174026",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240807174026.mmi.jpg",
     "fingerprintSha1": "b20949b6a6b64798d9848fb41bd6f47458bd8fe8"
+  },
+  {
+    "earthquakeAt": "2024-08-08T07:24:27.000Z",
+    "latitude": -0.83,
+    "longitude": 121.94,
+    "magnitude": 4.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 24 Km Baratlaut Bolaang Kabupaten Banggai",
+    "feltOnStations": "II - III Bangketa",
+    "bmkgEarthquakeId": "20240808142427",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240808142427.mmi.jpg",
+    "fingerprintSha1": "2ae21d10229f9d2a93e7966bbdda7cf898bcc230"
   }
 ]
