@@ -17083,5 +17083,17 @@
     "bmkgEarthquakeId": "20240809174230",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240809174230.mmi.jpg",
     "fingerprintSha1": "b10f331ae75edd1f4b79a59f42563e7e0ae976e4"
+  },
+  {
+    "earthquakeAt": "2024-08-09T14:18:13.000Z",
+    "latitude": -0.18,
+    "longitude": 100.45,
+    "magnitude": 3.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km timur laut Bukittinggi",
+    "feltOnStations": "II-III Bukittinggi",
+    "bmkgEarthquakeId": "20240809211813",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240809211813.mmi.jpg",
+    "fingerprintSha1": "cd13feacd11a0033bdd0f50a571385e0edcb35ab"
   }
 ]
