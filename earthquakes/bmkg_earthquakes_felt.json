@@ -17107,5 +17107,17 @@
     "bmkgEarthquakeId": "20240809233728",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240809233728.mmi.jpg",
     "fingerprintSha1": "2c39124bf82cddfa241098017d16720277288af8"
+  },
+  {
+    "earthquakeAt": "2024-08-09T16:40:39.000Z",
+    "latitude": -9.32,
+    "longitude": 120.57,
+    "magnitude": 5.3,
+    "depthInKm": 32,
+    "locationInIndonesian": "Pusat gempa berada di laut 51 km timur laut Waingapu",
+    "feltOnStations": "II-III Waingapu",
+    "bmkgEarthquakeId": "20240809234039",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240809234039.mmi.jpg",
+    "fingerprintSha1": "521f192f8009bb105b00b01ed570daa2acab4821"
   }
 ]
