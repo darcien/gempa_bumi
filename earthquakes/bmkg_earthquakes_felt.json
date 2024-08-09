@@ -17071,5 +17071,17 @@
     "bmkgEarthquakeId": "20240808142427",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240808142427.mmi.jpg",
     "fingerprintSha1": "2ae21d10229f9d2a93e7966bbdda7cf898bcc230"
+  },
+  {
+    "earthquakeAt": "2024-08-09T10:42:30.000Z",
+    "latitude": -9.37,
+    "longitude": 114.82,
+    "magnitude": 4,
+    "depthInKm": 37,
+    "locationInIndonesian": "Pusat gempa berada di laut 78 km Baratdaya Kuta Selatan",
+    "feltOnStations": "II-III Kuta Selatan",
+    "bmkgEarthquakeId": "20240809174230",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240809174230.mmi.jpg",
+    "fingerprintSha1": "b10f331ae75edd1f4b79a59f42563e7e0ae976e4"
   }
 ]
