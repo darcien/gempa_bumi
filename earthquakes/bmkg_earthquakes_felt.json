@@ -17131,5 +17131,17 @@
     "bmkgEarthquakeId": "20240810003545",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240810003545.mmi.jpg",
     "fingerprintSha1": "36087c0f5b676831079f9b4ee52d6162dfaa5355"
+  },
+  {
+    "earthquakeAt": "2024-08-10T07:08:02.000Z",
+    "latitude": -2.61,
+    "longitude": 118.74,
+    "magnitude": 3.9,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di laut 50 km barat laut Majene",
+    "feltOnStations": "III Mamuju",
+    "bmkgEarthquakeId": "20240810140802",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240810140802.mmi.jpg",
+    "fingerprintSha1": "33bf52e22b2e996bb1d6c68c34ddf41682170f1a"
   }
 ]
