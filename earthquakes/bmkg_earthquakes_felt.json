@@ -17143,5 +17143,17 @@
     "bmkgEarthquakeId": "20240810140802",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240810140802.mmi.jpg",
     "fingerprintSha1": "33bf52e22b2e996bb1d6c68c34ddf41682170f1a"
+  },
+  {
+    "earthquakeAt": "2024-08-10T08:20:23.000Z",
+    "latitude": 2.8,
+    "longitude": 117.74,
+    "magnitude": 4.6,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 63 km tenggara Tarakan",
+    "feltOnStations": "III-IV Tarakan, III-IV Tanjung Selor, III-IV Berau",
+    "bmkgEarthquakeId": "20240810152023",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240810152023.mmi.jpg",
+    "fingerprintSha1": "f8b2dd2a614b23ec1d77d8ee614b2506853da64d"
   }
 ]
