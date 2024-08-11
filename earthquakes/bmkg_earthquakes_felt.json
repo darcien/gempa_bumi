@@ -17155,5 +17155,17 @@
     "bmkgEarthquakeId": "20240810152023",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240810152023.mmi.jpg",
     "fingerprintSha1": "f8b2dd2a614b23ec1d77d8ee614b2506853da64d"
+  },
+  {
+    "earthquakeAt": "2024-08-11T21:44:58.000Z",
+    "latitude": -3.15,
+    "longitude": 118.82,
+    "magnitude": 2.3,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km barat daya Majene",
+    "feltOnStations": "II - III Majene",
+    "bmkgEarthquakeId": "20240812044458",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240812044458.mmi.jpg",
+    "fingerprintSha1": "f49a5a81f26c569c692809e4ee84c9daba4ec025"
   }
 ]
