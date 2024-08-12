@@ -17167,5 +17167,17 @@
     "bmkgEarthquakeId": "20240812044458",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240812044458.mmi.jpg",
     "fingerprintSha1": "f49a5a81f26c569c692809e4ee84c9daba4ec025"
+  },
+  {
+    "earthquakeAt": "2024-08-12T11:36:13.000Z",
+    "latitude": 2.38,
+    "longitude": 126.65,
+    "magnitude": 5.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di Laut, 125km BaratLaut Pulaudoi",
+    "feltOnStations": "II-III Tagulandang",
+    "bmkgEarthquakeId": "20240812183613",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240812183613.mmi.jpg",
+    "fingerprintSha1": "574d68ad346e8fbcc322384cc08217b13f2f6272"
   }
 ]
