@@ -17239,5 +17239,17 @@
     "bmkgEarthquakeId": "20240813210027",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240813210027.mmi.jpg",
     "fingerprintSha1": "ea7aa47d3336513257a526cca5831c8fd482be22"
+  },
+  {
+    "earthquakeAt": "2024-08-13T19:54:01.000Z",
+    "latitude": -3.4,
+    "longitude": 135.42,
+    "magnitude": 4,
+    "depthInKm": 35,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km barat daya Nabire",
+    "feltOnStations": "III Nabire",
+    "bmkgEarthquakeId": "20240814025401",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240814025401.mmi.jpg",
+    "fingerprintSha1": "7920bd30e54a6eb13d829331a656f49c3a6a7d76"
   }
 ]
