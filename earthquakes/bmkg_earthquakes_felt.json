@@ -17175,9 +17175,21 @@
     "magnitude": 5.3,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di Laut, 125km BaratLaut Pulaudoi",
-    "feltOnStations": "II-III Tagulandang",
+    "feltOnStations": "II-III Tagulandang , II-III Minahasa Tenggara",
     "bmkgEarthquakeId": "20240812183613",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240812183613.mmi.jpg",
     "fingerprintSha1": "574d68ad346e8fbcc322384cc08217b13f2f6272"
+  },
+  {
+    "earthquakeAt": "2024-08-13T03:03:52.000Z",
+    "latitude": -9.18,
+    "longitude": 112.59,
+    "magnitude": 4.9,
+    "depthInKm": 57,
+    "locationInIndonesian": "Pusat gempa berada di laut 115 km Tenggara Kab. Malang",
+    "feltOnStations": "III - IV Kabupaten Malang, III Blitar , II Jember, II Lumajang",
+    "bmkgEarthquakeId": "20240813100352",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240813100352.mmi.jpg",
+    "fingerprintSha1": "008fd127d2a99ece813f2ea201c1b3891f4186c0"
   }
 ]
