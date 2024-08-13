@@ -17227,5 +17227,17 @@
     "bmkgEarthquakeId": "20240813204117",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240813204117.mmi.jpg",
     "fingerprintSha1": "ccc0db93a4ccbd13f01b09c4013fcacdfaef4927"
+  },
+  {
+    "earthquakeAt": "2024-08-13T14:00:27.000Z",
+    "latitude": -2.4,
+    "longitude": 134.29,
+    "magnitude": 3.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 43 km BaratLaut Teluk Wondama",
+    "feltOnStations": "II Teluk Wondama",
+    "bmkgEarthquakeId": "20240813210027",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240813210027.mmi.jpg",
+    "fingerprintSha1": "ea7aa47d3336513257a526cca5831c8fd482be22"
   }
 ]
