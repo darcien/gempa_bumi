@@ -17251,5 +17251,17 @@
     "bmkgEarthquakeId": "20240814025401",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240814025401.mmi.jpg",
     "fingerprintSha1": "7920bd30e54a6eb13d829331a656f49c3a6a7d76"
+  },
+  {
+    "earthquakeAt": "2024-08-14T09:15:08.000Z",
+    "latitude": -6.65,
+    "longitude": 104.37,
+    "magnitude": 4.9,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 134 km barat daya Tanggamus",
+    "feltOnStations": "II Bengkunat",
+    "bmkgEarthquakeId": "20240814161508",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240814161508.mmi.jpg",
+    "fingerprintSha1": "376e5f1da68f22267ed195be2152586b62512286"
   }
 ]
