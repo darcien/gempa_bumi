@@ -17263,5 +17263,17 @@
     "bmkgEarthquakeId": "20240814161508",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240814161508.mmi.jpg",
     "fingerprintSha1": "376e5f1da68f22267ed195be2152586b62512286"
+  },
+  {
+    "earthquakeAt": "2024-08-14T14:14:03.000Z",
+    "latitude": -9.63,
+    "longitude": 114.02,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 156 km barat daya Jembrana",
+    "feltOnStations": "III - IV Banyuwangi, II-III Badung, II - III Tabanan, II Denpasar, II Karangkates",
+    "bmkgEarthquakeId": "20240814211403",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240814211403.mmi.jpg",
+    "fingerprintSha1": "e4679fca731116afc5cb0a3cc3cd4a27cbaed5f5"
   }
 ]
