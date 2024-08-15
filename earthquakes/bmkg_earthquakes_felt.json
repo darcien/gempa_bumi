@@ -17287,5 +17287,17 @@
     "bmkgEarthquakeId": "20240815005542",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240815005542.mmi.jpg",
     "fingerprintSha1": "aaf74e12bbfac9667f7c429d029a99ddeae949ae"
+  },
+  {
+    "earthquakeAt": "2024-08-15T12:40:14.000Z",
+    "latitude": -8.65,
+    "longitude": 120.42,
+    "magnitude": 3.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km barat daya Ruteng",
+    "feltOnStations": "III Ruteng",
+    "bmkgEarthquakeId": "20240815194014",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240815194014.mmi.jpg",
+    "fingerprintSha1": "41a9182d77e846a64fd8f80a8a4f85342a63c0fc"
   }
 ]
