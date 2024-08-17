@@ -17299,5 +17299,17 @@
     "bmkgEarthquakeId": "20240815194014",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240815194014.mmi.jpg",
     "fingerprintSha1": "41a9182d77e846a64fd8f80a8a4f85342a63c0fc"
+  },
+  {
+    "earthquakeAt": "2024-08-17T01:25:28.000Z",
+    "latitude": -2.49,
+    "longitude": 121.18,
+    "magnitude": 4.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km TimurLaut LUWUTIMUR",
+    "feltOnStations": "III Malili",
+    "bmkgEarthquakeId": "20240817082528",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240817082528.mmi.jpg",
+    "fingerprintSha1": "047ce885f6557eddbc80c21168a90839656aa6ac"
   }
 ]
