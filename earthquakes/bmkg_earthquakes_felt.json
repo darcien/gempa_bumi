@@ -17331,7 +17331,7 @@
     "magnitude": 4.3,
     "depthInKm": 27,
     "locationInIndonesian": "Pusat gempa berada di darat 16 km barat daya Kab. Kupang",
-    "feltOnStations": "II-III Kota Kupang, II - III Kab. Kupang",
+    "feltOnStations": "II-III Kota Kupang, III - IV Kab. Kupang",
     "bmkgEarthquakeId": "20240819104857",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240819104857.mmi.jpg",
     "fingerprintSha1": "12cd2fb92ddcb757a1a898024e68116c017aeb76"
