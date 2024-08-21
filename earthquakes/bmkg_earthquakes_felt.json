@@ -17347,5 +17347,17 @@
     "bmkgEarthquakeId": "20240820002948",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240820002948.mmi.jpg",
     "fingerprintSha1": "d7632878b6568bdd7aa4fff1bb62010bdb9676dd"
+  },
+  {
+    "earthquakeAt": "2024-08-21T00:01:17.000Z",
+    "latitude": 2.47,
+    "longitude": 116.85,
+    "magnitude": 4.9,
+    "depthInKm": 51,
+    "locationInIndonesian": "Pusat gempa berada di darat 50 km barat daya Bulungan",
+    "feltOnStations": "II - III Berau, III Tanjung Selor",
+    "bmkgEarthquakeId": "20240821070117",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240821070117.mmi.jpg",
+    "fingerprintSha1": "c0e21b13329440332e799f7a75efc9a2d71050c7"
   }
 ]
