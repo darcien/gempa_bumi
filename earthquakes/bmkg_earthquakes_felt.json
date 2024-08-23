@@ -17379,7 +17379,7 @@
     "magnitude": 5.3,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 43 km timurlaut Tambolaka",
-    "feltOnStations": "III-IV Labuhan Bajo, III-IV Tambolaka, III Dompu, III Bima, III Sumba Barat, III Sumba Timur, II Ruteng, II Sumbawa",
+    "feltOnStations": "III-IV Labuhan Bajo, III-IV Tambolaka, III Dompu, III Bima, III Sumba Barat, III Sumba Timur, II Ruteng, II Sumbawa, III-IV Sumba Tengah",
     "bmkgEarthquakeId": "20240823105558",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240823105558.mmi.jpg",
     "fingerprintSha1": "5a8375bde83dde4cd717ff3ceca6074310523b12"
