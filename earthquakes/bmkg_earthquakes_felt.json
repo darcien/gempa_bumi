@@ -17371,5 +17371,17 @@
     "bmkgEarthquakeId": "20240821185830",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240821185830.mmi.jpg",
     "fingerprintSha1": "9748b99cc0038e43614e5025e7aab09736c18a9b"
+  },
+  {
+    "earthquakeAt": "2024-08-23T03:55:58.000Z",
+    "latitude": -9.04,
+    "longitude": 119.36,
+    "magnitude": 5.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 43 km timurlaut Tambolaka",
+    "feltOnStations": "III-IV Labuhan Bajo, III-IV Tambolaka, III Dompu, III Bima, III Sumba Barat, III Sumba Timur, II Ruteng, II Sumbawa",
+    "bmkgEarthquakeId": "20240823105558",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240823105558.mmi.jpg",
+    "fingerprintSha1": "5a8375bde83dde4cd717ff3ceca6074310523b12"
   }
 ]
