@@ -17383,5 +17383,17 @@
     "bmkgEarthquakeId": "20240823105558",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240823105558.mmi.jpg",
     "fingerprintSha1": "5a8375bde83dde4cd717ff3ceca6074310523b12"
+  },
+  {
+    "earthquakeAt": "2024-08-23T10:30:28.000Z",
+    "latitude": -2.52,
+    "longitude": 121.17,
+    "magnitude": 4.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 Km Barat Laut Luwu Timur",
+    "feltOnStations": "Sorowako III-IV",
+    "bmkgEarthquakeId": "20240823173028",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240823173028.mmi.jpg",
+    "fingerprintSha1": "7e1c2e465e50fdb4d63acd29e88cafd65d0a72a6"
   }
 ]
