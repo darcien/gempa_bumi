@@ -17391,9 +17391,21 @@
     "magnitude": 4.8,
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di darat 7 Km Barat Laut Luwu Timur",
-    "feltOnStations": "Sorowako III-IV",
+    "feltOnStations": "III-IV Sorowako, III Malili",
     "bmkgEarthquakeId": "20240823173028",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240823173028.mmi.jpg",
     "fingerprintSha1": "7e1c2e465e50fdb4d63acd29e88cafd65d0a72a6"
+  },
+  {
+    "earthquakeAt": "2024-08-24T01:31:23.000Z",
+    "latitude": -4.27,
+    "longitude": 122.57,
+    "magnitude": 3.9,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di darat 1,4 km timur laut Laeya, Kab. Konawe Selatan",
+    "feltOnStations": "III Konawe Selatan",
+    "bmkgEarthquakeId": "20240824083123",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240824083123.mmi.jpg",
+    "fingerprintSha1": "825791a91b8b1c1e40fd39244869f9a2f5b12a3f"
   }
 ]
