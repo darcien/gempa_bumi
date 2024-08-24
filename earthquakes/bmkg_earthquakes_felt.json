@@ -17419,5 +17419,17 @@
     "bmkgEarthquakeId": "20240824094723",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240824094723.mmi.jpg",
     "fingerprintSha1": "c00dfe6177f52bc6a804e2b3c39534bf479523bd"
+  },
+  {
+    "earthquakeAt": "2024-08-24T03:31:59.000Z",
+    "latitude": -6.8,
+    "longitude": 105.12,
+    "magnitude": 4.9,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di laut 53 km barat daya Sumur",
+    "feltOnStations": "II Bandar Lampung",
+    "bmkgEarthquakeId": "20240824103159",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240824103159.mmi.jpg",
+    "fingerprintSha1": "672024198a92c334e648618e7fac0537e74a8b7b"
   }
 ]
