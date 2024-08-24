@@ -17443,5 +17443,17 @@
     "bmkgEarthquakeId": "20240824202232",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240824202232.mmi.jpg",
     "fingerprintSha1": "7cbc9b05ef16e3d5133525799d531cbfba0ddae5"
+  },
+  {
+    "earthquakeAt": "2024-08-24T16:54:34.000Z",
+    "latitude": -4.43,
+    "longitude": 102.18,
+    "magnitude": 5.2,
+    "depthInKm": 21,
+    "locationInIndonesian": "Pusat gempa berada di laut 59km barat daya Seluma",
+    "feltOnStations": "III-IV Kota Bengkulu, III-IV Bengkulu Utara, III Kaur",
+    "bmkgEarthquakeId": "20240824235434",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240824235434.mmi.jpg",
+    "fingerprintSha1": "f319d2fc42c700f5e8dff0ad72a4fabf3b109e93"
   }
 ]
