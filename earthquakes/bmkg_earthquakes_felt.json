@@ -17467,5 +17467,17 @@
     "bmkgEarthquakeId": "20240826071703",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240826071703.mmi.jpg",
     "fingerprintSha1": "bcbd33c1af81476a4ebe163c934ecce4ee2b134e"
+  },
+  {
+    "earthquakeAt": "2024-08-26T12:57:42.000Z",
+    "latitude": -8.78,
+    "longitude": 110.27,
+    "magnitude": 5.8,
+    "depthInKm": 30,
+    "locationInIndonesian": "Pusat gempa berada di laut 95 km barat daya Gunungkidul",
+    "feltOnStations": "III Karangkates, II Nganjuk, II Malang, III-IV Sleman",
+    "bmkgEarthquakeId": "20240826195742",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240826195742.mmi.jpg",
+    "fingerprintSha1": "f4e5e70bf0ef417e3076dd021ddf9169aa3f1a13"
   }
 ]
