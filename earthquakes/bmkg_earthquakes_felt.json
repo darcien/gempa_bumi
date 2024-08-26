@@ -17455,5 +17455,17 @@
     "bmkgEarthquakeId": "20240824235434",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240824235434.mmi.jpg",
     "fingerprintSha1": "f319d2fc42c700f5e8dff0ad72a4fabf3b109e93"
+  },
+  {
+    "earthquakeAt": "2024-08-26T00:17:03.000Z",
+    "latitude": 1.16,
+    "longitude": 126.43,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 112 KM BaratLaut TERNATE",
+    "feltOnStations": "II-III Ternate",
+    "bmkgEarthquakeId": "20240826071703",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240826071703.mmi.jpg",
+    "fingerprintSha1": "bcbd33c1af81476a4ebe163c934ecce4ee2b134e"
   }
 ]
