@@ -17479,5 +17479,29 @@
     "bmkgEarthquakeId": "20240826195742",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240826195742.mmi.jpg",
     "fingerprintSha1": "f4e5e70bf0ef417e3076dd021ddf9169aa3f1a13"
+  },
+  {
+    "earthquakeAt": "2024-08-27T02:15:17.000Z",
+    "latitude": -7.36,
+    "longitude": 129.77,
+    "magnitude": 6.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di Laut 183 Km barat laut Tanimbar",
+    "feltOnStations": "III Tepa, II - III Saumlaki, III Masela, III Babar Timur",
+    "bmkgEarthquakeId": "20240827091517",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240827091517.mmi.jpg",
+    "fingerprintSha1": "8985c540afd5984050caf2bdebabd5363f72782e"
+  },
+  {
+    "earthquakeAt": "2024-08-27T02:13:32.000Z",
+    "latitude": -2.5,
+    "longitude": 121.13,
+    "magnitude": 3.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km barat laut Luwuk Timur",
+    "feltOnStations": "III Malili",
+    "bmkgEarthquakeId": "20240827091332",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240827091332.mmi.jpg",
+    "fingerprintSha1": "02a016508ae9b8343cfd79f70642b174e06883b8"
   }
 ]
