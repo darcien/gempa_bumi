@@ -17503,5 +17503,17 @@
     "bmkgEarthquakeId": "20240827091332",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240827091332.mmi.jpg",
     "fingerprintSha1": "02a016508ae9b8343cfd79f70642b174e06883b8"
+  },
+  {
+    "earthquakeAt": "2024-08-27T02:40:39.000Z",
+    "latitude": -9.55,
+    "longitude": 118.59,
+    "magnitude": 4.9,
+    "depthInKm": 19,
+    "locationInIndonesian": "Pusat gempa berada di laut 44 km barat laut Kodi",
+    "feltOnStations": "III Tambolaka",
+    "bmkgEarthquakeId": "20240827094039",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240827094039.mmi.jpg",
+    "fingerprintSha1": "c79d9083b9d0e2582fd0aa840bdbd4b6e4787375"
   }
 ]
