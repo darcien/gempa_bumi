@@ -17515,5 +17515,17 @@
     "bmkgEarthquakeId": "20240827094039",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240827094039.mmi.jpg",
     "fingerprintSha1": "c79d9083b9d0e2582fd0aa840bdbd4b6e4787375"
+  },
+  {
+    "earthquakeAt": "2024-08-28T03:36:48.000Z",
+    "latitude": -7.74,
+    "longitude": 107.84,
+    "magnitude": 3.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di Laut 51 Km BaratDaya KAB-TASIKMALAYA",
+    "feltOnStations": "III Cipatujah, III Cibalong, III Pamengpeuk",
+    "bmkgEarthquakeId": "20240828103648",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240828103648.mmi.jpg",
+    "fingerprintSha1": "a999353065e907a23fe5cb5c0653928fdd967d84"
   }
 ]
