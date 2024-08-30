@@ -17527,5 +17527,17 @@
     "bmkgEarthquakeId": "20240828103648",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240828103648.mmi.jpg",
     "fingerprintSha1": "a999353065e907a23fe5cb5c0653928fdd967d84"
+  },
+  {
+    "earthquakeAt": "2024-08-30T18:06:57.000Z",
+    "latitude": -4.9,
+    "longitude": 122.69,
+    "magnitude": 2.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km barat daya Duruka, Kab. Muna",
+    "feltOnStations": "III Muna",
+    "bmkgEarthquakeId": "20240831010657",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240831010657.mmi.jpg",
+    "fingerprintSha1": "d8df2494cd298e67f256729635c7149e6bd85c7d"
   }
 ]
