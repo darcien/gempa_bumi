@@ -17539,5 +17539,29 @@
     "bmkgEarthquakeId": "20240831010657",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240831010657.mmi.jpg",
     "fingerprintSha1": "d8df2494cd298e67f256729635c7149e6bd85c7d"
+  },
+  {
+    "earthquakeAt": "2024-08-31T08:53:48.000Z",
+    "latitude": -3.28,
+    "longitude": 140.03,
+    "magnitude": 5.2,
+    "depthInKm": 93,
+    "locationInIndonesian": "Pusat gempa berada di darat 81 km barat laut Keerom",
+    "feltOnStations": "II Wamena",
+    "bmkgEarthquakeId": "20240831155348",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240831155348.mmi.jpg",
+    "fingerprintSha1": "91ccdf50f3145a47fc2428466ca71ccae1d07b73"
+  },
+  {
+    "earthquakeAt": "2024-08-31T08:04:42.000Z",
+    "latitude": -4.16,
+    "longitude": 121.7,
+    "magnitude": 2.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 3.4 Km TimurLaut Baula, Kab.Kolaka",
+    "feltOnStations": "II-III Wundulako",
+    "bmkgEarthquakeId": "20240831150442",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240831150442.mmi.jpg",
+    "fingerprintSha1": "e0916239891f46c252a80db861634c5ab1b67a8c"
   }
 ]
