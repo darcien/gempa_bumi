@@ -17563,5 +17563,29 @@
     "bmkgEarthquakeId": "20240831150442",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240831150442.mmi.jpg",
     "fingerprintSha1": "e0916239891f46c252a80db861634c5ab1b67a8c"
+  },
+  {
+    "earthquakeAt": "2024-09-01T11:47:03.000Z",
+    "latitude": -2.05,
+    "longitude": 125.77,
+    "magnitude": 4.4,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di laut 24 km barat Sanana",
+    "feltOnStations": "III Sanana",
+    "bmkgEarthquakeId": "20240901184703",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240901184703.mmi.jpg",
+    "fingerprintSha1": "4b6a30975bdcba15f5b44590f44ee1452dc21ef8"
+  },
+  {
+    "earthquakeAt": "2024-09-01T11:41:10.000Z",
+    "latitude": -6.72,
+    "longitude": 106.65,
+    "magnitude": 2.8,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km barat daya Kota Bogor",
+    "feltOnStations": "II Kec. Pamijahan",
+    "bmkgEarthquakeId": "20240901184110",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240901184110.mmi.jpg",
+    "fingerprintSha1": "3e7714d38a40cd43c31f5200c8e9f95d7fee8c60"
   }
 ]
