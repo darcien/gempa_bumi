@@ -17599,5 +17599,17 @@
     "bmkgEarthquakeId": "20240902014852",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240902014852.mmi.jpg",
     "fingerprintSha1": "9890167b2a1933c35334532faca549a512f7d1e0"
+  },
+  {
+    "earthquakeAt": "2024-09-01T19:59:25.000Z",
+    "latitude": 3.81,
+    "longitude": 126.68,
+    "magnitude": 5.1,
+    "depthInKm": 21,
+    "locationInIndonesian": "Pusat gempa berada di laut 21 km Tenggara Melonguane",
+    "feltOnStations": "IV Melonguane, II - III Tahuna, II - III Ondong, II-III Tobelo, II - III Daruba",
+    "bmkgEarthquakeId": "20240902025925",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240902025925.mmi.jpg",
+    "fingerprintSha1": "8cac1922425a97d5121f036032864f10a726b424"
   }
 ]
