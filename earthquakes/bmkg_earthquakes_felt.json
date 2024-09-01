@@ -17587,5 +17587,17 @@
     "bmkgEarthquakeId": "20240901184110",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240901184110.mmi.jpg",
     "fingerprintSha1": "3e7714d38a40cd43c31f5200c8e9f95d7fee8c60"
+  },
+  {
+    "earthquakeAt": "2024-09-01T18:48:52.000Z",
+    "latitude": -4.04,
+    "longitude": 121.82,
+    "magnitude": 2.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 4.4 tenggara Lalolae, Kab. Kolaka Timur",
+    "feltOnStations": "II - III Mowewe",
+    "bmkgEarthquakeId": "20240902014852",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240902014852.mmi.jpg",
+    "fingerprintSha1": "9890167b2a1933c35334532faca549a512f7d1e0"
   }
 ]
