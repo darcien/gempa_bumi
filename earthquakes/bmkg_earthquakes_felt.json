@@ -17611,5 +17611,17 @@
     "bmkgEarthquakeId": "20240902025925",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240902025925.mmi.jpg",
     "fingerprintSha1": "8cac1922425a97d5121f036032864f10a726b424"
+  },
+  {
+    "earthquakeAt": "2024-09-02T00:39:09.000Z",
+    "latitude": 4.53,
+    "longitude": 96.43,
+    "magnitude": 4.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 35 Km TimurLaut Nagan Raya Aceh",
+    "feltOnStations": "II Aceh Besar, II - III Banda Aceh, II - III Pidie Jaya, III-IV Bener Meriah, III - IV Takengon",
+    "bmkgEarthquakeId": "20240902073909",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240902073909.mmi.jpg",
+    "fingerprintSha1": "850fe7d2c514011c82d8f02d2994d11604657b1c"
   }
 ]
