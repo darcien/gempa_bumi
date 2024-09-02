@@ -17623,5 +17623,17 @@
     "bmkgEarthquakeId": "20240902073909",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240902073909.mmi.jpg",
     "fingerprintSha1": "850fe7d2c514011c82d8f02d2994d11604657b1c"
+  },
+  {
+    "earthquakeAt": "2024-09-02T13:51:28.000Z",
+    "latitude": 4.86,
+    "longitude": 96.06,
+    "magnitude": 4.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 28 km barat daya Kab Pidie Jaya",
+    "feltOnStations": "IV Mane, III Calang, II-III Nagan Raya",
+    "bmkgEarthquakeId": "20240902205128",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240902205128.mmi.jpg",
+    "fingerprintSha1": "d9f0dc3166c4ea9703c9e6729a999a7faf90ccfd"
   }
 ]
