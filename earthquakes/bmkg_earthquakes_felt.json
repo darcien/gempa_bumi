@@ -17659,5 +17659,17 @@
     "bmkgEarthquakeId": "20240903194340",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240903194340.mmi.jpg",
     "fingerprintSha1": "9a83e88a02052b80235da9ef285b6ff0f7a2e14a"
+  },
+  {
+    "earthquakeAt": "2024-09-03T13:13:08.000Z",
+    "latitude": -0.35,
+    "longitude": 123.1,
+    "magnitude": 4.9,
+    "depthInKm": 36,
+    "locationInIndonesian": "Pusat gempa berada di laut 98 km barat daya Bonebolango",
+    "feltOnStations": "III Luwuk",
+    "bmkgEarthquakeId": "20240903201308",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240903201308.mmi.jpg",
+    "fingerprintSha1": "0a8e7610d9ad6dafb7ab8905eb1a3aabc838cbe1"
   }
 ]
