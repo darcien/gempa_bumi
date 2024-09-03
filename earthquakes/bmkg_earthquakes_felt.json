@@ -17671,5 +17671,17 @@
     "bmkgEarthquakeId": "20240903201308",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240903201308.mmi.jpg",
     "fingerprintSha1": "0a8e7610d9ad6dafb7ab8905eb1a3aabc838cbe1"
+  },
+  {
+    "earthquakeAt": "2024-09-03T13:43:45.000Z",
+    "latitude": -2.54,
+    "longitude": 121.14,
+    "magnitude": 2.7,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km barat laut Luwuk Timur",
+    "feltOnStations": "II Wasuponda",
+    "bmkgEarthquakeId": "20240903204345",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240903204345.mmi.jpg",
+    "fingerprintSha1": "853841c08db3263946e91f282f4d995e3987b9f2"
   }
 ]
