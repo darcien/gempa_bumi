@@ -17683,5 +17683,17 @@
     "bmkgEarthquakeId": "20240903204345",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240903204345.mmi.jpg",
     "fingerprintSha1": "853841c08db3263946e91f282f4d995e3987b9f2"
+  },
+  {
+    "earthquakeAt": "2024-09-04T06:24:17.000Z",
+    "latitude": -6.88,
+    "longitude": 107.51,
+    "magnitude": 1.8,
+    "depthInKm": 26,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km Barat Daya Kab. Bandung",
+    "feltOnStations": "II Kab. Bandung Barat",
+    "bmkgEarthquakeId": "20240904132417",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240904132417.mmi.jpg",
+    "fingerprintSha1": "4732ae9332ddb2a2b7b348069a9bb34fe849f642"
   }
 ]
