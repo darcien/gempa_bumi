@@ -17707,5 +17707,17 @@
     "bmkgEarthquakeId": "20240905113129",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240905113129.mmi.jpg",
     "fingerprintSha1": "cb7deb1ab8016feb1d056a1f78b7fb62c5fd4a9e"
+  },
+  {
+    "earthquakeAt": "2024-09-05T05:28:07.000Z",
+    "latitude": 4.44,
+    "longitude": 96.59,
+    "magnitude": 4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 35 km barat daya Takengon-Aceh Tengah",
+    "feltOnStations": "II Takengon, II Bener Meriah",
+    "bmkgEarthquakeId": "20240905122807",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240905122807.mmi.jpg",
+    "fingerprintSha1": "ae1edd7a2ef3afa3b7e22ac629c4921020a38b86"
   }
 ]
