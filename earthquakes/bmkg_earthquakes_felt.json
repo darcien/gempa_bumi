@@ -17719,5 +17719,17 @@
     "bmkgEarthquakeId": "20240905122807",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240905122807.mmi.jpg",
     "fingerprintSha1": "ae1edd7a2ef3afa3b7e22ac629c4921020a38b86"
+  },
+  {
+    "earthquakeAt": "2024-09-05T07:20:18.000Z",
+    "latitude": -7.21,
+    "longitude": 107.55,
+    "magnitude": 3.2,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km tenggara Kab. Bandung",
+    "feltOnStations": "II - III Pangalengan, II - III Cibereum, II - III Cimaung, II - III Ciwidey",
+    "bmkgEarthquakeId": "20240905142018",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240905142018.mmi.jpg",
+    "fingerprintSha1": "72e25cec3760e98dcde94f32b6b6bebf7d842813"
   }
 ]
