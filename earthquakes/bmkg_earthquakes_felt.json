@@ -17695,5 +17695,17 @@
     "bmkgEarthquakeId": "20240904132417",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240904132417.mmi.jpg",
     "fingerprintSha1": "4732ae9332ddb2a2b7b348069a9bb34fe849f642"
+  },
+  {
+    "earthquakeAt": "2024-09-05T04:31:29.000Z",
+    "latitude": -0.22,
+    "longitude": 124.61,
+    "magnitude": 5.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 95 Km tenggara Bolaanguki",
+    "feltOnStations": "II-III Kab.Minahasa, II-III Kab.Minahasa Selatan, II-III Kotamobagu, II-III Kab. Bolaang Mongondow, II-III Kab. Bolaang Mongondow Selatan, II-III Kab. Bolaang Mongondow Timur",
+    "bmkgEarthquakeId": "20240905113129",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240905113129.mmi.jpg",
+    "fingerprintSha1": "cb7deb1ab8016feb1d056a1f78b7fb62c5fd4a9e"
   }
 ]
