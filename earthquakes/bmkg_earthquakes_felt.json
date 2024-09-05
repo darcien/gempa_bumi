@@ -17731,5 +17731,17 @@
     "bmkgEarthquakeId": "20240905142018",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240905142018.mmi.jpg",
     "fingerprintSha1": "72e25cec3760e98dcde94f32b6b6bebf7d842813"
+  },
+  {
+    "earthquakeAt": "2024-09-05T20:13:40.000Z",
+    "latitude": -8.17,
+    "longitude": 115.19,
+    "magnitude": 3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 km tenggara Buleleng",
+    "feltOnStations": "II Buleleng",
+    "bmkgEarthquakeId": "20240906031340",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240906031340.mmi.jpg",
+    "fingerprintSha1": "e30f01c4e4c90227c63771220fcfa8937654d041"
   }
 ]
