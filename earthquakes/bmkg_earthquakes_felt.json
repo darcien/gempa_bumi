@@ -17755,5 +17755,29 @@
     "bmkgEarthquakeId": "20240906080636",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240906080636.mmi.jpg",
     "fingerprintSha1": "41ae21b92c2745d32489ca940891a3a1f5d9bf55"
+  },
+  {
+    "earthquakeAt": "2024-09-06T19:02:04.000Z",
+    "latitude": -8.29,
+    "longitude": 106.83,
+    "magnitude": 4.8,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di laut 147 km Tenggara Kab. Sukabumi",
+    "feltOnStations": "II Kec. Simpenan, Kab. Sukabumi, II Kecamatan Limbursitu, Kota Sukabumi",
+    "bmkgEarthquakeId": "20240907020204",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240907020204.mmi.jpg",
+    "fingerprintSha1": "25ac664f4fd8b6f126a0667e55c764df8d0323dd"
+  },
+  {
+    "earthquakeAt": "2024-09-06T03:55:14.000Z",
+    "latitude": -3.71,
+    "longitude": 103.24,
+    "magnitude": 3.6,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 34 km barat laut Lahat",
+    "feltOnStations": "III Kikim",
+    "bmkgEarthquakeId": "20240906105514",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240906105514.mmi.jpg",
+    "fingerprintSha1": "20fd6ba14b70907528049d7c7ef8fe5a6aa926e0"
   }
 ]
