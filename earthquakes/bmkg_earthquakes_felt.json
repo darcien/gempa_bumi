@@ -17779,5 +17779,17 @@
     "bmkgEarthquakeId": "20240906105514",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240906105514.mmi.jpg",
     "fingerprintSha1": "20fd6ba14b70907528049d7c7ef8fe5a6aa926e0"
+  },
+  {
+    "earthquakeAt": "2024-09-07T01:51:44.000Z",
+    "latitude": -8.52,
+    "longitude": 115.35,
+    "magnitude": 4.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat, 2 km timur laut Gianyar",
+    "feltOnStations": "III-IV Gianyar, III Tabanan, III Badung, III Denpasar, III Klungkung, III Mataram, III Lombok Barat",
+    "bmkgEarthquakeId": "20240907085144",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240907085144.mmi.jpg",
+    "fingerprintSha1": "2175e15a53f9f2b4630ef518d98b56c76a7736fb"
   }
 ]
