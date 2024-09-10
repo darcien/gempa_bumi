@@ -17815,5 +17815,17 @@
     "bmkgEarthquakeId": "20240910033533",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240910033533.mmi.jpg",
     "fingerprintSha1": "5a24eb9e77db8fa17ef11d86ecac44e116a5a5e4"
+  },
+  {
+    "earthquakeAt": "2024-09-10T05:11:07.000Z",
+    "latitude": -8.74,
+    "longitude": 124.26,
+    "magnitude": 5.2,
+    "depthInKm": 97,
+    "locationInIndonesian": "Pusat gempa berada di laut 59 km barat daya Alor",
+    "feltOnStations": "II-III Soe",
+    "bmkgEarthquakeId": "20240910121107",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240910121107.mmi.jpg",
+    "fingerprintSha1": "8b3ca3c2050fc5115f5bae8c6e300bd36046961e"
   }
 ]
