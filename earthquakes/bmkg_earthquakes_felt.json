@@ -17827,5 +17827,17 @@
     "bmkgEarthquakeId": "20240910121107",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240910121107.mmi.jpg",
     "fingerprintSha1": "8b3ca3c2050fc5115f5bae8c6e300bd36046961e"
+  },
+  {
+    "earthquakeAt": "2024-09-11T18:01:55.000Z",
+    "latitude": -7.93,
+    "longitude": 117.23,
+    "magnitude": 4.4,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 58 km timur laut Pulau Saring",
+    "feltOnStations": "III Kab. Sumbawa",
+    "bmkgEarthquakeId": "20240912010155",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240912010155.mmi.jpg",
+    "fingerprintSha1": "d113c0dbf9df495bf7100b8cce8ae8451e30c2d0"
   }
 ]
