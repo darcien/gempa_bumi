@@ -17839,5 +17839,17 @@
     "bmkgEarthquakeId": "20240912010155",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240912010155.mmi.jpg",
     "fingerprintSha1": "d113c0dbf9df495bf7100b8cce8ae8451e30c2d0"
+  },
+  {
+    "earthquakeAt": "2024-09-12T03:25:13.000Z",
+    "latitude": -8.72,
+    "longitude": 110.25,
+    "magnitude": 4.5,
+    "depthInKm": 30,
+    "locationInIndonesian": "Pusat gempa berada di laut 90 km barat daya Gunungkidul",
+    "feltOnStations": "II Gunungkidul, II Bantul, II Pacitan, II Wonogiri",
+    "bmkgEarthquakeId": "20240912102513",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240912102513.mmi.jpg",
+    "fingerprintSha1": "01469b1ed140a9c96c3c10730fb2572904f18b3c"
   }
 ]
