@@ -17851,5 +17851,17 @@
     "bmkgEarthquakeId": "20240912102513",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240912102513.mmi.jpg",
     "fingerprintSha1": "01469b1ed140a9c96c3c10730fb2572904f18b3c"
+  },
+  {
+    "earthquakeAt": "2024-09-13T17:19:50.000Z",
+    "latitude": -9.15,
+    "longitude": 110.4,
+    "magnitude": 4.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 130 km baratdaya Gunungkidul",
+    "feltOnStations": "II-III Pacitan, II-III Wonogiri, II-III Sukoharjo",
+    "bmkgEarthquakeId": "20240914001950",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240914001950.mmi.jpg",
+    "fingerprintSha1": "cd7a5ca81630519b3d14f114b766f88f954ceb72"
   }
 ]
