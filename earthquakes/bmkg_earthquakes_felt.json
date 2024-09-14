@@ -17863,5 +17863,17 @@
     "bmkgEarthquakeId": "20240914001950",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240914001950.mmi.jpg",
     "fingerprintSha1": "cd7a5ca81630519b3d14f114b766f88f954ceb72"
+  },
+  {
+    "earthquakeAt": "2024-09-14T01:31:07.000Z",
+    "latitude": -9.02,
+    "longitude": 115.62,
+    "magnitude": 4.4,
+    "depthInKm": 85,
+    "locationInIndonesian": "Pusat gempa berada di laut 50 km tenggara Kuta Selatan",
+    "feltOnStations": "II-III Kota Mataram, II-III Lombok Barat, II - III Lombok Tengah, II Gianyar, II Badung, II Denpasar, II Karangasem",
+    "bmkgEarthquakeId": "20240914083107",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240914083107.mmi.jpg",
+    "fingerprintSha1": "be33aa9199b8eeda71164b4c82d13cf7b09c27eb"
   }
 ]
