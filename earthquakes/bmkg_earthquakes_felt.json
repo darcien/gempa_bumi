@@ -17875,5 +17875,17 @@
     "bmkgEarthquakeId": "20240914083107",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240914083107.mmi.jpg",
     "fingerprintSha1": "be33aa9199b8eeda71164b4c82d13cf7b09c27eb"
+  },
+  {
+    "earthquakeAt": "2024-09-14T12:35:35.000Z",
+    "latitude": -8.5,
+    "longitude": 115.41,
+    "magnitude": 2.6,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km Timur Laut Klungkung",
+    "feltOnStations": "II Bangli",
+    "bmkgEarthquakeId": "20240914193535",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240914193535.mmi.jpg",
+    "fingerprintSha1": "f3732e32a8b84cfc2b3eac6e189eb44fe1a16964"
   }
 ]
