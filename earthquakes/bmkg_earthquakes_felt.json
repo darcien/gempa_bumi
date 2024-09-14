@@ -17887,5 +17887,17 @@
     "bmkgEarthquakeId": "20240914193535",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240914193535.mmi.jpg",
     "fingerprintSha1": "f3732e32a8b84cfc2b3eac6e189eb44fe1a16964"
+  },
+  {
+    "earthquakeAt": "2024-09-14T21:37:38.000Z",
+    "latitude": 1.86,
+    "longitude": 98.95,
+    "magnitude": 5.7,
+    "depthInKm": 131,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km barat daya Tapanuli Utara",
+    "feltOnStations": "III Tapanuli Tengah, II-III Gunungsitoli",
+    "bmkgEarthquakeId": "20240915043738",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240915043738.mmi.jpg",
+    "fingerprintSha1": "25dca98a0405fb2e5e3626430f14f5ec3f3ab995"
   }
 ]
