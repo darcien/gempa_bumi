@@ -17911,5 +17911,17 @@
     "bmkgEarthquakeId": "20240915165431",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240915165431.mmi.jpg",
     "fingerprintSha1": "22f21525e40c43a823cc58a660b70717ec45bade"
+  },
+  {
+    "earthquakeAt": "2024-09-15T11:28:55.000Z",
+    "latitude": 1.33,
+    "longitude": 118.44,
+    "magnitude": 4.1,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 143 km tenggara Berau",
+    "feltOnStations": "II - III Kecamatan Batu Putih, II - III Kecamatan Sangkulirang",
+    "bmkgEarthquakeId": "20240915182855",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240915182855.mmi.jpg",
+    "fingerprintSha1": "96bb6ccb2d2b2ea7cf3cc009d3853248a30108b7"
   }
 ]
