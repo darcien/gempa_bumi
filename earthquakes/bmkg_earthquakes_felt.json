@@ -17971,5 +17971,17 @@
     "bmkgEarthquakeId": "20240916183947",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240916183947.mmi.jpg",
     "fingerprintSha1": "bec4d2517870872ab20ae3fa2ad59a2aa7825ad9"
+  },
+  {
+    "earthquakeAt": "2024-09-16T13:00:00.000Z",
+    "latitude": 1.07,
+    "longitude": 127.93,
+    "magnitude": 4.3,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di laut 48 km Tenggara Halmahera Utara",
+    "feltOnStations": "II-III Halmahera Utara, II-III Halmahera Timur",
+    "bmkgEarthquakeId": "20240916200000",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240916200000.mmi.jpg",
+    "fingerprintSha1": "83fa760c518372701b8ccb3486cad92dad1ce5fe"
   }
 ]
