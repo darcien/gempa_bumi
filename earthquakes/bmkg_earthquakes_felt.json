@@ -17935,5 +17935,17 @@
     "bmkgEarthquakeId": "20240915200809",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240915200809.mmi.jpg",
     "fingerprintSha1": "3bb6c7c37ee88993fd7d1b71f53ed20caee2cd74"
+  },
+  {
+    "earthquakeAt": "2024-09-16T00:01:12.000Z",
+    "latitude": -7.7,
+    "longitude": 106.56,
+    "magnitude": 4.1,
+    "depthInKm": 27,
+    "locationInIndonesian": "Pusat gempa berada di laut 79 km Tenggara KAB-SUKABUMI",
+    "feltOnStations": "III Surade",
+    "bmkgEarthquakeId": "20240916070112",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240916070112.mmi.jpg",
+    "fingerprintSha1": "dfdb33dba8238e3a457fadcf435bb3249535ec0e"
   }
 ]
