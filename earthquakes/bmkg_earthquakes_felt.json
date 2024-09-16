@@ -17947,5 +17947,29 @@
     "bmkgEarthquakeId": "20240916070112",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240916070112.mmi.jpg",
     "fingerprintSha1": "dfdb33dba8238e3a457fadcf435bb3249535ec0e"
+  },
+  {
+    "earthquakeAt": "2024-09-16T11:54:43.000Z",
+    "latitude": -0.47,
+    "longitude": 127.74,
+    "magnitude": 4.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut. 33 km TimurLaut Labuha",
+    "feltOnStations": "II-III Labuha",
+    "bmkgEarthquakeId": "20240916185443",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240916185443.mmi.jpg",
+    "fingerprintSha1": "7c657d031292092be7ae4857ee61fd653e6e0a61"
+  },
+  {
+    "earthquakeAt": "2024-09-16T11:39:47.000Z",
+    "latitude": -0.4,
+    "longitude": 127.63,
+    "magnitude": 4.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut timur laut Labuha",
+    "feltOnStations": "II-III Labuha",
+    "bmkgEarthquakeId": "20240916183947",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240916183947.mmi.jpg",
+    "fingerprintSha1": "bec4d2517870872ab20ae3fa2ad59a2aa7825ad9"
   }
 ]
