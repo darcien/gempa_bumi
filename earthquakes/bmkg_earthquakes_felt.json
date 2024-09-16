@@ -17983,5 +17983,17 @@
     "bmkgEarthquakeId": "20240916200000",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240916200000.mmi.jpg",
     "fingerprintSha1": "83fa760c518372701b8ccb3486cad92dad1ce5fe"
+  },
+  {
+    "earthquakeAt": "2024-09-16T21:46:30.000Z",
+    "latitude": -7.22,
+    "longitude": 106.18,
+    "magnitude": 4.2,
+    "depthInKm": 22,
+    "locationInIndonesian": "Pusat gempa berada di laut 33 km barat daya Bayah",
+    "feltOnStations": "III Muarabinuangeun, III Ujung Genteng, III Pelabuhan Ratu, III Surade",
+    "bmkgEarthquakeId": "20240917044630",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240917044630.mmi.jpg",
+    "fingerprintSha1": "46155eb9b30e2a5e949d01bca5eec3896a8dc44a"
   }
 ]
