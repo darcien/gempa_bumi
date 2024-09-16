@@ -17995,5 +17995,17 @@
     "bmkgEarthquakeId": "20240917044630",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240917044630.mmi.jpg",
     "fingerprintSha1": "46155eb9b30e2a5e949d01bca5eec3896a8dc44a"
+  },
+  {
+    "earthquakeAt": "2024-09-16T22:50:51.000Z",
+    "latitude": -6.9,
+    "longitude": 105.63,
+    "magnitude": 4.6,
+    "depthInKm": 34,
+    "locationInIndonesian": "Pusat gempa berada di laut 27 km tenggara Sumur",
+    "feltOnStations": "III Sumur, III Muarabinuangeun, III Panimbang, III Cibaliung, III Singdangkerta, III Sobang",
+    "bmkgEarthquakeId": "20240917055051",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240917055051.mmi.jpg",
+    "fingerprintSha1": "9e3473a9f09c040a66bf3cb3f301b43a5ade8465"
   }
 ]
