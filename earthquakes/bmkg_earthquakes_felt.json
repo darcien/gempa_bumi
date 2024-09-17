@@ -18007,5 +18007,17 @@
     "bmkgEarthquakeId": "20240917055051",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240917055051.mmi.jpg",
     "fingerprintSha1": "9e3473a9f09c040a66bf3cb3f301b43a5ade8465"
+  },
+  {
+    "earthquakeAt": "2024-09-17T01:15:21.000Z",
+    "latitude": -7.27,
+    "longitude": 109.66,
+    "magnitude": 3,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 Km BaratLaut BANJARNEGARA",
+    "feltOnStations": "II Banjarnegara",
+    "bmkgEarthquakeId": "20240917081521",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240917081521.mmi.jpg",
+    "fingerprintSha1": "a1217912cc93dc0966f0f54d13d218455930c496"
   }
 ]
