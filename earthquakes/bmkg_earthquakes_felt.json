@@ -18039,9 +18039,21 @@
     "magnitude": 5,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 24 km Tenggara Kab. Bandung",
-    "feltOnStations": "III Banjaran, II-III Lembang, II-III Parompong, II-III Kab. Bandung Barat, II-III Baleendah, II-III Garut, III-IV Majalaya",
+    "feltOnStations": "III Banjaran, II-III Lembang, II-III Parompong, II-III Kab. Bandung Barat, II-III Baleendah, II-III Garut, III-IV Majalaya, II-III Cileunyi",
     "bmkgEarthquakeId": "20240918094108",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240918094108.mmi.jpg",
     "fingerprintSha1": "4a4c0b6b30ef838e764a1c7349dc2eb5be0c9cd3"
+  },
+  {
+    "earthquakeAt": "2024-09-18T02:48:20.000Z",
+    "latitude": -7.21,
+    "longitude": 107.7,
+    "magnitude": 3.2,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km BaratLaut Kab. Garut",
+    "feltOnStations": "",
+    "bmkgEarthquakeId": "20240918094820",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240918094820.mmi.jpg",
+    "fingerprintSha1": "b5e34114db01aedf2929157e2e09b8f17754ef2c"
   }
 ]
