@@ -18055,5 +18055,17 @@
     "bmkgEarthquakeId": "20240918094820",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240918094820.mmi.jpg",
     "fingerprintSha1": "b5e34114db01aedf2929157e2e09b8f17754ef2c"
+  },
+  {
+    "earthquakeAt": "2024-09-18T05:27:38.000Z",
+    "latitude": -7.22,
+    "longitude": 107.71,
+    "magnitude": 3.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di 20 km Barat Daya Kab-Garut",
+    "feltOnStations": "II - III Garut",
+    "bmkgEarthquakeId": "20240918122738",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240918122738.mmi.jpg",
+    "fingerprintSha1": "5785f04c1d113d066b88f271b7a8c4b347ecba8e"
   }
 ]
