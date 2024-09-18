@@ -18051,7 +18051,7 @@
     "magnitude": 3.2,
     "depthInKm": 8,
     "locationInIndonesian": "Pusat gempa berada di darat 21 km BaratLaut Kab. Garut",
-    "feltOnStations": "",
+    "feltOnStations": "II Pasirwangi",
     "bmkgEarthquakeId": "20240918094820",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240918094820.mmi.jpg",
     "fingerprintSha1": "b5e34114db01aedf2929157e2e09b8f17754ef2c"
