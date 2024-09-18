@@ -18067,5 +18067,17 @@
     "bmkgEarthquakeId": "20240918122738",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240918122738.mmi.jpg",
     "fingerprintSha1": "5785f04c1d113d066b88f271b7a8c4b347ecba8e"
+  },
+  {
+    "earthquakeAt": "2024-09-18T07:56:03.000Z",
+    "latitude": -7.21,
+    "longitude": 107.66,
+    "magnitude": 3.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 25 km Tenggara Kab. Bandung",
+    "feltOnStations": "II Kertasari, II Pasirwangi, II Samarang",
+    "bmkgEarthquakeId": "20240918145603",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240918145603.mmi.jpg",
+    "fingerprintSha1": "5a03daa81689df251e56e6d4c41ea074b9d428ac"
   }
 ]
