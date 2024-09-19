@@ -18079,5 +18079,17 @@
     "bmkgEarthquakeId": "20240918145603",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240918145603.mmi.jpg",
     "fingerprintSha1": "5a03daa81689df251e56e6d4c41ea074b9d428ac"
+  },
+  {
+    "earthquakeAt": "2024-09-19T07:45:33.000Z",
+    "latitude": 2.23,
+    "longitude": 128.68,
+    "magnitude": 5.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 47 km timur laut Daruba",
+    "feltOnStations": "III-IV Halmahera Utara, II Halmahera Timur, II Ternate, III-IV Morotai",
+    "bmkgEarthquakeId": "20240919144533",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240919144533.mmi.jpg",
+    "fingerprintSha1": "6fe87bba31da6472542f13c9890255a1b4501b69"
   }
 ]
