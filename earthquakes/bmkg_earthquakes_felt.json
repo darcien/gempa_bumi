@@ -18115,5 +18115,17 @@
     "bmkgEarthquakeId": "20240919233650",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240919233650.mmi.jpg",
     "fingerprintSha1": "e1c4c9ab39dd56470869b11a18c999acd3fc7226"
+  },
+  {
+    "earthquakeAt": "2024-09-20T14:31:15.000Z",
+    "latitude": -3.84,
+    "longitude": 122.24,
+    "magnitude": 3.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km timur laut Kab.Konawe",
+    "feltOnStations": "II-III Kab.Konawe",
+    "bmkgEarthquakeId": "20240920213115",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240920213115.mmi.jpg",
+    "fingerprintSha1": "a7b93eb39c7fd605a3c79c679a0ad55089e1da8f"
   }
 ]
