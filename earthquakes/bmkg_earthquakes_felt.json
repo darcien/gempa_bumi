@@ -18127,5 +18127,17 @@
     "bmkgEarthquakeId": "20240920213115",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240920213115.mmi.jpg",
     "fingerprintSha1": "a7b93eb39c7fd605a3c79c679a0ad55089e1da8f"
+  },
+  {
+    "earthquakeAt": "2024-09-20T23:26:20.000Z",
+    "latitude": -8.57,
+    "longitude": 115.32,
+    "magnitude": 4.8,
+    "depthInKm": 22,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km baratdaya Gianyar",
+    "feltOnStations": "IV Gianyar, III Badung, III Denpasar, III Tabanan, III Karangasem, III Bangli, II Buleleng, II Mataram, II Lombok Barat",
+    "bmkgEarthquakeId": "20240921062620",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240921062620.mmi.jpg",
+    "fingerprintSha1": "a1fd2edee84447425a5dfbd8149d159c2f3efc2e"
   }
 ]
