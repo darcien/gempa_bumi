@@ -18139,5 +18139,17 @@
     "bmkgEarthquakeId": "20240921062620",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240921062620.mmi.jpg",
     "fingerprintSha1": "a1fd2edee84447425a5dfbd8149d159c2f3efc2e"
+  },
+  {
+    "earthquakeAt": "2024-09-21T20:21:10.000Z",
+    "latitude": 0.4,
+    "longitude": 110.21,
+    "magnitude": 2.2,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 45 km baratlaut Sanggau",
+    "feltOnStations": "II-III Sanggau",
+    "bmkgEarthquakeId": "20240922032110",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240922032110.mmi.jpg",
+    "fingerprintSha1": "600e088ee0ca32e94116908f88b0212c19070b9b"
   }
 ]
