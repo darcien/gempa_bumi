@@ -18147,7 +18147,7 @@
     "magnitude": 4.2,
     "depthInKm": 12,
     "locationInIndonesian": "Pusat gempa berada di darat 45 km baratlaut Sanggau",
-    "feltOnStations": "II-III Sanggau",
+    "feltOnStations": "III Sanggau",
     "bmkgEarthquakeId": "20240922032110",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240922032110.mmi.jpg",
     "fingerprintSha1": "a6e66f0d6757ae792c2aede4087a4ce023da505c"
