@@ -18151,5 +18151,17 @@
     "bmkgEarthquakeId": "20240922032110",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240922032110.mmi.jpg",
     "fingerprintSha1": "600e088ee0ca32e94116908f88b0212c19070b9b"
+  },
+  {
+    "earthquakeAt": "2024-09-22T03:11:52.000Z",
+    "latitude": -7.87,
+    "longitude": 109.7,
+    "magnitude": 4,
+    "depthInKm": 102,
+    "locationInIndonesian": "Pusat gempa berada di laut 23 km Tenggara Kebumen",
+    "feltOnStations": "III Bantul",
+    "bmkgEarthquakeId": "20240922101152",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240922101152.mmi.jpg",
+    "fingerprintSha1": "db5488c6e6e60e148e62db02f1462d05c1392a3f"
   }
 ]
