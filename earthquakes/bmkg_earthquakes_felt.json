@@ -18195,7 +18195,7 @@
     "magnitude": 6.4,
     "depthInKm": 145,
     "locationInIndonesian": "Pusat gempa berada di laut 74 km Baratdaya Gorontalo",
-    "feltOnStations": "III-IV Kotamobagu, III-IV Bolaang Mongondow Selatan, III-IV Pohuwato, III Kab. Gorontalo, III Kota Gorontalo, III Gorontalo Utara",
+    "feltOnStations": "III-IV Kotamobagu, III-IV Bolaang Mongondow Selatan, III-IV Pohuwato, III-IV Kab. Gorontalo, III-IV Kota Gorontalo, III-IV Bone Bolango, III-IV Boalemo, III-IV Luwuk, III Gorontalo Utara, III Buol, III Bolaang Mongondow Timur",
     "bmkgEarthquakeId": "20240924025104",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240924025104.mmi.jpg",
     "fingerprintSha1": "b9f9e37bc3b07ce2505a65523057b19c5a2dd827"
