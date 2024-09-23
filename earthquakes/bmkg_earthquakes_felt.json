@@ -18187,5 +18187,17 @@
     "bmkgEarthquakeId": "20240923183352",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240923183352.mmi.jpg",
     "fingerprintSha1": "1e2d9139507ff1c3fb60c5ab5d664e1c243b45a8"
+  },
+  {
+    "earthquakeAt": "2024-09-23T19:51:04.000Z",
+    "latitude": -0.11,
+    "longitude": 122.92,
+    "magnitude": 6.4,
+    "depthInKm": 145,
+    "locationInIndonesian": "Pusat gempa berada di laut 74 km Baratdaya Gorontalo",
+    "feltOnStations": "III-IV Kotamobagu, III-IV Bolaang Mongondow Selatan, III-IV Pohuwato, III Kab. Gorontalo, III Kota Gorontalo, III Gorontalo Utara",
+    "bmkgEarthquakeId": "20240924025104",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240924025104.mmi.jpg",
+    "fingerprintSha1": "b9f9e37bc3b07ce2505a65523057b19c5a2dd827"
   }
 ]
