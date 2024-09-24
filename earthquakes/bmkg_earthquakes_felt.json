@@ -18211,5 +18211,17 @@
     "bmkgEarthquakeId": "20240924034524",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240924034524.mmi.jpg",
     "fingerprintSha1": "077bb0bcaae1043293d3c6cbad490f4f5f70fb05"
+  },
+  {
+    "earthquakeAt": "2024-09-23T23:53:59.000Z",
+    "latitude": -7.5,
+    "longitude": 107.02,
+    "magnitude": 4.4,
+    "depthInKm": 61,
+    "locationInIndonesian": "Pusat gempa berada di laut 65 km tenggara Kota Sukabumi",
+    "feltOnStations": "III Cianjur Selatan, II Bogor, II Bayah, II Lebak, II-III Kab. Sukabumi, II Kab. Bandung, II Kab. Garut",
+    "bmkgEarthquakeId": "20240924065359",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240924065359.mmi.jpg",
+    "fingerprintSha1": "b97508af95d1095669f41eeb760e27e7b24e30fa"
   }
 ]
