@@ -18235,5 +18235,17 @@
     "bmkgEarthquakeId": "20240924183517",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240924183517.mmi.jpg",
     "fingerprintSha1": "0d4f02ba62668c98a003e286b5a08726f32000e8"
+  },
+  {
+    "earthquakeAt": "2024-09-25T04:49:48.000Z",
+    "latitude": -2,
+    "longitude": 119.43,
+    "magnitude": 4.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km baratlaut Mamuju Tengah",
+    "feltOnStations": "II-III Topoyo, II-III Tobadak",
+    "bmkgEarthquakeId": "20240925114948",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240925114948.mmi.jpg",
+    "fingerprintSha1": "ca0e9e1cd23983d5bce618abaa195e55c50e43b9"
   }
 ]
