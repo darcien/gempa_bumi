@@ -18259,5 +18259,17 @@
     "bmkgEarthquakeId": "20240925161635",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240925161635.mmi.jpg",
     "fingerprintSha1": "8753b417b34dd45894378642eb89f4c557916180"
+  },
+  {
+    "earthquakeAt": "2024-09-28T20:26:03.000Z",
+    "latitude": -1.73,
+    "longitude": 120.16,
+    "magnitude": 4.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 49 km Tenggara Sigi",
+    "feltOnStations": "IV Lore Tengah, II-III Sigi",
+    "bmkgEarthquakeId": "20240929032603",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240929032603.mmi.jpg",
+    "fingerprintSha1": "114947dbf82283068351a626ab5d6e730e9afb6c"
   }
 ]
