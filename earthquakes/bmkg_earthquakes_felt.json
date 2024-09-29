@@ -18271,5 +18271,17 @@
     "bmkgEarthquakeId": "20240929032603",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240929032603.mmi.jpg",
     "fingerprintSha1": "114947dbf82283068351a626ab5d6e730e9afb6c"
+  },
+  {
+    "earthquakeAt": "2024-09-29T06:27:52.000Z",
+    "latitude": -4.02,
+    "longitude": 129.82,
+    "magnitude": 4.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 57 km utara Banda - Maluku Tengah",
+    "feltOnStations": "II Banda Naira",
+    "bmkgEarthquakeId": "20240929132752",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20240929132752.mmi.jpg",
+    "fingerprintSha1": "ee791f62e6e66344c02cb2d5c53addee0a966bee"
   }
 ]
