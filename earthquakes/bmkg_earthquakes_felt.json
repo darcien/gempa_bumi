@@ -18379,5 +18379,17 @@
     "bmkgEarthquakeId": "20241002173117",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241002173117.mmi.jpg",
     "fingerprintSha1": "54a859906049ce6c83b8e2d109f269ec2a971583"
+  },
+  {
+    "earthquakeAt": "2024-10-02T21:38:28.000Z",
+    "latitude": -3.94,
+    "longitude": 122.51,
+    "magnitude": 2.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 0.7 km TimurLaut Mandonga, Kota Kendari",
+    "feltOnStations": "II - III Kendari",
+    "bmkgEarthquakeId": "20241003043828",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241003043828.mmi.jpg",
+    "fingerprintSha1": "fd140fb8ca0b0ee16c79d9769aea80a688e23e6f"
   }
 ]
