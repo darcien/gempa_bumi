@@ -18355,5 +18355,17 @@
     "bmkgEarthquakeId": "20241002080918",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241002080918.mmi.jpg",
     "fingerprintSha1": "d5178076f35ee3ef632496a6256661671aa9e1b0"
+  },
+  {
+    "earthquakeAt": "2024-10-02T10:17:10.000Z",
+    "latitude": -1.27,
+    "longitude": 134.19,
+    "magnitude": 3.6,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km timur laut Pegunungan Arfak",
+    "feltOnStations": "II Ransiki",
+    "bmkgEarthquakeId": "20241002171710",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241002171710.mmi.jpg",
+    "fingerprintSha1": "4dd1da45a8847a54b6402f0e1929c876903aec17"
   }
 ]
