@@ -18391,5 +18391,17 @@
     "bmkgEarthquakeId": "20241003043828",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241003043828.mmi.jpg",
     "fingerprintSha1": "fd140fb8ca0b0ee16c79d9769aea80a688e23e6f"
+  },
+  {
+    "earthquakeAt": "2024-10-03T03:12:41.000Z",
+    "latitude": -2.48,
+    "longitude": 140.43,
+    "magnitude": 3.8,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 km timurlaut Kab. Jayapura",
+    "feltOnStations": "III Kab. Jayapura",
+    "bmkgEarthquakeId": "20241003101241",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241003101241.mmi.jpg",
+    "fingerprintSha1": "fb619f46a066735fdfc915c512caef5aa8002bdf"
   }
 ]
