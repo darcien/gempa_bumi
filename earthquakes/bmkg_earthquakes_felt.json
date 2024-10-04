@@ -18427,5 +18427,17 @@
     "bmkgEarthquakeId": "20241003220759",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241003220759.mmi.jpg",
     "fingerprintSha1": "0eeb58d8706901b01b4ef8a42dc63049852bcc93"
+  },
+  {
+    "earthquakeAt": "2024-10-04T04:29:31.000Z",
+    "latitude": -3.94,
+    "longitude": 122.63,
+    "magnitude": 3.1,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 4.8 km barat daya Soropia",
+    "feltOnStations": "II-III Konawe",
+    "bmkgEarthquakeId": "20241004112931",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241004112931.mmi.jpg",
+    "fingerprintSha1": "47429f4fcf1c07fdcc2db35eb4a1d8bb1562b062"
   }
 ]
