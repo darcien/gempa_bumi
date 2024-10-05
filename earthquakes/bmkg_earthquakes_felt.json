@@ -18451,5 +18451,29 @@
     "bmkgEarthquakeId": "20241005020537",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241005020537.mmi.jpg",
     "fingerprintSha1": "04246dd53f7a5ebb0252a5a77fed7f119e33fcc3"
+  },
+  {
+    "earthquakeAt": "2024-10-05T19:44:39.000Z",
+    "latitude": -7.18,
+    "longitude": 107.75,
+    "magnitude": 2.7,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km baratlaut Kab. Garut",
+    "feltOnStations": "II Majalaya, II Bandung",
+    "bmkgEarthquakeId": "20241006024439",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241006024439.mmi.jpg",
+    "fingerprintSha1": "ff4a7bc69b6c6331b009ab222e64e38cb5a5afe6"
+  },
+  {
+    "earthquakeAt": "2024-10-05T19:40:48.000Z",
+    "latitude": -6.65,
+    "longitude": 106.83,
+    "magnitude": 2.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km tenggara Kota Bogor",
+    "feltOnStations": "II Bogor",
+    "bmkgEarthquakeId": "20241006024048",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241006024048.mmi.jpg",
+    "fingerprintSha1": "4d1cea66122ea14190baaf20a7de187d5b1ebd35"
   }
 ]
