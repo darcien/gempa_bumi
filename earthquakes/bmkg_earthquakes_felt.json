@@ -18487,5 +18487,17 @@
     "bmkgEarthquakeId": "20241006183122",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241006183122.mmi.jpg",
     "fingerprintSha1": "b35bfd88e879d47dc1c2731da0612c39b86f83c7"
+  },
+  {
+    "earthquakeAt": "2024-10-06T20:00:36.000Z",
+    "latitude": -7.1,
+    "longitude": 113.16,
+    "magnitude": 2.9,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 km barat laut Sampang",
+    "feltOnStations": "II - III Sampang",
+    "bmkgEarthquakeId": "20241007030036",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241007030036.mmi.jpg",
+    "fingerprintSha1": "67179a8410f20bb420b9d9256cdbe2e843c34759"
   }
 ]
