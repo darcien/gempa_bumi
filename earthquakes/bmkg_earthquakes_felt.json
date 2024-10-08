@@ -18511,5 +18511,17 @@
     "bmkgEarthquakeId": "20241007114225",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241007114225.mmi.jpg",
     "fingerprintSha1": "f9d3205941434c0f916a77f98a784fedea30f5e6"
+  },
+  {
+    "earthquakeAt": "2024-10-08T14:12:08.000Z",
+    "latitude": -7.76,
+    "longitude": 106.55,
+    "magnitude": 4.9,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 85 km selatan Kab. Sukabumi",
+    "feltOnStations": "III-IV Kab. Sukabumi, III Bayah, III Malingping, II Garut, II Nagrak, III-IV Kab. Cianjur, III Cibeber, III Panggarangan",
+    "bmkgEarthquakeId": "20241008211208",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241008211208.mmi.jpg",
+    "fingerprintSha1": "4f5b314edbdf361d853f7bbc67454eaf84025e89"
   }
 ]
