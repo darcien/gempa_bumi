@@ -18535,5 +18535,17 @@
     "bmkgEarthquakeId": "20241009133921",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241009133921.mmi.jpg",
     "fingerprintSha1": "ebadc117fe150fe2549ca3fb997d2547dccd81cb"
+  },
+  {
+    "earthquakeAt": "2024-10-09T11:31:46.000Z",
+    "latitude": -8.44,
+    "longitude": 117.15,
+    "magnitude": 3.3,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 km timurlaut Pernang",
+    "feltOnStations": "II Sumbawa",
+    "bmkgEarthquakeId": "20241009183146",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241009183146.mmi.jpg",
+    "fingerprintSha1": "e3a12996163db32ad57bf83e9abe33e1b4d704c7"
   }
 ]
