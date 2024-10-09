@@ -18523,5 +18523,17 @@
     "bmkgEarthquakeId": "20241008211208",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241008211208.mmi.jpg",
     "fingerprintSha1": "4f5b314edbdf361d853f7bbc67454eaf84025e89"
+  },
+  {
+    "earthquakeAt": "2024-10-09T06:39:21.000Z",
+    "latitude": 0.66,
+    "longitude": 98.49,
+    "magnitude": 4,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 75 km TimurLaut Nias Selatan",
+    "feltOnStations": "II Pandan",
+    "bmkgEarthquakeId": "20241009133921",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241009133921.mmi.jpg",
+    "fingerprintSha1": "ebadc117fe150fe2549ca3fb997d2547dccd81cb"
   }
 ]
