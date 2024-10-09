@@ -18547,5 +18547,17 @@
     "bmkgEarthquakeId": "20241009183146",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241009183146.mmi.jpg",
     "fingerprintSha1": "e3a12996163db32ad57bf83e9abe33e1b4d704c7"
+  },
+  {
+    "earthquakeAt": "2024-10-09T22:07:33.000Z",
+    "latitude": -9.16,
+    "longitude": 115.34,
+    "magnitude": 4,
+    "depthInKm": 66,
+    "locationInIndonesian": "Pusat gempa berada di laut 42 km tenggara Kutaselatan",
+    "feltOnStations": "II Lombok Barat, II Lombok Tengah",
+    "bmkgEarthquakeId": "20241010050733",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241010050733.mmi.jpg",
+    "fingerprintSha1": "2689ad08062d29db03b0b50bd27422484b073e48"
   }
 ]
