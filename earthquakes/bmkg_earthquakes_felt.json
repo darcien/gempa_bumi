@@ -18554,8 +18554,8 @@
     "longitude": 115.34,
     "magnitude": 4,
     "depthInKm": 66,
-    "locationInIndonesian": "Pusat gempa berada di laut 42 km tenggara Kutaselatan",
-    "feltOnStations": "II Lombok Barat, II Lombok Tengah",
+    "locationInIndonesian": "Pusat gempa berada di laut 42 km tenggara Kuta Selatan",
+    "feltOnStations": "II Lombok Barat, II Lombok Tengah, II Karangasem",
     "bmkgEarthquakeId": "20241010050733",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241010050733.mmi.jpg",
     "fingerprintSha1": "2689ad08062d29db03b0b50bd27422484b073e48"
