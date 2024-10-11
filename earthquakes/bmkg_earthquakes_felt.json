@@ -18566,8 +18566,8 @@
     "longitude": 107.76,
     "magnitude": 2.8,
     "depthInKm": 8,
-    "locationInIndonesian": "Pusat gempa berada di darat 15 km barat laut Kab. Garut",
-    "feltOnStations": "II Pasirwangi, II Kertasari, II Pacet, II Ibun",
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km Barat Laut Kabupaten Garut",
+    "feltOnStations": "II Pacet, II Kertasari, II Pasirwangi, II Ibun",
     "bmkgEarthquakeId": "20241011163515",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241011163515.mmi.jpg",
     "fingerprintSha1": "11995b3d723ddde4d30ad513d46096d8f9c7902e"
