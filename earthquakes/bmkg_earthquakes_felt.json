@@ -18559,5 +18559,17 @@
     "bmkgEarthquakeId": "20241010050733",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241010050733.mmi.jpg",
     "fingerprintSha1": "2689ad08062d29db03b0b50bd27422484b073e48"
+  },
+  {
+    "earthquakeAt": "2024-10-11T09:35:15.000Z",
+    "latitude": -7.19,
+    "longitude": 107.76,
+    "magnitude": 2.8,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km barat laut Kab. Garut",
+    "feltOnStations": "II Pasirwangi, II Kertasari, II Pacet, II Ibun",
+    "bmkgEarthquakeId": "20241011163515",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241011163515.mmi.jpg",
+    "fingerprintSha1": "11995b3d723ddde4d30ad513d46096d8f9c7902e"
   }
 ]
