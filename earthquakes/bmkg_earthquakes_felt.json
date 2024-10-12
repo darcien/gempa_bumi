@@ -18595,5 +18595,17 @@
     "bmkgEarthquakeId": "20241012083740",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241012083740.mmi.jpg",
     "fingerprintSha1": "7c3cf0cbc22a2c7325182fd48d018d2fa495f8db"
+  },
+  {
+    "earthquakeAt": "2024-10-12T23:16:01.000Z",
+    "latitude": -9.27,
+    "longitude": 118.62,
+    "magnitude": 4.1,
+    "depthInKm": 44,
+    "locationInIndonesian": "Pusat gempa berada di laut 54 km barat laut Kodi, Sumba Barat Daya",
+    "feltOnStations": "III Sumbawa, II Bima",
+    "bmkgEarthquakeId": "20241013061601",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241013061601.mmi.jpg",
+    "fingerprintSha1": "aa9c787872dd1d470e99a942aba54c089e5da948"
   }
 ]
