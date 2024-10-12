@@ -18583,5 +18583,17 @@
     "bmkgEarthquakeId": "20241012081155",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241012081155.mmi.jpg",
     "fingerprintSha1": "541879cffbdeeb29978806fd93e9cdb05837c3b2"
+  },
+  {
+    "earthquakeAt": "2024-10-12T01:37:40.000Z",
+    "latitude": -4.6,
+    "longitude": 101.89,
+    "magnitude": 4.9,
+    "depthInKm": 58,
+    "locationInIndonesian": "Pusat gempa berada di laut 92 km barat laut Enggano",
+    "feltOnStations": "III Enggano, II - III Kota Bengkulu",
+    "bmkgEarthquakeId": "20241012083740",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241012083740.mmi.jpg",
+    "fingerprintSha1": "7c3cf0cbc22a2c7325182fd48d018d2fa495f8db"
   }
 ]
