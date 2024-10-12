@@ -18571,5 +18571,17 @@
     "bmkgEarthquakeId": "20241011163515",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241011163515.mmi.jpg",
     "fingerprintSha1": "11995b3d723ddde4d30ad513d46096d8f9c7902e"
+  },
+  {
+    "earthquakeAt": "2024-10-12T01:11:55.000Z",
+    "latitude": -0.26,
+    "longitude": 125.16,
+    "magnitude": 5.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 128 km tenggara Tutuyan, Boltim",
+    "feltOnStations": "III Minahasa Tenggara, II Gorontalo",
+    "bmkgEarthquakeId": "20241012081155",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241012081155.mmi.jpg",
+    "fingerprintSha1": "541879cffbdeeb29978806fd93e9cdb05837c3b2"
   }
 ]
