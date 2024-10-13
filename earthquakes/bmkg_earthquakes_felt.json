@@ -18627,7 +18627,7 @@
     "magnitude": 5.8,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 161 km baratdaya Banda Aceh",
-    "feltOnStations": "III-IV Banda Aceh, III-IV Aceh Besar, III Sabang, III Pidie",
+    "feltOnStations": "III-IV Banda Aceh, III-IV Aceh Besar, III Sabang, III Pidie, II Pidie Jaya, II Bireuen",
     "bmkgEarthquakeId": "20241013140134",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241013140134.mmi.jpg",
     "fingerprintSha1": "ad866d6ca6511d2050bb0bdae7101d0c153479c0"
