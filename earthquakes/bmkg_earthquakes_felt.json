@@ -18619,5 +18619,17 @@
     "bmkgEarthquakeId": "20241013102041",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241013102041.mmi.jpg",
     "fingerprintSha1": "70bff4f9999c94f8926969a8ac111d1903368c20"
+  },
+  {
+    "earthquakeAt": "2024-10-13T07:01:34.000Z",
+    "latitude": 5.48,
+    "longitude": 93.87,
+    "magnitude": 5.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 161 km baratdaya Banda Aceh",
+    "feltOnStations": "III-IV Banda Aceh, III-IV Aceh Besar, III Sabang, III Pidie",
+    "bmkgEarthquakeId": "20241013140134",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241013140134.mmi.jpg",
+    "fingerprintSha1": "ad866d6ca6511d2050bb0bdae7101d0c153479c0"
   }
 ]
