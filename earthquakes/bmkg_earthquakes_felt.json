@@ -18655,5 +18655,17 @@
     "bmkgEarthquakeId": "20241015150323",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241015150323.mmi.jpg",
     "fingerprintSha1": "bd096673a422486f5cc14a732b881baf62ea2112"
+  },
+  {
+    "earthquakeAt": "2024-10-15T18:55:13.000Z",
+    "latitude": -5.39,
+    "longitude": 122.62,
+    "magnitude": 3,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 1.4 km BaratDaya Kota Baubau",
+    "feltOnStations": "II Baubau",
+    "bmkgEarthquakeId": "20241016015513",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241016015513.mmi.jpg",
+    "fingerprintSha1": "b5c51c213ed6b899c41994a24c46dd1843824127"
   }
 ]
