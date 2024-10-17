@@ -18679,5 +18679,17 @@
     "bmkgEarthquakeId": "20241017050837",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241017050837.mmi.jpg",
     "fingerprintSha1": "2a3e38b5605a5ec1becec582b4374353eccdc68d"
+  },
+  {
+    "earthquakeAt": "2024-10-17T01:13:13.000Z",
+    "latitude": -5.9,
+    "longitude": 105.77,
+    "magnitude": 3.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 26 km BaratLaut Anyer",
+    "feltOnStations": "III Bakauheni, II Cilegon",
+    "bmkgEarthquakeId": "20241017081313",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241017081313.mmi.jpg",
+    "fingerprintSha1": "4f29a433b820d23ce44957f34fb1d6d195ba15e8"
   }
 ]
