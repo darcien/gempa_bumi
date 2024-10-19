@@ -18739,5 +18739,17 @@
     "bmkgEarthquakeId": "20241019223619",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241019223619.mmi.jpg",
     "fingerprintSha1": "452173316a9906827ecfdcf93d0d0979acfad9ea"
+  },
+  {
+    "earthquakeAt": "2024-10-19T18:07:13.000Z",
+    "latitude": 0.51,
+    "longitude": 119.85,
+    "magnitude": 5.3,
+    "depthInKm": 34,
+    "locationInIndonesian": "Pusat gempa berada di laut 103 timurlaut Donggala",
+    "feltOnStations": "II - III Berau, III Parigi Moutong, III Toli-toli, II - III Marisa",
+    "bmkgEarthquakeId": "20241020010713",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241020010713.mmi.jpg",
+    "fingerprintSha1": "ff08ac7fec85abad562b4750407b264de6894ceb"
   }
 ]
