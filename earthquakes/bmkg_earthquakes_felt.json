@@ -18775,5 +18775,17 @@
     "bmkgEarthquakeId": "20241020152204",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241020152204.mmi.jpg",
     "fingerprintSha1": "570d032659a8bc16eec6fb7637f9f0b2cc7043af"
+  },
+  {
+    "earthquakeAt": "2024-10-20T09:14:24.000Z",
+    "latitude": -7.23,
+    "longitude": 107.7,
+    "magnitude": 2.6,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km Barat Daya Kab. Garut",
+    "feltOnStations": "II Pasirwangi, II Kertasari",
+    "bmkgEarthquakeId": "20241020161424",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241020161424.mmi.jpg",
+    "fingerprintSha1": "6fcbfc635370abefce36f1e8c588fbd49ee2e01e"
   }
 ]
