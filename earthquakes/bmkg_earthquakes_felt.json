@@ -18943,5 +18943,17 @@
     "bmkgEarthquakeId": "20241022004102",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241022004102.mmi.jpg",
     "fingerprintSha1": "b0548d4b887929318248ca6dd8481dcc898f7456"
+  },
+  {
+    "earthquakeAt": "2024-10-21T19:15:43.000Z",
+    "latitude": -5.65,
+    "longitude": 104.76,
+    "magnitude": 3.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 20 km tenggara Tanggamus",
+    "feltOnStations": "II-III Cukuh Balak, II-III Pagelaran, II-III Pardasuka",
+    "bmkgEarthquakeId": "20241022021543",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241022021543.mmi.jpg",
+    "fingerprintSha1": "149f4a17a6e2c44e6d676af141670376548f5c95"
   }
 ]
