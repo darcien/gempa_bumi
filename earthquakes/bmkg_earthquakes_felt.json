@@ -18811,5 +18811,17 @@
     "bmkgEarthquakeId": "20241020231349",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241020231349.mmi.jpg",
     "fingerprintSha1": "8fce59e708d76a7109b950625c58cd43334be248"
+  },
+  {
+    "earthquakeAt": "2024-10-21T03:24:17.000Z",
+    "latitude": -1.09,
+    "longitude": 127.34,
+    "magnitude": 5.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di 53 km Selatan Labuha-MALUT",
+    "feltOnStations": "III-IV Labuha, III-IV Obi, II-III Gane Barat",
+    "bmkgEarthquakeId": "20241021102417",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241021102417.mmi.jpg",
+    "fingerprintSha1": "353f90ec0575a1651cdd1b4f426ce2ee90677b46"
   }
 ]
