@@ -18823,5 +18823,29 @@
     "bmkgEarthquakeId": "20241021102417",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241021102417.mmi.jpg",
     "fingerprintSha1": "353f90ec0575a1651cdd1b4f426ce2ee90677b46"
+  },
+  {
+    "earthquakeAt": "2024-10-21T04:12:18.000Z",
+    "latitude": -1.03,
+    "longitude": 127.37,
+    "magnitude": 5.1,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di laut 46 km selatan Labuha",
+    "feltOnStations": "II-III Pulau Obi",
+    "bmkgEarthquakeId": "20241021111218",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241021111218.mmi.jpg",
+    "fingerprintSha1": "dc1decc7861b9db14d1e22f443349b02ad6c6459"
+  },
+  {
+    "earthquakeAt": "2024-10-21T04:10:24.000Z",
+    "latitude": -1.09,
+    "longitude": 127.35,
+    "magnitude": 4.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 43 km barat laut Obi",
+    "feltOnStations": "II-III Pulau Obi",
+    "bmkgEarthquakeId": "20241021111024",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241021111024.mmi.jpg",
+    "fingerprintSha1": "c508c4f8ccf577442b1106cc608f058d90df9a87"
   }
 ]
