@@ -18931,5 +18931,17 @@
     "bmkgEarthquakeId": "20241021210240",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241021210240.mmi.jpg",
     "fingerprintSha1": "01695a6422dff58cccd98f3f1d240d8b5f554ae6"
+  },
+  {
+    "earthquakeAt": "2024-10-21T17:41:02.000Z",
+    "latitude": -5.65,
+    "longitude": 104.75,
+    "magnitude": 3.6,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di Laut 20 km Tenggara Tanggamus",
+    "feltOnStations": "II - III Tanggamus, I - II Lampung Selatan",
+    "bmkgEarthquakeId": "20241022004102",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241022004102.mmi.jpg",
+    "fingerprintSha1": "b0548d4b887929318248ca6dd8481dcc898f7456"
   }
 ]
