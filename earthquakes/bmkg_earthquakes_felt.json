@@ -18967,5 +18967,17 @@
     "bmkgEarthquakeId": "20241022080252",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241022080252.mmi.jpg",
     "fingerprintSha1": "ef72d71ca042427a755c8a01c3c27c3cf85c957d"
+  },
+  {
+    "earthquakeAt": "2024-10-22T01:46:41.000Z",
+    "latitude": -0.91,
+    "longitude": 131.27,
+    "magnitude": 2.8,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di darat 14 km barat laut Kab. Sorong",
+    "feltOnStations": "",
+    "bmkgEarthquakeId": "20241022084641",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241022084641.mmi.jpg",
+    "fingerprintSha1": "08dd6860901ce727fdd914d2c509f72aa33ac40a"
   }
 ]
