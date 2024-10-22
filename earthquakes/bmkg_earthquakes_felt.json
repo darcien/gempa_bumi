@@ -19015,5 +19015,17 @@
     "bmkgEarthquakeId": "20241022160538",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241022160538.mmi.jpg",
     "fingerprintSha1": "6329dc16249fbe06a40e29c304dcf1a871920ac6"
+  },
+  {
+    "earthquakeAt": "2024-10-22T12:43:53.000Z",
+    "latitude": -7.75,
+    "longitude": 108.33,
+    "magnitude": 5,
+    "depthInKm": 72,
+    "locationInIndonesian": "Pusat gempa berada di laut 18 km barat daya Kab. Pangandaran",
+    "feltOnStations": "III-IV Pangandaran, III Garut, II-III Cilacap, II Pelabuhan Ratu, II Kota Sukabumi, II - III Kab. Bandung",
+    "bmkgEarthquakeId": "20241022194353",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241022194353.mmi.jpg",
+    "fingerprintSha1": "5c57ddc06f9a0727f4019ca81e20a716da9a64c6"
   }
 ]
