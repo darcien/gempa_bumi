@@ -18979,5 +18979,17 @@
     "bmkgEarthquakeId": "20241022084641",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241022084641.mmi.jpg",
     "fingerprintSha1": "08dd6860901ce727fdd914d2c509f72aa33ac40a"
+  },
+  {
+    "earthquakeAt": "2024-10-22T05:16:31.000Z",
+    "latitude": -5.56,
+    "longitude": 104.76,
+    "magnitude": 3.1,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di laut 20 km Tenggara TANGGAMUS-LAMPUNG",
+    "feltOnStations": "I - II Limau, I - II Kota Agung",
+    "bmkgEarthquakeId": "20241022121631",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241022121631.mmi.jpg",
+    "fingerprintSha1": "948daa9e081051dfc3bae0d9d0a0fc1c0ace7ad3"
   }
 ]
