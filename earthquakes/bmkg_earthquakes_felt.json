@@ -18991,5 +18991,17 @@
     "bmkgEarthquakeId": "20241022121631",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241022121631.mmi.jpg",
     "fingerprintSha1": "948daa9e081051dfc3bae0d9d0a0fc1c0ace7ad3"
+  },
+  {
+    "earthquakeAt": "2024-10-22T05:48:20.000Z",
+    "latitude": -5.66,
+    "longitude": 104.77,
+    "magnitude": 3.6,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di laut 22 km Tenggara Tanggamus",
+    "feltOnStations": "II Kota Agung, II Bulok",
+    "bmkgEarthquakeId": "20241022124820",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241022124820.mmi.jpg",
+    "fingerprintSha1": "2b022f359b3a1a8f74a47dc844209519bf0e0fe3"
   }
 ]
