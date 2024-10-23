@@ -19063,5 +19063,17 @@
     "bmkgEarthquakeId": "20241023144638",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241023144638.mmi.jpg",
     "fingerprintSha1": "7a566598c3e8603cbca1d541e001ae67a02175f2"
+  },
+  {
+    "earthquakeAt": "2024-10-23T09:12:48.000Z",
+    "latitude": -9.25,
+    "longitude": 114.04,
+    "magnitude": 4.3,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di Laut 117 Km BaratDaya Jembrana",
+    "feltOnStations": "II - III Banyuwangi, II Denpasar Selatan, II Kuta",
+    "bmkgEarthquakeId": "20241023161248",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241023161248.mmi.jpg",
+    "fingerprintSha1": "131bafe5568c185cbb71c797003c2afecf134193"
   }
 ]
