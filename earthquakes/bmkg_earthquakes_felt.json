@@ -19039,5 +19039,29 @@
     "bmkgEarthquakeId": "20241023061637",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241023061637.mmi.jpg",
     "fingerprintSha1": "4f57229aa5dbaddb30036849fcb5600b5174a7f2"
+  },
+  {
+    "earthquakeAt": "2024-10-23T08:09:37.000Z",
+    "latitude": -5.67,
+    "longitude": 104.78,
+    "magnitude": 3.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 23 km tenggara Tanggamus",
+    "feltOnStations": "II-III Kec. Bulok",
+    "bmkgEarthquakeId": "20241023150937",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241023150937.mmi.jpg",
+    "fingerprintSha1": "8cfaa5a9fd298d6b70e00fb26796e47f3742818e"
+  },
+  {
+    "earthquakeAt": "2024-10-23T07:46:38.000Z",
+    "latitude": -5.66,
+    "longitude": 104.77,
+    "magnitude": 3.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di Laut 22 Km Tenggara Tanggamus",
+    "feltOnStations": "II - III Kecamatan Bulok",
+    "bmkgEarthquakeId": "20241023144638",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241023144638.mmi.jpg",
+    "fingerprintSha1": "7a566598c3e8603cbca1d541e001ae67a02175f2"
   }
 ]
