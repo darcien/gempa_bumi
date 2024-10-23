@@ -19047,7 +19047,7 @@
     "magnitude": 3.9,
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di laut 23 km tenggara Tanggamus",
-    "feltOnStations": "II-III Kec. Bulok",
+    "feltOnStations": "II-III Kec. Bulok, II-III Kota Agung",
     "bmkgEarthquakeId": "20241023150937",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241023150937.mmi.jpg",
     "fingerprintSha1": "8cfaa5a9fd298d6b70e00fb26796e47f3742818e"
