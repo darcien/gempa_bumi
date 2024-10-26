@@ -19135,5 +19135,17 @@
     "bmkgEarthquakeId": "20241026031548",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241026031548.mmi.jpg",
     "fingerprintSha1": "98437c6bc2915d31f3ef4cc1775dd4bcf86f03e1"
+  },
+  {
+    "earthquakeAt": "2024-10-26T14:21:57.000Z",
+    "latitude": -8.43,
+    "longitude": 119.97,
+    "magnitude": 4.6,
+    "depthInKm": 178,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km timur laut Labuanbajo",
+    "feltOnStations": "III Sumba Timur, III Manggarai Barat",
+    "bmkgEarthquakeId": "20241026212157",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241026212157.mmi.jpg",
+    "fingerprintSha1": "43d094bc0ca0f392168530a79f3a9048a47ce991"
   }
 ]
