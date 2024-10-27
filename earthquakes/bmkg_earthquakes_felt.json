@@ -19159,5 +19159,17 @@
     "bmkgEarthquakeId": "20241027092251",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241027092251.mmi.jpg",
     "fingerprintSha1": "8a81975773030b3a11e835f422eadd5b1846bf17"
+  },
+  {
+    "earthquakeAt": "2024-10-27T17:15:40.000Z",
+    "latitude": 0.84,
+    "longitude": 97.42,
+    "magnitude": 4.2,
+    "depthInKm": 21,
+    "locationInIndonesian": "Pusat gempa berada di laut 15 km barat daya Nias Barat",
+    "feltOnStations": "III Nias Barat, II-III Nias Selatan",
+    "bmkgEarthquakeId": "20241028001540",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241028001540.mmi.jpg",
+    "fingerprintSha1": "c77610e2badd9a1d778ed8cbd93853ea5084897f"
   }
 ]
