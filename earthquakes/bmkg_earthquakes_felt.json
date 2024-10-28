@@ -19207,5 +19207,17 @@
     "bmkgEarthquakeId": "20241028200709",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241028200709.mmi.jpg",
     "fingerprintSha1": "f3e722e1a8ee94bc4d50c9fbcceb696423ebf4fb"
+  },
+  {
+    "earthquakeAt": "2024-10-28T13:29:22.000Z",
+    "latitude": -8.13,
+    "longitude": 107.92,
+    "magnitude": 3.8,
+    "depthInKm": 27,
+    "locationInIndonesian": "Pusat gempa berada di laut 79 km barat daya Kab. Pangandaran",
+    "feltOnStations": "II Cipatujah, II Salawu, II Cisompet, II Banjarwangi",
+    "bmkgEarthquakeId": "20241028202922",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241028202922.mmi.jpg",
+    "fingerprintSha1": "87a3149ef41d2fa77f064e89b9eac60b01094428"
   }
 ]
