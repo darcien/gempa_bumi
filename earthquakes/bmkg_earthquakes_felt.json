@@ -19171,5 +19171,17 @@
     "bmkgEarthquakeId": "20241028001540",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241028001540.mmi.jpg",
     "fingerprintSha1": "c77610e2badd9a1d778ed8cbd93853ea5084897f"
+  },
+  {
+    "earthquakeAt": "2024-10-28T02:21:53.000Z",
+    "latitude": -8.99,
+    "longitude": 114.98,
+    "magnitude": 4.4,
+    "depthInKm": 70,
+    "locationInIndonesian": "Pusat gempa berada di Laut 34 Km Barat Daya Kuta Selatan",
+    "feltOnStations": "III Denpasar, II Kuta, II Mataram, II Lombok Barat, II Lombok Tengah, II Lombok Timur , II Sumbawa Barat, II Sumbawa, III Kuta Selatan, II Bangli, II Tabanan, II Gianyar, II Jembrana",
+    "bmkgEarthquakeId": "20241028092153",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241028092153.mmi.jpg",
+    "fingerprintSha1": "0cb7faae28e1d5c5b7bb173f07531d2807fb3be1"
   }
 ]
