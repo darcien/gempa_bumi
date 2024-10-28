@@ -19183,5 +19183,17 @@
     "bmkgEarthquakeId": "20241028092153",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241028092153.mmi.jpg",
     "fingerprintSha1": "0cb7faae28e1d5c5b7bb173f07531d2807fb3be1"
+  },
+  {
+    "earthquakeAt": "2024-10-28T05:07:51.000Z",
+    "latitude": -5.66,
+    "longitude": 104.79,
+    "magnitude": 3.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 23 km tenggara Tanggamus",
+    "feltOnStations": "II Limau",
+    "bmkgEarthquakeId": "20241028120751",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241028120751.mmi.jpg",
+    "fingerprintSha1": "b4c372dca2a82f6429ec83b35a772a14bd5405d8"
   }
 ]
