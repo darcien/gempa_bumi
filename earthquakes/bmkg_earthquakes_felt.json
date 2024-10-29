@@ -19243,5 +19243,17 @@
     "bmkgEarthquakeId": "20241029093524",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241029093524.mmi.jpg",
     "fingerprintSha1": "e048024cb3a7237fef7ba9c244aab5976b9fe9a6"
+  },
+  {
+    "earthquakeAt": "2024-10-29T14:12:17.000Z",
+    "latitude": -4,
+    "longitude": 121.4,
+    "magnitude": 2.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 10.7 km Tenggara Samaturu, Kab. Kolaka",
+    "feltOnStations": "III Kolaka",
+    "bmkgEarthquakeId": "20241029211217",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241029211217.mmi.jpg",
+    "fingerprintSha1": "b595c914b3f803c3fbba383a702c18a467093d0d"
   }
 ]
