@@ -19255,5 +19255,29 @@
     "bmkgEarthquakeId": "20241029211217",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241029211217.mmi.jpg",
     "fingerprintSha1": "b595c914b3f803c3fbba383a702c18a467093d0d"
+  },
+  {
+    "earthquakeAt": "2024-10-29T19:25:16.000Z",
+    "latitude": -4.84,
+    "longitude": 122.18,
+    "magnitude": 2.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di Laut 7 km Tenggara Kab.Bombana",
+    "feltOnStations": "II - III Muna Barat",
+    "bmkgEarthquakeId": "20241030022516",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241030022516.mmi.jpg",
+    "fingerprintSha1": "bd05740647f42eaf0ad2157530cb2c13e7cf4d67"
+  },
+  {
+    "earthquakeAt": "2024-10-29T19:04:15.000Z",
+    "latitude": -4.76,
+    "longitude": 122.17,
+    "magnitude": 2.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di Laut 9 km Timur Laut Kab.Bombana",
+    "feltOnStations": "II-III Muna Barat",
+    "bmkgEarthquakeId": "20241030020415",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241030020415.mmi.jpg",
+    "fingerprintSha1": "5ab39b91302d94b79f50a8e72fd3ff48c621c760"
   }
 ]
