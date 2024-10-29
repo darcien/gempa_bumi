@@ -19231,5 +19231,17 @@
     "bmkgEarthquakeId": "20241028205241",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241028205241.mmi.jpg",
     "fingerprintSha1": "dc270076fe6fa68c6669008f29b474f094e97d45"
+  },
+  {
+    "earthquakeAt": "2024-10-29T02:35:24.000Z",
+    "latitude": 4.8,
+    "longitude": 96.12,
+    "magnitude": 4.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 27 km barat daya Kab. Pidie Jaya",
+    "feltOnStations": "II-III Pidie, II Nagan Raya, II Aceh Tengah, II Aceh Jaya, II Bireuen",
+    "bmkgEarthquakeId": "20241029093524",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241029093524.mmi.jpg",
+    "fingerprintSha1": "e048024cb3a7237fef7ba9c244aab5976b9fe9a6"
   }
 ]
