@@ -19279,5 +19279,17 @@
     "bmkgEarthquakeId": "20241030020415",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241030020415.mmi.jpg",
     "fingerprintSha1": "5ab39b91302d94b79f50a8e72fd3ff48c621c760"
+  },
+  {
+    "earthquakeAt": "2024-10-30T16:32:49.000Z",
+    "latitude": -8.07,
+    "longitude": 107.88,
+    "magnitude": 4.3,
+    "depthInKm": 31,
+    "locationInIndonesian": "Pusat gempa berada di laut 79 km barat daya Kab. Pangandaran",
+    "feltOnStations": "III Garut, III Pamengpeuk, III Bungbulang, III Cisewu, III Cilawu, II Sumedang",
+    "bmkgEarthquakeId": "20241030233249",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241030233249.mmi.jpg",
+    "fingerprintSha1": "782462c065ce3171edeff48b0a53fa8853e3847a"
   }
 ]
