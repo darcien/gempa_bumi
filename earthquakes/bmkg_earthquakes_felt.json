@@ -19291,5 +19291,17 @@
     "bmkgEarthquakeId": "20241030233249",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241030233249.mmi.jpg",
     "fingerprintSha1": "782462c065ce3171edeff48b0a53fa8853e3847a"
+  },
+  {
+    "earthquakeAt": "2024-11-01T03:00:56.000Z",
+    "latitude": 4.39,
+    "longitude": 98.1,
+    "magnitude": 4.4,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km timur laut Kab. Aceh Tamiang",
+    "feltOnStations": "III Aceh Tamiang",
+    "bmkgEarthquakeId": "20241101100056",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241101100056.mmi.jpg",
+    "fingerprintSha1": "fe979d4eafa7946a1578d4890acca4b2ac3929b6"
   }
 ]
