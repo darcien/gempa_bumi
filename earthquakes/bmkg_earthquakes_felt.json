@@ -19335,7 +19335,7 @@
     "magnitude": 5.4,
     "depthInKm": 15,
     "locationInIndonesian": "Pusat gempa berada di laut 121 km barat daya pesisir barat",
-    "feltOnStations": "II-III Liwa, II - III Krui, II - III Kota Agung, II - III Gisting, II - III Pematang Sawah, II - III Semaka, II Ngambur, II Sekincau",
+    "feltOnStations": "II-III Liwa, II - III Krui, II - III Kota Agung, II - III Gisting, II - III Pematang Sawah, II - III Semaka, II Ngambur, II Sekincau, II - III Pesisir Selatan",
     "bmkgEarthquakeId": "20241102171944",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241102171944.mmi.jpg",
     "fingerprintSha1": "441df4d9a40471cd40b3c0a240d58ef64f42e2ad"
