@@ -19315,5 +19315,17 @@
     "bmkgEarthquakeId": "20241101224324",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241101224324.mmi.jpg",
     "fingerprintSha1": "10bbd1d2aa187d7bce200b1270ece06d5681cd20"
+  },
+  {
+    "earthquakeAt": "2024-11-02T07:20:16.000Z",
+    "latitude": -9.53,
+    "longitude": 117.54,
+    "magnitude": 4.5,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di laut 115 km tenggara Sumbawa Barat",
+    "feltOnStations": "III-IV Sumbawa, III Sumbawa Barat, III Lombok Timur, II Lombok Tengah, II Kota Mataram",
+    "bmkgEarthquakeId": "20241102142016",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241102142016.mmi.jpg",
+    "fingerprintSha1": "d696acc8941e05ed4bb3bcaf37becb3ade08176b"
   }
 ]
