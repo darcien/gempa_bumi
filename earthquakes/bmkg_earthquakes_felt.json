@@ -19351,5 +19351,17 @@
     "bmkgEarthquakeId": "20241102194106",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241102194106.mmi.jpg",
     "fingerprintSha1": "480b1b27d7fd6798608a3e984bb129746f6e6e56"
+  },
+  {
+    "earthquakeAt": "2024-11-02T23:03:25.000Z",
+    "latitude": -8.11,
+    "longitude": 116.44,
+    "magnitude": 3.8,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 41 km timur laut Lombok Utara",
+    "feltOnStations": "II Lombok Utara",
+    "bmkgEarthquakeId": "20241103060325",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241103060325.mmi.jpg",
+    "fingerprintSha1": "b953459705dd876694e36f8c0c7a119f2b6fb8bc"
   }
 ]
