@@ -19375,5 +19375,17 @@
     "bmkgEarthquakeId": "20241103135126",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241103135126.mmi.jpg",
     "fingerprintSha1": "53902d9fdb32418de0b66b53c6755bf05ab3e861"
+  },
+  {
+    "earthquakeAt": "2024-11-03T21:58:33.000Z",
+    "latitude": -2.42,
+    "longitude": 120.98,
+    "magnitude": 4.3,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 27 km baratlaut Luwu Timur",
+    "feltOnStations": "III-IV Malili, III-IV Mangkutana, III-IV Kalaena, III Wotu, III Angkona",
+    "bmkgEarthquakeId": "20241104045833",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241104045833.mmi.jpg",
+    "fingerprintSha1": "8bd66756ffcf89c552e9fcf71a1bf6d29a38da90"
   }
 ]
