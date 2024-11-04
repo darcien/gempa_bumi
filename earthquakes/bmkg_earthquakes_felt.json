@@ -19387,5 +19387,17 @@
     "bmkgEarthquakeId": "20241104045833",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241104045833.mmi.jpg",
     "fingerprintSha1": "8bd66756ffcf89c552e9fcf71a1bf6d29a38da90"
+  },
+  {
+    "earthquakeAt": "2024-11-04T03:26:12.000Z",
+    "latitude": -8.7,
+    "longitude": 110.3,
+    "magnitude": 4.4,
+    "depthInKm": 43,
+    "locationInIndonesian": "Pusat gempa berada di laut 85 km baratdaya Gunung Kidul",
+    "feltOnStations": "II Bantul, II Kulonprogo, II Pacitan",
+    "bmkgEarthquakeId": "20241104102612",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241104102612.mmi.jpg",
+    "fingerprintSha1": "04133f881a400eaf6bb362398a115bc8b9817e7d"
   }
 ]
