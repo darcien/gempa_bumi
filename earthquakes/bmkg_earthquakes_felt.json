@@ -19423,5 +19423,17 @@
     "bmkgEarthquakeId": "20241106185428",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241106185428.mmi.jpg",
     "fingerprintSha1": "806a565698fa1c133cf237a3b937fc70f27bda1b"
+  },
+  {
+    "earthquakeAt": "2024-11-06T12:50:18.000Z",
+    "latitude": -2.51,
+    "longitude": 110.2,
+    "magnitude": 2.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 110 km Barat Daya Ketapang",
+    "feltOnStations": "II - III Kendawangan",
+    "bmkgEarthquakeId": "20241106195018",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241106195018.mmi.jpg",
+    "fingerprintSha1": "ca16dc1b6fcb6950324571489d505d369bea0240"
   }
 ]
