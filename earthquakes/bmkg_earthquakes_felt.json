@@ -19471,5 +19471,17 @@
     "bmkgEarthquakeId": "20241107181808",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241107181808.mmi.jpg",
     "fingerprintSha1": "ce5b90a8f439f2892571695b4d31fc4038370ba4"
+  },
+  {
+    "earthquakeAt": "2024-11-08T05:51:42.000Z",
+    "latitude": -7.39,
+    "longitude": 110.43,
+    "magnitude": 2.8,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km Barat Daya Kota Salatiga",
+    "feltOnStations": "II-III Kota Salatiga",
+    "bmkgEarthquakeId": "20241108125142",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241108125142.mmi.jpg",
+    "fingerprintSha1": "0c103da32babd6be118f7f7a8ef8cff96b6747c0"
   }
 ]
