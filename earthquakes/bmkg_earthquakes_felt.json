@@ -19507,5 +19507,17 @@
     "bmkgEarthquakeId": "20241109095337",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241109095337.mmi.jpg",
     "fingerprintSha1": "4cb04729e1ffbbced042cfd5862464f492d23d2a"
+  },
+  {
+    "earthquakeAt": "2024-11-09T07:57:05.000Z",
+    "latitude": -0.82,
+    "longitude": 134.49,
+    "magnitude": 4.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 44 km barat laut Pulau Numfor",
+    "feltOnStations": "II-III Manokwari, II Ransiki",
+    "bmkgEarthquakeId": "20241109145705",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241109145705.mmi.jpg",
+    "fingerprintSha1": "3096640cbd12c40ee9b888e52524f0be5deeca64"
   }
 ]
