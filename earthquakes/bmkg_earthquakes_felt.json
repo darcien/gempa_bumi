@@ -19503,7 +19503,7 @@
     "magnitude": 5.1,
     "depthInKm": 36,
     "locationInIndonesian": "Pusat gempa berada di laut 33 km BaratLaut Buol",
-    "feltOnStations": "III-IV Toli-toli",
+    "feltOnStations": "III-IV Toli-toli, III-IV Buol",
     "bmkgEarthquakeId": "20241109095337",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241109095337.mmi.jpg",
     "fingerprintSha1": "4cb04729e1ffbbced042cfd5862464f492d23d2a"
