@@ -19519,5 +19519,17 @@
     "bmkgEarthquakeId": "20241109145705",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241109145705.mmi.jpg",
     "fingerprintSha1": "3096640cbd12c40ee9b888e52524f0be5deeca64"
+  },
+  {
+    "earthquakeAt": "2024-11-09T12:34:46.000Z",
+    "latitude": 1.07,
+    "longitude": 127.92,
+    "magnitude": 4.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di Laut 48 km Tenggara Halmahera Barat",
+    "feltOnStations": "III Malifut",
+    "bmkgEarthquakeId": "20241109193446",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241109193446.mmi.jpg",
+    "fingerprintSha1": "4656a98f04fa31d13f2e126e7db4a8fe98f270b4"
   }
 ]
