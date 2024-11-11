@@ -19543,5 +19543,17 @@
     "bmkgEarthquakeId": "20241109211140",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241109211140.mmi.jpg",
     "fingerprintSha1": "c5209987e7360d1803122403a17ab96eef986d4e"
+  },
+  {
+    "earthquakeAt": "2024-11-11T12:12:45.000Z",
+    "latitude": -1.35,
+    "longitude": 123.57,
+    "magnitude": 4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 9 km timur laut Banggai",
+    "feltOnStations": "II-III Salakan",
+    "bmkgEarthquakeId": "20241111191245",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241111191245.mmi.jpg",
+    "fingerprintSha1": "7823221f5f4412aa14a6f3d4a24f2fc67580b232"
   }
 ]
