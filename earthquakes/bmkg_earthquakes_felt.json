@@ -19567,5 +19567,17 @@
     "bmkgEarthquakeId": "20241111231236",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241111231236.mmi.jpg",
     "fingerprintSha1": "d5a200c89f251a506d103234096e89a24e3afd36"
+  },
+  {
+    "earthquakeAt": "2024-11-12T02:57:00.000Z",
+    "latitude": -7.08,
+    "longitude": 106.7,
+    "magnitude": 2.9,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 19 km Tenggara Kab. Sukabumi",
+    "feltOnStations": "II Kec. Simpenan",
+    "bmkgEarthquakeId": "20241112095700",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241112095700.mmi.jpg",
+    "fingerprintSha1": "9e4f2fa2adbb88f33cc01a014bb2772b09eb6502"
   }
 ]
