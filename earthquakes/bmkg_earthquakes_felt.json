@@ -19579,5 +19579,17 @@
     "bmkgEarthquakeId": "20241112095700",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241112095700.mmi.jpg",
     "fingerprintSha1": "9e4f2fa2adbb88f33cc01a014bb2772b09eb6502"
+  },
+  {
+    "earthquakeAt": "2024-11-12T16:11:31.000Z",
+    "latitude": -4.09,
+    "longitude": 122.57,
+    "magnitude": 2.7,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km Tenggara Poasia, Kota Kendari",
+    "feltOnStations": "III Kendari",
+    "bmkgEarthquakeId": "20241112231131",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241112231131.mmi.jpg",
+    "fingerprintSha1": "b74c8cbeb5cda2897b387c1f7ec277c2eab2c7a2"
   }
 ]
