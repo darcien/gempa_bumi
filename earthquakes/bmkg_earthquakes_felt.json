@@ -19591,5 +19591,17 @@
     "bmkgEarthquakeId": "20241112231131",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241112231131.mmi.jpg",
     "fingerprintSha1": "b74c8cbeb5cda2897b387c1f7ec277c2eab2c7a2"
+  },
+  {
+    "earthquakeAt": "2024-11-12T20:44:29.000Z",
+    "latitude": -8.04,
+    "longitude": 110.41,
+    "magnitude": 3.4,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km tenggara Bantul",
+    "feltOnStations": "II Bantul",
+    "bmkgEarthquakeId": "20241113034429",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241113034429.mmi.jpg",
+    "fingerprintSha1": "7f56019cedaab833b9b0e397a76148678f2caf58"
   }
 ]
