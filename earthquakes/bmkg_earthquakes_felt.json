@@ -19615,5 +19615,17 @@
     "bmkgEarthquakeId": "20241113084107",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241113084107.mmi.jpg",
     "fingerprintSha1": "5b65ae614286fc5b4a558efcd2fe0147b4691c6d"
+  },
+  {
+    "earthquakeAt": "2024-11-12T21:51:26.000Z",
+    "latitude": -7.58,
+    "longitude": 125.25,
+    "magnitude": 4.2,
+    "depthInKm": 363,
+    "locationInIndonesian": "Pusat gempa berada di laut 110 km timur laut Alor",
+    "feltOnStations": "II Kalabahi",
+    "bmkgEarthquakeId": "20241113045126",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241113045126.mmi.jpg",
+    "fingerprintSha1": "eea03b431d2497c4f381fcb39bc6d25e1e40797e"
   }
 ]
