@@ -19603,5 +19603,17 @@
     "bmkgEarthquakeId": "20241113034429",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241113034429.mmi.jpg",
     "fingerprintSha1": "7f56019cedaab833b9b0e397a76148678f2caf58"
+  },
+  {
+    "earthquakeAt": "2024-11-13T01:41:07.000Z",
+    "latitude": -8.47,
+    "longitude": 107.81,
+    "magnitude": 5.2,
+    "depthInKm": 27,
+    "locationInIndonesian": "Pusat gempa berada di laut 114 km barat daya Kab. Pangandaran",
+    "feltOnStations": "III Garut, III Cianjur, III Ciwidey, III Tasikmalaya, III Pangandaran, II Bandung Barat, II Cimahi",
+    "bmkgEarthquakeId": "20241113084107",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241113084107.mmi.jpg",
+    "fingerprintSha1": "5b65ae614286fc5b4a558efcd2fe0147b4691c6d"
   }
 ]
