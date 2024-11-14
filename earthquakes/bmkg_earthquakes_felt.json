@@ -19639,5 +19639,17 @@
     "bmkgEarthquakeId": "20241114171030",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241114171030.mmi.jpg",
     "fingerprintSha1": "cd8804de04ee8bb50f671e67164203ac2b34cb5f"
+  },
+  {
+    "earthquakeAt": "2024-11-14T19:08:16.000Z",
+    "latitude": -6.24,
+    "longitude": 104.16,
+    "magnitude": 5.3,
+    "depthInKm": 74,
+    "locationInIndonesian": "Pusat gempa berada di laut 102 km Barat Daya Tanggamus",
+    "feltOnStations": "II - III Bengkunat, II - III Cukuh Balak",
+    "bmkgEarthquakeId": "20241115020816",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241115020816.mmi.jpg",
+    "fingerprintSha1": "9caf93652017163db69d68dae6753cc65956cb3d"
   }
 ]
