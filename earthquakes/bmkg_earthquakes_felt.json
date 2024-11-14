@@ -19627,5 +19627,17 @@
     "bmkgEarthquakeId": "20241113045126",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241113045126.mmi.jpg",
     "fingerprintSha1": "eea03b431d2497c4f381fcb39bc6d25e1e40797e"
+  },
+  {
+    "earthquakeAt": "2024-11-14T10:10:30.000Z",
+    "latitude": -8.03,
+    "longitude": 107.9,
+    "magnitude": 3.9,
+    "depthInKm": 31,
+    "locationInIndonesian": "Pusat gempa berada di laut 75 km barat daya Pangandaran",
+    "feltOnStations": "III Ciamis, II Cipatujah, II Cisompet, II Sindangsari, II Cijulang, II Garut, II Singajaya, II Tasikmalaya",
+    "bmkgEarthquakeId": "20241114171030",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241114171030.mmi.jpg",
+    "fingerprintSha1": "cd8804de04ee8bb50f671e67164203ac2b34cb5f"
   }
 ]
