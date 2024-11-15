@@ -19687,5 +19687,17 @@
     "bmkgEarthquakeId": "20241115213119",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241115213119.mmi.jpg",
     "fingerprintSha1": "2b6a9702d87478f2f6c3ef02defc24a6383b4726"
+  },
+  {
+    "earthquakeAt": "2024-11-15T14:39:51.000Z",
+    "latitude": 2.61,
+    "longitude": 98.64,
+    "magnitude": 3.6,
+    "depthInKm": 1,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km barat daya Samosir",
+    "feltOnStations": "II Pangururan, II Kecamatan Harian",
+    "bmkgEarthquakeId": "20241115213951",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241115213951.mmi.jpg",
+    "fingerprintSha1": "520552c5ab34151abcd362151e86470a7a8ea434"
   }
 ]
