@@ -19663,5 +19663,17 @@
     "bmkgEarthquakeId": "20241115123810",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241115123810.mmi.jpg",
     "fingerprintSha1": "477d4c2fc8c6e69d99cfe45145c4c7e68eea9619"
+  },
+  {
+    "earthquakeAt": "2024-11-15T08:38:17.000Z",
+    "latitude": -6.78,
+    "longitude": 107.28,
+    "magnitude": 3.3,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km Timur Laut Kab. Cianjur",
+    "feltOnStations": "II - III Cipatat, II - III Cirata, II - III Cipeundeuy, II - III Rajamandala, II - III Cipeuyem, II - III Cikalong Wetan",
+    "bmkgEarthquakeId": "20241115153817",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241115153817.mmi.jpg",
+    "fingerprintSha1": "d9060028a18169c334cb44af17eff4d25e32ca61"
   }
 ]
