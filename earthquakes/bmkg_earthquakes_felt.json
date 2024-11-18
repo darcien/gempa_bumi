@@ -19711,5 +19711,17 @@
     "bmkgEarthquakeId": "20241116222837",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241116222837.mmi.jpg",
     "fingerprintSha1": "84ef94cdf24313c141b8245e91991ae7df8e4143"
+  },
+  {
+    "earthquakeAt": "2024-11-18T12:33:31.000Z",
+    "latitude": -3.78,
+    "longitude": 136.11,
+    "magnitude": 4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 27 km timur laut Dogiyai",
+    "feltOnStations": "II - III Deiyai",
+    "bmkgEarthquakeId": "20241118193331",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241118193331.mmi.jpg",
+    "fingerprintSha1": "4a7d5de88172dcaf875d544de96ef9377ffffa7f"
   }
 ]
