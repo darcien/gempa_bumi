@@ -19723,5 +19723,17 @@
     "bmkgEarthquakeId": "20241118193331",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241118193331.mmi.jpg",
     "fingerprintSha1": "4a7d5de88172dcaf875d544de96ef9377ffffa7f"
+  },
+  {
+    "earthquakeAt": "2024-11-19T12:28:13.000Z",
+    "latitude": -8.2,
+    "longitude": 107.59,
+    "magnitude": 4.6,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di laut 109 km barat daya Kab. Tasikmalaya",
+    "feltOnStations": "III Ciamis, II Garut",
+    "bmkgEarthquakeId": "20241119192813",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241119192813.mmi.jpg",
+    "fingerprintSha1": "7b62f5ef8a72d3754986dd4f929d38402cf602e7"
   }
 ]
