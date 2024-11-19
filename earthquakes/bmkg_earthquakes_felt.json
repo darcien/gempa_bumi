@@ -19735,5 +19735,29 @@
     "bmkgEarthquakeId": "20241119192813",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241119192813.mmi.jpg",
     "fingerprintSha1": "7b62f5ef8a72d3754986dd4f929d38402cf602e7"
+  },
+  {
+    "earthquakeAt": "2024-11-19T21:33:36.000Z",
+    "latitude": -3.97,
+    "longitude": 135.12,
+    "magnitude": 3.3,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di darat 80 km BaratDaya Nabire",
+    "feltOnStations": "II - III Nabire",
+    "bmkgEarthquakeId": "20241120043336",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241120043336.mmi.jpg",
+    "fingerprintSha1": "d0dd5c29d3fcf9bcdf07cc1e3862de4cf93ab5dc"
+  },
+  {
+    "earthquakeAt": "2024-11-19T20:50:45.000Z",
+    "latitude": -9.03,
+    "longitude": 121.97,
+    "magnitude": 4.7,
+    "depthInKm": 80,
+    "locationInIndonesian": "Pusat gempa berada di laut 39 km Tenggara Ende",
+    "feltOnStations": "II Ende",
+    "bmkgEarthquakeId": "20241120035045",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241120035045.mmi.jpg",
+    "fingerprintSha1": "18f2d8f5f0517e87bb5658b9ae022fc727ad254b"
   }
 ]
