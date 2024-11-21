@@ -19807,5 +19807,17 @@
     "bmkgEarthquakeId": "20241121112854",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241121112854.mmi.jpg",
     "fingerprintSha1": "dcaec3d34deb45ced777db476d7e20c9e7dc14e8"
+  },
+  {
+    "earthquakeAt": "2024-11-21T12:12:50.000Z",
+    "latitude": -2.12,
+    "longitude": 139.15,
+    "magnitude": 5.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 53 km tenggara Sarmi",
+    "feltOnStations": "III Sarmi",
+    "bmkgEarthquakeId": "20241121191250",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241121191250.mmi.jpg",
+    "fingerprintSha1": "ae053a2fd722dbc847c54c371c826d6360975527"
   }
 ]
