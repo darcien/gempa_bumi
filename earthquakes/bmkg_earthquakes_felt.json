@@ -19819,5 +19819,17 @@
     "bmkgEarthquakeId": "20241121191250",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241121191250.mmi.jpg",
     "fingerprintSha1": "ae053a2fd722dbc847c54c371c826d6360975527"
+  },
+  {
+    "earthquakeAt": "2024-11-21T22:45:48.000Z",
+    "latitude": -7.82,
+    "longitude": 107.28,
+    "magnitude": 3.8,
+    "depthInKm": 28,
+    "locationInIndonesian": "Pusat gempa berada di laut 92 km barat daya Kab. Bandung",
+    "feltOnStations": "II Garut",
+    "bmkgEarthquakeId": "20241122054548",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241122054548.mmi.jpg",
+    "fingerprintSha1": "22c6e18fdfa735b986e982e0375fe82650c2dee6"
   }
 ]
