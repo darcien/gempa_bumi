@@ -19759,5 +19759,17 @@
     "bmkgEarthquakeId": "20241120035045",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241120035045.mmi.jpg",
     "fingerprintSha1": "18f2d8f5f0517e87bb5658b9ae022fc727ad254b"
+  },
+  {
+    "earthquakeAt": "2024-11-21T01:17:43.000Z",
+    "latitude": -6.96,
+    "longitude": 107.15,
+    "magnitude": 2.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km tenggara Kab. Cianjur",
+    "feltOnStations": "II Kec. Cibeber",
+    "bmkgEarthquakeId": "20241121081743",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241121081743.mmi.jpg",
+    "fingerprintSha1": "030bcda6909b1264bc192a0a591c94ce62e48320"
   }
 ]
