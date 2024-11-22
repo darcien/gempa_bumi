@@ -19855,5 +19855,17 @@
     "bmkgEarthquakeId": "20241122140627",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241122140627.mmi.jpg",
     "fingerprintSha1": "b300734e1debb4cf984c2274de56bced4457cf60"
+  },
+  {
+    "earthquakeAt": "2024-11-22T07:51:03.000Z",
+    "latitude": 2.71,
+    "longitude": 128.17,
+    "magnitude": 5.4,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 74 km BaratLaut Daruba",
+    "feltOnStations": "III Morotai",
+    "bmkgEarthquakeId": "20241122145103",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241122145103.mmi.jpg",
+    "fingerprintSha1": "61379c81ade24c1817ba0be007ab46490a090ec1"
   }
 ]
