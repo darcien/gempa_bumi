@@ -19843,5 +19843,17 @@
     "bmkgEarthquakeId": "20241122085612",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241122085612.mmi.jpg",
     "fingerprintSha1": "0b59c32cbefde22fc03c2a17f400369c4145e334"
+  },
+  {
+    "earthquakeAt": "2024-11-22T07:06:27.000Z",
+    "latitude": -1.04,
+    "longitude": 99.8,
+    "magnitude": 3.8,
+    "depthInKm": 44,
+    "locationInIndonesian": "Pusat gempa berada di laut 58 km BaratDaya Pariaman",
+    "feltOnStations": "II - III Padang, II - III Padang Pariaman",
+    "bmkgEarthquakeId": "20241122140627",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241122140627.mmi.jpg",
+    "fingerprintSha1": "b300734e1debb4cf984c2274de56bced4457cf60"
   }
 ]
