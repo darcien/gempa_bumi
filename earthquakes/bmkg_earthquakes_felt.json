@@ -19831,5 +19831,17 @@
     "bmkgEarthquakeId": "20241122054548",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241122054548.mmi.jpg",
     "fingerprintSha1": "22c6e18fdfa735b986e982e0375fe82650c2dee6"
+  },
+  {
+    "earthquakeAt": "2024-11-22T01:56:12.000Z",
+    "latitude": -6.83,
+    "longitude": 120.68,
+    "magnitude": 4,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di laut 63 km Tenggara Selayar",
+    "feltOnStations": "III Pulau Kayuadi, II - III Pulau Jampea",
+    "bmkgEarthquakeId": "20241122085612",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241122085612.mmi.jpg",
+    "fingerprintSha1": "0b59c32cbefde22fc03c2a17f400369c4145e334"
   }
 ]
