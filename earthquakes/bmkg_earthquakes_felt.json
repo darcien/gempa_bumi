@@ -20071,5 +20071,17 @@
     "bmkgEarthquakeId": "20241203101543",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241203101543.mmi.jpg",
     "fingerprintSha1": "5ac88281a030af504275ffa9935c80638e5d1ca0"
+  },
+  {
+    "earthquakeAt": "2024-12-03T22:15:37.000Z",
+    "latitude": -3.56,
+    "longitude": 129.06,
+    "magnitude": 3.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 29 km tenggara Masohi",
+    "feltOnStations": "III Masohi",
+    "bmkgEarthquakeId": "20241204051537",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241204051537.mmi.jpg",
+    "fingerprintSha1": "0e59b98b481b3486f93eb134df092b4a53bd52e5"
   }
 ]
