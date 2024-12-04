@@ -20083,5 +20083,17 @@
     "bmkgEarthquakeId": "20241204051537",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241204051537.mmi.jpg",
     "fingerprintSha1": "0e59b98b481b3486f93eb134df092b4a53bd52e5"
+  },
+  {
+    "earthquakeAt": "2024-12-04T14:21:38.000Z",
+    "latitude": 4.94,
+    "longitude": 95.98,
+    "magnitude": 4.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 33 Km barat daya Pidie Jaya",
+    "feltOnStations": "III - IV Aceh Jaya, III - IV Pidie Jaya, II Banda Aceh, II Aceh Besar",
+    "bmkgEarthquakeId": "20241204212138",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241204212138.mmi.jpg",
+    "fingerprintSha1": "02614e304beca9c452a0f7cb8ccca4e3d13902f0"
   }
 ]
