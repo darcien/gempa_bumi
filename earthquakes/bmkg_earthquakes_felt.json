@@ -20143,5 +20143,17 @@
     "bmkgEarthquakeId": "20241207073756",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241207073756.mmi.jpg",
     "fingerprintSha1": "1c727eae90da43650b3ae8328682db65ea6cfbad"
+  },
+  {
+    "earthquakeAt": "2024-12-07T07:46:46.000Z",
+    "latitude": -0.35,
+    "longitude": 99.19,
+    "magnitude": 4.8,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 64 km barat daya Pasaman Barat",
+    "feltOnStations": "II - III Padang Pariaman, II - III Pariaman, II - III Padang Panjang, II - III Agam",
+    "bmkgEarthquakeId": "20241207144646",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241207144646.mmi.jpg",
+    "fingerprintSha1": "9cb8b1715b690006e0aaaf4c70a23338dbca9400"
   }
 ]
