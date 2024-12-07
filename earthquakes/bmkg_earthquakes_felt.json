@@ -20131,5 +20131,17 @@
     "bmkgEarthquakeId": "20241207071221",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241207071221.mmi.jpg",
     "fingerprintSha1": "1616e92582384b36864c3033aa2910754bd9c273"
+  },
+  {
+    "earthquakeAt": "2024-12-07T00:37:56.000Z",
+    "latitude": -1.93,
+    "longitude": 115.27,
+    "magnitude": 4.3,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 km TimurLaut Barito Timur",
+    "feltOnStations": "II - III Kab. Barito Timur, II - III Kab. Tabalong",
+    "bmkgEarthquakeId": "20241207073756",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241207073756.mmi.jpg",
+    "fingerprintSha1": "1c727eae90da43650b3ae8328682db65ea6cfbad"
   }
 ]
