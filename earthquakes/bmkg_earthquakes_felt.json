@@ -20119,5 +20119,17 @@
     "bmkgEarthquakeId": "20241207054503",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241207054503.mmi.jpg",
     "fingerprintSha1": "d8faf9d407ed08d390988277d5eca08ab1705f4a"
+  },
+  {
+    "earthquakeAt": "2024-12-07T00:12:21.000Z",
+    "latitude": -7.24,
+    "longitude": 107.72,
+    "magnitude": 4.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 19 km barat daya kab. Garut",
+    "feltOnStations": "III-IV Garut, IV Pasirwangi, IV Samarang, IV Bayongbong, III - IV Malayu, III Majalaya, III Pacet, III Ciparay , II-III Cimahi, II - III Baleendah, II - III Cibiru, II - III Cicalengka, II - III Kopo, II-III Soreang, II - III Sumedang",
+    "bmkgEarthquakeId": "20241207071221",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241207071221.mmi.jpg",
+    "fingerprintSha1": "1616e92582384b36864c3033aa2910754bd9c273"
   }
 ]
