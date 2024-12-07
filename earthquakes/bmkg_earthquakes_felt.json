@@ -20155,5 +20155,17 @@
     "bmkgEarthquakeId": "20241207144646",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241207144646.mmi.jpg",
     "fingerprintSha1": "9cb8b1715b690006e0aaaf4c70a23338dbca9400"
+  },
+  {
+    "earthquakeAt": "2024-12-07T09:41:26.000Z",
+    "latitude": -2.17,
+    "longitude": 124.37,
+    "magnitude": 5.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 180 km Barat Sanana",
+    "feltOnStations": "IV Taliabu",
+    "bmkgEarthquakeId": "20241207164126",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241207164126.mmi.jpg",
+    "fingerprintSha1": "c424e05b25cc21bfc19f301031afda37e0457f83"
   }
 ]
