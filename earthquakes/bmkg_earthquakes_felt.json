@@ -20167,5 +20167,17 @@
     "bmkgEarthquakeId": "20241207164126",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241207164126.mmi.jpg",
     "fingerprintSha1": "c424e05b25cc21bfc19f301031afda37e0457f83"
+  },
+  {
+    "earthquakeAt": "2024-12-08T08:36:51.000Z",
+    "latitude": -7.23,
+    "longitude": 107.69,
+    "magnitude": 2.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 22 km barat daya Kabupaten Garut",
+    "feltOnStations": "II Kertasari, II Pengalengan",
+    "bmkgEarthquakeId": "20241208153651",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241208153651.mmi.jpg",
+    "fingerprintSha1": "ed0443f5cfce957ea7523966e9305036056cb3a4"
   }
 ]
