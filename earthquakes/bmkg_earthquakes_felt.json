@@ -20191,5 +20191,17 @@
     "bmkgEarthquakeId": "20241209070634",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241209070634.mmi.jpg",
     "fingerprintSha1": "8c24e2cdc7bf9f5458c0ea4a14db0410707c4663"
+  },
+  {
+    "earthquakeAt": "2024-12-09T08:21:06.000Z",
+    "latitude": -6.6,
+    "longitude": 103.99,
+    "magnitude": 4.9,
+    "depthInKm": 28,
+    "locationInIndonesian": "Pusat gempa berada di Laut, 146 km BaratDaya TANGGAMUS",
+    "feltOnStations": "II Liwa, I-II Limau",
+    "bmkgEarthquakeId": "20241209152106",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241209152106.mmi.jpg",
+    "fingerprintSha1": "51c2422cb3bc8df153d29141041d9e7242beab74"
   }
 ]
