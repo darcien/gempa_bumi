@@ -20203,5 +20203,17 @@
     "bmkgEarthquakeId": "20241209152106",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241209152106.mmi.jpg",
     "fingerprintSha1": "51c2422cb3bc8df153d29141041d9e7242beab74"
+  },
+  {
+    "earthquakeAt": "2024-12-09T09:22:04.000Z",
+    "latitude": -0.73,
+    "longitude": 134.11,
+    "magnitude": 4.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 19 km timur laut Manokwari",
+    "feltOnStations": "Manokwari II-III, Ransiki II-III",
+    "bmkgEarthquakeId": "20241209162204",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241209162204.mmi.jpg",
+    "fingerprintSha1": "6bba86ac957dae074631c16e4f286efde1612c93"
   }
 ]
