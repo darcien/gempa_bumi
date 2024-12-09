@@ -20179,5 +20179,17 @@
     "bmkgEarthquakeId": "20241208153651",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241208153651.mmi.jpg",
     "fingerprintSha1": "ed0443f5cfce957ea7523966e9305036056cb3a4"
+  },
+  {
+    "earthquakeAt": "2024-12-09T00:06:34.000Z",
+    "latitude": -7.35,
+    "longitude": 111.55,
+    "magnitude": 3.9,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 km Timur Laut Ngawi",
+    "feltOnStations": "II Blora",
+    "bmkgEarthquakeId": "20241209070634",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241209070634.mmi.jpg",
+    "fingerprintSha1": "8c24e2cdc7bf9f5458c0ea4a14db0410707c4663"
   }
 ]
