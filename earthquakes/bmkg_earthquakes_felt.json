@@ -20215,5 +20215,17 @@
     "bmkgEarthquakeId": "20241209162204",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241209162204.mmi.jpg",
     "fingerprintSha1": "6bba86ac957dae074631c16e4f286efde1612c93"
+  },
+  {
+    "earthquakeAt": "2024-12-09T09:50:06.000Z",
+    "latitude": -0.83,
+    "longitude": 99.63,
+    "magnitude": 4.9,
+    "depthInKm": 68,
+    "locationInIndonesian": "Pusat gempa berada di laut 59 km barat daya Pariaman",
+    "feltOnStations": "Padang III-IV, Padang Pariaman III-IV, Pariaman III-IV, Kab. Agam III-IV, Kab. Pasaman III-IV, Padang Panjang II-III, Bukittinggi II-III, Painan II-III",
+    "bmkgEarthquakeId": "20241209165006",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241209165006.mmi.jpg",
+    "fingerprintSha1": "47ff0a59979123883c5cd104b67720c8a6c19853"
   }
 ]
