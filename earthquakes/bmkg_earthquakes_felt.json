@@ -20227,5 +20227,17 @@
     "bmkgEarthquakeId": "20241209165006",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241209165006.mmi.jpg",
     "fingerprintSha1": "47ff0a59979123883c5cd104b67720c8a6c19853"
+  },
+  {
+    "earthquakeAt": "2024-12-10T09:31:26.000Z",
+    "latitude": -8.68,
+    "longitude": 116.11,
+    "magnitude": 3.6,
+    "depthInKm": 87,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km baratlaut Lombok Barat",
+    "feltOnStations": "II Lombok Barat, II Lombok Tengah",
+    "bmkgEarthquakeId": "20241210163126",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241210163126.mmi.jpg",
+    "fingerprintSha1": "a88fb625c2a6bb6f801e42f23c44cb692d98f5ab"
   }
 ]
