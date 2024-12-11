@@ -20239,5 +20239,17 @@
     "bmkgEarthquakeId": "20241210163126",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241210163126.mmi.jpg",
     "fingerprintSha1": "a88fb625c2a6bb6f801e42f23c44cb692d98f5ab"
+  },
+  {
+    "earthquakeAt": "2024-12-11T10:23:35.000Z",
+    "latitude": -4.49,
+    "longitude": 102.51,
+    "magnitude": 5.4,
+    "depthInKm": 19,
+    "locationInIndonesian": "Pusat gempa berada di laut 45 km barat daya Bengkulu Selatan",
+    "feltOnStations": "III-IV Bengkulu Selatan, III-IV Seluma, III Kepahiang, III Pagar Alam, II-III Kota Bengkulu, II-III Bengkulu Utara, II-III Oku Selatan, II Muara Enim",
+    "bmkgEarthquakeId": "20241211172335",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241211172335.mmi.jpg",
+    "fingerprintSha1": "6cfa132e0a7d852ca1d428911724917165bcd4f3"
   }
 ]
