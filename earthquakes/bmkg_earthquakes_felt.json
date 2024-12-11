@@ -20251,5 +20251,17 @@
     "bmkgEarthquakeId": "20241211172335",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241211172335.mmi.jpg",
     "fingerprintSha1": "6cfa132e0a7d852ca1d428911724917165bcd4f3"
+  },
+  {
+    "earthquakeAt": "2024-12-11T10:46:21.000Z",
+    "latitude": -3.89,
+    "longitude": 122.65,
+    "magnitude": 2.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 2.4 km barat laut Soropia, Kab. Konawe",
+    "feltOnStations": "II Kendari",
+    "bmkgEarthquakeId": "20241211174621",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241211174621.mmi.jpg",
+    "fingerprintSha1": "4e33197efa2466ad0c7aeb1f27fadd7e23972d8f"
   }
 ]
