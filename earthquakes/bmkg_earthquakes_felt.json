@@ -20263,5 +20263,17 @@
     "bmkgEarthquakeId": "20241211174621",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241211174621.mmi.jpg",
     "fingerprintSha1": "4e33197efa2466ad0c7aeb1f27fadd7e23972d8f"
+  },
+  {
+    "earthquakeAt": "2024-12-12T06:36:29.000Z",
+    "latitude": -0.36,
+    "longitude": 99.51,
+    "magnitude": 4.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 57 km barat daya Lubukbasung-Agam",
+    "feltOnStations": "III-IV Padang, III-IV Agam, III-IV Padang Pariaman, III-IV Pariaman, II - III Padang Panjang, II - III Bukittinggi",
+    "bmkgEarthquakeId": "20241212133629",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241212133629.mmi.jpg",
+    "fingerprintSha1": "398cd9c41ececfc956074a1c4225d68d7475ce3f"
   }
 ]
