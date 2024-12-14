@@ -20275,5 +20275,17 @@
     "bmkgEarthquakeId": "20241212133629",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241212133629.mmi.jpg",
     "fingerprintSha1": "398cd9c41ececfc956074a1c4225d68d7475ce3f"
+  },
+  {
+    "earthquakeAt": "2024-12-14T17:38:16.000Z",
+    "latitude": 1.64,
+    "longitude": 126.61,
+    "magnitude": 5.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 113 km BaratLaut Halmahera Barat",
+    "feltOnStations": "II - III Ternate, II - III Jailolo, II - III Morotai, II - III Ibu",
+    "bmkgEarthquakeId": "20241215003816",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241215003816.mmi.jpg",
+    "fingerprintSha1": "dca382d94f67c9b531ac21d005f6966dee0e58d8"
   }
 ]
