@@ -20311,5 +20311,17 @@
     "bmkgEarthquakeId": "20241215171611",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241215171611.mmi.jpg",
     "fingerprintSha1": "e9d68f43e9a079a9ffd80424f6fb6e07e0ad0714"
+  },
+  {
+    "earthquakeAt": "2024-12-15T11:10:23.000Z",
+    "latitude": -8.64,
+    "longitude": 117.44,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km tenggara Sumbawa",
+    "feltOnStations": "II Dompu, II Lombok Tengah, II Kota Mataram, III Lombok Timur, III Sumbawa Barat, III-IV Sumbawa, II Bima",
+    "bmkgEarthquakeId": "20241215181023",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241215181023.mmi.jpg",
+    "fingerprintSha1": "2b0693015fd72e07c7e048a1339b88627f6c260d"
   }
 ]
