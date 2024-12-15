@@ -20299,5 +20299,17 @@
     "bmkgEarthquakeId": "20241215094835",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241215094835.mmi.jpg",
     "fingerprintSha1": "f9df1f5e79da824a8e0508d6139d72d6c9cc8cb6"
+  },
+  {
+    "earthquakeAt": "2024-12-15T10:16:11.000Z",
+    "latitude": -2.32,
+    "longitude": 140.26,
+    "magnitude": 4,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di laut 32 km Timur Laut Genyem-Jayapura",
+    "feltOnStations": "II Sentani",
+    "bmkgEarthquakeId": "20241215171611",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241215171611.mmi.jpg",
+    "fingerprintSha1": "e9d68f43e9a079a9ffd80424f6fb6e07e0ad0714"
   }
 ]
