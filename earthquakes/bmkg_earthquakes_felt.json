@@ -20335,5 +20335,17 @@
     "bmkgEarthquakeId": "20241215204132",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241215204132.mmi.jpg",
     "fingerprintSha1": "81ad548f3b8865743f97237c269be3c8923bdb82"
+  },
+  {
+    "earthquakeAt": "2024-12-16T03:50:04.000Z",
+    "latitude": -1.22,
+    "longitude": 99.76,
+    "magnitude": 5,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di laut 78 km barat daya Pariaman",
+    "feltOnStations": "III-IV Kota Padang, III-IV Pasaman Barat, III-IV Padang Pariaman, III-IV Agam, III-IV Mentawai, II-III Padang Panjang, II-III Bukittinggi, II-III Solok, II-III Solok Selatan",
+    "bmkgEarthquakeId": "20241216105004",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241216105004.mmi.jpg",
+    "fingerprintSha1": "48370333a0110735e8fd15f27be88a312c1df4a6"
   }
 ]
