@@ -20343,9 +20343,21 @@
     "magnitude": 5,
     "depthInKm": 20,
     "locationInIndonesian": "Pusat gempa berada di laut 78 km barat daya Pariaman",
-    "feltOnStations": "III-IV Kota Padang, III-IV Pasaman Barat, III-IV Padang Pariaman, III-IV Agam, III-IV Mentawai, II-III Padang Panjang, II-III Bukittinggi, II-III Solok, II-III Solok Selatan",
+    "feltOnStations": "III-IV Kota Padang, III-IV Pasaman Barat, III-IV Padang Pariaman, III-IV Agam, III-IV Mentawai, II-III Padang Panjang, II-III Bukittinggi, II-III Solok, II-III Solok Selatan, III-IV Pariaman",
     "bmkgEarthquakeId": "20241216105004",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241216105004.mmi.jpg",
     "fingerprintSha1": "48370333a0110735e8fd15f27be88a312c1df4a6"
+  },
+  {
+    "earthquakeAt": "2024-12-16T07:16:52.000Z",
+    "latitude": -7.88,
+    "longitude": 121.04,
+    "magnitude": 4.6,
+    "depthInKm": 27,
+    "locationInIndonesian": "Pusat gempa berada di laut 93 km barat laut Mbay-Nagekeo",
+    "feltOnStations": "III Bajawa, III Ruteng",
+    "bmkgEarthquakeId": "20241216141652",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241216141652.mmi.jpg",
+    "fingerprintSha1": "73934395121ec7dee1e5c8ccdb0583e70a7a9a8e"
   }
 ]
