@@ -20383,5 +20383,17 @@
     "bmkgEarthquakeId": "20241216230232",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241216230232.mmi.jpg",
     "fingerprintSha1": "9d57e138963371751b3cfee7d076b68f8b7c4f33"
+  },
+  {
+    "earthquakeAt": "2024-12-17T00:16:43.000Z",
+    "latitude": -1.71,
+    "longitude": 99.18,
+    "magnitude": 4.1,
+    "depthInKm": 31,
+    "locationInIndonesian": "Pusat gempa berada di darat 43 km tenggara Pulau Siberut-Kepulauan Mentawai",
+    "feltOnStations": "II-III Siberut, II-III Tuapejat",
+    "bmkgEarthquakeId": "20241217071643",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241217071643.mmi.jpg",
+    "fingerprintSha1": "6910510c3ded81d6ba9ddf6924ff1e592a0836ad"
   }
 ]
