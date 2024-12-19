@@ -20419,5 +20419,17 @@
     "bmkgEarthquakeId": "20241218041351",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241218041351.mmi.jpg",
     "fingerprintSha1": "903fba0460f9df6d3937415883888241eb00c9b1"
+  },
+  {
+    "earthquakeAt": "2024-12-19T03:17:27.000Z",
+    "latitude": -6.8,
+    "longitude": 111.99,
+    "magnitude": 3.3,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km barat laut Tuban",
+    "feltOnStations": "II-III Tuban",
+    "bmkgEarthquakeId": "20241219101727",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241219101727.mmi.jpg",
+    "fingerprintSha1": "e6e47a7ace61b1fc988f862de0343c85683e2abd"
   }
 ]
