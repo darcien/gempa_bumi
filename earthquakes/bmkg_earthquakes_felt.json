@@ -20443,5 +20443,17 @@
     "bmkgEarthquakeId": "20241220061658",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241220061658.mmi.jpg",
     "fingerprintSha1": "b571a5c9af342b76eb881ef0ce7becce6e043b6f"
+  },
+  {
+    "earthquakeAt": "2024-12-20T16:39:05.000Z",
+    "latitude": -3.56,
+    "longitude": 127.01,
+    "magnitude": 4.4,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 34 km Selatan Namlea-BURU",
+    "feltOnStations": "II-III Namrole",
+    "bmkgEarthquakeId": "20241220233905",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241220233905.mmi.jpg",
+    "fingerprintSha1": "cf433371acd8c0ac07218c6e326fc3e8d49fce75"
   }
 ]
