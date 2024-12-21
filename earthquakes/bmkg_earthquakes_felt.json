@@ -20491,5 +20491,17 @@
     "bmkgEarthquakeId": "20241221145409",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241221145409.mmi.jpg",
     "fingerprintSha1": "ef733664f9f5aa8832d727e96d3e5eee1458cfe5"
+  },
+  {
+    "earthquakeAt": "2024-12-21T09:02:29.000Z",
+    "latitude": -5.71,
+    "longitude": 112.55,
+    "magnitude": 3.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 143 km TimurLaut Tuban",
+    "feltOnStations": "II - III Bawean",
+    "bmkgEarthquakeId": "20241221160229",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241221160229.mmi.jpg",
+    "fingerprintSha1": "d2ea75b98bcb040fa821af38b016408385f206d4"
   }
 ]
