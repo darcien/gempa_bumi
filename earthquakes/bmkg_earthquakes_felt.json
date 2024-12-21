@@ -20503,5 +20503,17 @@
     "bmkgEarthquakeId": "20241221160229",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241221160229.mmi.jpg",
     "fingerprintSha1": "d2ea75b98bcb040fa821af38b016408385f206d4"
+  },
+  {
+    "earthquakeAt": "2024-12-21T13:21:09.000Z",
+    "latitude": -3.69,
+    "longitude": 127.01,
+    "magnitude": 3.8,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di darat 25 km barat laut Ambalau-Bursel",
+    "feltOnStations": "II-III Namlea",
+    "bmkgEarthquakeId": "20241221202109",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241221202109.mmi.jpg",
+    "fingerprintSha1": "164236305b4ee14bb7ad4a8f57aad44612d4c0bb"
   }
 ]
