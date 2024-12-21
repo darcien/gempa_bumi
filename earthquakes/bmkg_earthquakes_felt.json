@@ -20467,5 +20467,17 @@
     "bmkgEarthquakeId": "20241221012237",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241221012237.mmi.jpg",
     "fingerprintSha1": "44570fb492d28c68c09dfd85f20d3d20b4788fbe"
+  },
+  {
+    "earthquakeAt": "2024-12-21T04:25:18.000Z",
+    "latitude": -8.39,
+    "longitude": 121.91,
+    "magnitude": 3.5,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di laut 41 Km Barat Laut Maumere",
+    "feltOnStations": "II-III Ende",
+    "bmkgEarthquakeId": "20241221112518",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241221112518.mmi.jpg",
+    "fingerprintSha1": "37aba813e3d4f3b95b02b168a4c441f84aa95f54"
   }
 ]
