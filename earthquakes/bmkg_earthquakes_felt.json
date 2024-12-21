@@ -20479,5 +20479,17 @@
     "bmkgEarthquakeId": "20241221112518",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241221112518.mmi.jpg",
     "fingerprintSha1": "37aba813e3d4f3b95b02b168a4c441f84aa95f54"
+  },
+  {
+    "earthquakeAt": "2024-12-21T07:54:09.000Z",
+    "latitude": -9.08,
+    "longitude": 112.07,
+    "magnitude": 4.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut, 106 km BaratDaya Kab. Blitar",
+    "feltOnStations": "II Blitar",
+    "bmkgEarthquakeId": "20241221145409",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241221145409.mmi.jpg",
+    "fingerprintSha1": "ef733664f9f5aa8832d727e96d3e5eee1458cfe5"
   }
 ]
