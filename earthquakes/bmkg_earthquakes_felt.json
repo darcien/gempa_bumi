@@ -20515,5 +20515,17 @@
     "bmkgEarthquakeId": "20241221202109",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241221202109.mmi.jpg",
     "fingerprintSha1": "164236305b4ee14bb7ad4a8f57aad44612d4c0bb"
+  },
+  {
+    "earthquakeAt": "2024-12-22T19:18:09.000Z",
+    "latitude": -4.12,
+    "longitude": 122.45,
+    "magnitude": 3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 2km Barat Daya Konda, Kab. Konawe Selatan",
+    "feltOnStations": "III Kendari, III Konawe Selatan",
+    "bmkgEarthquakeId": "20241223021809",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241223021809.mmi.jpg",
+    "fingerprintSha1": "7e16024d5d08f6605acfc7daca1b8be1cad99d44"
   }
 ]
