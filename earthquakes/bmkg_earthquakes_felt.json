@@ -20539,5 +20539,17 @@
     "bmkgEarthquakeId": "20241223193911",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241223193911.mmi.jpg",
     "fingerprintSha1": "f892b757bb940e7608040a4ac363e5b4884a5893"
+  },
+  {
+    "earthquakeAt": "2024-12-23T17:23:50.000Z",
+    "latitude": -2.82,
+    "longitude": 122.24,
+    "magnitude": 3.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 39 km tenggara Morowali",
+    "feltOnStations": "III Bahodopi",
+    "bmkgEarthquakeId": "20241224002350",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241224002350.mmi.jpg",
+    "fingerprintSha1": "ca8103a635f5a9a44c92a4b2a082a2ea9a1a30ee"
   }
 ]
