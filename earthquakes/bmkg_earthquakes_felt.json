@@ -20527,5 +20527,17 @@
     "bmkgEarthquakeId": "20241223021809",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241223021809.mmi.jpg",
     "fingerprintSha1": "7e16024d5d08f6605acfc7daca1b8be1cad99d44"
+  },
+  {
+    "earthquakeAt": "2024-12-23T12:39:11.000Z",
+    "latitude": 0.86,
+    "longitude": 122.27,
+    "magnitude": 4.1,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di darat 37 km barat laut Boalemo",
+    "feltOnStations": "III Kab. Gorontalo Utara",
+    "bmkgEarthquakeId": "20241223193911",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241223193911.mmi.jpg",
+    "fingerprintSha1": "f892b757bb940e7608040a4ac363e5b4884a5893"
   }
 ]
