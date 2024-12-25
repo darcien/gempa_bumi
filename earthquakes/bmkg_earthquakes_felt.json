@@ -20551,5 +20551,17 @@
     "bmkgEarthquakeId": "20241224002350",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241224002350.mmi.jpg",
     "fingerprintSha1": "ca8103a635f5a9a44c92a4b2a082a2ea9a1a30ee"
+  },
+  {
+    "earthquakeAt": "2024-12-25T00:10:15.000Z",
+    "latitude": -4.25,
+    "longitude": 122.41,
+    "magnitude": 2.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 9.2 km barat laut Laeya, Kab.Konawe Selatan",
+    "feltOnStations": "II-III Konawe Selatan",
+    "bmkgEarthquakeId": "20241225071015",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241225071015.mmi.jpg",
+    "fingerprintSha1": "56331a76ead3991fb78cecf8e398af54a73ff2c7"
   }
 ]
