@@ -20587,5 +20587,17 @@
     "bmkgEarthquakeId": "20241226215724",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241226215724.mmi.jpg",
     "fingerprintSha1": "d4f001d1cb1028a1d63df0a30628f10bc466ab5d"
+  },
+  {
+    "earthquakeAt": "2024-12-26T19:55:20.000Z",
+    "latitude": -2.72,
+    "longitude": 99.65,
+    "magnitude": 4.5,
+    "depthInKm": 33,
+    "locationInIndonesian": "Pusat gempa berada di laut 47 km barat daya Pulau Pagai Utara-Kep.Mentawai",
+    "feltOnStations": "II-III Tua pejat, II - III Pulau Pagai, I-II Pesisir Selatan",
+    "bmkgEarthquakeId": "20241227025520",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241227025520.mmi.jpg",
+    "fingerprintSha1": "832e9ff829f9f52fa3a089d4b5fafb895be5e787"
   }
 ]
