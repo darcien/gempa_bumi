@@ -20575,5 +20575,17 @@
     "bmkgEarthquakeId": "20241225092207",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241225092207.mmi.jpg",
     "fingerprintSha1": "c4db912260b6bcf5465cb47480ce3f712bb7b24b"
+  },
+  {
+    "earthquakeAt": "2024-12-26T14:57:24.000Z",
+    "latitude": -0.43,
+    "longitude": 123.49,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 51 km utara Kab. Banggai",
+    "feltOnStations": "II - III Luwuk",
+    "bmkgEarthquakeId": "20241226215724",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241226215724.mmi.jpg",
+    "fingerprintSha1": "d4f001d1cb1028a1d63df0a30628f10bc466ab5d"
   }
 ]
