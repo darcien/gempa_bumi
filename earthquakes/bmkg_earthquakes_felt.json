@@ -20599,5 +20599,17 @@
     "bmkgEarthquakeId": "20241227025520",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241227025520.mmi.jpg",
     "fingerprintSha1": "832e9ff829f9f52fa3a089d4b5fafb895be5e787"
+  },
+  {
+    "earthquakeAt": "2024-12-27T13:29:57.000Z",
+    "latitude": 1.29,
+    "longitude": 126.12,
+    "magnitude": 4.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 112 km tenggara Bitung",
+    "feltOnStations": "II-III Batang Dua",
+    "bmkgEarthquakeId": "20241227202957",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241227202957.mmi.jpg",
+    "fingerprintSha1": "d63af1b3f715c5f37e42cb607fb6d888a365e58e"
   }
 ]
