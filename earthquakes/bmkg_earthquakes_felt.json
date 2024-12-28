@@ -20623,5 +20623,17 @@
     "bmkgEarthquakeId": "20241228124642",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241228124642.mmi.jpg",
     "fingerprintSha1": "5407654fed6ac2321451d4143908efe5e57abe28"
+  },
+  {
+    "earthquakeAt": "2024-12-28T19:16:56.000Z",
+    "latitude": -3.7,
+    "longitude": 128.24,
+    "magnitude": 2.7,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km Timur Ambon",
+    "feltOnStations": "II - III Ambon",
+    "bmkgEarthquakeId": "20241229021656",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241229021656.mmi.jpg",
+    "fingerprintSha1": "096b35e711a0c0f31f2a97ba9b52e0edd3f701df"
   }
 ]
