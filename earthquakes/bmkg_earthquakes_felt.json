@@ -20635,5 +20635,17 @@
     "bmkgEarthquakeId": "20241229021656",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241229021656.mmi.jpg",
     "fingerprintSha1": "096b35e711a0c0f31f2a97ba9b52e0edd3f701df"
+  },
+  {
+    "earthquakeAt": "2024-12-29T06:28:50.000Z",
+    "latitude": -7.12,
+    "longitude": 111.82,
+    "magnitude": 3.1,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km baratlaut Bojonegoro",
+    "feltOnStations": "II Bojonegoro",
+    "bmkgEarthquakeId": "20241229132850",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241229132850.mmi.jpg",
+    "fingerprintSha1": "dbd877135a8711e49e9a2514fc5393f10308a11b"
   }
 ]
