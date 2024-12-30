@@ -20659,5 +20659,17 @@
     "bmkgEarthquakeId": "20241230074310",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241230074310.mmi.jpg",
     "fingerprintSha1": "18d9507f7b888f290d3808f4c1451a9e6ab52cef"
+  },
+  {
+    "earthquakeAt": "2024-12-30T05:38:40.000Z",
+    "latitude": -7.05,
+    "longitude": 112.62,
+    "magnitude": 3.3,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di darat 13 km barat laut Kab. Gresik",
+    "feltOnStations": "II - III Kec. Manyar, II - III Gresik",
+    "bmkgEarthquakeId": "20241230123840",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241230123840.mmi.jpg",
+    "fingerprintSha1": "870426cd98417bd425540d1cf583d8b782fc524a"
   }
 ]
