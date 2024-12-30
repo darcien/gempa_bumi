@@ -20647,5 +20647,17 @@
     "bmkgEarthquakeId": "20241229132850",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241229132850.mmi.jpg",
     "fingerprintSha1": "dbd877135a8711e49e9a2514fc5393f10308a11b"
+  },
+  {
+    "earthquakeAt": "2024-12-30T00:43:10.000Z",
+    "latitude": 2.5,
+    "longitude": 128.18,
+    "magnitude": 4.1,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di laut 50 km timurlaut Pulaudoi",
+    "feltOnStations": "III Morotai",
+    "bmkgEarthquakeId": "20241230074310",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241230074310.mmi.jpg",
+    "fingerprintSha1": "18d9507f7b888f290d3808f4c1451a9e6ab52cef"
   }
 ]
