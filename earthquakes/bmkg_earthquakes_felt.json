@@ -20683,5 +20683,17 @@
     "bmkgEarthquakeId": "20241230232100",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20241230232100.mmi.jpg",
     "fingerprintSha1": "afd1766515e6eec377ef1131967a4cc82534042d"
+  },
+  {
+    "earthquakeAt": "2025-01-01T01:44:13.000Z",
+    "latitude": -8.05,
+    "longitude": 117.98,
+    "magnitude": 4.1,
+    "depthInKm": 29,
+    "locationInIndonesian": "Pusat gempa berada di laut 76 km BaratLaut Dompu",
+    "feltOnStations": "II Dompu, II Sumbawa, II Bima",
+    "bmkgEarthquakeId": "20250101084413",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250101084413.mmi.jpg",
+    "fingerprintSha1": "60d760c6d53f0324be1eefa690c1bf561c4c0bf1"
   }
 ]
