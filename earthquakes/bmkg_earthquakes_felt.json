@@ -20707,5 +20707,17 @@
     "bmkgEarthquakeId": "20250102044215",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250102044215.mmi.jpg",
     "fingerprintSha1": "461fdd283f589ea18f9b26b009f51df5c0e2d65e"
+  },
+  {
+    "earthquakeAt": "2025-01-01T23:07:20.000Z",
+    "latitude": -2.05,
+    "longitude": 100.03,
+    "magnitude": 4.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 39 km timur laut Pulau Sipora",
+    "feltOnStations": "II-III Painan, II-III Sipora, II-III Pagai Utara, II Padang",
+    "bmkgEarthquakeId": "20250102060720",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250102060720.mmi.jpg",
+    "fingerprintSha1": "6ae46a2bfec91f250997d7e4d086c1482a2c9b42"
   }
 ]
