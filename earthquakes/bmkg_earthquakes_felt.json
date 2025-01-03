@@ -20731,5 +20731,17 @@
     "bmkgEarthquakeId": "20250103170538",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250103170538.mmi.jpg",
     "fingerprintSha1": "6e96ec979ce50d74afeb5ed6dfb79b512afc8916"
+  },
+  {
+    "earthquakeAt": "2025-01-03T14:44:43.000Z",
+    "latitude": -4.83,
+    "longitude": 102.86,
+    "magnitude": 4.7,
+    "depthInKm": 31,
+    "locationInIndonesian": "Pusat gempa berada di laut 42 km Barat daya Bengkulu Selatan",
+    "feltOnStations": "III Manna, III Oku Selatan, III Kaur",
+    "bmkgEarthquakeId": "20250103214443",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250103214443.mmi.jpg",
+    "fingerprintSha1": "d145380e2cd9d5f809c0adbb2ed9294c79d2fff1"
   }
 ]
