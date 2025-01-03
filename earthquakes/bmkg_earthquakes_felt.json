@@ -20719,5 +20719,17 @@
     "bmkgEarthquakeId": "20250102060720",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250102060720.mmi.jpg",
     "fingerprintSha1": "6ae46a2bfec91f250997d7e4d086c1482a2c9b42"
+  },
+  {
+    "earthquakeAt": "2025-01-03T10:05:38.000Z",
+    "latitude": -1.08,
+    "longitude": 120.41,
+    "magnitude": 3.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 51 km barat laut Poso",
+    "feltOnStations": "III Sausu",
+    "bmkgEarthquakeId": "20250103170538",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250103170538.mmi.jpg",
+    "fingerprintSha1": "6e96ec979ce50d74afeb5ed6dfb79b512afc8916"
   }
 ]
