@@ -20767,5 +20767,17 @@
     "bmkgEarthquakeId": "20250104221008",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250104221008.mmi.jpg",
     "fingerprintSha1": "37660d9323b60ba90e882b29b8bd3a2fbef0596b"
+  },
+  {
+    "earthquakeAt": "2025-01-04T18:51:46.000Z",
+    "latitude": -4.76,
+    "longitude": 123.03,
+    "magnitude": 2.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 6.9 km timurlaut Bonegunu, Buton Utara",
+    "feltOnStations": "II-III Buton Utara",
+    "bmkgEarthquakeId": "20250105015146",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250105015146.mmi.jpg",
+    "fingerprintSha1": "ba367cd440fed144e2f3acfa9254d45702645d9f"
   }
 ]
