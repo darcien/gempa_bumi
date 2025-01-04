@@ -20743,5 +20743,17 @@
     "bmkgEarthquakeId": "20250103214443",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250103214443.mmi.jpg",
     "fingerprintSha1": "d145380e2cd9d5f809c0adbb2ed9294c79d2fff1"
+  },
+  {
+    "earthquakeAt": "2025-01-04T14:09:12.000Z",
+    "latitude": -6.73,
+    "longitude": 106.66,
+    "magnitude": 2.8,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km barat daya Kota Bogor",
+    "feltOnStations": "II Desa Cipeteuy",
+    "bmkgEarthquakeId": "20250104210912",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250104210912.mmi.jpg",
+    "fingerprintSha1": "9905b9396097cd7099b52cfc73fdc40a2aa8458d"
   }
 ]
