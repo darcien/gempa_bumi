@@ -20755,5 +20755,17 @@
     "bmkgEarthquakeId": "20250104210912",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250104210912.mmi.jpg",
     "fingerprintSha1": "9905b9396097cd7099b52cfc73fdc40a2aa8458d"
+  },
+  {
+    "earthquakeAt": "2025-01-04T15:10:08.000Z",
+    "latitude": 1.03,
+    "longitude": 119.96,
+    "magnitude": 4.3,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di laut 90 km BaratLaut Toli-Toli-SULTENG",
+    "feltOnStations": "II - III Toli-Toli",
+    "bmkgEarthquakeId": "20250104221008",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250104221008.mmi.jpg",
+    "fingerprintSha1": "37660d9323b60ba90e882b29b8bd3a2fbef0596b"
   }
 ]
