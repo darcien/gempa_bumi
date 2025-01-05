@@ -20779,5 +20779,17 @@
     "bmkgEarthquakeId": "20250105015146",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250105015146.mmi.jpg",
     "fingerprintSha1": "ba367cd440fed144e2f3acfa9254d45702645d9f"
+  },
+  {
+    "earthquakeAt": "2025-01-05T08:26:24.000Z",
+    "latitude": -2.81,
+    "longitude": 122.21,
+    "magnitude": 3.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada dilaut 36 km Tenggara Morowali",
+    "feltOnStations": "II - III Bahodopi",
+    "bmkgEarthquakeId": "20250105152624",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250105152624.mmi.jpg",
+    "fingerprintSha1": "04ea76502cedc3ec1ba843b5758d91660a0dd1a0"
   }
 ]
