@@ -20875,5 +20875,17 @@
     "bmkgEarthquakeId": "20250108160947",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250108160947.mmi.jpg",
     "fingerprintSha1": "969998ed49422009ad38381e25ce303ee2cf4b54"
+  },
+  {
+    "earthquakeAt": "2025-01-08T15:59:36.000Z",
+    "latitude": -9.49,
+    "longitude": 115.51,
+    "magnitude": 4.5,
+    "depthInKm": 26,
+    "locationInIndonesian": "Pusat gempa berada di laut 83 Km Tenggara Kuta Selatan",
+    "feltOnStations": "III Lombok Tengah, III Lombok Timur, III Lombok Barat, II Kota Mataram, II Denpasar, II Gianyar",
+    "bmkgEarthquakeId": "20250108225936",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250108225936.mmi.jpg",
+    "fingerprintSha1": "866511ed27b3a21b209bf5afb531a7702594b1cc"
   }
 ]
