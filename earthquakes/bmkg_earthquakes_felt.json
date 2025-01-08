@@ -20847,9 +20847,21 @@
     "magnitude": 4.2,
     "depthInKm": 121,
     "locationInIndonesian": "Pusat gempa berada di Laut 26 km Tenggara Kuta Selatan",
-    "feltOnStations": "II Kuta, II Lombok Barat, II Kota Mataram, II Lombok Tengah",
+    "feltOnStations": "II Denpasar, II Lombok Barat, II Kota Mataram, II Lombok Tengah, II Badung, II Klungkung",
     "bmkgEarthquakeId": "20250108091417",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250108091417.mmi.jpg",
     "fingerprintSha1": "31e76b4326c0398b02edbb288d9562f62554db2a"
+  },
+  {
+    "earthquakeAt": "2025-01-08T04:41:07.000Z",
+    "latitude": -8.12,
+    "longitude": 107.89,
+    "magnitude": 4.3,
+    "depthInKm": 25,
+    "locationInIndonesian": "Pusat gempa berada di laut 81 km barat daya Kabupaten Pangandaran",
+    "feltOnStations": "II-III Garut, II - III Cikelet, II - III Singajaya, II - III Pamengpeuk, II - III Cikalong, II - III Cijulang, II - III Karanganyar, II Simpenan",
+    "bmkgEarthquakeId": "20250108114107",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250108114107.mmi.jpg",
+    "fingerprintSha1": "02e805d7929d968d6e823cb11f1dbf46233ede28"
   }
 ]
