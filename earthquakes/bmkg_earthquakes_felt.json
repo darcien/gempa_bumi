@@ -20887,5 +20887,17 @@
     "bmkgEarthquakeId": "20250108225936",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250108225936.mmi.jpg",
     "fingerprintSha1": "866511ed27b3a21b209bf5afb531a7702594b1cc"
+  },
+  {
+    "earthquakeAt": "2025-01-08T16:04:34.000Z",
+    "latitude": -3.98,
+    "longitude": 122.47,
+    "magnitude": 2.1,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km tenggara Kota Kendari",
+    "feltOnStations": "II-III Kendari",
+    "bmkgEarthquakeId": "20250108230434",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250108230434.mmi.jpg",
+    "fingerprintSha1": "dc7a820a1f1d3b7bf80d9cc6943a6904af579210"
   }
 ]
