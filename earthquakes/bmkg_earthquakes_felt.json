@@ -20911,5 +20911,17 @@
     "bmkgEarthquakeId": "20250109234216",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250109234216.mmi.jpg",
     "fingerprintSha1": "02a412d4f322fbe7c8e1dd99d68fa3b8168c17f3"
+  },
+  {
+    "earthquakeAt": "2025-01-10T02:08:04.000Z",
+    "latitude": 2.89,
+    "longitude": 117.42,
+    "magnitude": 3.5,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di darat 48 km Tenggara Bulungan",
+    "feltOnStations": "II-III Tanjung Selor",
+    "bmkgEarthquakeId": "20250110090804",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250110090804.mmi.jpg",
+    "fingerprintSha1": "94b0f8f6f9ad2fc1887ad0166d1466c59ee499d7"
   }
 ]
