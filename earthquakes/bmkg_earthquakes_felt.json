@@ -20943,7 +20943,7 @@
     "magnitude": 4.5,
     "depthInKm": 20,
     "locationInIndonesian": "Pusat gempa berada di laut 19 km Timur Laut Wawonii Timur, Kab. Konawe Kepulauan",
-    "feltOnStations": "III Kendari, III Konawe, III Konawe Kepulauan, II-III Buton Utara",
+    "feltOnStations": "III Kendari, III Konawe, III-IV Konawe Kepulauan, II-III Buton Utara",
     "bmkgEarthquakeId": "20250111190232",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250111190232.mmi.jpg",
     "fingerprintSha1": "ae12427b884a81eba83c2fd35ba31e06fc1810f5"
