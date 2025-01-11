@@ -20959,5 +20959,17 @@
     "bmkgEarthquakeId": "20250112003407",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250112003407.mmi.jpg",
     "fingerprintSha1": "4db197edc936d5e3970351ed311e2fa4a1c750d8"
+  },
+  {
+    "earthquakeAt": "2025-01-11T21:03:05.000Z",
+    "latitude": -0.32,
+    "longitude": 99.94,
+    "magnitude": 4.3,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km barat daya Agam",
+    "feltOnStations": "III - IV Agam, III - IV Pasaman Barat, II - III Padang Pariaman, II - III Kota Pariaman, I - II Kota Padang, I - II Bukittinggi",
+    "bmkgEarthquakeId": "20250112040305",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250112040305.mmi.jpg",
+    "fingerprintSha1": "bdba072d2817a78c65955f703c51e4f5433219ff"
   }
 ]
