@@ -20923,5 +20923,17 @@
     "bmkgEarthquakeId": "20250110090804",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250110090804.mmi.jpg",
     "fingerprintSha1": "94b0f8f6f9ad2fc1887ad0166d1466c59ee499d7"
+  },
+  {
+    "earthquakeAt": "2025-01-11T07:25:10.000Z",
+    "latitude": -8.88,
+    "longitude": 110.97,
+    "magnitude": 4.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 79 km barat daya Pacitan",
+    "feltOnStations": "II - III Yogyakarta, II-III Klaten, II Karangkates",
+    "bmkgEarthquakeId": "20250111142510",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250111142510.mmi.jpg",
+    "fingerprintSha1": "552a63bf82027fbc436d05bee7a515073ed60d63"
   }
 ]
