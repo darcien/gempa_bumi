@@ -20971,5 +20971,29 @@
     "bmkgEarthquakeId": "20250112040305",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250112040305.mmi.jpg",
     "fingerprintSha1": "bdba072d2817a78c65955f703c51e4f5433219ff"
+  },
+  {
+    "earthquakeAt": "2025-01-12T02:52:08.000Z",
+    "latitude": -8.28,
+    "longitude": 110.27,
+    "magnitude": 4.4,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di laut 43 km barat daya Bantul",
+    "feltOnStations": "II-III Yogyakarta, II-III Pacitan, II-III Trenggalek, II-III Tulungagung",
+    "bmkgEarthquakeId": "20250112095208",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250112095208.mmi.jpg",
+    "fingerprintSha1": "563809eebf348d8db44e5d4d3b398292892db664"
+  },
+  {
+    "earthquakeAt": "2025-01-12T02:40:19.000Z",
+    "latitude": -8.04,
+    "longitude": 120.5,
+    "magnitude": 3.5,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 63 km timur laut Ruteng, Manggarai",
+    "feltOnStations": "II Ruteng",
+    "bmkgEarthquakeId": "20250112094019",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250112094019.mmi.jpg",
+    "fingerprintSha1": "9d9151a85c17c777f3b8e6983d11e131435843b3"
   }
 ]
