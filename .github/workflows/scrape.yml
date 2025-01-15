@@ -13,12 +13,12 @@ jobs:
     steps:
       - name: Check out this repo
         uses: actions/checkout@v4
-      - uses: denoland/setup-deno@v1
+      - uses: denoland/setup-deno@v2
         with:
-          deno-version: v1.x
+          deno-version: v2.x
       - name: Fetch latest data
         run: |-
-          deno run --allow-all --unstable bmkg_felt.ts
+          deno run --allow-all bmkg_felt.ts
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
