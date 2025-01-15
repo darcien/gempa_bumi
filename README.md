@@ -12,8 +12,8 @@ The oldest record is earthquake on 2022-12-14.
 
 The source code available here is licensed under the MIT license.
 
-I do not own the earthquakes data.
-The earthquakes data is owned by BMKG and should be attributed to them.
-For usage rights of the data, please contact [DATA ONLINE BMKG][dataonline].
+I do not own the earthquakes data. The earthquakes data is owned by BMKG and
+should be attributed to them. For usage rights of the data, please contact
+[DATA ONLINE BMKG][dataonline].
 
 [dataonline]: https://dataonline.bmkg.go.id/home

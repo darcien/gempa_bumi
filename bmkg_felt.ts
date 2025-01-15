@@ -1,6 +1,6 @@
-import hash from "https://deno.land/x/object_hash@2.0.3.1/mod.ts";
-import { deepMerge } from "https://deno.land/std@0.170.0/collections/deep_merge.ts";
-import { z } from "https://deno.land/x/zod@v3.20.2/mod.ts";
+import hash from "hash";
+import { deepMerge } from "jsr:@std/collections";
+import { z } from "zod";
 import { logIfCi } from "./ci_utils.ts";
 import { readJsonFile, writeJsonFile } from "./utils.ts";
 import { computeBmkgEarthquakeId, getBmkgShakeMapUrl } from "./bmkg_utils.ts";

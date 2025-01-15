@@ -3,5 +3,12 @@
     "exclude": [
       "earthquakes/"
     ]
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@^1.0.10",
+    "@std/collections": "jsr:@std/collections@^1.0.9",
+    "@std/datetime": "jsr:@std/datetime@^0.225.3",
+    "hash": "https://deno.land/x/object_hash@2.0.3.1/mod.ts",
+    "zod": "https://deno.land/x/zod@v3.24.1/mod.ts"
   }
 }
