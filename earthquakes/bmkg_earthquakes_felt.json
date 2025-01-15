@@ -21031,5 +21031,17 @@
     "bmkgEarthquakeId": "20250114231659",
     "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250114231659.mmi.jpg",
     "fingerprintSha1": "beb4460e72c9e809dd3a2ead5f79fe2e09d54529"
+  },
+  {
+    "earthquakeAt": "2025-01-15T10:10:13.000Z",
+    "latitude": -7.82,
+    "longitude": 107.28,
+    "magnitude": 3.6,
+    "depthInKm": 29,
+    "locationInIndonesian": "Pusat gempa berada di laut 92 km barat daya Kab. Bandung",
+    "feltOnStations": "II - III Kec. Tarogong Kidul, II - III Kec. Samarang",
+    "bmkgEarthquakeId": "20250115171013",
+    "shakeMapUrl": "https://ews.bmkg.go.id/TEWS/data/20250115171013.mmi.jpg",
+    "fingerprintSha1": "01cd2984496911ab7619cfb2e69a0dea6fe608aa"
   }
 ]
