@@ -2,7 +2,9 @@
   "version": "4",
   "specifiers": {
     "jsr:@std/assert@^1.0.10": "1.0.10",
+    "jsr:@std/collections@*": "1.0.9",
     "jsr:@std/collections@^1.0.9": "1.0.9",
+    "jsr:@std/datetime@*": "0.225.3",
     "jsr:@std/datetime@~0.225.3": "0.225.3",
     "jsr:@std/internal@^1.0.5": "1.0.5"
   },
