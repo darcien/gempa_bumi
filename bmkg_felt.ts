@@ -1,5 +1,5 @@
 import hash from "hash";
-import { deepMerge } from "jsr:@std/collections";
+import { deepMerge } from "jsr:@std/collections/deep-merge";
 import { z } from "zod";
 import { logIfCi } from "./ci_utils.ts";
 import { readJsonFile, writeJsonFile } from "./utils.ts";

@@ -1,4 +1,4 @@
-import { HOUR } from "jsr:@std/datetime";
+import { HOUR } from "jsr:@std/datetime/constants";
 
 // WIB is UTC +7
 const WIB_OFFSET = 7 * HOUR;
