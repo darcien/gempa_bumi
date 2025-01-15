@@ -21043,5 +21043,17 @@
     "bmkgEarthquakeId": "20250115171013",
     "shakeMapUrl": "https://static.bmkg.go.id/20250115171013.mmi.jpg",
     "fingerprintSha1": "01cd2984496911ab7619cfb2e69a0dea6fe608aa"
+  },
+  {
+    "earthquakeAt": "2025-01-15T14:10:22.000Z",
+    "latitude": 3.34,
+    "longitude": 96.75,
+    "magnitude": 4,
+    "depthInKm": 32,
+    "locationInIndonesian": "Pusat gempa berada di laut 55 km barat laut Kab. Aceh Selatan",
+    "feltOnStations": "II-III Nagan Raya",
+    "bmkgEarthquakeId": "20250115211022",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250115211022.mmi.jpg",
+    "fingerprintSha1": "0eef8ebcb721706c894ea840a20dfcf4b8041c9f"
   }
 ]
