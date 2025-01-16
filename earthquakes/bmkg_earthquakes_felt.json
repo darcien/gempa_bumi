@@ -21055,5 +21055,17 @@
     "bmkgEarthquakeId": "20250115211022",
     "shakeMapUrl": "https://static.bmkg.go.id/20250115211022.mmi.jpg",
     "fingerprintSha1": "0eef8ebcb721706c894ea840a20dfcf4b8041c9f"
+  },
+  {
+    "earthquakeAt": "2025-01-16T01:41:51.000Z",
+    "latitude": -8.39,
+    "longitude": 113.75,
+    "magnitude": 3.5,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di darat 25 km Tenggara Jember",
+    "feltOnStations": "II-III Jember",
+    "bmkgEarthquakeId": "20250116084151",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250116084151.mmi.jpg",
+    "fingerprintSha1": "83daa588299a45bb34c91ed098227c15fa8d2f05"
   }
 ]
