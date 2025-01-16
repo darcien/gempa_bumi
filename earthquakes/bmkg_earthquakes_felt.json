@@ -21067,5 +21067,17 @@
     "bmkgEarthquakeId": "20250116084151",
     "shakeMapUrl": "https://static.bmkg.go.id/20250116084151.mmi.jpg",
     "fingerprintSha1": "83daa588299a45bb34c91ed098227c15fa8d2f05"
+  },
+  {
+    "earthquakeAt": "2025-01-16T13:17:34.000Z",
+    "latitude": -7.7,
+    "longitude": 117.48,
+    "magnitude": 4.9,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 88 km timur laut Sumbawa",
+    "feltOnStations": "II-III Sumbawa, II - III Sumbawa Barat, II-III Lombok Utara, II-III Lombok Timur, II-III Kota Mataram, II-III Kota Bima, II-III Kabupaten Bima, II-III Kabupaten Dompu, II-III Lombok Barat, II-III Lombok Tengah",
+    "bmkgEarthquakeId": "20250116201734",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250116201734.mmi.jpg",
+    "fingerprintSha1": "2c68f072b65c599dc1850de490d947df29c984a0"
   }
 ]
