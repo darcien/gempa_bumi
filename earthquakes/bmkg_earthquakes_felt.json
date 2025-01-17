@@ -21103,5 +21103,17 @@
     "bmkgEarthquakeId": "20250117195823",
     "shakeMapUrl": "https://static.bmkg.go.id/20250117195823.mmi.jpg",
     "fingerprintSha1": "a177971128de52c7aabd0a03a264f043918dce03"
+  },
+  {
+    "earthquakeAt": "2025-01-17T13:52:16.000Z",
+    "latitude": -7.34,
+    "longitude": 107.57,
+    "magnitude": 2.9,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 35 km tenggara Kab. Bandung",
+    "feltOnStations": "II-III Talegong",
+    "bmkgEarthquakeId": "20250117205216",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250117205216.mmi.jpg",
+    "fingerprintSha1": "264aa95e269a39597b86ca1d6a12497fb00cec92"
   }
 ]
