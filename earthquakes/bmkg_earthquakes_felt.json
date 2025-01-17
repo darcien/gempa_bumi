@@ -21115,5 +21115,17 @@
     "bmkgEarthquakeId": "20250117205216",
     "shakeMapUrl": "https://static.bmkg.go.id/20250117205216.mmi.jpg",
     "fingerprintSha1": "264aa95e269a39597b86ca1d6a12497fb00cec92"
+  },
+  {
+    "earthquakeAt": "2025-01-17T17:44:08.000Z",
+    "latitude": -7.28,
+    "longitude": 106.49,
+    "magnitude": 4.3,
+    "depthInKm": 38,
+    "locationInIndonesian": "Pusat gempa berada di darat 33 km barat daya Kab. Sukabumi",
+    "feltOnStations": "II Cianjur, II Cibeber, II Cipanas, II Bogor, II Palabuhan Ratu, III Surade, II Cidolog",
+    "bmkgEarthquakeId": "20250118004408",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250118004408.mmi.jpg",
+    "fingerprintSha1": "0f43a307c6884cb6f9c0233138bcda95417b497a"
   }
 ]
