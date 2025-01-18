@@ -21127,5 +21127,17 @@
     "bmkgEarthquakeId": "20250118004408",
     "shakeMapUrl": "https://static.bmkg.go.id/20250118004408.mmi.jpg",
     "fingerprintSha1": "0f43a307c6884cb6f9c0233138bcda95417b497a"
+  },
+  {
+    "earthquakeAt": "2025-01-18T08:37:45.000Z",
+    "latitude": 0.05,
+    "longitude": 126.68,
+    "magnitude": 4.8,
+    "depthInKm": 21,
+    "locationInIndonesian": "Pusat gempa berada di laut 109 km barat daya Tidore",
+    "feltOnStations": "III Ternate",
+    "bmkgEarthquakeId": "20250118153745",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250118153745.mmi.jpg",
+    "fingerprintSha1": "84be488d701c49b30a7af314af8880483de199db"
   }
 ]
