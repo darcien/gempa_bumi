@@ -21139,5 +21139,17 @@
     "bmkgEarthquakeId": "20250118153745",
     "shakeMapUrl": "https://static.bmkg.go.id/20250118153745.mmi.jpg",
     "fingerprintSha1": "84be488d701c49b30a7af314af8880483de199db"
+  },
+  {
+    "earthquakeAt": "2025-01-21T14:55:34.000Z",
+    "latitude": -3.41,
+    "longitude": 119.1,
+    "magnitude": 2,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km barat daya Polewali Mandar",
+    "feltOnStations": "II Kab. Polman",
+    "bmkgEarthquakeId": "20250121215534",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250121215534.mmi.jpg",
+    "fingerprintSha1": "30151e21507f746055e1da5d3fd407567c81264a"
   }
 ]
