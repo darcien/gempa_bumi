@@ -21163,5 +21163,29 @@
     "bmkgEarthquakeId": "20250122100934",
     "shakeMapUrl": "https://static.bmkg.go.id/20250122100934.mmi.jpg",
     "fingerprintSha1": "e5a6d3c4ef17cd3eb61a02c4e32f0b02c1455b78"
+  },
+  {
+    "earthquakeAt": "2025-01-22T03:12:06.000Z",
+    "latitude": -6.72,
+    "longitude": 106.57,
+    "magnitude": 2.6,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 28km barat daya Kota Bogor",
+    "feltOnStations": "II Lewiliang",
+    "bmkgEarthquakeId": "20250122101206",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250122101206.mmi.jpg",
+    "fingerprintSha1": "43304fc04486e10126a804550182e14f2c15ae10"
+  },
+  {
+    "earthquakeAt": "2025-01-20T03:12:06.000Z",
+    "latitude": -6.72,
+    "longitude": 106.57,
+    "magnitude": 2.6,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 28km barat daya Kota Bogor",
+    "feltOnStations": "",
+    "bmkgEarthquakeId": "20250120101206",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250120101206.mmi.jpg",
+    "fingerprintSha1": "6ae1db5488cbe4fa9d7ccd9a3b923989423efaf2"
   }
 ]
