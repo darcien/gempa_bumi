@@ -21199,5 +21199,17 @@
     "bmkgEarthquakeId": "20250124095358",
     "shakeMapUrl": "https://static.bmkg.go.id/20250124095358.mmi.jpg",
     "fingerprintSha1": "845bf4d86ee313b47790d5d46e014f282ba3afc0"
+  },
+  {
+    "earthquakeAt": "2025-01-24T13:37:12.000Z",
+    "latitude": -4.06,
+    "longitude": 121.81,
+    "magnitude": 4.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 14 km barat daya Kolaka",
+    "feltOnStations": "III-IV Kolaka Timur, III-IV Kolaka, III Bombana, II Lasusua, II Kendari, II Konawe, II Konawe Selatan, II Konawe Utara",
+    "bmkgEarthquakeId": "20250124203712",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250124203712.mmi.jpg",
+    "fingerprintSha1": "e454e637c7cba3e83a6d86b2be16cf15c3eac3ef"
   }
 ]
