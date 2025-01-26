@@ -21271,5 +21271,29 @@
     "bmkgEarthquakeId": "20250125163925",
     "shakeMapUrl": "https://static.bmkg.go.id/20250125163925.mmi.jpg",
     "fingerprintSha1": "121aa5ff87fbe2cad7643e679b1180f10edc708a"
+  },
+  {
+    "earthquakeAt": "2025-01-26T04:35:59.000Z",
+    "latitude": -1.43,
+    "longitude": 119.91,
+    "magnitude": 4.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km barat Kulawi, Kab. Sigi",
+    "feltOnStations": "III Kab. Sigi, III Kota Palu",
+    "bmkgEarthquakeId": "20250126113559",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250126113559.mmi.jpg",
+    "fingerprintSha1": "fd094eeed72a7816da14a32d1381cd23b22de079"
+  },
+  {
+    "earthquakeAt": "2025-01-26T04:28:09.000Z",
+    "latitude": -4.03,
+    "longitude": 121.77,
+    "magnitude": 3,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 1.5 km barat daya Lalolae, Kab. Kolaka Timur",
+    "feltOnStations": "II - III Kolaka Timur",
+    "bmkgEarthquakeId": "20250126112809",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250126112809.mmi.jpg",
+    "fingerprintSha1": "3202235d5fcf36ea24fbfe14c4f2cf5f6bcae1ba"
   }
 ]
