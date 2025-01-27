@@ -21343,5 +21343,17 @@
     "bmkgEarthquakeId": "20250127232000",
     "shakeMapUrl": "https://static.bmkg.go.id/20250127232000.mmi.jpg",
     "fingerprintSha1": "324344b113b628058eeff739baf23d05bfe54edc"
+  },
+  {
+    "earthquakeAt": "2025-01-27T16:27:26.000Z",
+    "latitude": -4.05,
+    "longitude": 121.78,
+    "magnitude": 4.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 2.7 km barat daya Lalolae, Kab. Kolaka Timur",
+    "feltOnStations": "III Kolaka Timur, III Kolaka, II-III Konawe, II-III Kendar",
+    "bmkgEarthquakeId": "20250127232726",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250127232726.mmi.jpg",
+    "fingerprintSha1": "88f57370df1e86dd62e8632a3fbdb33c40a90050"
   }
 ]
