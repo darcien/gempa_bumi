@@ -21307,5 +21307,17 @@
     "bmkgEarthquakeId": "20250126223357",
     "shakeMapUrl": "https://static.bmkg.go.id/20250126223357.mmi.jpg",
     "fingerprintSha1": "2ff736e110cc8544e34d606e1386a3795f084979"
+  },
+  {
+    "earthquakeAt": "2025-01-27T00:29:44.000Z",
+    "latitude": -7.89,
+    "longitude": 107.03,
+    "magnitude": 4.7,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di laut 108 km tenggara kota Sukabumi",
+    "feltOnStations": "III Sindangbarang, III Cidora, III Pamengpeuk, III Cikalong, III Babadan, II-III Pangalengan, II-III Singajaya, II-III Garut, II-III Cibeber, II-III Cianjur, II Pelabuhan Ratu, II Simpenan",
+    "bmkgEarthquakeId": "20250127072944",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250127072944.mmi.jpg",
+    "fingerprintSha1": "029605272c9a12b811f8b661b17118cff578b477"
   }
 ]
