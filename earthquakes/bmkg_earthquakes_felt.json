@@ -21319,5 +21319,17 @@
     "bmkgEarthquakeId": "20250127072944",
     "shakeMapUrl": "https://static.bmkg.go.id/20250127072944.mmi.jpg",
     "fingerprintSha1": "029605272c9a12b811f8b661b17118cff578b477"
+  },
+  {
+    "earthquakeAt": "2025-01-27T08:41:46.000Z",
+    "latitude": -2.56,
+    "longitude": 121.16,
+    "magnitude": 3.7,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km barat laut Luwu Timur",
+    "feltOnStations": "III Wasponda, III Malili",
+    "bmkgEarthquakeId": "20250127154146",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250127154146.mmi.jpg",
+    "fingerprintSha1": "ca6517732a686147bc813443cf034b40a9d1d167"
   }
 ]
