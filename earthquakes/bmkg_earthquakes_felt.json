@@ -21367,5 +21367,17 @@
     "bmkgEarthquakeId": "20250128002748",
     "shakeMapUrl": "https://static.bmkg.go.id/20250128002748.mmi.jpg",
     "fingerprintSha1": "3645c1fd7469f135dba7293ede5014e65acc3441"
+  },
+  {
+    "earthquakeAt": "2025-01-27T17:37:41.000Z",
+    "latitude": -2.51,
+    "longitude": 121.17,
+    "magnitude": 4.5,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km timurlaut Malili",
+    "feltOnStations": "III Wasuponda, III Malili",
+    "bmkgEarthquakeId": "20250128003741",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250128003741.mmi.jpg",
+    "fingerprintSha1": "cc5cc3c0897624daddc5a0d317334135d077be5b"
   }
 ]
