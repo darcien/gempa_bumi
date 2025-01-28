@@ -21459,9 +21459,21 @@
     "magnitude": 6.1,
     "depthInKm": 91,
     "locationInIndonesian": "Pusat gempa berada di darat 42 km tenggara Parigi Moutong",
-    "feltOnStations": "III Kab. Gorontalo, III Kota Gorontalo, IV Toli-Toli, III Palu, III Sigi, III Parigi, III Kab. Gorontalo Utara, II-III Kab. Bone Bolango",
+    "feltOnStations": "III Kab. Gorontalo, III Kota Gorontalo, IV Toli-Toli, III Palu, III Sigi, III Parigi, III Kab. Gorontalo Utara, II-III Kab. Bone Bolango, II-III Buol",
     "bmkgEarthquakeId": "20250128215334",
     "shakeMapUrl": "https://static.bmkg.go.id/20250128215334.mmi.jpg",
     "fingerprintSha1": "1cac55ed6e48f398d02af53792810c022d157f58"
+  },
+  {
+    "earthquakeAt": "2025-01-28T17:00:11.000Z",
+    "latitude": -4.07,
+    "longitude": 121.77,
+    "magnitude": 4.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 5.1 km barat daya Lalolae, Kab. Kolaka Timur",
+    "feltOnStations": "III - IV Kolaka Timur, III - IV Kolaka, III Konawe, III Konawe Selatan, III Kendari",
+    "bmkgEarthquakeId": "20250129000011",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250129000011.mmi.jpg",
+    "fingerprintSha1": "163839ad95cf29c47787555a481eefa60b11b245"
   }
 ]
