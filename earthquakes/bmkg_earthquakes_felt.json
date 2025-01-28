@@ -21427,5 +21427,17 @@
     "bmkgEarthquakeId": "20250128191345",
     "shakeMapUrl": "https://static.bmkg.go.id/20250128191345.mmi.jpg",
     "fingerprintSha1": "75ba4614767f000a709df71813aef24909e7599f"
+  },
+  {
+    "earthquakeAt": "2025-01-28T12:22:06.000Z",
+    "latitude": -4.19,
+    "longitude": 103.67,
+    "magnitude": 3.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada didarat 41Km BaratDaya Ogankomeringulu",
+    "feltOnStations": "III Semendo",
+    "bmkgEarthquakeId": "20250128192206",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250128192206.mmi.jpg",
+    "fingerprintSha1": "c1bc991980080c487eb10e7537e59548d3613a0b"
   }
 ]
