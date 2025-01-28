@@ -21451,5 +21451,17 @@
     "bmkgEarthquakeId": "20250128205206",
     "shakeMapUrl": "https://static.bmkg.go.id/20250128205206.mmi.jpg",
     "fingerprintSha1": "79e5dc48f644eec290995bf2f922017ed4ce1040"
+  },
+  {
+    "earthquakeAt": "2025-01-28T14:53:34.000Z",
+    "latitude": 0.53,
+    "longitude": 121.18,
+    "magnitude": 6.1,
+    "depthInKm": 91,
+    "locationInIndonesian": "Pusat gempa berada di darat 42 km tenggara Parigi Moutong",
+    "feltOnStations": "III Kab. Gorontalo, III Kota Gorontalo, IV Toli-Toli, III Palu, III Sigi, III Parigi, III Kab. Gorontalo Utara, II-III Kab. Bone Bolango",
+    "bmkgEarthquakeId": "20250128215334",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250128215334.mmi.jpg",
+    "fingerprintSha1": "1cac55ed6e48f398d02af53792810c022d157f58"
   }
 ]
