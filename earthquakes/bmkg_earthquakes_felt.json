@@ -21583,5 +21583,17 @@
     "bmkgEarthquakeId": "20250129102815",
     "shakeMapUrl": "https://static.bmkg.go.id/20250129102815.mmi.jpg",
     "fingerprintSha1": "7caa31aa751ae0a74452f162f1ccac58f5508519"
+  },
+  {
+    "earthquakeAt": "2025-01-29T03:51:42.000Z",
+    "latitude": -4.06,
+    "longitude": 121.79,
+    "magnitude": 4.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km tenggara Kab. Kolaka Timur",
+    "feltOnStations": "IV Kolaka Timur, III-IV Kolaka, III Konawe",
+    "bmkgEarthquakeId": "20250129105142",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250129105142.mmi.jpg",
+    "fingerprintSha1": "88e56445f630c209896eddefda4f740e00991834"
   }
 ]
