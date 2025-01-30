@@ -21655,5 +21655,17 @@
     "bmkgEarthquakeId": "20250130075622",
     "shakeMapUrl": "https://static.bmkg.go.id/20250130075622.mmi.jpg",
     "fingerprintSha1": "923d9adff05c42f3f283bec2fe045574ddd502a4"
+  },
+  {
+    "earthquakeAt": "2025-01-30T00:33:52.000Z",
+    "latitude": -4.08,
+    "longitude": 121.9,
+    "magnitude": 2.3,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada didarat 1.7 km TimurLaut Loea, Kolaka Timur",
+    "feltOnStations": "III Kolaka Timur",
+    "bmkgEarthquakeId": "20250130073352",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250130073352.mmi.jpg",
+    "fingerprintSha1": "6c07e74498e6f1c9dfd1cf71a3f00b01240dec73"
   }
 ]
