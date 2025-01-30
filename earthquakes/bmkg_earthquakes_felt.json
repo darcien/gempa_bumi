@@ -21643,5 +21643,17 @@
     "bmkgEarthquakeId": "20250130061821",
     "shakeMapUrl": "https://static.bmkg.go.id/20250130061821.mmi.jpg",
     "fingerprintSha1": "055a59247ff6b2bf6c206c7b932264fdf108d5b8"
+  },
+  {
+    "earthquakeAt": "2025-01-30T00:56:22.000Z",
+    "latitude": -9.38,
+    "longitude": 118.1,
+    "magnitude": 4.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 101 km baratlaut Kodi, Sumba Barat Daya",
+    "feltOnStations": "II Sumbawa, II Bima",
+    "bmkgEarthquakeId": "20250130075622",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250130075622.mmi.jpg",
+    "fingerprintSha1": "923d9adff05c42f3f283bec2fe045574ddd502a4"
   }
 ]
