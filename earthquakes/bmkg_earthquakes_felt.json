@@ -21703,5 +21703,17 @@
     "bmkgEarthquakeId": "20250130223334",
     "shakeMapUrl": "https://static.bmkg.go.id/20250130223334.mmi.jpg",
     "fingerprintSha1": "def4ed0c62ff28b31890e52ab72e9503cebc76bc"
+  },
+  {
+    "earthquakeAt": "2025-01-31T11:03:43.000Z",
+    "latitude": 3.15,
+    "longitude": 96.95,
+    "magnitude": 6.2,
+    "depthInKm": 29,
+    "locationInIndonesian": "Pusat gempa berada di laut 36 km barat daya Kab. Aceh Selatan",
+    "feltOnStations": "IV Kab. Aceh Selatan, IV Kab. Simelue, III Banda Aceh, III Dolok Sanggul, III Humbahas, III Kutacane, III Sigli, III Aceh Besar, III Aceh Jaya, III Gayo Lues, III Aceh Timur, III Aceh Tengah, II Medan, II Gunung Sitoli",
+    "bmkgEarthquakeId": "20250131180343",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250131180343.mmi.jpg",
+    "fingerprintSha1": "a12a52731068e502c5fc860c6f34fc2ba9e1b6a1"
   }
 ]
