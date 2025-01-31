@@ -21715,5 +21715,17 @@
     "bmkgEarthquakeId": "20250131180343",
     "shakeMapUrl": "https://static.bmkg.go.id/20250131180343.mmi.jpg",
     "fingerprintSha1": "a12a52731068e502c5fc860c6f34fc2ba9e1b6a1"
+  },
+  {
+    "earthquakeAt": "2025-01-31T11:17:58.000Z",
+    "latitude": 3.2,
+    "longitude": 97.02,
+    "magnitude": 3.8,
+    "depthInKm": 29,
+    "locationInIndonesian": "Pusat gempa berada di laut 27 km BaratDaya Kab. Aceh Selatan",
+    "feltOnStations": "II - III Kab. Aceh Selatan",
+    "bmkgEarthquakeId": "20250131181758",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250131181758.mmi.jpg",
+    "fingerprintSha1": "9c17b6aa393df202c28ab352cf1212d73b13329c"
   }
 ]
