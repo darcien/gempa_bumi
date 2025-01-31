@@ -21739,5 +21739,17 @@
     "bmkgEarthquakeId": "20250201031946",
     "shakeMapUrl": "https://static.bmkg.go.id/20250201031946.mmi.jpg",
     "fingerprintSha1": "8b94b6cdfbc250f0122431dda0496a6ea30d37b1"
+  },
+  {
+    "earthquakeAt": "2025-01-31T20:39:10.000Z",
+    "latitude": -6.93,
+    "longitude": 106.9,
+    "magnitude": 2.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km barat daya Kota Sukabumi",
+    "feltOnStations": "II-III Kota Sukabumi",
+    "bmkgEarthquakeId": "20250201033910",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250201033910.mmi.jpg",
+    "fingerprintSha1": "34290cf69fd75f3dec9a60921557aa65bbfe229f"
   }
 ]
