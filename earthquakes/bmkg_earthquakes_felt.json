@@ -21763,5 +21763,29 @@
     "bmkgEarthquakeId": "20250201043425",
     "shakeMapUrl": "https://static.bmkg.go.id/20250201043425.mmi.jpg",
     "fingerprintSha1": "eed6954202842245db160ef8ef364aefa7dfb57f"
+  },
+  {
+    "earthquakeAt": "2025-02-01T00:40:14.000Z",
+    "latitude": -8.81,
+    "longitude": 110.31,
+    "magnitude": 5.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 96 km barat daya Gunung Kidul",
+    "feltOnStations": "III Gunungkidul, III Bantul, III Kulon Progo, III Yogyakarta, III Sleman, III Kebumen, III Purworejo, II Klaten, II Pacitan, II Trenggalek, II Karangkates",
+    "bmkgEarthquakeId": "20250201074014",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250201074014.mmi.jpg",
+    "fingerprintSha1": "acfd0c835a4bc6629acba7293c0676731dbcbfc5"
+  },
+  {
+    "earthquakeAt": "2025-01-31T22:31:53.000Z",
+    "latitude": -4.07,
+    "longitude": 121.79,
+    "magnitude": 2,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 4.9 km tenggara Lalolae",
+    "feltOnStations": "II Kolaka Timur",
+    "bmkgEarthquakeId": "20250201053153",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250201053153.mmi.jpg",
+    "fingerprintSha1": "6cbdab85ff058eff38132d97cf28801acef3e3d7"
   }
 ]
