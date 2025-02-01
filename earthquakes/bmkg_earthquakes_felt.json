@@ -21787,5 +21787,17 @@
     "bmkgEarthquakeId": "20250201053153",
     "shakeMapUrl": "https://static.bmkg.go.id/20250201053153.mmi.jpg",
     "fingerprintSha1": "6cbdab85ff058eff38132d97cf28801acef3e3d7"
+  },
+  {
+    "earthquakeAt": "2025-02-01T06:05:43.000Z",
+    "latitude": -3.93,
+    "longitude": 121.87,
+    "magnitude": 2.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 6.7 km timurlaut Tinondo-Kolaka Timur",
+    "feltOnStations": "II Kolaka Timur",
+    "bmkgEarthquakeId": "20250201130543",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250201130543.mmi.jpg",
+    "fingerprintSha1": "0f6743963b2229782dab421998e1ee90631ee59e"
   }
 ]
