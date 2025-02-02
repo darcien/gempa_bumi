@@ -21835,5 +21835,29 @@
     "bmkgEarthquakeId": "20250202031909",
     "shakeMapUrl": "https://static.bmkg.go.id/20250202031909.mmi.jpg",
     "fingerprintSha1": "473ace71b949a0b688fc73d83d61ead73f8dd1b9"
+  },
+  {
+    "earthquakeAt": "2025-02-02T15:37:08.000Z",
+    "latitude": -4.02,
+    "longitude": 121.81,
+    "magnitude": 2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 3.1 km timur laut Lalolae, Kab. Kolaka Timur",
+    "feltOnStations": "II Kolaka Timur",
+    "bmkgEarthquakeId": "20250202223708",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250202223708.mmi.jpg",
+    "fingerprintSha1": "6fe6b99327691d463763c262a334208e87dd59ec"
+  },
+  {
+    "earthquakeAt": "2025-02-02T14:49:40.000Z",
+    "latitude": -3.96,
+    "longitude": 121.98,
+    "magnitude": 2.6,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 7.8 km barat laut Onembute, Kab. Kolaka",
+    "feltOnStations": "II - III Kolaka Timur",
+    "bmkgEarthquakeId": "20250202214940",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250202214940.mmi.jpg",
+    "fingerprintSha1": "a3580daffcd02501b8826bff3b535d95d9966ade"
   }
 ]
