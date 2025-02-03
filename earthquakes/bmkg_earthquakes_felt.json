@@ -21907,5 +21907,17 @@
     "bmkgEarthquakeId": "20250203065437",
     "shakeMapUrl": "https://static.bmkg.go.id/20250203065437.mmi.jpg",
     "fingerprintSha1": "63514a26b369e678034d0677aae857b3542f64be"
+  },
+  {
+    "earthquakeAt": "2025-02-03T02:09:24.000Z",
+    "latitude": -8.24,
+    "longitude": 107.88,
+    "magnitude": 3.9,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di laut 90 km barat daya Kab. Pangandaran",
+    "feltOnStations": "III Pamengpeuk, III Cikalong",
+    "bmkgEarthquakeId": "20250203090924",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250203090924.mmi.jpg",
+    "fingerprintSha1": "eb6b2950f40ce343badc36eae3dccf97770dd386"
   }
 ]
