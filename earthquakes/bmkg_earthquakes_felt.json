@@ -21943,5 +21943,17 @@
     "bmkgEarthquakeId": "20250203224306",
     "shakeMapUrl": "https://static.bmkg.go.id/20250203224306.mmi.jpg",
     "fingerprintSha1": "fb9655aab6f4d92b2d55998c4668bda4374a839e"
+  },
+  {
+    "earthquakeAt": "2025-02-03T21:03:38.000Z",
+    "latitude": -4.03,
+    "longitude": 121.77,
+    "magnitude": 2.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 1.5 km barat daya Lalolae, Kab. Kolaka Timur",
+    "feltOnStations": "II-III Kolaka Timur",
+    "bmkgEarthquakeId": "20250204040338",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250204040338.mmi.jpg",
+    "fingerprintSha1": "7531e714365a208fff4a8a9acd8d45d06512b21e"
   }
 ]
