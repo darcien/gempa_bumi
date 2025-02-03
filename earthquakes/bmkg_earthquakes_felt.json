@@ -21919,5 +21919,17 @@
     "bmkgEarthquakeId": "20250203090924",
     "shakeMapUrl": "https://static.bmkg.go.id/20250203090924.mmi.jpg",
     "fingerprintSha1": "eb6b2950f40ce343badc36eae3dccf97770dd386"
+  },
+  {
+    "earthquakeAt": "2025-02-03T07:43:35.000Z",
+    "latitude": -4.11,
+    "longitude": 122.45,
+    "magnitude": 2.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 1.7 km barat laut Konda,Kab. Konawe Selatan",
+    "feltOnStations": "II Konawe Selatan",
+    "bmkgEarthquakeId": "20250203144335",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250203144335.mmi.jpg",
+    "fingerprintSha1": "bd577266e868817ebfef6f9a27b22a5b45d6a98a"
   }
 ]
