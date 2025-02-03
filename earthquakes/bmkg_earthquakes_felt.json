@@ -21771,7 +21771,7 @@
     "magnitude": 5.2,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 96 km barat daya Gunung Kidul",
-    "feltOnStations": "III Gunungkidul, III Bantul, III Kulon Progo, III Yogyakarta, III Sleman, III Kebumen, III Purworejo, II Klaten, II Pacitan, II Trenggalek, II Karangkates",
+    "feltOnStations": "III Gunungkidul, III Bantul, III Kulon Progo, III Yogyakarta, III Sleman, III Kebumen, III Purworejo, II Klaten, II Pacitan, II Trenggalek, II Karangkates, III Wonosobo",
     "bmkgEarthquakeId": "20250201074014",
     "shakeMapUrl": "https://static.bmkg.go.id/20250201074014.mmi.jpg",
     "fingerprintSha1": "acfd0c835a4bc6629acba7293c0676731dbcbfc5"
