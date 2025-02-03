@@ -21955,5 +21955,17 @@
     "bmkgEarthquakeId": "20250204040338",
     "shakeMapUrl": "https://static.bmkg.go.id/20250204040338.mmi.jpg",
     "fingerprintSha1": "7531e714365a208fff4a8a9acd8d45d06512b21e"
+  },
+  {
+    "earthquakeAt": "2025-02-03T21:35:53.000Z",
+    "latitude": 2.95,
+    "longitude": 128.19,
+    "magnitude": 6.2,
+    "depthInKm": 105,
+    "locationInIndonesian": "Pusat gempa berada di laut 86 km timur laut Pulau Doi",
+    "feltOnStations": "III Morotai, II - III Sangihe",
+    "bmkgEarthquakeId": "20250204043553",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250204043553.mmi.jpg",
+    "fingerprintSha1": "9711b15076e33758d7f71edad9a4401fe2e5f96d"
   }
 ]
