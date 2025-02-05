@@ -21979,5 +21979,29 @@
     "bmkgEarthquakeId": "20250204101231",
     "shakeMapUrl": "https://static.bmkg.go.id/20250204101231.mmi.jpg",
     "fingerprintSha1": "0947b094be80c0b76a550ae3965a4eb0a6e44877"
+  },
+  {
+    "earthquakeAt": "2025-02-05T03:12:31.000Z",
+    "latitude": 1.63,
+    "longitude": 127.11,
+    "magnitude": 6,
+    "depthInKm": 87,
+    "locationInIndonesian": "Pusat gempa berada di laut 61 km barat laut Halmahera barat",
+    "feltOnStations": "III - IV Manado, III Tondano, II - III Kotamobagu, III Ternate, III Batangdua, III Weda, II Minahasa Utara, IV Sofifi, III Ibu, III Jailolo, III Galela",
+    "bmkgEarthquakeId": "20250205101231",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250205101231.mmi.jpg",
+    "fingerprintSha1": "75e2d47dafe797bc1355df8d38ef93c74f8438c5"
+  },
+  {
+    "earthquakeAt": "2025-02-05T01:37:47.000Z",
+    "latitude": -4.06,
+    "longitude": 121.79,
+    "magnitude": 2,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada didarat 3 Km Tenggara Lalolae",
+    "feltOnStations": "II-III Kolaka Timur",
+    "bmkgEarthquakeId": "20250205083747",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250205083747.mmi.jpg",
+    "fingerprintSha1": "9f54ebf117c9806e0eb3b01201b0e923e2171e76"
   }
 ]
