@@ -22003,5 +22003,17 @@
     "bmkgEarthquakeId": "20250205083747",
     "shakeMapUrl": "https://static.bmkg.go.id/20250205083747.mmi.jpg",
     "fingerprintSha1": "9f54ebf117c9806e0eb3b01201b0e923e2171e76"
+  },
+  {
+    "earthquakeAt": "2025-02-05T14:18:07.000Z",
+    "latitude": -9.76,
+    "longitude": 119.63,
+    "magnitude": 4.7,
+    "depthInKm": 50,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km tenggara Waibakul",
+    "feltOnStations": "II - III Waitabula",
+    "bmkgEarthquakeId": "20250205211807",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250205211807.mmi.jpg",
+    "fingerprintSha1": "346002c89d7e3f5287450c8db20cc1ef17ed56b7"
   }
 ]
