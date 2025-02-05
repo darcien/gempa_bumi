@@ -21967,5 +21967,17 @@
     "bmkgEarthquakeId": "20250204043553",
     "shakeMapUrl": "https://static.bmkg.go.id/20250204043553.mmi.jpg",
     "fingerprintSha1": "9711b15076e33758d7f71edad9a4401fe2e5f96d"
+  },
+  {
+    "earthquakeAt": "2025-02-04T03:12:31.000Z",
+    "latitude": 1.63,
+    "longitude": 127.11,
+    "magnitude": 6,
+    "depthInKm": 87,
+    "locationInIndonesian": "Pusat gempa berada di laut 61 km barat laut Halmahera barat",
+    "feltOnStations": "III - IV Manado, III Tondano, II - III Kotamobagu, III Ternate, III Batangdua, III Weda, II Minahasa Utara, IV Sofifi, III Ibu",
+    "bmkgEarthquakeId": "20250204101231",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250204101231.mmi.jpg",
+    "fingerprintSha1": "0947b094be80c0b76a550ae3965a4eb0a6e44877"
   }
 ]
