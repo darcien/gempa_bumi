@@ -22015,5 +22015,17 @@
     "bmkgEarthquakeId": "20250205211807",
     "shakeMapUrl": "https://static.bmkg.go.id/20250205211807.mmi.jpg",
     "fingerprintSha1": "346002c89d7e3f5287450c8db20cc1ef17ed56b7"
+  },
+  {
+    "earthquakeAt": "2025-02-06T13:16:28.000Z",
+    "latitude": 4.33,
+    "longitude": 126.68,
+    "magnitude": 5.5,
+    "depthInKm": 28,
+    "locationInIndonesian": "Pusat gempa berada di laut 36 km timur laut Melonguane",
+    "feltOnStations": "II - III Naha, III Melonguane",
+    "bmkgEarthquakeId": "20250206201628",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250206201628.mmi.jpg",
+    "fingerprintSha1": "b760c0b63a3613e8cab22d6903f32ab5a02c0c17"
   }
 ]
