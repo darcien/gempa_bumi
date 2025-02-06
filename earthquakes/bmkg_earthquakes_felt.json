@@ -22039,5 +22039,17 @@
     "bmkgEarthquakeId": "20250206221533",
     "shakeMapUrl": "https://static.bmkg.go.id/20250206221533.mmi.jpg",
     "fingerprintSha1": "5a828b83f4f6bf6a763300ec01ab6b890d26de0d"
+  },
+  {
+    "earthquakeAt": "2025-02-06T15:20:26.000Z",
+    "latitude": -4.08,
+    "longitude": 121.84,
+    "magnitude": 2.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 6.3 km barat laut Loea, Kab. Kolaka Timur",
+    "feltOnStations": "II - III Kolaka Timur",
+    "bmkgEarthquakeId": "20250206222026",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250206222026.mmi.jpg",
+    "fingerprintSha1": "ba5b0b5efe326c6d25a1f2c1eed7a0604476ef95"
   }
 ]
