@@ -22135,5 +22135,17 @@
     "bmkgEarthquakeId": "20250208013218",
     "shakeMapUrl": "https://static.bmkg.go.id/20250208013218.mmi.jpg",
     "fingerprintSha1": "6561226e4aa72fd3b39f9b926b5f9906812ef96d"
+  },
+  {
+    "earthquakeAt": "2025-02-07T22:29:06.000Z",
+    "latitude": -0.5,
+    "longitude": 98.73,
+    "magnitude": 3.7,
+    "depthInKm": 33,
+    "locationInIndonesian": "Pusat gempa berada di laut 139 km barat daya Pasaman Barat",
+    "feltOnStations": "II - III Kep. Batu, Siberut Utara",
+    "bmkgEarthquakeId": "20250208052906",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250208052906.mmi.jpg",
+    "fingerprintSha1": "8abe0f3cea2d431ece287581aed6ebcf6707c9d0"
   }
 ]
