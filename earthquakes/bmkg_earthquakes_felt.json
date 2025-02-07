@@ -22087,5 +22087,17 @@
     "bmkgEarthquakeId": "20250207032110",
     "shakeMapUrl": "https://static.bmkg.go.id/20250207032110.mmi.jpg",
     "fingerprintSha1": "ad10cdf85d5b9d6267e612fd044fe38c5ca4e1d7"
+  },
+  {
+    "earthquakeAt": "2025-02-07T02:48:06.000Z",
+    "latitude": -8.18,
+    "longitude": 124.59,
+    "magnitude": 2.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 13 km timur laut Alor",
+    "feltOnStations": "II-III Alor",
+    "bmkgEarthquakeId": "20250207094806",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250207094806.mmi.jpg",
+    "fingerprintSha1": "f0f51376354fda126b028549d5dab5e15f0aa46e"
   }
 ]
