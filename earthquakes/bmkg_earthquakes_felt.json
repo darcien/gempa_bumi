@@ -22171,5 +22171,17 @@
     "bmkgEarthquakeId": "20250208124201",
     "shakeMapUrl": "https://static.bmkg.go.id/20250208124201.mmi.jpg",
     "fingerprintSha1": "314c3f137606ad389a2323d564695f6ca72567a0"
+  },
+  {
+    "earthquakeAt": "2025-02-08T12:13:57.000Z",
+    "latitude": -4.76,
+    "longitude": 119.92,
+    "magnitude": 4.1,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km barat daya Bone",
+    "feltOnStations": "II-III Bone, II - III Soppeng, II Pangkep, II Maros, II Sinjai",
+    "bmkgEarthquakeId": "20250208191357",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250208191357.mmi.jpg",
+    "fingerprintSha1": "efbeb1815588f82405e53148de0181d347feeacb"
   }
 ]
