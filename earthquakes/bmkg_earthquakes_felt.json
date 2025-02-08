@@ -22155,7 +22155,7 @@
     "magnitude": 5.2,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 130 km barat daya Pesisir Barat",
-    "feltOnStations": "II-III Liwa",
+    "feltOnStations": "II-III Liwa, III Krui",
     "bmkgEarthquakeId": "20250208120033",
     "shakeMapUrl": "https://static.bmkg.go.id/20250208120033.mmi.jpg",
     "fingerprintSha1": "5651151ca4f25302084566bc7e89ecff957fa636"
