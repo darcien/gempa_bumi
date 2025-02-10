@@ -22195,5 +22195,17 @@
     "bmkgEarthquakeId": "20250209193701",
     "shakeMapUrl": "https://static.bmkg.go.id/20250209193701.mmi.jpg",
     "fingerprintSha1": "2d9d0c6a83c7fd96d3122c16fbaf28bca12b8650"
+  },
+  {
+    "earthquakeAt": "2025-02-10T15:15:06.000Z",
+    "latitude": -9.76,
+    "longitude": 119.63,
+    "magnitude": 5.1,
+    "depthInKm": 39,
+    "locationInIndonesian": "Pusat gempa berada di laut 15 km tenggara Waibakul",
+    "feltOnStations": "III Sumba Timur, III Bima",
+    "bmkgEarthquakeId": "20250210221506",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250210221506.mmi.jpg",
+    "fingerprintSha1": "065b3b8971ca240fb7162ad0cc443dc9b75fc3ea"
   }
 ]
