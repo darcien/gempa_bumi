@@ -22243,5 +22243,17 @@
     "bmkgEarthquakeId": "20250211161304",
     "shakeMapUrl": "https://static.bmkg.go.id/20250211161304.mmi.jpg",
     "fingerprintSha1": "b7f6d3bc36ef5ec86bb5af9dec4d8f244d8a71e7"
+  },
+  {
+    "earthquakeAt": "2025-02-11T16:05:55.000Z",
+    "latitude": 4.82,
+    "longitude": 94.96,
+    "magnitude": 4.3,
+    "depthInKm": 28,
+    "locationInIndonesian": "Pusat gempa berada di laut 71 km barat laut Calang-Aceh Jaya",
+    "feltOnStations": "III Aceh Besar, III Banda Aceh, III Aceh Jaya, II Sabang",
+    "bmkgEarthquakeId": "20250211230555",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250211230555.mmi.jpg",
+    "fingerprintSha1": "08818fb237ec911385d43036495f9a2898a4f289"
   }
 ]
