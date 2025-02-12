@@ -22279,5 +22279,17 @@
     "bmkgEarthquakeId": "20250212135335",
     "shakeMapUrl": "https://static.bmkg.go.id/20250212135335.mmi.jpg",
     "fingerprintSha1": "ac7d97b8b372e148e072fbba2bca15a41cb8c789"
+  },
+  {
+    "earthquakeAt": "2025-02-12T08:57:22.000Z",
+    "latitude": -3.24,
+    "longitude": 122.24,
+    "magnitude": 3.5,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km barat laut Landawe, Konawe Utara",
+    "feltOnStations": "III Konawe Utara",
+    "bmkgEarthquakeId": "20250212155722",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250212155722.mmi.jpg",
+    "fingerprintSha1": "13472d177091ffc6a7c7555d031314fec07461fa"
   }
 ]
