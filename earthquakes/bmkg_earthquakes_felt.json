@@ -22303,5 +22303,17 @@
     "bmkgEarthquakeId": "20250213132714",
     "shakeMapUrl": "https://static.bmkg.go.id/20250213132714.mmi.jpg",
     "fingerprintSha1": "8c4a420d4914204aeab90b50ccfdcafe23d49b40"
+  },
+  {
+    "earthquakeAt": "2025-02-13T21:07:33.000Z",
+    "latitude": -6.14,
+    "longitude": 103.87,
+    "magnitude": 4.8,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di Laut 106 km Barat Daya Pesisir Barat",
+    "feltOnStations": "II - III Liwa",
+    "bmkgEarthquakeId": "20250214040733",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250214040733.mmi.jpg",
+    "fingerprintSha1": "04c68a9315f100a20c5fb42fdd8aa6e8dc3418c7"
   }
 ]
