@@ -22315,5 +22315,17 @@
     "bmkgEarthquakeId": "20250214040733",
     "shakeMapUrl": "https://static.bmkg.go.id/20250214040733.mmi.jpg",
     "fingerprintSha1": "04c68a9315f100a20c5fb42fdd8aa6e8dc3418c7"
+  },
+  {
+    "earthquakeAt": "2025-02-14T02:43:17.000Z",
+    "latitude": -6.8,
+    "longitude": 107.08,
+    "magnitude": 2.3,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada didarat 6 km BaratLaut Kab. Cianjur",
+    "feltOnStations": "II - III Cipanas, II - III Cianjur",
+    "bmkgEarthquakeId": "20250214094317",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250214094317.mmi.jpg",
+    "fingerprintSha1": "aafbbd7b3d066b2c3c3d42a5a5c397db396cfdb3"
   }
 ]
