@@ -22327,5 +22327,17 @@
     "bmkgEarthquakeId": "20250214094317",
     "shakeMapUrl": "https://static.bmkg.go.id/20250214094317.mmi.jpg",
     "fingerprintSha1": "aafbbd7b3d066b2c3c3d42a5a5c397db396cfdb3"
+  },
+  {
+    "earthquakeAt": "2025-02-14T12:28:30.000Z",
+    "latitude": -7.62,
+    "longitude": 105.49,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di Laut 97 km baratdaya Muarabinuangeun",
+    "feltOnStations": "III Kab. Sukabumi, III Jampang Tengah, III Lengkong, III Kabandungan, III Cikidang, II Pelabuhan Ratu, II Ciracap",
+    "bmkgEarthquakeId": "20250214192830",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250214192830.mmi.jpg",
+    "fingerprintSha1": "86188d6d3e7ddeaa5a949d71900a208545785c89"
   }
 ]
