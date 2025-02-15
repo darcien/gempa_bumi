@@ -22339,5 +22339,17 @@
     "bmkgEarthquakeId": "20250214192830",
     "shakeMapUrl": "https://static.bmkg.go.id/20250214192830.mmi.jpg",
     "fingerprintSha1": "86188d6d3e7ddeaa5a949d71900a208545785c89"
+  },
+  {
+    "earthquakeAt": "2025-02-15T11:00:10.000Z",
+    "latitude": -4.92,
+    "longitude": 122.77,
+    "magnitude": 3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 3 km timur laut Lohia, Muna",
+    "feltOnStations": "II - III Kab. Muna",
+    "bmkgEarthquakeId": "20250215180010",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250215180010.mmi.jpg",
+    "fingerprintSha1": "1401bc18b511b519819b7d5d6a7559a26f123fa3"
   }
 ]
