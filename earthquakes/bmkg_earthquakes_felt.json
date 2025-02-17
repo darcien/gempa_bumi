@@ -22351,5 +22351,17 @@
     "bmkgEarthquakeId": "20250215180010",
     "shakeMapUrl": "https://static.bmkg.go.id/20250215180010.mmi.jpg",
     "fingerprintSha1": "1401bc18b511b519819b7d5d6a7559a26f123fa3"
+  },
+  {
+    "earthquakeAt": "2025-02-17T12:46:49.000Z",
+    "latitude": -6.78,
+    "longitude": 106.37,
+    "magnitude": 3.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km timurlaut Bayah",
+    "feltOnStations": "II-III Bayah, II-III Cibeber, II Taman Jaya",
+    "bmkgEarthquakeId": "20250217194649",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250217194649.mmi.jpg",
+    "fingerprintSha1": "e9a413c01ebdc73c1c0924cec5d562be59ab4867"
   }
 ]
