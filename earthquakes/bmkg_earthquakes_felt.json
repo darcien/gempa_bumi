@@ -22387,5 +22387,29 @@
     "bmkgEarthquakeId": "20250220101936",
     "shakeMapUrl": "https://static.bmkg.go.id/20250220101936.mmi.jpg",
     "fingerprintSha1": "bc8ed7ce94a67dce1449afbb747240ddd4cad9f1"
+  },
+  {
+    "earthquakeAt": "2025-02-20T10:12:27.000Z",
+    "latitude": -7.59,
+    "longitude": 106.18,
+    "magnitude": 4.5,
+    "depthInKm": 26,
+    "locationInIndonesian": "Pusat gempa berada di laut 73 km Barat Daya Bayah",
+    "feltOnStations": "III Ciracap, II-III Sukabumi, II Cidolog, II Pelabuhan Ratu",
+    "bmkgEarthquakeId": "20250220171227",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250220171227.mmi.jpg",
+    "fingerprintSha1": "ab9cc5d0e55fb80eb2c95b3b2d260ea9af32ce4a"
+  },
+  {
+    "earthquakeAt": "2025-02-20T10:03:59.000Z",
+    "latitude": 0.34,
+    "longitude": 121.93,
+    "magnitude": 4.8,
+    "depthInKm": 132,
+    "locationInIndonesian": "Pusat gempa berada di laut 14 km selatan Marisa",
+    "feltOnStations": "II-III Bone Bolango, II - III Gorontalo Utara, II Toli-Toli, II Buol",
+    "bmkgEarthquakeId": "20250220170359",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250220170359.mmi.jpg",
+    "fingerprintSha1": "128b78f3e48a83ef00dc9afeb22717c1c29eb624"
   }
 ]
