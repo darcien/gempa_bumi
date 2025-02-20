@@ -22375,5 +22375,17 @@
     "bmkgEarthquakeId": "20250219063912",
     "shakeMapUrl": "https://static.bmkg.go.id/20250219063912.mmi.jpg",
     "fingerprintSha1": "b47450bec5d7648152f53ec528d74ca93b44db70"
+  },
+  {
+    "earthquakeAt": "2025-02-20T03:19:36.000Z",
+    "latitude": 4.92,
+    "longitude": 94.63,
+    "magnitude": 5.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 103 km barat daya Banda Aceh",
+    "feltOnStations": "III-IV Banda Aceh, III-IV Aceh Besar, III-IV Aceh Jaya, III Pidie",
+    "bmkgEarthquakeId": "20250220101936",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250220101936.mmi.jpg",
+    "fingerprintSha1": "bc8ed7ce94a67dce1449afbb747240ddd4cad9f1"
   }
 ]
