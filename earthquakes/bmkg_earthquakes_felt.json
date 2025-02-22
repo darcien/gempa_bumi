@@ -22435,5 +22435,17 @@
     "bmkgEarthquakeId": "20250221082009",
     "shakeMapUrl": "https://static.bmkg.go.id/20250221082009.mmi.jpg",
     "fingerprintSha1": "9152e282816ef155753a9c2359342410814038b6"
+  },
+  {
+    "earthquakeAt": "2025-02-22T11:32:03.000Z",
+    "latitude": -7.22,
+    "longitude": 107.71,
+    "magnitude": 3.1,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 20 km barat daya Kab. Garut",
+    "feltOnStations": "III Pasirwangi, II-III Pacet, II-III Darajat",
+    "bmkgEarthquakeId": "20250222183203",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250222183203.mmi.jpg",
+    "fingerprintSha1": "4a077b79bb7b616de837f021c4ba4f0812ff5697"
   }
 ]
