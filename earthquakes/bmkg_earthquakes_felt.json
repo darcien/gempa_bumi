@@ -22447,5 +22447,17 @@
     "bmkgEarthquakeId": "20250222183203",
     "shakeMapUrl": "https://static.bmkg.go.id/20250222183203.mmi.jpg",
     "fingerprintSha1": "4a077b79bb7b616de837f021c4ba4f0812ff5697"
+  },
+  {
+    "earthquakeAt": "2025-02-22T23:44:55.000Z",
+    "latitude": -5.54,
+    "longitude": 103.03,
+    "magnitude": 4.9,
+    "depthInKm": 21,
+    "locationInIndonesian": "Pusat gempa berada di laut 87 km tenggara Enggano",
+    "feltOnStations": "II Lampung Barat, II Semendo",
+    "bmkgEarthquakeId": "20250223064455",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250223064455.mmi.jpg",
+    "fingerprintSha1": "072ea1816f1294010b5ec120d66b7e487281b08d"
   }
 ]
