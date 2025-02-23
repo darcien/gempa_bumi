@@ -22459,5 +22459,17 @@
     "bmkgEarthquakeId": "20250223064455",
     "shakeMapUrl": "https://static.bmkg.go.id/20250223064455.mmi.jpg",
     "fingerprintSha1": "072ea1816f1294010b5ec120d66b7e487281b08d"
+  },
+  {
+    "earthquakeAt": "2025-02-23T16:20:41.000Z",
+    "latitude": -3.35,
+    "longitude": 135.56,
+    "magnitude": 4.4,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km Timur Laut Nabire",
+    "feltOnStations": "III Nabire",
+    "bmkgEarthquakeId": "20250223232041",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250223232041.mmi.jpg",
+    "fingerprintSha1": "da9324bbdae800b9606bd6562b63adf3f469979c"
   }
 ]
