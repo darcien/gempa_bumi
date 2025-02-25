@@ -22519,5 +22519,17 @@
     "bmkgEarthquakeId": "20250225154014",
     "shakeMapUrl": "https://static.bmkg.go.id/20250225154014.mmi.jpg",
     "fingerprintSha1": "1d966eb85b625742be6e07505be48ba531a7bc5c"
+  },
+  {
+    "earthquakeAt": "2025-02-25T15:59:40.000Z",
+    "latitude": 2.8,
+    "longitude": 125.61,
+    "magnitude": 5.4,
+    "depthInKm": 109,
+    "locationInIndonesian": "Pusat gempa berada di Laut 28 Km TimurLaut Ondong Kep.Sitaro",
+    "feltOnStations": "II - III Sangihe, II-III Minahasa, II - III Bitung",
+    "bmkgEarthquakeId": "20250225225940",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250225225940.mmi.jpg",
+    "fingerprintSha1": "f90664d2591769d32027a7bca22383db60a5f015"
   }
 ]
