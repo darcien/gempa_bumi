@@ -22507,5 +22507,17 @@
     "bmkgEarthquakeId": "20250225110314",
     "shakeMapUrl": "https://static.bmkg.go.id/20250225110314.mmi.jpg",
     "fingerprintSha1": "113cd540f18c00b8df657cc86b5b9fe0edbb95d2"
+  },
+  {
+    "earthquakeAt": "2025-02-25T08:40:14.000Z",
+    "latitude": -2.14,
+    "longitude": 121.3,
+    "magnitude": 3.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 51 km timur laut Luwu Timur",
+    "feltOnStations": "III Morowali",
+    "bmkgEarthquakeId": "20250225154014",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250225154014.mmi.jpg",
+    "fingerprintSha1": "1d966eb85b625742be6e07505be48ba531a7bc5c"
   }
 ]
