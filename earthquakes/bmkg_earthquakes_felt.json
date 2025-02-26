@@ -22663,5 +22663,17 @@
     "bmkgEarthquakeId": "20250227004829",
     "shakeMapUrl": "https://static.bmkg.go.id/20250227004829.mmi.jpg",
     "fingerprintSha1": "0f9ae13b62644b6f503c4114292a8a537272b74d"
+  },
+  {
+    "earthquakeAt": "2025-02-26T21:31:06.000Z",
+    "latitude": -9.67,
+    "longitude": 120,
+    "magnitude": 4.5,
+    "depthInKm": 29,
+    "locationInIndonesian": "Pusat gempa berada di darat 13 km Timur Laut Lewa - Sumba Timur",
+    "feltOnStations": "III Waingapu",
+    "bmkgEarthquakeId": "20250227043106",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250227043106.mmi.jpg",
+    "fingerprintSha1": "2dfb6cad7b1eb99c4a715b83ac5f03ec86c8db1b"
   }
 ]
