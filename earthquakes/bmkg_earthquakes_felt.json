@@ -22651,5 +22651,17 @@
     "bmkgEarthquakeId": "20250226213328",
     "shakeMapUrl": "https://static.bmkg.go.id/20250226213328.mmi.jpg",
     "fingerprintSha1": "e0d2849c1546a8cd6231c7a329d631a375bfb966"
+  },
+  {
+    "earthquakeAt": "2025-02-26T17:48:29.000Z",
+    "latitude": 0.43,
+    "longitude": 124.8,
+    "magnitude": 4.4,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di laut 41 km Tenggara Tutuyan",
+    "feltOnStations": "II Bolaang Mongondow Timur",
+    "bmkgEarthquakeId": "20250227004829",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250227004829.mmi.jpg",
+    "fingerprintSha1": "0f9ae13b62644b6f503c4114292a8a537272b74d"
   }
 ]
