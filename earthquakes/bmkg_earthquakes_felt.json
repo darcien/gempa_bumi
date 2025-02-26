@@ -22539,9 +22539,21 @@
     "magnitude": 6,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 45 km tenggara Tutuyan, Boltim",
-    "feltOnStations": "IV Bolaang Mongondow Timur, IV Bolaang Mongondow Selatan, III Manado, III Minahasa, III Minahasa Utara, III Kotamobagu, III Gorontalo, III Gorontalo Utara, II-III Boalemo, II - III Taliabu",
+    "feltOnStations": "IV Bolaang Mongondow Timur, IV Bolaang Mongondow Selatan, III Manado, III Minahasa, III Minahasa Utara, III Kotamobagu, III Gorontalo, III Gorontalo Utara, II-III Boalemo, II - III Taliabu, II-III Tagulandang, IV Minahasa Tenggara, III Minahasa Selatan, III Bitung",
     "bmkgEarthquakeId": "20250226055545",
     "shakeMapUrl": "https://static.bmkg.go.id/20250226055545.mmi.jpg",
     "fingerprintSha1": "1cd3037aadcaa53c1502d2a1169179e96fe8c08f"
+  },
+  {
+    "earthquakeAt": "2025-02-25T23:11:17.000Z",
+    "latitude": 0.54,
+    "longitude": 124.81,
+    "magnitude": 4.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 32 km tenggara Tutuyan, Boltim",
+    "feltOnStations": "II-III Bolaang Mongondow Timur",
+    "bmkgEarthquakeId": "20250226061117",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250226061117.mmi.jpg",
+    "fingerprintSha1": "e2ce33b6198786f7c88873b5426826e1ca44f13a"
   }
 ]
