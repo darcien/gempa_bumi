@@ -22555,5 +22555,17 @@
     "bmkgEarthquakeId": "20250226061117",
     "shakeMapUrl": "https://static.bmkg.go.id/20250226061117.mmi.jpg",
     "fingerprintSha1": "e2ce33b6198786f7c88873b5426826e1ca44f13a"
+  },
+  {
+    "earthquakeAt": "2025-02-26T03:10:22.000Z",
+    "latitude": 0.48,
+    "longitude": 124.79,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 36 km tenggara Tutuyan,BolTim",
+    "feltOnStations": "II-III Modayag",
+    "bmkgEarthquakeId": "20250226101022",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250226101022.mmi.jpg",
+    "fingerprintSha1": "fb1335c7edaddf0b94a254071f8290f431a799ff"
   }
 ]
