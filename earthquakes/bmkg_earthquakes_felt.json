@@ -22687,5 +22687,17 @@
     "bmkgEarthquakeId": "20250227080856",
     "shakeMapUrl": "https://static.bmkg.go.id/20250227080856.mmi.jpg",
     "fingerprintSha1": "7b5aa215284a4ad19164218d4e29d2bc3a2c9c47"
+  },
+  {
+    "earthquakeAt": "2025-02-27T11:47:55.000Z",
+    "latitude": -2.32,
+    "longitude": 120.87,
+    "magnitude": 4.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km timurlaut Mangkutana, Luwu Timur",
+    "feltOnStations": "III Mangkutana, III Taripa",
+    "bmkgEarthquakeId": "20250227184755",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250227184755.mmi.jpg",
+    "fingerprintSha1": "9b1d3b88cd58c5ad20d2195f5c9173955e1001b8"
   }
 ]
