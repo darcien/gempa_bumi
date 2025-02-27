@@ -22675,5 +22675,17 @@
     "bmkgEarthquakeId": "20250227043106",
     "shakeMapUrl": "https://static.bmkg.go.id/20250227043106.mmi.jpg",
     "fingerprintSha1": "2dfb6cad7b1eb99c4a715b83ac5f03ec86c8db1b"
+  },
+  {
+    "earthquakeAt": "2025-02-27T01:08:56.000Z",
+    "latitude": 0.42,
+    "longitude": 124.88,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 47 km tenggara Tutuyan, Boltim",
+    "feltOnStations": "II-III Kotamobagu, II Minahasa Tenggara",
+    "bmkgEarthquakeId": "20250227080856",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250227080856.mmi.jpg",
+    "fingerprintSha1": "7b5aa215284a4ad19164218d4e29d2bc3a2c9c47"
   }
 ]
