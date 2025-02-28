@@ -22711,5 +22711,17 @@
     "bmkgEarthquakeId": "20250227225300",
     "shakeMapUrl": "https://static.bmkg.go.id/20250227225300.mmi.jpg",
     "fingerprintSha1": "6a41ba5e03a047418c8fb8df5550a8be23826aa2"
+  },
+  {
+    "earthquakeAt": "2025-02-28T10:01:54.000Z",
+    "latitude": 0.32,
+    "longitude": 124.95,
+    "magnitude": 4.6,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 61 km Tenggara Tutuyan-Bolaang Mongondow Timur",
+    "feltOnStations": "II - III Minahasa Tenggara",
+    "bmkgEarthquakeId": "20250228170154",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250228170154.mmi.jpg",
+    "fingerprintSha1": "2cdb2fbd5763fd909948c8e5791a11b5ffabc20a"
   }
 ]
