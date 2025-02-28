@@ -22743,7 +22743,7 @@
     "magnitude": 6,
     "depthInKm": 158,
     "locationInIndonesian": "Pusat gempa berada di laut 167 km Tenggara Banda",
-    "feltOnStations": "II Banda Naira",
+    "feltOnStations": "II Banda Naira, II Sorong, II Saumlaki",
     "bmkgEarthquakeId": "20250301045841",
     "shakeMapUrl": "https://static.bmkg.go.id/20250301045841.mmi.jpg",
     "fingerprintSha1": "fb20a65a40709e4f4864b7d9493a299bcc9fff7f"
