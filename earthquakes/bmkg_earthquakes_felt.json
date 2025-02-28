@@ -22723,5 +22723,17 @@
     "bmkgEarthquakeId": "20250228170154",
     "shakeMapUrl": "https://static.bmkg.go.id/20250228170154.mmi.jpg",
     "fingerprintSha1": "2cdb2fbd5763fd909948c8e5791a11b5ffabc20a"
+  },
+  {
+    "earthquakeAt": "2025-02-28T10:54:16.000Z",
+    "latitude": -1.18,
+    "longitude": 133.28,
+    "magnitude": 4.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 48 km Tenggara Manokwari",
+    "feltOnStations": "II Manokwari",
+    "bmkgEarthquakeId": "20250228175416",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250228175416.mmi.jpg",
+    "fingerprintSha1": "e167d94b179d430e3e18116015450355ed38e191"
   }
 ]
