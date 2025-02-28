@@ -22735,5 +22735,17 @@
     "bmkgEarthquakeId": "20250228175416",
     "shakeMapUrl": "https://static.bmkg.go.id/20250228175416.mmi.jpg",
     "fingerprintSha1": "e167d94b179d430e3e18116015450355ed38e191"
+  },
+  {
+    "earthquakeAt": "2025-02-28T21:58:41.000Z",
+    "latitude": -5.81,
+    "longitude": 130.68,
+    "magnitude": 6,
+    "depthInKm": 158,
+    "locationInIndonesian": "Pusat gempa berada di laut 167 km Tenggara Banda",
+    "feltOnStations": "II Banda Naira",
+    "bmkgEarthquakeId": "20250301045841",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250301045841.mmi.jpg",
+    "fingerprintSha1": "fb20a65a40709e4f4864b7d9493a299bcc9fff7f"
   }
 ]
