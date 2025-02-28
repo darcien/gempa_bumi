@@ -22719,7 +22719,7 @@
     "magnitude": 4.6,
     "depthInKm": 11,
     "locationInIndonesian": "Pusat gempa berada di laut 61 km Tenggara Tutuyan-Bolaang Mongondow Timur",
-    "feltOnStations": "II - III Minahasa Tenggara",
+    "feltOnStations": "II - III Minahasa Tenggara, II - III Bolaang Mongondow, II - III Kotamobagu, II - III Minahasa Selatan, II - III Bolaang Mongondow Timur",
     "bmkgEarthquakeId": "20250228170154",
     "shakeMapUrl": "https://static.bmkg.go.id/20250228170154.mmi.jpg",
     "fingerprintSha1": "2cdb2fbd5763fd909948c8e5791a11b5ffabc20a"
