@@ -22747,5 +22747,17 @@
     "bmkgEarthquakeId": "20250301045841",
     "shakeMapUrl": "https://static.bmkg.go.id/20250301045841.mmi.jpg",
     "fingerprintSha1": "fb20a65a40709e4f4864b7d9493a299bcc9fff7f"
+  },
+  {
+    "earthquakeAt": "2025-03-01T21:29:00.000Z",
+    "latitude": 4.57,
+    "longitude": 96.47,
+    "magnitude": 4.2,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 41 km timur laut Kab. Nagan Raya",
+    "feltOnStations": "II Nagan Raya",
+    "bmkgEarthquakeId": "20250302042900",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250302042900.mmi.jpg",
+    "fingerprintSha1": "d8f704b01e4ef2144dfde1b3acc7bbc15fa93d33"
   }
 ]
