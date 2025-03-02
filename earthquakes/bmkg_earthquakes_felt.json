@@ -22819,5 +22819,17 @@
     "bmkgEarthquakeId": "20250302230745",
     "shakeMapUrl": "https://static.bmkg.go.id/20250302230745.mmi.jpg",
     "fingerprintSha1": "b6457420a33d7476d7a4cace116d52c1d7feda76"
+  },
+  {
+    "earthquakeAt": "2025-03-02T18:42:08.000Z",
+    "latitude": -3.41,
+    "longitude": 129.52,
+    "magnitude": 5.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 63 Tenggara Maluku Tengah",
+    "feltOnStations": "IV Yaputih, III Masohi",
+    "bmkgEarthquakeId": "20250303014208",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250303014208.mmi.jpg",
+    "fingerprintSha1": "2ea35a5e85ba15919c61c617fe85e5eea4a3b421"
   }
 ]
