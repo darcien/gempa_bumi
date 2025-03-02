@@ -22767,7 +22767,7 @@
     "magnitude": 4.4,
     "depthInKm": 22,
     "locationInIndonesian": "Pusat gempa berada di laut 43 km baratdaya Bantul",
-    "feltOnStations": "II-III Bantul, II-III Purworejo, II-III Gunungkidul, II Yogyakarta",
+    "feltOnStations": "II-III Bantul, II-III Purworejo, II-III Gunungkidul, II Yogyakarta, II Sleman, II Kulonprogo, II Tulungagung, II Pacitan",
     "bmkgEarthquakeId": "20250302120042",
     "shakeMapUrl": "https://static.bmkg.go.id/20250302120042.mmi.jpg",
     "fingerprintSha1": "935c31d95a4d788084820d8752eff0345d8bcf16"
