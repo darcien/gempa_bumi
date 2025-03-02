@@ -22831,5 +22831,17 @@
     "bmkgEarthquakeId": "20250303014208",
     "shakeMapUrl": "https://static.bmkg.go.id/20250303014208.mmi.jpg",
     "fingerprintSha1": "2ea35a5e85ba15919c61c617fe85e5eea4a3b421"
+  },
+  {
+    "earthquakeAt": "2025-03-02T19:19:47.000Z",
+    "latitude": -3.48,
+    "longitude": 129.42,
+    "magnitude": 4,
+    "depthInKm": 57,
+    "locationInIndonesian": "Pusat gempa berada di laut 14 km baratdaya Tehoru, Maluku Tengah",
+    "feltOnStations": "II Amahai",
+    "bmkgEarthquakeId": "20250303021947",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250303021947.mmi.jpg",
+    "fingerprintSha1": "97e8ccbfa95dc703c095eb0194339cdedc439701"
   }
 ]
