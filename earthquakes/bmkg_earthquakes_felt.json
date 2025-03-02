@@ -22759,5 +22759,17 @@
     "bmkgEarthquakeId": "20250302042900",
     "shakeMapUrl": "https://static.bmkg.go.id/20250302042900.mmi.jpg",
     "fingerprintSha1": "d8f704b01e4ef2144dfde1b3acc7bbc15fa93d33"
+  },
+  {
+    "earthquakeAt": "2025-03-02T05:00:42.000Z",
+    "latitude": -8.29,
+    "longitude": 110.32,
+    "magnitude": 4.4,
+    "depthInKm": 22,
+    "locationInIndonesian": "Pusat gempa berada di laut 43 km baratdaya Bantul",
+    "feltOnStations": "II-III Bantul, II-III Purworejo, II-III Gunungkidul, II Yogyakarta",
+    "bmkgEarthquakeId": "20250302120042",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250302120042.mmi.jpg",
+    "fingerprintSha1": "935c31d95a4d788084820d8752eff0345d8bcf16"
   }
 ]
