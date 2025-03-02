@@ -22803,7 +22803,7 @@
     "magnitude": 4.9,
     "depthInKm": 18,
     "locationInIndonesian": "Pusat gempa berada di laut 67 km baratdaya Ternate",
-    "feltOnStations": "III-IV Ternate",
+    "feltOnStations": "III-IV Ternate, III Halmahera Selatan",
     "bmkgEarthquakeId": "20250302192637",
     "shakeMapUrl": "https://static.bmkg.go.id/20250302192637.mmi.jpg",
     "fingerprintSha1": "0d6a754c90bee25040d2143ee5d80a033c8458b7"
