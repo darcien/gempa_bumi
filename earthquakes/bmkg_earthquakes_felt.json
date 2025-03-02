@@ -22795,5 +22795,17 @@
     "bmkgEarthquakeId": "20250302180926",
     "shakeMapUrl": "https://static.bmkg.go.id/20250302180926.mmi.jpg",
     "fingerprintSha1": "02b7a6583bf16fdcd43f271eb207a4478369120b"
+  },
+  {
+    "earthquakeAt": "2025-03-02T12:26:37.000Z",
+    "latitude": 0.63,
+    "longitude": 126.78,
+    "magnitude": 4.9,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di laut 67 km baratdaya Ternate",
+    "feltOnStations": "III-IV Ternate",
+    "bmkgEarthquakeId": "20250302192637",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250302192637.mmi.jpg",
+    "fingerprintSha1": "0d6a754c90bee25040d2143ee5d80a033c8458b7"
   }
 ]
