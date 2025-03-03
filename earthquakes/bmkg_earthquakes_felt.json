@@ -22843,5 +22843,17 @@
     "bmkgEarthquakeId": "20250303021947",
     "shakeMapUrl": "https://static.bmkg.go.id/20250303021947.mmi.jpg",
     "fingerprintSha1": "97e8ccbfa95dc703c095eb0194339cdedc439701"
+  },
+  {
+    "earthquakeAt": "2025-03-03T00:02:06.000Z",
+    "latitude": -9.5,
+    "longitude": 117.55,
+    "magnitude": 4.3,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di laut 113 km Tenggara Sumbawa",
+    "feltOnStations": "II Sumbawa Barat, II Sumbawa",
+    "bmkgEarthquakeId": "20250303070206",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250303070206.mmi.jpg",
+    "fingerprintSha1": "d637a7aacf384f7757da2af23ae869715ec77fdb"
   }
 ]
