@@ -22855,5 +22855,17 @@
     "bmkgEarthquakeId": "20250303070206",
     "shakeMapUrl": "https://static.bmkg.go.id/20250303070206.mmi.jpg",
     "fingerprintSha1": "d637a7aacf384f7757da2af23ae869715ec77fdb"
+  },
+  {
+    "earthquakeAt": "2025-03-04T10:54:45.000Z",
+    "latitude": -5.9,
+    "longitude": 103.87,
+    "magnitude": 4.3,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 79 km baratdaya Pesisir Barat",
+    "feltOnStations": "II Semaka",
+    "bmkgEarthquakeId": "20250304175445",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250304175445.mmi.jpg",
+    "fingerprintSha1": "0fd5e3c0c67be819ac92d0f4a0b057c5f8e4e3d8"
   }
 ]
