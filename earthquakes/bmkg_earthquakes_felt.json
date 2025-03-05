@@ -22891,5 +22891,29 @@
     "bmkgEarthquakeId": "20250305091521",
     "shakeMapUrl": "https://static.bmkg.go.id/20250305091521.mmi.jpg",
     "fingerprintSha1": "a0c980abba9af69d5581f4a16083c8b2117f8714"
+  },
+  {
+    "earthquakeAt": "2025-03-05T14:35:54.000Z",
+    "latitude": -8.18,
+    "longitude": 116.37,
+    "magnitude": 3.3,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 30 km timur laut Lombok Utara",
+    "feltOnStations": "III Lombok Utara",
+    "bmkgEarthquakeId": "20250305213554",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250305213554.mmi.jpg",
+    "fingerprintSha1": "e7c5e2725e00625dddbd33c725abdd0c8a6820fe"
+  },
+  {
+    "earthquakeAt": "2025-03-05T14:23:34.000Z",
+    "latitude": -8.25,
+    "longitude": 116.37,
+    "magnitude": 3.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 26 km timur laut Lombok Utara",
+    "feltOnStations": "II Lombok Utara",
+    "bmkgEarthquakeId": "20250305212334",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250305212334.mmi.jpg",
+    "fingerprintSha1": "f97425c51d4e9b0e9919c356e921a0650b354730"
   }
 ]
