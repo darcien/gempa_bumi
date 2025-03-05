@@ -22867,5 +22867,29 @@
     "bmkgEarthquakeId": "20250304175445",
     "shakeMapUrl": "https://static.bmkg.go.id/20250304175445.mmi.jpg",
     "fingerprintSha1": "0fd5e3c0c67be819ac92d0f4a0b057c5f8e4e3d8"
+  },
+  {
+    "earthquakeAt": "2025-03-05T05:20:40.000Z",
+    "latitude": -4.44,
+    "longitude": 121.67,
+    "magnitude": 3.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km barat daya Polinggona-Kolaka",
+    "feltOnStations": "II - III Kolaka",
+    "bmkgEarthquakeId": "20250305122040",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250305122040.mmi.jpg",
+    "fingerprintSha1": "b7af8740c366dfa6dd1d8c7cbd1fac805f28bff1"
+  },
+  {
+    "earthquakeAt": "2025-03-05T02:15:21.000Z",
+    "latitude": -3.42,
+    "longitude": 129.45,
+    "magnitude": 3.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km barat daya Tehoru-MALTENG",
+    "feltOnStations": "III Tehoru",
+    "bmkgEarthquakeId": "20250305091521",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250305091521.mmi.jpg",
+    "fingerprintSha1": "a0c980abba9af69d5581f4a16083c8b2117f8714"
   }
 ]
