@@ -22927,5 +22927,17 @@
     "bmkgEarthquakeId": "20250306034428",
     "shakeMapUrl": "https://static.bmkg.go.id/20250306034428.mmi.jpg",
     "fingerprintSha1": "bcc434b055d4979abb5dae5e181603576b9c47f7"
+  },
+  {
+    "earthquakeAt": "2025-03-05T19:01:27.000Z",
+    "latitude": 3.43,
+    "longitude": 129.46,
+    "magnitude": 2.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km barat daya Tehoru, Maluku Tengah",
+    "feltOnStations": "II Tehoru",
+    "bmkgEarthquakeId": "20250306020127",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250306020127.mmi.jpg",
+    "fingerprintSha1": "cdf377ad10ecae0eec87a7205cbe44b3e2a6936d"
   }
 ]
