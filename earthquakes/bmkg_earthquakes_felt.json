@@ -22999,5 +22999,29 @@
     "bmkgEarthquakeId": "20250307153404",
     "shakeMapUrl": "https://static.bmkg.go.id/20250307153404.mmi.jpg",
     "fingerprintSha1": "210bdf3597ad19a81bf73bfa3abb212f2515049b"
+  },
+  {
+    "earthquakeAt": "2025-03-07T13:05:28.000Z",
+    "latitude": -2.35,
+    "longitude": 120.88,
+    "magnitude": 3.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 41 km Barat Laut Luwu Timur",
+    "feltOnStations": "II Mangkutana",
+    "bmkgEarthquakeId": "20250307200528",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250307200528.mmi.jpg",
+    "fingerprintSha1": "8fbeea66cd1910272815d3b742b001e68ff6109e"
+  },
+  {
+    "earthquakeAt": "2025-03-07T12:42:41.000Z",
+    "latitude": 5.4,
+    "longitude": 94.28,
+    "magnitude": 5.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 117 km BaratDaya Banda Aceh",
+    "feltOnStations": "III Banda Aceh, III Aceh Besar, II Sabang, II Pidie",
+    "bmkgEarthquakeId": "20250307194241",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250307194241.mmi.jpg",
+    "fingerprintSha1": "c3f3de8b9ca2cb77518a1522be085a8eef5eed42"
   }
 ]
