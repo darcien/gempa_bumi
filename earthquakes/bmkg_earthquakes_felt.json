@@ -23143,5 +23143,17 @@
     "bmkgEarthquakeId": "20250310102451",
     "shakeMapUrl": "https://static.bmkg.go.id/20250310102451.mmi.jpg",
     "fingerprintSha1": "d9453f2d4bc3a89e9523d7b0f37409dfedbf0bca"
+  },
+  {
+    "earthquakeAt": "2025-03-10T00:38:50.000Z",
+    "latitude": 1.65,
+    "longitude": 99.16,
+    "magnitude": 4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 14 km barat laut Tapanuli Selatan",
+    "feltOnStations": "II - III Sibolga",
+    "bmkgEarthquakeId": "20250310073850",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250310073850.mmi.jpg",
+    "fingerprintSha1": "f4fa152916d63bc47c301cffac8027f72eb5322c"
   }
 ]
