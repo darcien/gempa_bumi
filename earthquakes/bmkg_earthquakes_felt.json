@@ -23179,5 +23179,17 @@
     "bmkgEarthquakeId": "20250310200131",
     "shakeMapUrl": "https://static.bmkg.go.id/20250310200131.mmi.jpg",
     "fingerprintSha1": "5210e26fd88681741ae12a79da5c11e8818b6af0"
+  },
+  {
+    "earthquakeAt": "2025-03-11T08:56:22.000Z",
+    "latitude": -4.04,
+    "longitude": 121.87,
+    "magnitude": 2.5,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km Tenggara Tirawuta, Kolaka Timur",
+    "feltOnStations": "II - III Kolaka Timur",
+    "bmkgEarthquakeId": "20250311155622",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250311155622.mmi.jpg",
+    "fingerprintSha1": "5c6c011669e5ca5ef87f683714d6d80e2274f440"
   }
 ]
