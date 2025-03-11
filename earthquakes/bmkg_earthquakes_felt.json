@@ -23191,5 +23191,17 @@
     "bmkgEarthquakeId": "20250311155622",
     "shakeMapUrl": "https://static.bmkg.go.id/20250311155622.mmi.jpg",
     "fingerprintSha1": "5c6c011669e5ca5ef87f683714d6d80e2274f440"
+  },
+  {
+    "earthquakeAt": "2025-03-11T17:47:27.000Z",
+    "latitude": -6.19,
+    "longitude": 103.8,
+    "magnitude": 4.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 112 km barat daya Pesisir Barat",
+    "feltOnStations": "II Pesisir Barat",
+    "bmkgEarthquakeId": "20250312004727",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250312004727.mmi.jpg",
+    "fingerprintSha1": "8c2aaf7e72ef0224f1e63e798f40fe57498826ec"
   }
 ]
