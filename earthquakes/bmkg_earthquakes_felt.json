@@ -23203,5 +23203,17 @@
     "bmkgEarthquakeId": "20250312004727",
     "shakeMapUrl": "https://static.bmkg.go.id/20250312004727.mmi.jpg",
     "fingerprintSha1": "8c2aaf7e72ef0224f1e63e798f40fe57498826ec"
+  },
+  {
+    "earthquakeAt": "2025-03-12T16:32:37.000Z",
+    "latitude": -9.46,
+    "longitude": 116.14,
+    "magnitude": 4.2,
+    "depthInKm": 27,
+    "locationInIndonesian": "Pusat gempa berada di laut 85 km barat daya Lombok Tengah",
+    "feltOnStations": "II Mataram, II Lombok Barat, II Lombok Tengah, II Badung, II Gianyar, II Denpasar",
+    "bmkgEarthquakeId": "20250312233237",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250312233237.mmi.jpg",
+    "fingerprintSha1": "2ab8c240a80410afa5167809a4ec3b5336324fe5"
   }
 ]
