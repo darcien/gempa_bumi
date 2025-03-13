@@ -23239,5 +23239,17 @@
     "bmkgEarthquakeId": "20250313230043",
     "shakeMapUrl": "https://static.bmkg.go.id/20250313230043.mmi.jpg",
     "fingerprintSha1": "b121fb3b67670425801f7f067e5ff520849d3e42"
+  },
+  {
+    "earthquakeAt": "2025-03-13T21:27:01.000Z",
+    "latitude": -2.5,
+    "longitude": 120.98,
+    "magnitude": 3.8,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 23 km barat laut Luwu Timur",
+    "feltOnStations": "II - III Tomoni",
+    "bmkgEarthquakeId": "20250314042701",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250314042701.mmi.jpg",
+    "fingerprintSha1": "234ed6ef6420292ae367bcfdaa421e7e4a3655c2"
   }
 ]
