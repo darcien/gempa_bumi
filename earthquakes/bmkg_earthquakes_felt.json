@@ -23271,9 +23271,21 @@
     "magnitude": 5.5,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 68 km barat laut Toli-Toli",
-    "feltOnStations": "III-IV Toli-Toli, III-IV Buol",
+    "feltOnStations": "III-IV Toli-Toli, III-IV Buol, II-III Berau",
     "bmkgEarthquakeId": "20250314181331",
     "shakeMapUrl": "https://static.bmkg.go.id/20250314181331.mmi.jpg",
     "fingerprintSha1": "931cfbbcc66ad09ceb798c7adea326ae384633b2"
+  },
+  {
+    "earthquakeAt": "2025-03-14T11:53:57.000Z",
+    "latitude": -3.68,
+    "longitude": 102.59,
+    "magnitude": 2.1,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km Tenggara Kepahiang",
+    "feltOnStations": "II Kepahiang",
+    "bmkgEarthquakeId": "20250314185357",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250314185357.mmi.jpg",
+    "fingerprintSha1": "a8a0f7617967c4a7525343c904ca8e4fbf984197"
   }
 ]
