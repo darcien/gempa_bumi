@@ -23263,5 +23263,17 @@
     "bmkgEarthquakeId": "20250313230657",
     "shakeMapUrl": "https://static.bmkg.go.id/20250313230657.mmi.jpg",
     "fingerprintSha1": "d6331139d8bcefcaf10dd7a25f27c0d52f41c1f3"
+  },
+  {
+    "earthquakeAt": "2025-03-14T11:13:31.000Z",
+    "latitude": 1.13,
+    "longitude": 120.2,
+    "magnitude": 5.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 68 km barat laut Toli-Toli",
+    "feltOnStations": "III-IV Toli-Toli, III-IV Buol",
+    "bmkgEarthquakeId": "20250314181331",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250314181331.mmi.jpg",
+    "fingerprintSha1": "931cfbbcc66ad09ceb798c7adea326ae384633b2"
   }
 ]
