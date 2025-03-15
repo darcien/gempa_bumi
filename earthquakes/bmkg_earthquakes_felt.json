@@ -23287,5 +23287,17 @@
     "bmkgEarthquakeId": "20250314185357",
     "shakeMapUrl": "https://static.bmkg.go.id/20250314185357.mmi.jpg",
     "fingerprintSha1": "a8a0f7617967c4a7525343c904ca8e4fbf984197"
+  },
+  {
+    "earthquakeAt": "2025-03-14T23:55:10.000Z",
+    "latitude": -7.15,
+    "longitude": 106.11,
+    "magnitude": 5.2,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di laut 29 km barat daya Bayah",
+    "feltOnStations": "III Palabuhan Ratu, III Cicurug, III Kabandungan, III Cidolog, III Sukaraja, III Simpenan, III Bogor, III Cianjur, II-III Serang, III Lebak, III Pandeglang, II-III Tangerang, II - III Depok",
+    "bmkgEarthquakeId": "20250315065510",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250315065510.mmi.jpg",
+    "fingerprintSha1": "0e91f53a526ad2b6cdbf832ba9d25cc0a908adca"
   }
 ]
