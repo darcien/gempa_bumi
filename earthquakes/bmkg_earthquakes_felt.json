@@ -23299,5 +23299,17 @@
     "bmkgEarthquakeId": "20250315065510",
     "shakeMapUrl": "https://static.bmkg.go.id/20250315065510.mmi.jpg",
     "fingerprintSha1": "0e91f53a526ad2b6cdbf832ba9d25cc0a908adca"
+  },
+  {
+    "earthquakeAt": "2025-03-15T02:53:40.000Z",
+    "latitude": -8.01,
+    "longitude": 106.89,
+    "magnitude": 3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di Laut 119 km Tenggara Kabupaten Sukabumi",
+    "feltOnStations": "II Garut, II Samarang",
+    "bmkgEarthquakeId": "20250315095340",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250315095340.mmi.jpg",
+    "fingerprintSha1": "3444b86306d81c9ec29e20d12346109f2281c0f8"
   }
 ]
