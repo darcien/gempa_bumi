@@ -23347,5 +23347,17 @@
     "bmkgEarthquakeId": "20250316190508",
     "shakeMapUrl": "https://static.bmkg.go.id/20250316190508.mmi.jpg",
     "fingerprintSha1": "559e7394b26c86362690a076eb4791cab00d4f96"
+  },
+  {
+    "earthquakeAt": "2025-03-16T12:05:10.000Z",
+    "latitude": -3.65,
+    "longitude": 102.58,
+    "magnitude": 2.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km tenggara Kepahiang",
+    "feltOnStations": "III Kepahiang",
+    "bmkgEarthquakeId": "20250316190510",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250316190510.mmi.jpg",
+    "fingerprintSha1": "d7ca805f553ad8ba7adf5e3ff37165e268c36264"
   }
 ]
