@@ -23323,5 +23323,17 @@
     "bmkgEarthquakeId": "20250315185013",
     "shakeMapUrl": "https://static.bmkg.go.id/20250315185013.mmi.jpg",
     "fingerprintSha1": "571e307b68f3f447c2e0d0d7fd2f3fe76211730c"
+  },
+  {
+    "earthquakeAt": "2025-03-16T01:15:08.000Z",
+    "latitude": -8.81,
+    "longitude": 112.5,
+    "magnitude": 4.5,
+    "depthInKm": 39,
+    "locationInIndonesian": "Pusat gempa berada di laut 75 km BaratDaya Kab. Malang",
+    "feltOnStations": "II-III Karangkates",
+    "bmkgEarthquakeId": "20250316081508",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250316081508.mmi.jpg",
+    "fingerprintSha1": "8c491abaf60f9810fa98ae3a372d8649b435cdad"
   }
 ]
