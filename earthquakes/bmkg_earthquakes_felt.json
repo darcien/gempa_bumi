@@ -23331,9 +23331,21 @@
     "magnitude": 4.5,
     "depthInKm": 39,
     "locationInIndonesian": "Pusat gempa berada di laut 75 km BaratDaya Kab. Malang",
-    "feltOnStations": "II-III Karangkates",
+    "feltOnStations": "II-III Karangkates, II Malang, II Lumajang",
     "bmkgEarthquakeId": "20250316081508",
     "shakeMapUrl": "https://static.bmkg.go.id/20250316081508.mmi.jpg",
     "fingerprintSha1": "8c491abaf60f9810fa98ae3a372d8649b435cdad"
+  },
+  {
+    "earthquakeAt": "2025-03-16T12:05:08.000Z",
+    "latitude": -3.65,
+    "longitude": 102.6,
+    "magnitude": 1.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km tenggara Kepahiang",
+    "feltOnStations": "III Kepahiang",
+    "bmkgEarthquakeId": "20250316190508",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250316190508.mmi.jpg",
+    "fingerprintSha1": "559e7394b26c86362690a076eb4791cab00d4f96"
   }
 ]
