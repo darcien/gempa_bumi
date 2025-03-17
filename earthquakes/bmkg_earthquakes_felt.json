@@ -23407,5 +23407,17 @@
     "bmkgEarthquakeId": "20250318020246",
     "shakeMapUrl": "https://static.bmkg.go.id/20250318020246.mmi.jpg",
     "fingerprintSha1": "ca44b654503320947ba596a2d163bd9e4ea00d10"
+  },
+  {
+    "earthquakeAt": "2025-03-17T22:22:40.000Z",
+    "latitude": 1.99,
+    "longitude": 99.12,
+    "magnitude": 5.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km Tenggara Tapanuli Utara",
+    "feltOnStations": "III Pinangsori, III Padang Sidempuan",
+    "bmkgEarthquakeId": "20250318052240",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250318052240.mmi.jpg",
+    "fingerprintSha1": "46c3839d1e2b14b550d032ca1ad6efb079eb8081"
   }
 ]
