@@ -23371,5 +23371,29 @@
     "bmkgEarthquakeId": "20250317101915",
     "shakeMapUrl": "https://static.bmkg.go.id/20250317101915.mmi.jpg",
     "fingerprintSha1": "6bb670d2eb90da26f435246be6e9bcb5136b4e4e"
+  },
+  {
+    "earthquakeAt": "2025-03-17T17:42:26.000Z",
+    "latitude": -9.04,
+    "longitude": 124.2,
+    "magnitude": 5.3,
+    "depthInKm": 62,
+    "locationInIndonesian": "Pusat gempa berada di laut 63 km Barat Laut Timor Tengah Utara",
+    "feltOnStations": "III Lembata, II Alor",
+    "bmkgEarthquakeId": "20250318004226",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250318004226.mmi.jpg",
+    "fingerprintSha1": "e7a313b0618e183da02a7a6dcbbc36fbc57c47d0"
+  },
+  {
+    "earthquakeAt": "2025-03-17T17:32:18.000Z",
+    "latitude": -2.88,
+    "longitude": 130.14,
+    "magnitude": 6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 46 km barat laut Seram Bagian Timur",
+    "feltOnStations": "III Masohi, III Werinama",
+    "bmkgEarthquakeId": "20250318003218",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250318003218.mmi.jpg",
+    "fingerprintSha1": "c624da85b17ad23a68f669cff37b34f39954d422"
   }
 ]
