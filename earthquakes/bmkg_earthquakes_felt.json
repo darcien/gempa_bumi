@@ -23359,5 +23359,17 @@
     "bmkgEarthquakeId": "20250316190510",
     "shakeMapUrl": "https://static.bmkg.go.id/20250316190510.mmi.jpg",
     "fingerprintSha1": "d7ca805f553ad8ba7adf5e3ff37165e268c36264"
+  },
+  {
+    "earthquakeAt": "2025-03-17T03:19:15.000Z",
+    "latitude": -0.13,
+    "longitude": 123.05,
+    "magnitude": 5.1,
+    "depthInKm": 107,
+    "locationInIndonesian": "Pusat gempa berada di laut 74 km baratdaya Bone Bolango",
+    "feltOnStations": "III Kab. Gorontalo, III Kab. Bone Bolango, II-III Kab. Gorontalo Utara, III Luwuk, II Kota Gorontalo",
+    "bmkgEarthquakeId": "20250317101915",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250317101915.mmi.jpg",
+    "fingerprintSha1": "6bb670d2eb90da26f435246be6e9bcb5136b4e4e"
   }
 ]
