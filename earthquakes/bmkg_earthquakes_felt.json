@@ -23391,9 +23391,21 @@
     "magnitude": 6,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 46 km barat laut Seram Bagian Timur",
-    "feltOnStations": "III Masohi, III Werinama",
+    "feltOnStations": "III Masohi, III Werinama, III Tehoru, IV Kobisonta",
     "bmkgEarthquakeId": "20250318003218",
     "shakeMapUrl": "https://static.bmkg.go.id/20250318003218.mmi.jpg",
     "fingerprintSha1": "c624da85b17ad23a68f669cff37b34f39954d422"
+  },
+  {
+    "earthquakeAt": "2025-03-17T19:02:46.000Z",
+    "latitude": -5.73,
+    "longitude": 112.61,
+    "magnitude": 3.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 144 km timur laut Tuban",
+    "feltOnStations": "II Bawean",
+    "bmkgEarthquakeId": "20250318020246",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250318020246.mmi.jpg",
+    "fingerprintSha1": "ca44b654503320947ba596a2d163bd9e4ea00d10"
   }
 ]
