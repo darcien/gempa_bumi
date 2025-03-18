@@ -23455,5 +23455,17 @@
     "bmkgEarthquakeId": "20250318174104",
     "shakeMapUrl": "https://static.bmkg.go.id/20250318174104.mmi.jpg",
     "fingerprintSha1": "028e891d15faf188c48de5421a0579cf2e371c1e"
+  },
+  {
+    "earthquakeAt": "2025-03-18T11:57:19.000Z",
+    "latitude": -2.92,
+    "longitude": 130.11,
+    "magnitude": 4.8,
+    "depthInKm": 19,
+    "locationInIndonesian": "Pusat gempa berada di laut 27 Km Timur Kobisonta",
+    "feltOnStations": "III Kobisonta",
+    "bmkgEarthquakeId": "20250318185719",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250318185719.mmi.jpg",
+    "fingerprintSha1": "9b735ec196a451dff120a5668853a3b649383184"
   }
 ]
