@@ -23431,5 +23431,17 @@
     "bmkgEarthquakeId": "20250318052353",
     "shakeMapUrl": "https://static.bmkg.go.id/20250318052353.mmi.jpg",
     "fingerprintSha1": "5deceaec9894e8ddf647337e267a0138443f6986"
+  },
+  {
+    "earthquakeAt": "2025-03-18T02:16:53.000Z",
+    "latitude": 1.82,
+    "longitude": 99.14,
+    "magnitude": 3.3,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 28 Km Barat Laut Tapanuli Selatan",
+    "feltOnStations": "III Pahae Julu",
+    "bmkgEarthquakeId": "20250318091653",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250318091653.mmi.jpg",
+    "fingerprintSha1": "0d6f7806130990e0c9252ac2b9871453e51e3f24"
   }
 ]
