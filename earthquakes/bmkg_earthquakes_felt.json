@@ -23467,5 +23467,17 @@
     "bmkgEarthquakeId": "20250318185719",
     "shakeMapUrl": "https://static.bmkg.go.id/20250318185719.mmi.jpg",
     "fingerprintSha1": "9b735ec196a451dff120a5668853a3b649383184"
+  },
+  {
+    "earthquakeAt": "2025-03-18T13:48:31.000Z",
+    "latitude": 1.86,
+    "longitude": 99.08,
+    "magnitude": 3.7,
+    "depthInKm": 1,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km Tenggara Tapanuli Utara",
+    "feltOnStations": "III-IV Pandan Tapanuli Tengah",
+    "bmkgEarthquakeId": "20250318204831",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250318204831.mmi.jpg",
+    "fingerprintSha1": "37ddf4d986d3fc7649a3b02d840a44532c166acb"
   }
 ]
