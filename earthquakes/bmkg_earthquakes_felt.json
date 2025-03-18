@@ -23443,5 +23443,17 @@
     "bmkgEarthquakeId": "20250318091653",
     "shakeMapUrl": "https://static.bmkg.go.id/20250318091653.mmi.jpg",
     "fingerprintSha1": "0d6f7806130990e0c9252ac2b9871453e51e3f24"
+  },
+  {
+    "earthquakeAt": "2025-03-18T10:41:04.000Z",
+    "latitude": -7.43,
+    "longitude": 107.09,
+    "magnitude": 4.8,
+    "depthInKm": 82,
+    "locationInIndonesian": "Pusat gempa berada di darat 59 km tenggara Kota Sukabumi",
+    "feltOnStations": "II - III Pelabuhan Ratu, II - III Sindangbarang, II - III Cianjur, II - III Cikaso, II - III Sukabumi, II - III Pamengpeuk, II - III Cileunyi, II - III Kab. Bandung, II - III Parongpong, II - III Cipanas",
+    "bmkgEarthquakeId": "20250318174104",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250318174104.mmi.jpg",
+    "fingerprintSha1": "028e891d15faf188c48de5421a0579cf2e371c1e"
   }
 ]
