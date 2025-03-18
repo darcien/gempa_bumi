@@ -23479,5 +23479,29 @@
     "bmkgEarthquakeId": "20250318204831",
     "shakeMapUrl": "https://static.bmkg.go.id/20250318204831.mmi.jpg",
     "fingerprintSha1": "37ddf4d986d3fc7649a3b02d840a44532c166acb"
+  },
+  {
+    "earthquakeAt": "2025-03-18T15:31:06.000Z",
+    "latitude": -2.53,
+    "longitude": 140.74,
+    "magnitude": 3.5,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km timur laut Kota Jayapura",
+    "feltOnStations": "III Kota Jayapura",
+    "bmkgEarthquakeId": "20250318223106",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250318223106.mmi.jpg",
+    "fingerprintSha1": "b32ac59928ab54cabdbae2c1a234cc96920a5ffa"
+  },
+  {
+    "earthquakeAt": "2025-03-18T09:49:49.000Z",
+    "latitude": -3.98,
+    "longitude": 121.69,
+    "magnitude": 2.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km Tenggara Kolaka Timur",
+    "feltOnStations": "II-III Kolaka Timur",
+    "bmkgEarthquakeId": "20250318164949",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250318164949.mmi.jpg",
+    "fingerprintSha1": "93926a499b6d4682f7e58dbc60de488b6cde9aa5"
   }
 ]
