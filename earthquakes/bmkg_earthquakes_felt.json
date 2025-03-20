@@ -23527,5 +23527,17 @@
     "bmkgEarthquakeId": "20250320023849",
     "shakeMapUrl": "https://static.bmkg.go.id/20250320023849.mmi.jpg",
     "fingerprintSha1": "d059cb76a3a4a43c4773f063672027cf9720d3cf"
+  },
+  {
+    "earthquakeAt": "2025-03-20T01:35:55.000Z",
+    "latitude": 1.86,
+    "longitude": 99.07,
+    "magnitude": 2.8,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 20 km Tenggara Tapanuli Utara",
+    "feltOnStations": "II Pahae Jae",
+    "bmkgEarthquakeId": "20250320083555",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250320083555.mmi.jpg",
+    "fingerprintSha1": "3d6f67cd7a077e3752b073bd2782a5b31faaa33b"
   }
 ]
