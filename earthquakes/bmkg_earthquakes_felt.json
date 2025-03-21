@@ -23575,5 +23575,17 @@
     "bmkgEarthquakeId": "20250321181954",
     "shakeMapUrl": "https://static.bmkg.go.id/20250321181954.mmi.jpg",
     "fingerprintSha1": "62cb74d53e31af847041fe1fd3a93d32cc9a7bb6"
+  },
+  {
+    "earthquakeAt": "2025-03-21T18:59:02.000Z",
+    "latitude": -1.76,
+    "longitude": 119.38,
+    "magnitude": 4.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 38 km barat laut Mamuju Tengah",
+    "feltOnStations": "II - III Mamuju Tengah",
+    "bmkgEarthquakeId": "20250322015902",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250322015902.mmi.jpg",
+    "fingerprintSha1": "1bb17fb818321592c2933d58f4335937f28c3ec4"
   }
 ]
