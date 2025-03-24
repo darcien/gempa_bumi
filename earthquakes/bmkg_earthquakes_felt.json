@@ -23599,5 +23599,29 @@
     "bmkgEarthquakeId": "20250322222002",
     "shakeMapUrl": "https://static.bmkg.go.id/20250322222002.mmi.jpg",
     "fingerprintSha1": "792355178d7e56fba1b7319b26920d8293228731"
+  },
+  {
+    "earthquakeAt": "2025-03-24T09:44:36.000Z",
+    "latitude": -9.28,
+    "longitude": 114.09,
+    "magnitude": 4.3,
+    "depthInKm": 29,
+    "locationInIndonesian": "Pusat gempa berada di laut 117 km BaratDaya Jembrana",
+    "feltOnStations": "II Kuta, II Denpasar",
+    "bmkgEarthquakeId": "20250324164436",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250324164436.mmi.jpg",
+    "fingerprintSha1": "f6f7fdaf5b55cb59806c18bca14ed5183dc50f88"
+  },
+  {
+    "earthquakeAt": "2025-03-23T17:23:24.000Z",
+    "latitude": 1.85,
+    "longitude": 99.12,
+    "magnitude": 4.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 25 km Tenggara Tapanuli Utara",
+    "feltOnStations": "III Pinang Sori",
+    "bmkgEarthquakeId": "20250324002324",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250324002324.mmi.jpg",
+    "fingerprintSha1": "927ce06b5f815adf06510f7f8c74668bb852898a"
   }
 ]
