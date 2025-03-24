@@ -23635,5 +23635,17 @@
     "bmkgEarthquakeId": "20250324211004",
     "shakeMapUrl": "https://static.bmkg.go.id/20250324211004.mmi.jpg",
     "fingerprintSha1": "cd3809a494a2fa7943c62dd29523e2c98654fd0f"
+  },
+  {
+    "earthquakeAt": "2025-03-24T14:26:28.000Z",
+    "latitude": 3.63,
+    "longitude": 96.75,
+    "magnitude": 4.7,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di laut 33 km Barat Daya Blang Pidie, Aceh Barat Daya",
+    "feltOnStations": "III Aceh Barat Daya",
+    "bmkgEarthquakeId": "20250324212628",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250324212628.mmi.jpg",
+    "fingerprintSha1": "5371aecda0a2bb17c85f33f64386bca726aa0631"
   }
 ]
