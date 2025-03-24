@@ -23623,5 +23623,17 @@
     "bmkgEarthquakeId": "20250324002324",
     "shakeMapUrl": "https://static.bmkg.go.id/20250324002324.mmi.jpg",
     "fingerprintSha1": "927ce06b5f815adf06510f7f8c74668bb852898a"
+  },
+  {
+    "earthquakeAt": "2025-03-24T14:10:04.000Z",
+    "latitude": -7.49,
+    "longitude": 106.7,
+    "magnitude": 4.1,
+    "depthInKm": 31,
+    "locationInIndonesian": "Pusat gempa berada di laut 58 km Tenggara Kab. Sukabumi",
+    "feltOnStations": "II - III Surade, II Cidolog",
+    "bmkgEarthquakeId": "20250324211004",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250324211004.mmi.jpg",
+    "fingerprintSha1": "cd3809a494a2fa7943c62dd29523e2c98654fd0f"
   }
 ]
