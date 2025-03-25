@@ -23647,5 +23647,17 @@
     "bmkgEarthquakeId": "20250324212628",
     "shakeMapUrl": "https://static.bmkg.go.id/20250324212628.mmi.jpg",
     "fingerprintSha1": "5371aecda0a2bb17c85f33f64386bca726aa0631"
+  },
+  {
+    "earthquakeAt": "2025-03-25T07:02:19.000Z",
+    "latitude": -8.2,
+    "longitude": 107.89,
+    "magnitude": 4.9,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 86 km barat daya Kab. Pangandaran",
+    "feltOnStations": "III Garut, II-III Tasikmalaya, II Pelabuhan Ratu, II Bandung, III Kota Banjar",
+    "bmkgEarthquakeId": "20250325140219",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250325140219.mmi.jpg",
+    "fingerprintSha1": "a906226f1f383534d08b7426edba2014fc7671f6"
   }
 ]
