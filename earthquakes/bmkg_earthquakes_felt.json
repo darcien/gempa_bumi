@@ -23659,5 +23659,17 @@
     "bmkgEarthquakeId": "20250325140219",
     "shakeMapUrl": "https://static.bmkg.go.id/20250325140219.mmi.jpg",
     "fingerprintSha1": "a906226f1f383534d08b7426edba2014fc7671f6"
+  },
+  {
+    "earthquakeAt": "2025-03-28T04:48:42.000Z",
+    "latitude": -6.9,
+    "longitude": 108.06,
+    "magnitude": 3,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km Tenggara kab. Sumedang",
+    "feltOnStations": "II Jatinangor",
+    "bmkgEarthquakeId": "20250328114842",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250328114842.mmi.jpg",
+    "fingerprintSha1": "791a5445da13601693bd7f96310ba806f0ad475c"
   }
 ]
