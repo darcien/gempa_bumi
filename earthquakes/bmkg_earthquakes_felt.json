@@ -23695,5 +23695,17 @@
     "bmkgEarthquakeId": "20250328185901",
     "shakeMapUrl": "https://static.bmkg.go.id/20250328185901.mmi.jpg",
     "fingerprintSha1": "bd79e6f5f89fa885a39807fe6a429f33db7e2ba1"
+  },
+  {
+    "earthquakeAt": "2025-03-30T02:58:35.000Z",
+    "latitude": 5.63,
+    "longitude": 95.47,
+    "magnitude": 5.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 18 Km TimurLaut Banda Aceh",
+    "feltOnStations": "IV Banda Aceh , IV Aceh Besar, III Takengon, II-III Pidie Jaya, II-III Sabang, II Lhokseumawe, II Aceh Tengah, II Bireun",
+    "bmkgEarthquakeId": "20250330095835",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250330095835.mmi.jpg",
+    "fingerprintSha1": "d2556e7a71fe90726f398898693c321605a76238"
   }
 ]
