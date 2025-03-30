@@ -23707,5 +23707,17 @@
     "bmkgEarthquakeId": "20250330095835",
     "shakeMapUrl": "https://static.bmkg.go.id/20250330095835.mmi.jpg",
     "fingerprintSha1": "d2556e7a71fe90726f398898693c321605a76238"
+  },
+  {
+    "earthquakeAt": "2025-03-30T08:01:48.000Z",
+    "latitude": 2.98,
+    "longitude": 98.52,
+    "magnitude": 3.6,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 14 km tenggara Kabupaten Karo",
+    "feltOnStations": "II - III Karo",
+    "bmkgEarthquakeId": "20250330150148",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250330150148.mmi.jpg",
+    "fingerprintSha1": "559e0610fc9322684e9b43314120f692169d929f"
   }
 ]
