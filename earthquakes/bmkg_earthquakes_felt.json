@@ -23731,5 +23731,29 @@
     "bmkgEarthquakeId": "20250331030358",
     "shakeMapUrl": "https://static.bmkg.go.id/20250331030358.mmi.jpg",
     "fingerprintSha1": "6f8cbb0e1bd202c01eee9ba5006c37c116021f1e"
+  },
+  {
+    "earthquakeAt": "2025-03-31T00:58:48.000Z",
+    "latitude": -4,
+    "longitude": 122.36,
+    "magnitude": 3.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km Barat Laut Ranomeeto Barat, Konawe Selatan",
+    "feltOnStations": "III Kendari, III Konawe Selatan",
+    "bmkgEarthquakeId": "20250331075848",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250331075848.mmi.jpg",
+    "fingerprintSha1": "c363c22acce8c929d94efe122792db73a5ff065f"
+  },
+  {
+    "earthquakeAt": "2025-03-31T00:54:22.000Z",
+    "latitude": 5.55,
+    "longitude": 95.45,
+    "magnitude": 3.5,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 38 km Barat Laut Jantho, Aceh Besar",
+    "feltOnStations": "II Banda Aceh, II Aceh Besar",
+    "bmkgEarthquakeId": "20250331075422",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250331075422.mmi.jpg",
+    "fingerprintSha1": "6fa7a2167fba39f52332f22020dbf1245e8512b8"
   }
 ]
