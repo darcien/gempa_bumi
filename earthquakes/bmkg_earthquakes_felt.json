@@ -23839,5 +23839,17 @@
     "bmkgEarthquakeId": "20250401142802",
     "shakeMapUrl": "https://static.bmkg.go.id/20250401142802.mmi.jpg",
     "fingerprintSha1": "af2d76e01b9f08fb657cf20df120d2410b96f95c"
+  },
+  {
+    "earthquakeAt": "2025-04-01T10:15:55.000Z",
+    "latitude": -7.68,
+    "longitude": 128.57,
+    "magnitude": 6.3,
+    "depthInKm": 150,
+    "locationInIndonesian": "Pusat gempa berada di laut 101 km timur laut Maluku Barat Daya",
+    "feltOnStations": "III Tiakur, III Pulau Leti",
+    "bmkgEarthquakeId": "20250401171555",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250401171555.mmi.jpg",
+    "fingerprintSha1": "7788218b9434d3ac04b1e02d890932dc31d7549f"
   }
 ]
