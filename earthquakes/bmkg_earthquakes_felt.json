@@ -23827,5 +23827,17 @@
     "bmkgEarthquakeId": "20250401112831",
     "shakeMapUrl": "https://static.bmkg.go.id/20250401112831.mmi.jpg",
     "fingerprintSha1": "f5c23488c7d0c11cbae39f7ab206adf7883f192f"
+  },
+  {
+    "earthquakeAt": "2025-04-01T07:28:02.000Z",
+    "latitude": -3.98,
+    "longitude": 121.73,
+    "magnitude": 2.3,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km barat daya Mowewe, Kolaka Timur",
+    "feltOnStations": "II Kolaka Timur",
+    "bmkgEarthquakeId": "20250401142802",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250401142802.mmi.jpg",
+    "fingerprintSha1": "af2d76e01b9f08fb657cf20df120d2410b96f95c"
   }
 ]
