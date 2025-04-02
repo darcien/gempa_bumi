@@ -23887,5 +23887,17 @@
     "bmkgEarthquakeId": "20250402072207",
     "shakeMapUrl": "https://static.bmkg.go.id/20250402072207.mmi.jpg",
     "fingerprintSha1": "c95a827aa834980f82ce15cbfb66115ef979c7e0"
+  },
+  {
+    "earthquakeAt": "2025-04-02T21:03:39.000Z",
+    "latitude": 2.13,
+    "longitude": 126.73,
+    "magnitude": 6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 118 km barat daya Pulau Doi",
+    "feltOnStations": "II-III Manado, II-III Bitung, II-III Ternate, II-III Jailolo",
+    "bmkgEarthquakeId": "20250403040339",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250403040339.mmi.jpg",
+    "fingerprintSha1": "78df1c3ea8b3a3bb7e3ad83cee8a4f7112cbe20d"
   }
 ]
