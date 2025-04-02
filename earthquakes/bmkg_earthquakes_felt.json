@@ -23851,5 +23851,41 @@
     "bmkgEarthquakeId": "20250401171555",
     "shakeMapUrl": "https://static.bmkg.go.id/20250401171555.mmi.jpg",
     "fingerprintSha1": "7788218b9434d3ac04b1e02d890932dc31d7549f"
+  },
+  {
+    "earthquakeAt": "2025-04-02T00:53:54.000Z",
+    "latitude": -8.15,
+    "longitude": 107.81,
+    "magnitude": 4.1,
+    "depthInKm": 24,
+    "locationInIndonesian": "Pusat gempa berada di laut 90 km baratdaya Kab Pangandaran",
+    "feltOnStations": "III Banjar, III Manonjaya, III pamayang, III Cikelet, III Singajaya, III Cipatujah",
+    "bmkgEarthquakeId": "20250402075354",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250402075354.mmi.jpg",
+    "fingerprintSha1": "cad2e7a0054434cefd45131f89aad737fb9432d6"
+  },
+  {
+    "earthquakeAt": "2025-04-02T00:29:23.000Z",
+    "latitude": 5.55,
+    "longitude": 95.46,
+    "magnitude": 3.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 38 km baratlaut JANTHO",
+    "feltOnStations": "II - III Banda Aceh, II - III Aceh Besar",
+    "bmkgEarthquakeId": "20250402072923",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250402072923.mmi.jpg",
+    "fingerprintSha1": "ab74996ccd76ced35b2a99aff7fe5fb94dbb44ba"
+  },
+  {
+    "earthquakeAt": "2025-04-02T00:22:07.000Z",
+    "latitude": 3.19,
+    "longitude": 97.61,
+    "magnitude": 4.3,
+    "depthInKm": 60,
+    "locationInIndonesian": "Pusat gempa berada didarat 39 km baratdaya Kutacane, Aceh Tenggara",
+    "feltOnStations": "III Kab. Aceh Selatan",
+    "bmkgEarthquakeId": "20250402072207",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250402072207.mmi.jpg",
+    "fingerprintSha1": "c95a827aa834980f82ce15cbfb66115ef979c7e0"
   }
 ]
