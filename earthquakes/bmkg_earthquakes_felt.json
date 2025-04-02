@@ -23895,9 +23895,21 @@
     "magnitude": 6,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 118 km barat daya Pulau Doi",
-    "feltOnStations": "II-III Manado, II-III Bitung, II-III Ternate, II-III Jailolo",
+    "feltOnStations": "II-III Manado, II-III Bitung, II-III Ternate, II-III Jailolo, II-III Minahasa Utara",
     "bmkgEarthquakeId": "20250403040339",
     "shakeMapUrl": "https://static.bmkg.go.id/20250403040339.mmi.jpg",
     "fingerprintSha1": "78df1c3ea8b3a3bb7e3ad83cee8a4f7112cbe20d"
+  },
+  {
+    "earthquakeAt": "2025-04-02T18:45:45.000Z",
+    "latitude": -4.8,
+    "longitude": 122.79,
+    "magnitude": 2.5,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di laut 7 km tenggara Lasalepa, Muna",
+    "feltOnStations": "II - III Raha",
+    "bmkgEarthquakeId": "20250403014545",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250403014545.mmi.jpg",
+    "fingerprintSha1": "110fa2e017591a949665e24c102979e523969c5b"
   }
 ]
