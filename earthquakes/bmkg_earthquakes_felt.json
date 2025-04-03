@@ -23923,5 +23923,17 @@
     "bmkgEarthquakeId": "20250402204119",
     "shakeMapUrl": "https://static.bmkg.go.id/20250402204119.mmi.jpg",
     "fingerprintSha1": "e18ca31d4bf40dc3df2dbaa57b9471be98644c91"
+  },
+  {
+    "earthquakeAt": "2025-04-03T13:42:20.000Z",
+    "latitude": 0.56,
+    "longitude": 121.51,
+    "magnitude": 4.8,
+    "depthInKm": 65,
+    "locationInIndonesian": "Pusat gempa berada di darat 48 km tenggara Buol",
+    "feltOnStations": "II-III Pohuwato",
+    "bmkgEarthquakeId": "20250403204220",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250403204220.mmi.jpg",
+    "fingerprintSha1": "543eb7828bb5858299cc38d466ef9f28bcd119e3"
   }
 ]
