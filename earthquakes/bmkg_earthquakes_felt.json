@@ -23947,5 +23947,17 @@
     "bmkgEarthquakeId": "20250404135948",
     "shakeMapUrl": "https://static.bmkg.go.id/20250404135948.mmi.jpg",
     "fingerprintSha1": "870d99a64edbcdc45ea8efed4d690dc8f4bafe10"
+  },
+  {
+    "earthquakeAt": "2025-04-04T11:07:32.000Z",
+    "latitude": -0.7,
+    "longitude": 99.38,
+    "magnitude": 4.7,
+    "depthInKm": 53,
+    "locationInIndonesian": "Pusat gempa berada di laut 77 km timur laut Pulau Siberut, Kepulauan Mentawai",
+    "feltOnStations": "II - III Padang Panjang, II - III Bukittinggi, II - III Padang, II - III Pariaman, II - III Padang Pariaman",
+    "bmkgEarthquakeId": "20250404180732",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250404180732.mmi.jpg",
+    "fingerprintSha1": "bb3208158dbb50b179ccd34eec4db5c419f47117"
   }
 ]
