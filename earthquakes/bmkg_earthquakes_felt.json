@@ -23943,7 +23943,7 @@
     "magnitude": 5,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 80 km Tenggara Cilacap",
-    "feltOnStations": "III Cilacap, III Kebumen, III Bantul, II - III Pacitan",
+    "feltOnStations": "III Cilacap, III Kebumen, III Bantul, II - III Pacitan, II - III Purbalingga, II Pangandaran",
     "bmkgEarthquakeId": "20250404135948",
     "shakeMapUrl": "https://static.bmkg.go.id/20250404135948.mmi.jpg",
     "fingerprintSha1": "870d99a64edbcdc45ea8efed4d690dc8f4bafe10"
