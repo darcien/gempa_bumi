@@ -23935,5 +23935,17 @@
     "bmkgEarthquakeId": "20250403204220",
     "shakeMapUrl": "https://static.bmkg.go.id/20250403204220.mmi.jpg",
     "fingerprintSha1": "543eb7828bb5858299cc38d466ef9f28bcd119e3"
+  },
+  {
+    "earthquakeAt": "2025-04-04T06:59:48.000Z",
+    "latitude": -8.43,
+    "longitude": 109.18,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 80 km Tenggara Cilacap",
+    "feltOnStations": "III Cilacap, III Kebumen, III Bantul, II - III Pacitan",
+    "bmkgEarthquakeId": "20250404135948",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250404135948.mmi.jpg",
+    "fingerprintSha1": "870d99a64edbcdc45ea8efed4d690dc8f4bafe10"
   }
 ]
