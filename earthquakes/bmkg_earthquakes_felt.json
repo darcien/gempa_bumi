@@ -23959,5 +23959,17 @@
     "bmkgEarthquakeId": "20250404180732",
     "shakeMapUrl": "https://static.bmkg.go.id/20250404180732.mmi.jpg",
     "fingerprintSha1": "bb3208158dbb50b179ccd34eec4db5c419f47117"
+  },
+  {
+    "earthquakeAt": "2025-04-05T16:54:44.000Z",
+    "latitude": -6.84,
+    "longitude": 107.08,
+    "magnitude": 2.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km barat daya Kab. Cianjur",
+    "feltOnStations": "II - III Cugenang",
+    "bmkgEarthquakeId": "20250405235444",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250405235444.mmi.jpg",
+    "fingerprintSha1": "77e5a554c6c60e1574c930d531852d207ab1614d"
   }
 ]
