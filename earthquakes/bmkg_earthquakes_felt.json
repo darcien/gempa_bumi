@@ -23979,7 +23979,7 @@
     "magnitude": 5.1,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 108 km Baratdaya Bayah",
-    "feltOnStations": "III Bayah , III Malingping, III Pelabuhan Ratu, II - III Surade, II - III Nagrak, II-III Cibadak, II - III Ciracap, II - III Kabandungan, II - III Kalapa nunggal, II - III Nyalindung, II Kota Sukabumi",
+    "feltOnStations": "III Bayah , III Malingping, III Pelabuhan Ratu, III - IV Surade, II - III Nagrak, II-III Cibadak, II - III Ciracap, II - III Kabandungan, II - III Kalapa nunggal, II - III Nyalindung, II Kota Sukabumi, II Kec. Cibeber",
     "bmkgEarthquakeId": "20250406135512",
     "shakeMapUrl": "https://static.bmkg.go.id/20250406135512.mmi.jpg",
     "fingerprintSha1": "f62c49b9a43132d162e344f06bbc0187a4b3b8b8"
