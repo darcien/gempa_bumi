@@ -24007,5 +24007,17 @@
     "bmkgEarthquakeId": "20250407175244",
     "shakeMapUrl": "https://static.bmkg.go.id/20250407175244.mmi.jpg",
     "fingerprintSha1": "b915e295d63293765117944a0f60592ec561b268"
+  },
+  {
+    "earthquakeAt": "2025-04-07T19:48:52.000Z",
+    "latitude": 2.82,
+    "longitude": 94.67,
+    "magnitude": 6.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 192 km barat laut Sinabang",
+    "feltOnStations": "III - IV Kab. Simeulue, III Kab. Aceh Selatan, III Kota Subulussalam, III Kab. Singkil, III Kab. Nias Utara, II-III Kab. Karo, II-III Aceh Barat Daya",
+    "bmkgEarthquakeId": "20250408024852",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250408024852.mmi.jpg",
+    "fingerprintSha1": "0bd8aec180dcad2f658408277ba2fb64475477b4"
   }
 ]
