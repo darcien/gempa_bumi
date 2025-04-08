@@ -24055,5 +24055,17 @@
     "bmkgEarthquakeId": "20250408221814",
     "shakeMapUrl": "https://static.bmkg.go.id/20250408221814.mmi.jpg",
     "fingerprintSha1": "c833542ae57167113e71e689ebb03d52a6500eba"
+  },
+  {
+    "earthquakeAt": "2025-04-08T19:25:56.000Z",
+    "latitude": 4.61,
+    "longitude": 125.12,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 118 km baratlaut Tahuna, Kep. Sangihe",
+    "feltOnStations": "III Tahuna",
+    "bmkgEarthquakeId": "20250409022556",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250409022556.mmi.jpg",
+    "fingerprintSha1": "089db24365f86a89fb3edfac88ff8c068bf4a16c"
   }
 ]
