@@ -24019,5 +24019,17 @@
     "bmkgEarthquakeId": "20250408024852",
     "shakeMapUrl": "https://static.bmkg.go.id/20250408024852.mmi.jpg",
     "fingerprintSha1": "0bd8aec180dcad2f658408277ba2fb64475477b4"
+  },
+  {
+    "earthquakeAt": "2025-04-08T10:23:35.000Z",
+    "latitude": -0.98,
+    "longitude": 100.71,
+    "magnitude": 4.2,
+    "depthInKm": 1,
+    "locationInIndonesian": "Pusat gempa berada di darat 20 km tenggara Kab. Solok",
+    "feltOnStations": "III-IV Kota Solok, III-IV Kab. Solok",
+    "bmkgEarthquakeId": "20250408172335",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250408172335.mmi.jpg",
+    "fingerprintSha1": "c1bf04927afb32be63e21f5f56216a0a8726c221"
   }
 ]
