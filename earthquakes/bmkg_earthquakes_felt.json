@@ -24031,5 +24031,17 @@
     "bmkgEarthquakeId": "20250408172335",
     "shakeMapUrl": "https://static.bmkg.go.id/20250408172335.mmi.jpg",
     "fingerprintSha1": "c1bf04927afb32be63e21f5f56216a0a8726c221"
+  },
+  {
+    "earthquakeAt": "2025-04-08T13:05:30.000Z",
+    "latitude": -1.33,
+    "longitude": 119.5,
+    "magnitude": 3.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 23 km tenggara Pasangkayu",
+    "feltOnStations": "III Rio Pakava",
+    "bmkgEarthquakeId": "20250408200530",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250408200530.mmi.jpg",
+    "fingerprintSha1": "cfb53a5868422c207b346ce7223e70bae1c8a438"
   }
 ]
