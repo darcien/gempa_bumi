@@ -24079,5 +24079,17 @@
     "bmkgEarthquakeId": "20250409140430",
     "shakeMapUrl": "https://static.bmkg.go.id/20250409140430.mmi.jpg",
     "fingerprintSha1": "c12573b2a6230319244af6c11e78222f23a138c1"
+  },
+  {
+    "earthquakeAt": "2025-04-09T14:16:22.000Z",
+    "latitude": 1.89,
+    "longitude": 117.86,
+    "magnitude": 2.7,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di darat 57 km tenggara Berau",
+    "feltOnStations": "II-III Tanjung Redep",
+    "bmkgEarthquakeId": "20250409211622",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250409211622.mmi.jpg",
+    "fingerprintSha1": "a367970ac77ee714c2bf14a2e87e44a95458bf01"
   }
 ]
