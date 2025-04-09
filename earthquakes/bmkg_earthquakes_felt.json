@@ -24067,5 +24067,17 @@
     "bmkgEarthquakeId": "20250409022556",
     "shakeMapUrl": "https://static.bmkg.go.id/20250409022556.mmi.jpg",
     "fingerprintSha1": "089db24365f86a89fb3edfac88ff8c068bf4a16c"
+  },
+  {
+    "earthquakeAt": "2025-04-09T07:04:30.000Z",
+    "latitude": -9.09,
+    "longitude": 120.58,
+    "magnitude": 3.8,
+    "depthInKm": 93,
+    "locationInIndonesian": "Pusat gempa berada di laut 38 km barat daya Borong",
+    "feltOnStations": "II-III Waingapu",
+    "bmkgEarthquakeId": "20250409140430",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250409140430.mmi.jpg",
+    "fingerprintSha1": "c12573b2a6230319244af6c11e78222f23a138c1"
   }
 ]
