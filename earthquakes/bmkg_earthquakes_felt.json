@@ -24091,5 +24091,17 @@
     "bmkgEarthquakeId": "20250409211622",
     "shakeMapUrl": "https://static.bmkg.go.id/20250409211622.mmi.jpg",
     "fingerprintSha1": "a367970ac77ee714c2bf14a2e87e44a95458bf01"
+  },
+  {
+    "earthquakeAt": "2025-04-09T14:20:04.000Z",
+    "latitude": -2.72,
+    "longitude": 119.17,
+    "magnitude": 3.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 27 km barat laut Mamasa",
+    "feltOnStations": "III Mamasa",
+    "bmkgEarthquakeId": "20250409212004",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250409212004.mmi.jpg",
+    "fingerprintSha1": "3baf31212171d7cdfb21f3e18bcdba0ab753467f"
   }
 ]
