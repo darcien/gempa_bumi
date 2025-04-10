@@ -24103,5 +24103,17 @@
     "bmkgEarthquakeId": "20250409212004",
     "shakeMapUrl": "https://static.bmkg.go.id/20250409212004.mmi.jpg",
     "fingerprintSha1": "3baf31212171d7cdfb21f3e18bcdba0ab753467f"
+  },
+  {
+    "earthquakeAt": "2025-04-10T06:39:39.000Z",
+    "latitude": -4.07,
+    "longitude": 122.48,
+    "magnitude": 2.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km tenggara Konda, Konawe Selatan",
+    "feltOnStations": "II-III Kendari",
+    "bmkgEarthquakeId": "20250410133939",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250410133939.mmi.jpg",
+    "fingerprintSha1": "be28b85c387cb610343be10f7e17207f4d650c4e"
   }
 ]
