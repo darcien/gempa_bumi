@@ -24139,5 +24139,17 @@
     "bmkgEarthquakeId": "20250410163257",
     "shakeMapUrl": "https://static.bmkg.go.id/20250410163257.mmi.jpg",
     "fingerprintSha1": "259651b289d2803f94f95772f73c5c811b7ad07f"
+  },
+  {
+    "earthquakeAt": "2025-04-10T09:43:04.000Z",
+    "latitude": -8.03,
+    "longitude": 110.4,
+    "magnitude": 2.9,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km tenggara Bantul",
+    "feltOnStations": "III Bantul",
+    "bmkgEarthquakeId": "20250410164304",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250410164304.mmi.jpg",
+    "fingerprintSha1": "5c7462cd33eec50469407e9a5a2174447713680b"
   }
 ]
