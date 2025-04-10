@@ -24151,5 +24151,17 @@
     "bmkgEarthquakeId": "20250410164304",
     "shakeMapUrl": "https://static.bmkg.go.id/20250410164304.mmi.jpg",
     "fingerprintSha1": "5c7462cd33eec50469407e9a5a2174447713680b"
+  },
+  {
+    "earthquakeAt": "2025-04-10T11:55:01.000Z",
+    "latitude": -3.71,
+    "longitude": 136.01,
+    "magnitude": 3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 33 km baratlaut Dogiyai",
+    "feltOnStations": "II Enarotali",
+    "bmkgEarthquakeId": "20250410185501",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250410185501.mmi.jpg",
+    "fingerprintSha1": "5d16d705e7015efced31ec39dcd45554c4e24c28"
   }
 ]
