@@ -24163,5 +24163,17 @@
     "bmkgEarthquakeId": "20250410185501",
     "shakeMapUrl": "https://static.bmkg.go.id/20250410185501.mmi.jpg",
     "fingerprintSha1": "5d16d705e7015efced31ec39dcd45554c4e24c28"
+  },
+  {
+    "earthquakeAt": "2025-04-10T15:16:13.000Z",
+    "latitude": -6.62,
+    "longitude": 106.8,
+    "magnitude": 4.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km Tenggara Kota Bogor",
+    "feltOnStations": "III Kab. Bogor, III Kota Bogor, III Depok",
+    "bmkgEarthquakeId": "20250410221613",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250410221613.mmi.jpg",
+    "fingerprintSha1": "26f00523edb577985f04ccd0ea673807e3b5c164"
   }
 ]
