@@ -24127,5 +24127,17 @@
     "bmkgEarthquakeId": "20250410145326",
     "shakeMapUrl": "https://static.bmkg.go.id/20250410145326.mmi.jpg",
     "fingerprintSha1": "2207e7b529a8c588bd5ff04f357b7d7e506ac656"
+  },
+  {
+    "earthquakeAt": "2025-04-10T09:32:57.000Z",
+    "latitude": -6.73,
+    "longitude": 106.58,
+    "magnitude": 2.9,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 28 km baratdaya Kota Bogor",
+    "feltOnStations": "II-III Kabandungan, II-III Kab. Bogor",
+    "bmkgEarthquakeId": "20250410163257",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250410163257.mmi.jpg",
+    "fingerprintSha1": "259651b289d2803f94f95772f73c5c811b7ad07f"
   }
 ]
