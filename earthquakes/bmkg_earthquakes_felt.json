@@ -24115,5 +24115,17 @@
     "bmkgEarthquakeId": "20250410133939",
     "shakeMapUrl": "https://static.bmkg.go.id/20250410133939.mmi.jpg",
     "fingerprintSha1": "be28b85c387cb610343be10f7e17207f4d650c4e"
+  },
+  {
+    "earthquakeAt": "2025-04-10T07:53:26.000Z",
+    "latitude": -5.93,
+    "longitude": 138.77,
+    "magnitude": 5.9,
+    "depthInKm": 60,
+    "locationInIndonesian": "Pusat gempa berada di darat 105 km Tenggara Asmat, Papua Selatan",
+    "feltOnStations": "II-III Merauke, II-III Boven Digoel",
+    "bmkgEarthquakeId": "20250410145326",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250410145326.mmi.jpg",
+    "fingerprintSha1": "2207e7b529a8c588bd5ff04f357b7d7e506ac656"
   }
 ]
