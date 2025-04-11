@@ -24199,5 +24199,17 @@
     "bmkgEarthquakeId": "20250411084334",
     "shakeMapUrl": "https://static.bmkg.go.id/20250411084334.mmi.jpg",
     "fingerprintSha1": "c6112677737c3dbeeb0205141875ac9b220d5b63"
+  },
+  {
+    "earthquakeAt": "2025-04-11T11:27:14.000Z",
+    "latitude": -0.09,
+    "longitude": 100.08,
+    "magnitude": 4.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km baratdaya BONJOL-PASAMAN",
+    "feltOnStations": "I-II Pasaman Barat, I-II Pasaman",
+    "bmkgEarthquakeId": "20250411182714",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250411182714.mmi.jpg",
+    "fingerprintSha1": "3d31d7027681db2aac86033c7d0e08ceb8475406"
   }
 ]
