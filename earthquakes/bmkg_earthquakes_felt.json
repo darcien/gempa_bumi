@@ -24283,5 +24283,17 @@
     "bmkgEarthquakeId": "20250412191108",
     "shakeMapUrl": "https://static.bmkg.go.id/20250412191108.mmi.jpg",
     "fingerprintSha1": "2ab980393097bf2c4723f763208edb8eb5925c4f"
+  },
+  {
+    "earthquakeAt": "2025-04-12T20:34:44.000Z",
+    "latitude": -3.46,
+    "longitude": 128.36,
+    "magnitude": 3.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 13 km selatan Kairatu-SBB",
+    "feltOnStations": "III Kairatu",
+    "bmkgEarthquakeId": "20250413033444",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250413033444.mmi.jpg",
+    "fingerprintSha1": "2a3d3e887fc62b1091484cf8519763ebdb9fa523"
   }
 ]
