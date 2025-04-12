@@ -24223,5 +24223,41 @@
     "bmkgEarthquakeId": "20250411210523",
     "shakeMapUrl": "https://static.bmkg.go.id/20250411210523.mmi.jpg",
     "fingerprintSha1": "43d46d04b93f9b7977d25f7f4d1b112b3c604f37"
+  },
+  {
+    "earthquakeAt": "2025-04-12T01:09:08.000Z",
+    "latitude": -4.14,
+    "longitude": 121.89,
+    "magnitude": 2.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km barat daya Ladongi, Kolaka Timur",
+    "feltOnStations": "II-III Kolaka Timur",
+    "bmkgEarthquakeId": "20250412080908",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250412080908.mmi.jpg",
+    "fingerprintSha1": "dc7283224e97f00f965f10a2c946f06905c0f9fd"
+  },
+  {
+    "earthquakeAt": "2025-04-11T23:45:41.000Z",
+    "latitude": -4.07,
+    "longitude": 121.81,
+    "magnitude": 3.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km BaratLaut Loea-Kolaka Timur",
+    "feltOnStations": "II - III Kolaka Timur",
+    "bmkgEarthquakeId": "20250412064541",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250412064541.mmi.jpg",
+    "fingerprintSha1": "28d901bf050a7b74633b47c08eda51d493abc4d9"
+  },
+  {
+    "earthquakeAt": "2025-04-11T23:34:08.000Z",
+    "latitude": -4.06,
+    "longitude": 121.83,
+    "magnitude": 3.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km BaratLaut Loea-Kolaka Timur",
+    "feltOnStations": "III Kolaka Timur",
+    "bmkgEarthquakeId": "20250412063408",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250412063408.mmi.jpg",
+    "fingerprintSha1": "0f2867983731439da1cc6b793b74f743ddccb517"
   }
 ]
