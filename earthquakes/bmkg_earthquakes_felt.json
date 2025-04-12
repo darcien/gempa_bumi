@@ -24259,5 +24259,17 @@
     "bmkgEarthquakeId": "20250412063408",
     "shakeMapUrl": "https://static.bmkg.go.id/20250412063408.mmi.jpg",
     "fingerprintSha1": "0f2867983731439da1cc6b793b74f743ddccb517"
+  },
+  {
+    "earthquakeAt": "2025-04-12T06:54:16.000Z",
+    "latitude": -7.26,
+    "longitude": 107.69,
+    "magnitude": 2.6,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 23 km barat daya Kab. Garut",
+    "feltOnStations": "III Kertasari, III Cibeureum, III Pangalengan",
+    "bmkgEarthquakeId": "20250412135416",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250412135416.mmi.jpg",
+    "fingerprintSha1": "934882e14605697b18d9b65abbfb833cd510a20b"
   }
 ]
