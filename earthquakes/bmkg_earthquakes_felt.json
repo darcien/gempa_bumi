@@ -24331,5 +24331,17 @@
     "bmkgEarthquakeId": "20250414100237",
     "shakeMapUrl": "https://static.bmkg.go.id/20250414100237.mmi.jpg",
     "fingerprintSha1": "a7c241310866f1bb7b723e8b08be11ed8c35048a"
+  },
+  {
+    "earthquakeAt": "2025-04-14T22:44:02.000Z",
+    "latitude": -8.42,
+    "longitude": 107.12,
+    "magnitude": 4.8,
+    "depthInKm": 19,
+    "locationInIndonesian": "Pusat gempa berada di Laut 158 km BaratDaya Kab. Garut",
+    "feltOnStations": "II-III Kab. Garut (Cikelet, Pameungpeuk, Cidora), II - III Kab. Cianjur (Sindangbarang), II-III Kab. Sukabumi (Babadan)",
+    "bmkgEarthquakeId": "20250415054402",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250415054402.mmi.jpg",
+    "fingerprintSha1": "2ba41426db5fcca40a8b0778c729e1bf41a55822"
   }
 ]
