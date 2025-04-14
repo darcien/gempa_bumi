@@ -24343,5 +24343,17 @@
     "bmkgEarthquakeId": "20250415054402",
     "shakeMapUrl": "https://static.bmkg.go.id/20250415054402.mmi.jpg",
     "fingerprintSha1": "2ba41426db5fcca40a8b0778c729e1bf41a55822"
+  },
+  {
+    "earthquakeAt": "2025-04-14T20:43:32.000Z",
+    "latitude": -3.48,
+    "longitude": 129.44,
+    "magnitude": 4.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 12 km Barat Daya Tehoru",
+    "feltOnStations": "III Amahai, III Tehoru",
+    "bmkgEarthquakeId": "20250415034332",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250415034332.mmi.jpg",
+    "fingerprintSha1": "98660e8797c44227412bd17596183f76c9c33c72"
   }
 ]
