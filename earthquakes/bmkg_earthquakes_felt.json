@@ -24355,5 +24355,17 @@
     "bmkgEarthquakeId": "20250415034332",
     "shakeMapUrl": "https://static.bmkg.go.id/20250415034332.mmi.jpg",
     "fingerprintSha1": "98660e8797c44227412bd17596183f76c9c33c72"
+  },
+  {
+    "earthquakeAt": "2025-04-14T23:29:05.000Z",
+    "latitude": -5.42,
+    "longitude": 123.12,
+    "magnitude": 3.2,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 7 km Barat Daya Siotapina, Buton",
+    "feltOnStations": "III Buton",
+    "bmkgEarthquakeId": "20250415062905",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250415062905.mmi.jpg",
+    "fingerprintSha1": "e5ba52ded5065582b3eafa727e70b83f57223900"
   }
 ]
