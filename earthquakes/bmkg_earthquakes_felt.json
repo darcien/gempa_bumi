@@ -24391,5 +24391,17 @@
     "bmkgEarthquakeId": "20250416092735",
     "shakeMapUrl": "https://static.bmkg.go.id/20250416092735.mmi.jpg",
     "fingerprintSha1": "b07b8d8a345c25664d0398ff888dbf451685e7f8"
+  },
+  {
+    "earthquakeAt": "2025-04-16T14:07:10.000Z",
+    "latitude": -8.28,
+    "longitude": 117.75,
+    "magnitude": 4.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 43 km timur laut Sumbawa",
+    "feltOnStations": "III Sumbawa, III Bima, III Dompu",
+    "bmkgEarthquakeId": "20250416210710",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250416210710.mmi.jpg",
+    "fingerprintSha1": "4edb33efad88a25efefb606ae4ed1b8e02af4d5f"
   }
 ]
