@@ -24379,5 +24379,17 @@
     "bmkgEarthquakeId": "20250415153355",
     "shakeMapUrl": "https://static.bmkg.go.id/20250415153355.mmi.jpg",
     "fingerprintSha1": "2efd49e743bff8836bdcd057f273ab3e33db3008"
+  },
+  {
+    "earthquakeAt": "2025-04-16T02:27:35.000Z",
+    "latitude": -6.77,
+    "longitude": 107.2,
+    "magnitude": 2.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km timur laut Kab. Cianjur",
+    "feltOnStations": "II - III Kec. Karangtengah",
+    "bmkgEarthquakeId": "20250416092735",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250416092735.mmi.jpg",
+    "fingerprintSha1": "b07b8d8a345c25664d0398ff888dbf451685e7f8"
   }
 ]
