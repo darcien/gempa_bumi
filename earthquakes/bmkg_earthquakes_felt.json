@@ -24415,5 +24415,17 @@
     "bmkgEarthquakeId": "20250416235332",
     "shakeMapUrl": "https://static.bmkg.go.id/20250416235332.mmi.jpg",
     "fingerprintSha1": "ab783876c403323d08dfb43bc5bdd4f9fa8fc6af"
+  },
+  {
+    "earthquakeAt": "2025-04-16T18:57:53.000Z",
+    "latitude": -0.59,
+    "longitude": 127.66,
+    "magnitude": 4.1,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di laut 19 km Timur Labuha",
+    "feltOnStations": "III Labuha",
+    "bmkgEarthquakeId": "20250417015753",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250417015753.mmi.jpg",
+    "fingerprintSha1": "49aad39df99a7322ae0744273d82628c8f489dca"
   }
 ]
