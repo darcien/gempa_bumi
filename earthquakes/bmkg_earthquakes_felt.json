@@ -24427,5 +24427,17 @@
     "bmkgEarthquakeId": "20250417015753",
     "shakeMapUrl": "https://static.bmkg.go.id/20250417015753.mmi.jpg",
     "fingerprintSha1": "49aad39df99a7322ae0744273d82628c8f489dca"
+  },
+  {
+    "earthquakeAt": "2025-04-17T00:51:25.000Z",
+    "latitude": 0.36,
+    "longitude": 124.9,
+    "magnitude": 5.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 54 km tenggara Tutuyan, Bolaang Mongondow Timur",
+    "feltOnStations": "II Bitung, II Manado, II Minahasa, II Gorontalo, II Minahasa Selatan, II Gorontalo Utara, III-IV Bolaang Mongondow Selatan, III-IV Bolaang Mongondow Timur, III Bolaang Mongondow, III Kotamobagu, III Minahasa Tenggara, II Kota Gorontalo, II Bolaang Mongondow Utara, II Tomohon, II Minahasa Utara",
+    "bmkgEarthquakeId": "20250417075125",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250417075125.mmi.jpg",
+    "fingerprintSha1": "84a85d6177f1c104349c36c3ec2f786ddf0bc4fc"
   }
 ]
