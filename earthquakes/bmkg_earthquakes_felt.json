@@ -24451,5 +24451,17 @@
     "bmkgEarthquakeId": "20250417132308",
     "shakeMapUrl": "https://static.bmkg.go.id/20250417132308.mmi.jpg",
     "fingerprintSha1": "b1dd0d7f0474207d92230fa7602c3a3f600d8006"
+  },
+  {
+    "earthquakeAt": "2025-04-17T06:35:01.000Z",
+    "latitude": -4.35,
+    "longitude": 120.07,
+    "magnitude": 4.1,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 43 km timurlaut Bone",
+    "feltOnStations": "II-III Soppeng, II-III Sengkang, II-III Bone",
+    "bmkgEarthquakeId": "20250417133501",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250417133501.mmi.jpg",
+    "fingerprintSha1": "73e3d7ae399b9b10e23030ac021ad8091b3e7cfc"
   }
 ]
