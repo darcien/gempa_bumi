@@ -24463,5 +24463,17 @@
     "bmkgEarthquakeId": "20250417133501",
     "shakeMapUrl": "https://static.bmkg.go.id/20250417133501.mmi.jpg",
     "fingerprintSha1": "73e3d7ae399b9b10e23030ac021ad8091b3e7cfc"
+  },
+  {
+    "earthquakeAt": "2025-04-17T11:14:27.000Z",
+    "latitude": 1.05,
+    "longitude": 118.92,
+    "magnitude": 4.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 190 km timur laut Bontang",
+    "feltOnStations": "III-IV Berau",
+    "bmkgEarthquakeId": "20250417181427",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250417181427.mmi.jpg",
+    "fingerprintSha1": "f2b5a2f75c468da1b87af95ccc888bccac0c5fbb"
   }
 ]
