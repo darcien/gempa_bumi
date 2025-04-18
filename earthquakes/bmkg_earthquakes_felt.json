@@ -24487,5 +24487,17 @@
     "bmkgEarthquakeId": "20250418091305",
     "shakeMapUrl": "https://static.bmkg.go.id/20250418091305.mmi.jpg",
     "fingerprintSha1": "767822263a4fe616f3a237c2fb43d2dc75dd0b59"
+  },
+  {
+    "earthquakeAt": "2025-04-18T04:52:16.000Z",
+    "latitude": 2,
+    "longitude": 99.01,
+    "magnitude": 4,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km tenggara Tapanuli Utara",
+    "feltOnStations": "II Tarutung",
+    "bmkgEarthquakeId": "20250418115216",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250418115216.mmi.jpg",
+    "fingerprintSha1": "47f174e9ff82b676b272e3410ec4cb440be772b8"
   }
 ]
