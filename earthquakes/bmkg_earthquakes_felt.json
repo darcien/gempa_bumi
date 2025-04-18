@@ -24499,5 +24499,17 @@
     "bmkgEarthquakeId": "20250418115216",
     "shakeMapUrl": "https://static.bmkg.go.id/20250418115216.mmi.jpg",
     "fingerprintSha1": "47f174e9ff82b676b272e3410ec4cb440be772b8"
+  },
+  {
+    "earthquakeAt": "2025-04-18T22:22:15.000Z",
+    "latitude": -5.67,
+    "longitude": 112.49,
+    "magnitude": 4.3,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di laut 145 km timur laut Tuban",
+    "feltOnStations": "III Bawean, III Gresik",
+    "bmkgEarthquakeId": "20250419052215",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250419052215.mmi.jpg",
+    "fingerprintSha1": "9d741e9a0da342c9a954491c4f3fbf5075ccfb1e"
   }
 ]
