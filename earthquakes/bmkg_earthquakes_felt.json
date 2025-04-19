@@ -24511,5 +24511,17 @@
     "bmkgEarthquakeId": "20250419052215",
     "shakeMapUrl": "https://static.bmkg.go.id/20250419052215.mmi.jpg",
     "fingerprintSha1": "9d741e9a0da342c9a954491c4f3fbf5075ccfb1e"
+  },
+  {
+    "earthquakeAt": "2025-04-19T13:47:13.000Z",
+    "latitude": -0.44,
+    "longitude": 100.45,
+    "magnitude": 4.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 Km timur laut Padang Panjang",
+    "feltOnStations": "III-IV Padang Panjang, III-IV Bukittinggi, III-IV Kabupaten Agam, II-III Kab. Solok, II-III Padang, II-III Padang Pariaman, II-III Solok, II-III Pariaman, II-III Batusangkar",
+    "bmkgEarthquakeId": "20250419204713",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250419204713.mmi.jpg",
+    "fingerprintSha1": "ec5249e109be4454322402d721c0e2e7d0b94e55"
   }
 ]
