@@ -24559,5 +24559,17 @@
     "bmkgEarthquakeId": "20250420125450",
     "shakeMapUrl": "https://static.bmkg.go.id/20250420125450.mmi.jpg",
     "fingerprintSha1": "14c61c41c48f91d3778b3e9f9c893192c4f6f89c"
+  },
+  {
+    "earthquakeAt": "2025-04-20T10:27:37.000Z",
+    "latitude": -8.43,
+    "longitude": 116.91,
+    "magnitude": 3.9,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 1 km timur laut Pulau Panjang",
+    "feltOnStations": "II Lombok Timur",
+    "bmkgEarthquakeId": "20250420172737",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250420172737.mmi.jpg",
+    "fingerprintSha1": "230ee89edf031bf317870487765cd5fb0beac264"
   }
 ]
