@@ -24555,7 +24555,7 @@
     "magnitude": 3.8,
     "depthInKm": 18,
     "locationInIndonesian": "Pusat gempa berada di laut 5 km baratdaya Pulau Panjang",
-    "feltOnStations": "II Sumbawa",
+    "feltOnStations": "II Sumbawa, II Sumbawa Barat, II Lombok Timur",
     "bmkgEarthquakeId": "20250420125450",
     "shakeMapUrl": "https://static.bmkg.go.id/20250420125450.mmi.jpg",
     "fingerprintSha1": "14c61c41c48f91d3778b3e9f9c893192c4f6f89c"
