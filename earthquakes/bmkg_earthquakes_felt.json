@@ -24583,5 +24583,17 @@
     "bmkgEarthquakeId": "20250420193919",
     "shakeMapUrl": "https://static.bmkg.go.id/20250420193919.mmi.jpg",
     "fingerprintSha1": "16e98ce7b85c7e038e610ff61ee58aac79e48bec"
+  },
+  {
+    "earthquakeAt": "2025-04-20T18:19:54.000Z",
+    "latitude": -3.29,
+    "longitude": 131.06,
+    "magnitude": 5.5,
+    "depthInKm": 90,
+    "locationInIndonesian": "Pusat gempa berada di laut 66 km timur Bula",
+    "feltOnStations": "III Geser",
+    "bmkgEarthquakeId": "20250421011954",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250421011954.mmi.jpg",
+    "fingerprintSha1": "c18b36764f75aeb035e861cab739d1d9d9432a72"
   }
 ]
