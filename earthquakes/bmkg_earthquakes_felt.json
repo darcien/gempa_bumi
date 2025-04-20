@@ -24547,5 +24547,17 @@
     "bmkgEarthquakeId": "20250420073600",
     "shakeMapUrl": "https://static.bmkg.go.id/20250420073600.mmi.jpg",
     "fingerprintSha1": "ff174e97f217e883b6da72781216ec7001dddaeb"
+  },
+  {
+    "earthquakeAt": "2025-04-20T05:54:50.000Z",
+    "latitude": -8.48,
+    "longitude": 116.88,
+    "magnitude": 3.8,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di laut 5 km baratdaya Pulau Panjang",
+    "feltOnStations": "II Sumbawa",
+    "bmkgEarthquakeId": "20250420125450",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250420125450.mmi.jpg",
+    "fingerprintSha1": "14c61c41c48f91d3778b3e9f9c893192c4f6f89c"
   }
 ]
