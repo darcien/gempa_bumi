@@ -24607,5 +24607,17 @@
     "bmkgEarthquakeId": "20250421193210",
     "shakeMapUrl": "https://static.bmkg.go.id/20250421193210.mmi.jpg",
     "fingerprintSha1": "e2a5c1c6d4fdbdd1434c376a038bca390535fe4d"
+  },
+  {
+    "earthquakeAt": "2025-04-21T13:43:54.000Z",
+    "latitude": -4.14,
+    "longitude": 122.3,
+    "magnitude": 3.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km Barat Daya Landono, Konawe Selatan",
+    "feltOnStations": "III Konawe Selatan, III Kendari",
+    "bmkgEarthquakeId": "20250421204354",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250421204354.mmi.jpg",
+    "fingerprintSha1": "d4cf2432a7744d388ba018fedd7f7f28c6f04ade"
   }
 ]
