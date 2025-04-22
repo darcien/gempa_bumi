@@ -24655,5 +24655,17 @@
     "bmkgEarthquakeId": "20250422140159",
     "shakeMapUrl": "https://static.bmkg.go.id/20250422140159.mmi.jpg",
     "fingerprintSha1": "9ed9640cde71d101a5b161b7de2b947fbc9c5138"
+  },
+  {
+    "earthquakeAt": "2025-04-22T10:14:00.000Z",
+    "latitude": -8.55,
+    "longitude": 106.71,
+    "magnitude": 5.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 174 km tenggara Kabupaten Sukabumi",
+    "feltOnStations": "III Nagrak, II - III Sukabumi, II - III Cidolog, II - III Cidadap, II - III Bandung, III Garut, II Cihanjuang",
+    "bmkgEarthquakeId": "20250422171400",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250422171400.mmi.jpg",
+    "fingerprintSha1": "6993fc84b70d01220f15bdd73f3288d1c63c8595"
   }
 ]
