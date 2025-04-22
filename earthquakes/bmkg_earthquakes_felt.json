@@ -24643,5 +24643,17 @@
     "bmkgEarthquakeId": "20250422091322",
     "shakeMapUrl": "https://static.bmkg.go.id/20250422091322.mmi.jpg",
     "fingerprintSha1": "92cf532ebc133c55ea3409a3f20e2a4eb041d759"
+  },
+  {
+    "earthquakeAt": "2025-04-22T07:01:59.000Z",
+    "latitude": -2.8,
+    "longitude": 122.16,
+    "magnitude": 3.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 30 km tenggara Morowali",
+    "feltOnStations": "II Bahadopi",
+    "bmkgEarthquakeId": "20250422140159",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250422140159.mmi.jpg",
+    "fingerprintSha1": "9ed9640cde71d101a5b161b7de2b947fbc9c5138"
   }
 ]
