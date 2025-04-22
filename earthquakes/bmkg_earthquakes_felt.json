@@ -24663,9 +24663,21 @@
     "magnitude": 5.6,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 174 km tenggara Kabupaten Sukabumi",
-    "feltOnStations": "III Nagrak, II - III Sukabumi, II - III Cidolog, II - III Cidadap, II - III Bandung, III Garut, II Cihanjuang",
+    "feltOnStations": "III Nagrak, II - III Sukabumi, II - III Cidolog, II - III Cidadap, II Kota Bandung, III Garut, II Cihanjuang, II Citeko, II Cisarua, II Pelabuhan Ratu",
     "bmkgEarthquakeId": "20250422171400",
     "shakeMapUrl": "https://static.bmkg.go.id/20250422171400.mmi.jpg",
     "fingerprintSha1": "6993fc84b70d01220f15bdd73f3288d1c63c8595"
+  },
+  {
+    "earthquakeAt": "2025-04-22T10:17:17.000Z",
+    "latitude": 4.34,
+    "longitude": 127.52,
+    "magnitude": 6.6,
+    "depthInKm": 107,
+    "locationInIndonesian": "Pusat gempa berada di laut 67 km tenggara Pulau Karatung",
+    "feltOnStations": "III - IV Melonguane, II - III Manado, II - III Bitung, II - III Bolaang Mongondow Timur, II - III Minahasa Utara, II - III Minahasa Tenggara, II - III Sitaro",
+    "bmkgEarthquakeId": "20250422171717",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250422171717.mmi.jpg",
+    "fingerprintSha1": "5ff6e4675814136c733d0b945cfba9c44b2386f2"
   }
 ]
