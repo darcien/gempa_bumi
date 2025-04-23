@@ -24679,5 +24679,17 @@
     "bmkgEarthquakeId": "20250422171717",
     "shakeMapUrl": "https://static.bmkg.go.id/20250422171717.mmi.jpg",
     "fingerprintSha1": "5ff6e4675814136c733d0b945cfba9c44b2386f2"
+  },
+  {
+    "earthquakeAt": "2025-04-23T04:27:39.000Z",
+    "latitude": 5.4,
+    "longitude": 94.75,
+    "magnitude": 4.5,
+    "depthInKm": 29,
+    "locationInIndonesian": "Pusat gempa berada di Laut 83 km Barat Daya Kota Sabang",
+    "feltOnStations": "II-III Jantho, II-III Aceh Besar",
+    "bmkgEarthquakeId": "20250423112739",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250423112739.mmi.jpg",
+    "fingerprintSha1": "66c1227eb2d87ba247fbcff7767c95966f1b238d"
   }
 ]
