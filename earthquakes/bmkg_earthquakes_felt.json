@@ -24691,5 +24691,17 @@
     "bmkgEarthquakeId": "20250423112739",
     "shakeMapUrl": "https://static.bmkg.go.id/20250423112739.mmi.jpg",
     "fingerprintSha1": "66c1227eb2d87ba247fbcff7767c95966f1b238d"
+  },
+  {
+    "earthquakeAt": "2025-04-23T06:32:54.000Z",
+    "latitude": -3.92,
+    "longitude": 122.34,
+    "magnitude": 3.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada didarat 2 km tenggara Besulutu, Konawe",
+    "feltOnStations": "III Konawe, III Konawe Selatan, III Kendari",
+    "bmkgEarthquakeId": "20250423133254",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250423133254.mmi.jpg",
+    "fingerprintSha1": "141c9c9f19100b524730476e42897fa692f95888"
   }
 ]
