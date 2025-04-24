@@ -24715,5 +24715,17 @@
     "bmkgEarthquakeId": "20250424045033",
     "shakeMapUrl": "https://static.bmkg.go.id/20250424045033.mmi.jpg",
     "fingerprintSha1": "28e47a26adc11b94333b6c6cfe69ecdc7633137e"
+  },
+  {
+    "earthquakeAt": "2025-04-24T03:48:13.000Z",
+    "latitude": -6.89,
+    "longitude": 106.44,
+    "magnitude": 3.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km Baratlaut Kab. Sukabumi",
+    "feltOnStations": "III Pelabuhan Ratu, III Bayah, III-IV Cisolok",
+    "bmkgEarthquakeId": "20250424104813",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250424104813.mmi.jpg",
+    "fingerprintSha1": "eb9c6a4ab633a7d65fb7904a15ead97c871f4c84"
   }
 ]
