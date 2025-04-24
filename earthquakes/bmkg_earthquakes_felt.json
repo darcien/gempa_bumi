@@ -24727,5 +24727,17 @@
     "bmkgEarthquakeId": "20250424104813",
     "shakeMapUrl": "https://static.bmkg.go.id/20250424104813.mmi.jpg",
     "fingerprintSha1": "eb9c6a4ab633a7d65fb7904a15ead97c871f4c84"
+  },
+  {
+    "earthquakeAt": "2025-04-24T22:20:43.000Z",
+    "latitude": 4.06,
+    "longitude": 97.22,
+    "magnitude": 3.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat barat laut Kab. Gayo Lues",
+    "feltOnStations": "III-IV Kab. Gayo Lues",
+    "bmkgEarthquakeId": "20250425052043",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250425052043.mmi.jpg",
+    "fingerprintSha1": "73fbcebeb928b97f47d55a7591d266e612fb3f6c"
   }
 ]
