@@ -24751,5 +24751,17 @@
     "bmkgEarthquakeId": "20250425155806",
     "shakeMapUrl": "https://static.bmkg.go.id/20250425155806.mmi.jpg",
     "fingerprintSha1": "9b0862bc7f2d2f70573b9810834316fcd15a35d6"
+  },
+  {
+    "earthquakeAt": "2025-04-25T22:27:38.000Z",
+    "latitude": 0.54,
+    "longitude": 97.87,
+    "magnitude": 4.4,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di laut 7 km tenggara Nias Selatan",
+    "feltOnStations": "II Nias Selatan",
+    "bmkgEarthquakeId": "20250426052738",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250426052738.mmi.jpg",
+    "fingerprintSha1": "4a9d634e7ac93037f1f9a8f55541768686701654"
   }
 ]
