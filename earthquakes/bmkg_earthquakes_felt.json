@@ -24739,5 +24739,17 @@
     "bmkgEarthquakeId": "20250425052043",
     "shakeMapUrl": "https://static.bmkg.go.id/20250425052043.mmi.jpg",
     "fingerprintSha1": "73fbcebeb928b97f47d55a7591d266e612fb3f6c"
+  },
+  {
+    "earthquakeAt": "2025-04-25T08:58:06.000Z",
+    "latitude": -6.83,
+    "longitude": 107.11,
+    "magnitude": 2.4,
+    "depthInKm": 19,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km barat daya Kab. Cianjur",
+    "feltOnStations": "III Cianjur, III Cilaku, III Cugenang",
+    "bmkgEarthquakeId": "20250425155806",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250425155806.mmi.jpg",
+    "fingerprintSha1": "9b0862bc7f2d2f70573b9810834316fcd15a35d6"
   }
 ]
