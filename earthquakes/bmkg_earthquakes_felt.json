@@ -24763,5 +24763,17 @@
     "bmkgEarthquakeId": "20250426052738",
     "shakeMapUrl": "https://static.bmkg.go.id/20250426052738.mmi.jpg",
     "fingerprintSha1": "4a9d634e7ac93037f1f9a8f55541768686701654"
+  },
+  {
+    "earthquakeAt": "2025-04-27T22:13:43.000Z",
+    "latitude": -0.1,
+    "longitude": 124.4,
+    "magnitude": 4.9,
+    "depthInKm": 28,
+    "locationInIndonesian": "Pusat gempa berada di laut 69 km tenggara Bolaang Uki, Bolaang Mongondow Selatan",
+    "feltOnStations": "II Gorontalo",
+    "bmkgEarthquakeId": "20250428051343",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250428051343.mmi.jpg",
+    "fingerprintSha1": "36b3c8852974dbb7471d8bf108556a83a307c1f7"
   }
 ]
