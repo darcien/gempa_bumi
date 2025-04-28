@@ -24775,5 +24775,17 @@
     "bmkgEarthquakeId": "20250428051343",
     "shakeMapUrl": "https://static.bmkg.go.id/20250428051343.mmi.jpg",
     "fingerprintSha1": "36b3c8852974dbb7471d8bf108556a83a307c1f7"
+  },
+  {
+    "earthquakeAt": "2025-04-28T09:23:05.000Z",
+    "latitude": -0.96,
+    "longitude": 112.67,
+    "magnitude": 4,
+    "depthInKm": 21,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km BaratLaut Katingan",
+    "feltOnStations": "II-III Katingan Hulu",
+    "bmkgEarthquakeId": "20250428162305",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250428162305.mmi.jpg",
+    "fingerprintSha1": "e2780680e115785d86b619a221be7391c45a0f5d"
   }
 ]
