@@ -24787,5 +24787,17 @@
     "bmkgEarthquakeId": "20250428162305",
     "shakeMapUrl": "https://static.bmkg.go.id/20250428162305.mmi.jpg",
     "fingerprintSha1": "e2780680e115785d86b619a221be7391c45a0f5d"
+  },
+  {
+    "earthquakeAt": "2025-04-29T03:47:10.000Z",
+    "latitude": -3.35,
+    "longitude": 128.37,
+    "magnitude": 3.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km tenggara Kairatu-Seram Bagian Barat",
+    "feltOnStations": "III Kairatu",
+    "bmkgEarthquakeId": "20250429104710",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250429104710.mmi.jpg",
+    "fingerprintSha1": "0e9d8cdcae7e4c25801d64c3dec1397835f1fe57"
   }
 ]
