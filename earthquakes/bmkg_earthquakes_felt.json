@@ -24811,5 +24811,17 @@
     "bmkgEarthquakeId": "20250429230900",
     "shakeMapUrl": "https://static.bmkg.go.id/20250429230900.mmi.jpg",
     "fingerprintSha1": "f196987a299bea220936e74a2292aa42a1d46fc5"
+  },
+  {
+    "earthquakeAt": "2025-04-30T02:59:18.000Z",
+    "latitude": -3.99,
+    "longitude": 122.8,
+    "magnitude": 3.7,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di laut 9 km BaratLaut Laonti, Konawe Selatan",
+    "feltOnStations": "III-IV Kendari",
+    "bmkgEarthquakeId": "20250430095918",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250430095918.mmi.jpg",
+    "fingerprintSha1": "e57ebca94b01e90a181d7787ab58c0623fb568bd"
   }
 ]
