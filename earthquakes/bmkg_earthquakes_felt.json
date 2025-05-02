@@ -24835,5 +24835,17 @@
     "bmkgEarthquakeId": "20250501061013",
     "shakeMapUrl": "https://static.bmkg.go.id/20250501061013.mmi.jpg",
     "fingerprintSha1": "746a4b107cc96e3696525919c044ffa5e08683c7"
+  },
+  {
+    "earthquakeAt": "2025-05-02T07:07:44.000Z",
+    "latitude": -0.45,
+    "longitude": 100.41,
+    "magnitude": 4.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km Timur Laut Padang Panjang",
+    "feltOnStations": "III - IV Padang Panjang, III Bukittinggi, III Padang Pariaman, III Pariaman",
+    "bmkgEarthquakeId": "20250502140744",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250502140744.mmi.jpg",
+    "fingerprintSha1": "d27fbe745915ff2bd675552c0332cd4e76b72664"
   }
 ]
