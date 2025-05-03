@@ -24895,5 +24895,17 @@
     "bmkgEarthquakeId": "20250503161753",
     "shakeMapUrl": "https://static.bmkg.go.id/20250503161753.mmi.jpg",
     "fingerprintSha1": "c085efe6ba87c68c5e06766da54ba5cdbb86e46e"
+  },
+  {
+    "earthquakeAt": "2025-05-03T12:51:45.000Z",
+    "latitude": 0.55,
+    "longitude": 121.64,
+    "magnitude": 6,
+    "depthInKm": 97,
+    "locationInIndonesian": "Pusat gempa berada di darat 35 km barat laut Pohuwato",
+    "feltOnStations": "III Gorontalo, III Gorontalo Utara, III Manado, III Berau, II-III Palu, III-IV Boalemo, III-IV Kab. Pohuwat, II Masamba",
+    "bmkgEarthquakeId": "20250503195145",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250503195145.mmi.jpg",
+    "fingerprintSha1": "e6097056d6a815f0a77249208ccfa905199c38c2"
   }
 ]
