@@ -24903,9 +24903,21 @@
     "magnitude": 6,
     "depthInKm": 97,
     "locationInIndonesian": "Pusat gempa berada di darat 35 km barat laut Pohuwato",
-    "feltOnStations": "III Gorontalo, III Gorontalo Utara, III Manado, III Berau, II-III Palu, III-IV Boalemo, III-IV Kab. Pohuwat, II Masamba",
+    "feltOnStations": "III Gorontalo, III Gorontalo Utara, III Manado, III Berau, II-III Palu, III-IV Boalemo, III-IV Kab. Pohuwato, II Masamba",
     "bmkgEarthquakeId": "20250503195145",
     "shakeMapUrl": "https://static.bmkg.go.id/20250503195145.mmi.jpg",
     "fingerprintSha1": "e6097056d6a815f0a77249208ccfa905199c38c2"
+  },
+  {
+    "earthquakeAt": "2025-05-03T17:04:08.000Z",
+    "latitude": -2.94,
+    "longitude": 141.48,
+    "magnitude": 5.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 82 km tenggara Keerom",
+    "feltOnStations": "II - III Kota Jayapura",
+    "bmkgEarthquakeId": "20250504000408",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250504000408.mmi.jpg",
+    "fingerprintSha1": "f2598bf193c26e2dd6b8107aa5e44bcec3084f4d"
   }
 ]
