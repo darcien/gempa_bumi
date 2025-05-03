@@ -24859,5 +24859,17 @@
     "bmkgEarthquakeId": "20250503083346",
     "shakeMapUrl": "https://static.bmkg.go.id/20250503083346.mmi.jpg",
     "fingerprintSha1": "553f96363fcfbff67f456932d40f78466e1e1b7f"
+  },
+  {
+    "earthquakeAt": "2025-05-03T02:19:17.000Z",
+    "latitude": -9.4,
+    "longitude": 114.04,
+    "magnitude": 4.8,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di laut 132 km barat daya Jembrana",
+    "feltOnStations": "III Malang Selatan, II - III Kuta, II - III Kuta Selatan",
+    "bmkgEarthquakeId": "20250503091917",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250503091917.mmi.jpg",
+    "fingerprintSha1": "70bce3a05132ec84710f64048d64e3b72799ad83"
   }
 ]
