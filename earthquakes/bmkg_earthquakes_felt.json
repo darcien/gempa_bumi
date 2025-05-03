@@ -24847,5 +24847,17 @@
     "bmkgEarthquakeId": "20250502140744",
     "shakeMapUrl": "https://static.bmkg.go.id/20250502140744.mmi.jpg",
     "fingerprintSha1": "d27fbe745915ff2bd675552c0332cd4e76b72664"
+  },
+  {
+    "earthquakeAt": "2025-05-03T01:33:46.000Z",
+    "latitude": -7.17,
+    "longitude": 106.48,
+    "magnitude": 3.9,
+    "depthInKm": 57,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km barat daya Kab. Sukabumi",
+    "feltOnStations": "II-III Surade, II-III Pagelaran, II-III Ujung Genteng, II-III Jampang",
+    "bmkgEarthquakeId": "20250503083346",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250503083346.mmi.jpg",
+    "fingerprintSha1": "553f96363fcfbff67f456932d40f78466e1e1b7f"
   }
 ]
