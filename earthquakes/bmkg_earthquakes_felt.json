@@ -24871,5 +24871,17 @@
     "bmkgEarthquakeId": "20250503091917",
     "shakeMapUrl": "https://static.bmkg.go.id/20250503091917.mmi.jpg",
     "fingerprintSha1": "70bce3a05132ec84710f64048d64e3b72799ad83"
+  },
+  {
+    "earthquakeAt": "2025-05-03T05:10:36.000Z",
+    "latitude": -3,
+    "longitude": 141.34,
+    "magnitude": 5.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 74 km Timur Laut Keerom",
+    "feltOnStations": "III - IV Keerom, II Kota Jayapura",
+    "bmkgEarthquakeId": "20250503121036",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250503121036.mmi.jpg",
+    "fingerprintSha1": "25a5566081258bb914c9375dfa379ea3a43334f6"
   }
 ]
