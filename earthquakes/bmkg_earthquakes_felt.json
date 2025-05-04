@@ -24943,5 +24943,17 @@
     "bmkgEarthquakeId": "20250504134630",
     "shakeMapUrl": "https://static.bmkg.go.id/20250504134630.mmi.jpg",
     "fingerprintSha1": "2633b9c3b170a56ad60715fd1d143081d42825f7"
+  },
+  {
+    "earthquakeAt": "2025-05-04T13:56:50.000Z",
+    "latitude": -7.26,
+    "longitude": 106.63,
+    "magnitude": 3.9,
+    "depthInKm": 92,
+    "locationInIndonesian": "Pusat gempa berada di darat 31 km Tenggara Kabupaten Sukabumi",
+    "feltOnStations": "II Simpenan, Kabupaten Sukabumi",
+    "bmkgEarthquakeId": "20250504205650",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250504205650.mmi.jpg",
+    "fingerprintSha1": "feef2b7b2656ed25839f9f3ac3a81531742d344e"
   }
 ]
