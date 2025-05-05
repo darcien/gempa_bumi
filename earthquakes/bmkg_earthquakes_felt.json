@@ -24955,5 +24955,17 @@
     "bmkgEarthquakeId": "20250504205650",
     "shakeMapUrl": "https://static.bmkg.go.id/20250504205650.mmi.jpg",
     "fingerprintSha1": "feef2b7b2656ed25839f9f3ac3a81531742d344e"
+  },
+  {
+    "earthquakeAt": "2025-05-04T23:47:21.000Z",
+    "latitude": -7.19,
+    "longitude": 107.43,
+    "magnitude": 2.9,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km Barat Daya Kab. Bandung",
+    "feltOnStations": "II-III Rancabali, II-III Rancabolang",
+    "bmkgEarthquakeId": "20250505064721",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250505064721.mmi.jpg",
+    "fingerprintSha1": "a5f0e3f6a3b097f23a1c0a0896130d9ade79359c"
   }
 ]
