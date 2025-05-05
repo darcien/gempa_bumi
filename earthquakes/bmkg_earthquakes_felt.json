@@ -24967,5 +24967,17 @@
     "bmkgEarthquakeId": "20250505064721",
     "shakeMapUrl": "https://static.bmkg.go.id/20250505064721.mmi.jpg",
     "fingerprintSha1": "a5f0e3f6a3b097f23a1c0a0896130d9ade79359c"
+  },
+  {
+    "earthquakeAt": "2025-05-05T07:08:08.000Z",
+    "latitude": 1.36,
+    "longitude": 118.03,
+    "magnitude": 3.9,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di darat 106 km Tenggara Berau",
+    "feltOnStations": "II - III Kecamatan Talisayan",
+    "bmkgEarthquakeId": "20250505140808",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250505140808.mmi.jpg",
+    "fingerprintSha1": "76de7af18843e2f17271d69a64d719ecce40a54c"
   }
 ]
