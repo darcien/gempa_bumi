@@ -24979,5 +24979,17 @@
     "bmkgEarthquakeId": "20250505140808",
     "shakeMapUrl": "https://static.bmkg.go.id/20250505140808.mmi.jpg",
     "fingerprintSha1": "76de7af18843e2f17271d69a64d719ecce40a54c"
+  },
+  {
+    "earthquakeAt": "2025-05-05T22:57:35.000Z",
+    "latitude": -0.11,
+    "longitude": 123.78,
+    "magnitude": 5.5,
+    "depthInKm": 106,
+    "locationInIndonesian": "Pusat gempa berada di Laut 58 km baratdaya Bolaang Uki",
+    "feltOnStations": "II - III Kabupaten Gorontalo",
+    "bmkgEarthquakeId": "20250506055735",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250506055735.mmi.jpg",
+    "fingerprintSha1": "cdc93f61389dba18d67ce355e99e18aa3c3bc16f"
   }
 ]
