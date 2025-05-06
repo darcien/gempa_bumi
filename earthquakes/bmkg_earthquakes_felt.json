@@ -25015,5 +25015,17 @@
     "bmkgEarthquakeId": "20250506141310",
     "shakeMapUrl": "https://static.bmkg.go.id/20250506141310.mmi.jpg",
     "fingerprintSha1": "4727caff5155979933eff2fb0ff0233157d59f37"
+  },
+  {
+    "earthquakeAt": "2025-05-06T14:20:10.000Z",
+    "latitude": -1.73,
+    "longitude": 136.29,
+    "magnitude": 4.7,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km Timur Laut Serui",
+    "feltOnStations": "II - III Serui",
+    "bmkgEarthquakeId": "20250506212010",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250506212010.mmi.jpg",
+    "fingerprintSha1": "3e64be9846e2739b91e5aa6548a7c5a835296965"
   }
 ]
