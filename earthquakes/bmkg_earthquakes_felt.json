@@ -24991,5 +24991,17 @@
     "bmkgEarthquakeId": "20250506055735",
     "shakeMapUrl": "https://static.bmkg.go.id/20250506055735.mmi.jpg",
     "fingerprintSha1": "cdc93f61389dba18d67ce355e99e18aa3c3bc16f"
+  },
+  {
+    "earthquakeAt": "2025-05-06T07:15:13.000Z",
+    "latitude": -5.44,
+    "longitude": 103.9,
+    "magnitude": 4,
+    "depthInKm": 49,
+    "locationInIndonesian": "Pusat gempa berada di laut 28 km Barat Daya Pesisir Barat",
+    "feltOnStations": "IV Pesisir Selatan, IV Bengkunat, II Kec. Semaka",
+    "bmkgEarthquakeId": "20250506141513",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250506141513.mmi.jpg",
+    "fingerprintSha1": "1fa35df09d2acafa1cc8b403090b4ec6fc659610"
   }
 ]
