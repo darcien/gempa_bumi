@@ -25003,5 +25003,17 @@
     "bmkgEarthquakeId": "20250506141513",
     "shakeMapUrl": "https://static.bmkg.go.id/20250506141513.mmi.jpg",
     "fingerprintSha1": "1fa35df09d2acafa1cc8b403090b4ec6fc659610"
+  },
+  {
+    "earthquakeAt": "2025-05-06T07:13:10.000Z",
+    "latitude": -3.59,
+    "longitude": 139.38,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km barat laut Yalimo",
+    "feltOnStations": "II Wamena",
+    "bmkgEarthquakeId": "20250506141310",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250506141310.mmi.jpg",
+    "fingerprintSha1": "4727caff5155979933eff2fb0ff0233157d59f37"
   }
 ]
