@@ -25027,5 +25027,17 @@
     "bmkgEarthquakeId": "20250506212010",
     "shakeMapUrl": "https://static.bmkg.go.id/20250506212010.mmi.jpg",
     "fingerprintSha1": "3e64be9846e2739b91e5aa6548a7c5a835296965"
+  },
+  {
+    "earthquakeAt": "2025-05-07T00:16:22.000Z",
+    "latitude": -9,
+    "longitude": 111.92,
+    "magnitude": 4.5,
+    "depthInKm": 84,
+    "locationInIndonesian": "Pusat gempa berada di laut 101 km baratdaya Kab. Blitar",
+    "feltOnStations": "III Blitar, II Trenggalek, II Kediri, II Tulungagung, II Lumajang, II Pacitan, II Malang",
+    "bmkgEarthquakeId": "20250507071622",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250507071622.mmi.jpg",
+    "fingerprintSha1": "0d980fe84b851722216e428a544e297e132345a8"
   }
 ]
