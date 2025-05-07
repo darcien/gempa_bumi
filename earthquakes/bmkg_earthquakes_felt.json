@@ -25051,5 +25051,17 @@
     "bmkgEarthquakeId": "20250507140908",
     "shakeMapUrl": "https://static.bmkg.go.id/20250507140908.mmi.jpg",
     "fingerprintSha1": "c3eae1526dd7c942d18c589a14d2f28ab1ffbeec"
+  },
+  {
+    "earthquakeAt": "2025-05-07T07:34:48.000Z",
+    "latitude": 1.11,
+    "longitude": 120.96,
+    "magnitude": 3.7,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 34 km timur laut Toli-toli",
+    "feltOnStations": "II-III Toli-Toli",
+    "bmkgEarthquakeId": "20250507143448",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250507143448.mmi.jpg",
+    "fingerprintSha1": "4c7d7911734a0468da9e792329d4be3e1d1c45f2"
   }
 ]
