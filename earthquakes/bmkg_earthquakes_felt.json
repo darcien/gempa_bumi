@@ -25039,5 +25039,17 @@
     "bmkgEarthquakeId": "20250507071622",
     "shakeMapUrl": "https://static.bmkg.go.id/20250507071622.mmi.jpg",
     "fingerprintSha1": "0d980fe84b851722216e428a544e297e132345a8"
+  },
+  {
+    "earthquakeAt": "2025-05-07T07:09:08.000Z",
+    "latitude": 0.78,
+    "longitude": 97.33,
+    "magnitude": 5.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 25 km barat daya Nias Barat",
+    "feltOnStations": "IV Nias Barat, IV Nias Selatan, III-IV Nias, III-IV Gunung Sitoli, III-IV Nias Utara",
+    "bmkgEarthquakeId": "20250507140908",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250507140908.mmi.jpg",
+    "fingerprintSha1": "c3eae1526dd7c942d18c589a14d2f28ab1ffbeec"
   }
 ]
