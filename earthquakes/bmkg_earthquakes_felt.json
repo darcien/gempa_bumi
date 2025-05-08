@@ -25123,5 +25123,17 @@
     "bmkgEarthquakeId": "20250508193501",
     "shakeMapUrl": "https://static.bmkg.go.id/20250508193501.mmi.jpg",
     "fingerprintSha1": "deb6c37c5fd8699f8fb23492ad772061f686c6d2"
+  },
+  {
+    "earthquakeAt": "2025-05-08T14:51:27.000Z",
+    "latitude": -3.06,
+    "longitude": 127.29,
+    "magnitude": 4.7,
+    "depthInKm": 77,
+    "locationInIndonesian": "Pusat gempa berada di laut 31 km timurlaut Namlea-Buru",
+    "feltOnStations": "II-III Namlea",
+    "bmkgEarthquakeId": "20250508215127",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250508215127.mmi.jpg",
+    "fingerprintSha1": "f18932bf267b9fcac9063e10476636a100a46809"
   }
 ]
