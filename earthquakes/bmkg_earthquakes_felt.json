@@ -25099,5 +25099,29 @@
     "bmkgEarthquakeId": "20250508115530",
     "shakeMapUrl": "https://static.bmkg.go.id/20250508115530.mmi.jpg",
     "fingerprintSha1": "a412ce8929513c31eba4c758ab8db327692bfdeb"
+  },
+  {
+    "earthquakeAt": "2025-05-08T12:37:03.000Z",
+    "latitude": -8.76,
+    "longitude": 117.42,
+    "magnitude": 3.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 29 km selatan Sumbawa",
+    "feltOnStations": "II Sumbawa",
+    "bmkgEarthquakeId": "20250508193703",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250508193703.mmi.jpg",
+    "fingerprintSha1": "9eb93ef21bb0eed04bec6d24579fbfc5f3ffbafd"
+  },
+  {
+    "earthquakeAt": "2025-05-08T12:35:01.000Z",
+    "latitude": -8.63,
+    "longitude": 117.44,
+    "magnitude": 3.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km tenggara Sumbawa",
+    "feltOnStations": "III Sumbawa",
+    "bmkgEarthquakeId": "20250508193501",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250508193501.mmi.jpg",
+    "fingerprintSha1": "deb6c37c5fd8699f8fb23492ad772061f686c6d2"
   }
 ]
