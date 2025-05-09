@@ -25135,5 +25135,17 @@
     "bmkgEarthquakeId": "20250508215127",
     "shakeMapUrl": "https://static.bmkg.go.id/20250508215127.mmi.jpg",
     "fingerprintSha1": "f18932bf267b9fcac9063e10476636a100a46809"
+  },
+  {
+    "earthquakeAt": "2025-05-09T13:14:07.000Z",
+    "latitude": -4.21,
+    "longitude": 123.3,
+    "magnitude": 4.8,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di laut 36 km Tenggara Konawe",
+    "feltOnStations": "IV Konawe Kepulauan, III-IV Buton Utara, III Kendari, III Konawe Selatan, II - III Konawe",
+    "bmkgEarthquakeId": "20250509201407",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250509201407.mmi.jpg",
+    "fingerprintSha1": "2083105fcfccb305fd0178716ad45f2bc40ee3b8"
   }
 ]
