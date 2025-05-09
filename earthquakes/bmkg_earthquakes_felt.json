@@ -25147,5 +25147,17 @@
     "bmkgEarthquakeId": "20250509201407",
     "shakeMapUrl": "https://static.bmkg.go.id/20250509201407.mmi.jpg",
     "fingerprintSha1": "2083105fcfccb305fd0178716ad45f2bc40ee3b8"
+  },
+  {
+    "earthquakeAt": "2025-05-09T22:45:44.000Z",
+    "latitude": -7.25,
+    "longitude": 129.29,
+    "magnitude": 5.8,
+    "depthInKm": 223,
+    "locationInIndonesian": "Pusat gempa berada di laut 59 km baratlaut Tepa-MBD",
+    "feltOnStations": "III Pulau Babar",
+    "bmkgEarthquakeId": "20250510054544",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250510054544.mmi.jpg",
+    "fingerprintSha1": "8674891007c9d12e32fe6dc98c4a44215ebd2889"
   }
 ]
