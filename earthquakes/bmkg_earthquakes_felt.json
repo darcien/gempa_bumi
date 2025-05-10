@@ -25159,5 +25159,17 @@
     "bmkgEarthquakeId": "20250510054544",
     "shakeMapUrl": "https://static.bmkg.go.id/20250510054544.mmi.jpg",
     "fingerprintSha1": "8674891007c9d12e32fe6dc98c4a44215ebd2889"
+  },
+  {
+    "earthquakeAt": "2025-05-10T04:20:26.000Z",
+    "latitude": -0.57,
+    "longitude": 100.1,
+    "magnitude": 2.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km Barat Laut Pariaman",
+    "feltOnStations": "II-III Padang Pariaman, II-III Pariaman",
+    "bmkgEarthquakeId": "20250510112026",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250510112026.mmi.jpg",
+    "fingerprintSha1": "5b138ba99fd09788fae6e40470d44907d9f009ec"
   }
 ]
