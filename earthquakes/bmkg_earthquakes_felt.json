@@ -25195,5 +25195,17 @@
     "bmkgEarthquakeId": "20250511155743",
     "shakeMapUrl": "https://static.bmkg.go.id/20250511155743.mmi.jpg",
     "fingerprintSha1": "96d67531514e666b66839bb68d412d4153e33109"
+  },
+  {
+    "earthquakeAt": "2025-05-11T15:30:54.000Z",
+    "latitude": -7,
+    "longitude": 106.99,
+    "magnitude": 3.2,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km tenggara kota Sukabumi",
+    "feltOnStations": "III Sukabumi",
+    "bmkgEarthquakeId": "20250511223054",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250511223054.mmi.jpg",
+    "fingerprintSha1": "d6944ace9eb9f75d0b7b0b29d09b9094b76e2204"
   }
 ]
