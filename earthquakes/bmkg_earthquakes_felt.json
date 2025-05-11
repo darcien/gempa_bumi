@@ -25207,5 +25207,17 @@
     "bmkgEarthquakeId": "20250511223054",
     "shakeMapUrl": "https://static.bmkg.go.id/20250511223054.mmi.jpg",
     "fingerprintSha1": "d6944ace9eb9f75d0b7b0b29d09b9094b76e2204"
+  },
+  {
+    "earthquakeAt": "2025-05-11T16:09:39.000Z",
+    "latitude": -4.04,
+    "longitude": 122.34,
+    "magnitude": 2.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km Baratdaya Ranomeeto Barat, Konawe Selatan",
+    "feltOnStations": "II-III Konawe Selatan, II-III Kendari",
+    "bmkgEarthquakeId": "20250511230939",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250511230939.mmi.jpg",
+    "fingerprintSha1": "2f6db5ffa207a300042b0199a7dc6bdce560039e"
   }
 ]
