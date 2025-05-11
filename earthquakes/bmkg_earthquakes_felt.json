@@ -25183,5 +25183,17 @@
     "bmkgEarthquakeId": "20250511144940",
     "shakeMapUrl": "https://static.bmkg.go.id/20250511144940.mmi.jpg",
     "fingerprintSha1": "ee5ada6b5c558ba88cfcec1e8d13daaef88e8841"
+  },
+  {
+    "earthquakeAt": "2025-05-11T08:57:43.000Z",
+    "latitude": 3.67,
+    "longitude": 96.86,
+    "magnitude": 6.2,
+    "depthInKm": 45,
+    "locationInIndonesian": "Pusat gempa berada di laut 21 km baratdaya Blangpidie-Aceh Barat Daya",
+    "feltOnStations": "IV Aceh Selatan, III-IV Medan, II-III Bener Meriah, II-III Lhokseumawe, II-III Aceh Tengah, II Banda Aceh, II Aceh Tamiang, II Nias Selatan",
+    "bmkgEarthquakeId": "20250511155743",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250511155743.mmi.jpg",
+    "fingerprintSha1": "96d67531514e666b66839bb68d412d4153e33109"
   }
 ]
