@@ -25243,5 +25243,17 @@
     "bmkgEarthquakeId": "20250512100939",
     "shakeMapUrl": "https://static.bmkg.go.id/20250512100939.mmi.jpg",
     "fingerprintSha1": "fc12dc58ecdf1ea76f148a8b34b2a46e46cf5eeb"
+  },
+  {
+    "earthquakeAt": "2025-05-12T20:42:05.000Z",
+    "latitude": -6.7,
+    "longitude": 107.34,
+    "magnitude": 2.9,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 19 km barat daya Kab. Purwakarta",
+    "feltOnStations": "II-III Purwakarta",
+    "bmkgEarthquakeId": "20250513034205",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250513034205.mmi.jpg",
+    "fingerprintSha1": "498582899d0b74e4bc979acd4bfddf647f18cee3"
   }
 ]
