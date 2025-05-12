@@ -25231,5 +25231,17 @@
     "bmkgEarthquakeId": "20250511234848",
     "shakeMapUrl": "https://static.bmkg.go.id/20250511234848.mmi.jpg",
     "fingerprintSha1": "36a41d5f9080fd5469227cd44dfc42c549b49580"
+  },
+  {
+    "earthquakeAt": "2025-05-12T03:09:39.000Z",
+    "latitude": 1.11,
+    "longitude": 98.81,
+    "magnitude": 5.3,
+    "depthInKm": 88,
+    "locationInIndonesian": "Pusat gempa berada di laut 59 km barat daya Padang Sidempuan",
+    "feltOnStations": "III Pinangsori, II Sibolga",
+    "bmkgEarthquakeId": "20250512100939",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250512100939.mmi.jpg",
+    "fingerprintSha1": "fc12dc58ecdf1ea76f148a8b34b2a46e46cf5eeb"
   }
 ]
