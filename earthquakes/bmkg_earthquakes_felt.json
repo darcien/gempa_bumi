@@ -25267,5 +25267,17 @@
     "bmkgEarthquakeId": "20250513124111",
     "shakeMapUrl": "https://static.bmkg.go.id/20250513124111.mmi.jpg",
     "fingerprintSha1": "f9125f45a26e61b7ba3144cdfdfbe393e59d6ab6"
+  },
+  {
+    "earthquakeAt": "2025-05-13T08:57:52.000Z",
+    "latitude": -3.98,
+    "longitude": 122.35,
+    "magnitude": 2.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km Baratlaut Besulutu",
+    "feltOnStations": "II Kendari",
+    "bmkgEarthquakeId": "20250513155752",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250513155752.mmi.jpg",
+    "fingerprintSha1": "2f5c8e4f25ca0529e30c7641c3e6c3714ff9ad28"
   }
 ]
