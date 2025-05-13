@@ -25279,5 +25279,17 @@
     "bmkgEarthquakeId": "20250513155752",
     "shakeMapUrl": "https://static.bmkg.go.id/20250513155752.mmi.jpg",
     "fingerprintSha1": "2f5c8e4f25ca0529e30c7641c3e6c3714ff9ad28"
+  },
+  {
+    "earthquakeAt": "2025-05-13T21:16:24.000Z",
+    "latitude": -2.96,
+    "longitude": 119.39,
+    "magnitude": 2.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km tenggara Mamasa",
+    "feltOnStations": "II-III Tawalian",
+    "bmkgEarthquakeId": "20250514041624",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250514041624.mmi.jpg",
+    "fingerprintSha1": "03a675fb687a48464f294c75527e31201ca87766"
   }
 ]
