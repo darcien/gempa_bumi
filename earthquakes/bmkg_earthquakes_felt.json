@@ -25255,5 +25255,17 @@
     "bmkgEarthquakeId": "20250513034205",
     "shakeMapUrl": "https://static.bmkg.go.id/20250513034205.mmi.jpg",
     "fingerprintSha1": "498582899d0b74e4bc979acd4bfddf647f18cee3"
+  },
+  {
+    "earthquakeAt": "2025-05-13T05:41:11.000Z",
+    "latitude": 0.61,
+    "longitude": 121.5,
+    "magnitude": 4.6,
+    "depthInKm": 96,
+    "locationInIndonesian": "Pusat gempa berada di darat 43 km Tenggara Buol",
+    "feltOnStations": "II-III Pohuwato, II Bone Bolango",
+    "bmkgEarthquakeId": "20250513124111",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250513124111.mmi.jpg",
+    "fingerprintSha1": "f9125f45a26e61b7ba3144cdfdfbe393e59d6ab6"
   }
 ]
