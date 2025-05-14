@@ -25291,5 +25291,17 @@
     "bmkgEarthquakeId": "20250514041624",
     "shakeMapUrl": "https://static.bmkg.go.id/20250514041624.mmi.jpg",
     "fingerprintSha1": "03a675fb687a48464f294c75527e31201ca87766"
+  },
+  {
+    "earthquakeAt": "2025-05-14T03:16:58.000Z",
+    "latitude": -4.33,
+    "longitude": 102.37,
+    "magnitude": 4.9,
+    "depthInKm": 21,
+    "locationInIndonesian": "Pusat gempa berada di laut 36 km Barat Daya Seluma",
+    "feltOnStations": "III Kota Bengkulu, III Manna, II-III Kepahiang",
+    "bmkgEarthquakeId": "20250514101658",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250514101658.mmi.jpg",
+    "fingerprintSha1": "5ea151098544854900523e4c31c925c95c8dc84e"
   }
 ]
