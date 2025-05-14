@@ -25303,5 +25303,17 @@
     "bmkgEarthquakeId": "20250514101658",
     "shakeMapUrl": "https://static.bmkg.go.id/20250514101658.mmi.jpg",
     "fingerprintSha1": "5ea151098544854900523e4c31c925c95c8dc84e"
+  },
+  {
+    "earthquakeAt": "2025-05-14T14:35:19.000Z",
+    "latitude": -1.34,
+    "longitude": 134.38,
+    "magnitude": 4.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 29 km Timurlaut Ransiki",
+    "feltOnStations": "II Ransiki",
+    "bmkgEarthquakeId": "20250514213519",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250514213519.mmi.jpg",
+    "fingerprintSha1": "76c9e355ac3421b9be31a5b6f89f25bb4d358e28"
   }
 ]
