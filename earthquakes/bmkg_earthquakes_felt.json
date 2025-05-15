@@ -25315,5 +25315,17 @@
     "bmkgEarthquakeId": "20250514213519",
     "shakeMapUrl": "https://static.bmkg.go.id/20250514213519.mmi.jpg",
     "fingerprintSha1": "76c9e355ac3421b9be31a5b6f89f25bb4d358e28"
+  },
+  {
+    "earthquakeAt": "2025-05-15T00:50:49.000Z",
+    "latitude": -7.32,
+    "longitude": 126.3,
+    "magnitude": 5.9,
+    "depthInKm": 515,
+    "locationInIndonesian": "Pusat gempa berada di laut 41 km utara Wetar Utara",
+    "feltOnStations": "III Tiakur",
+    "bmkgEarthquakeId": "20250515075049",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250515075049.mmi.jpg",
+    "fingerprintSha1": "6a464dea4fc5e3b47002632a2776fa309c22d40c"
   }
 ]
