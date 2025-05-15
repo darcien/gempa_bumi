@@ -25347,7 +25347,7 @@
     "magnitude": 2.3,
     "depthInKm": 12,
     "locationInIndonesian": "Pusat gempa berada di darat 2 km barat daya Cianjur",
-    "feltOnStations": "",
+    "feltOnStations": "II Rancagoong",
     "bmkgEarthquakeId": "20250516002356",
     "shakeMapUrl": "https://static.bmkg.go.id/20250516002356.mmi.jpg",
     "fingerprintSha1": "f77f0aac27b898dee440b2d9cbf9376f05eb2502"
