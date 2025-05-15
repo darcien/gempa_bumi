@@ -25327,5 +25327,17 @@
     "bmkgEarthquakeId": "20250515075049",
     "shakeMapUrl": "https://static.bmkg.go.id/20250515075049.mmi.jpg",
     "fingerprintSha1": "6a464dea4fc5e3b47002632a2776fa309c22d40c"
+  },
+  {
+    "earthquakeAt": "2025-05-15T14:01:40.000Z",
+    "latitude": -0.98,
+    "longitude": 122.02,
+    "magnitude": 4.6,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada didarat 55 Km Timur Laut Tojouna-Una",
+    "feltOnStations": "III Banggai",
+    "bmkgEarthquakeId": "20250515210140",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250515210140.mmi.jpg",
+    "fingerprintSha1": "be49b5ceb01fc98982093acf4036b967174aafa7"
   }
 ]
