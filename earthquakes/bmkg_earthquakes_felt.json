@@ -25351,5 +25351,17 @@
     "bmkgEarthquakeId": "20250516002356",
     "shakeMapUrl": "https://static.bmkg.go.id/20250516002356.mmi.jpg",
     "fingerprintSha1": "f77f0aac27b898dee440b2d9cbf9376f05eb2502"
+  },
+  {
+    "earthquakeAt": "2025-05-16T04:23:03.000Z",
+    "latitude": -8.63,
+    "longitude": 120.45,
+    "magnitude": 3.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km Baratdaya Ruteng - Manggarai",
+    "feltOnStations": "III Ruteng",
+    "bmkgEarthquakeId": "20250516112303",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250516112303.mmi.jpg",
+    "fingerprintSha1": "7542a30103323eede226c9e0467954a437cc2ade"
   }
 ]
