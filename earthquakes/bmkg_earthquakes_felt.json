@@ -25375,5 +25375,17 @@
     "bmkgEarthquakeId": "20250517062358",
     "shakeMapUrl": "https://static.bmkg.go.id/20250517062358.mmi.jpg",
     "fingerprintSha1": "6b6568edb64643ef874bd7a48d7e6dacd86ae07f"
+  },
+  {
+    "earthquakeAt": "2025-05-17T07:31:10.000Z",
+    "latitude": -8.49,
+    "longitude": 117.1,
+    "magnitude": 4.4,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km Tenggara Pernang",
+    "feltOnStations": "III Sumbawa, III Sumbawa Barat",
+    "bmkgEarthquakeId": "20250517143110",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250517143110.mmi.jpg",
+    "fingerprintSha1": "9e63b8baca9ca63b407fd55da84ececb9f227c1a"
   }
 ]
