@@ -25435,5 +25435,29 @@
     "bmkgEarthquakeId": "20250518115355",
     "shakeMapUrl": "https://static.bmkg.go.id/20250518115355.mmi.jpg",
     "fingerprintSha1": "7e04dc729fe4457090a1eb07aad29bf95d37263b"
+  },
+  {
+    "earthquakeAt": "2025-05-18T10:30:17.000Z",
+    "latitude": -6.6,
+    "longitude": 106.64,
+    "magnitude": 2.9,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km barat laut Kota Bogor",
+    "feltOnStations": "III Leuwiliang, II-III Tanah Sereal, II - III Kota Bogor",
+    "bmkgEarthquakeId": "20250518173017",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250518173017.mmi.jpg",
+    "fingerprintSha1": "e4a47c821685a449875acbc4448ddd5dfbb206d6"
+  },
+  {
+    "earthquakeAt": "2025-05-18T10:29:23.000Z",
+    "latitude": -6.57,
+    "longitude": 106.64,
+    "magnitude": 2.7,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km barat laut Kota Bogor",
+    "feltOnStations": "III Leuwiliang",
+    "bmkgEarthquakeId": "20250518172923",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250518172923.mmi.jpg",
+    "fingerprintSha1": "45308b099e2c8cbf78f2918fb2a897963c3e1c63"
   }
 ]
