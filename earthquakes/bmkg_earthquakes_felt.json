@@ -25423,5 +25423,17 @@
     "bmkgEarthquakeId": "20250518043052",
     "shakeMapUrl": "https://static.bmkg.go.id/20250518043052.mmi.jpg",
     "fingerprintSha1": "f912be52b27038352633046a0f7b3235ae77d4f7"
+  },
+  {
+    "earthquakeAt": "2025-05-18T04:53:55.000Z",
+    "latitude": -10.54,
+    "longitude": 116.16,
+    "magnitude": 5.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 204 km barat daya Lombok Tengah",
+    "feltOnStations": "III Mataram, III Lombok Barat, II-III Denpasar, II Lombok Timur, II Badung, II Karangasem",
+    "bmkgEarthquakeId": "20250518115355",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250518115355.mmi.jpg",
+    "fingerprintSha1": "7e04dc729fe4457090a1eb07aad29bf95d37263b"
   }
 ]
