@@ -25459,5 +25459,17 @@
     "bmkgEarthquakeId": "20250518172923",
     "shakeMapUrl": "https://static.bmkg.go.id/20250518172923.mmi.jpg",
     "fingerprintSha1": "45308b099e2c8cbf78f2918fb2a897963c3e1c63"
+  },
+  {
+    "earthquakeAt": "2025-05-18T15:20:10.000Z",
+    "latitude": -3.98,
+    "longitude": 121.79,
+    "magnitude": 2.4,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km barat daya Tinondo, Kolaka Timur",
+    "feltOnStations": "II Kolaka Timur",
+    "bmkgEarthquakeId": "20250518222010",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250518222010.mmi.jpg",
+    "fingerprintSha1": "01dd98934d82b24cc30332ba30f0b597ce82ede2"
   }
 ]
