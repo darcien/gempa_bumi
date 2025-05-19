@@ -25471,5 +25471,17 @@
     "bmkgEarthquakeId": "20250518222010",
     "shakeMapUrl": "https://static.bmkg.go.id/20250518222010.mmi.jpg",
     "fingerprintSha1": "01dd98934d82b24cc30332ba30f0b597ce82ede2"
+  },
+  {
+    "earthquakeAt": "2025-05-19T02:45:52.000Z",
+    "latitude": 4.05,
+    "longitude": 95.92,
+    "magnitude": 4.1,
+    "depthInKm": 27,
+    "locationInIndonesian": "Pusat gempa berada di laut 25 km barat daya Meulaboh",
+    "feltOnStations": "II - III Meulaboh, II - III Aceh Barat Daya",
+    "bmkgEarthquakeId": "20250519094552",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250519094552.mmi.jpg",
+    "fingerprintSha1": "6951ce04bf58c06d3cad9f7ff9ae5d14c8819944"
   }
 ]
