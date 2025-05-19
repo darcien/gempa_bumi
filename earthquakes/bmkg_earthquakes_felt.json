@@ -25495,5 +25495,17 @@
     "bmkgEarthquakeId": "20250519125930",
     "shakeMapUrl": "https://static.bmkg.go.id/20250519125930.mmi.jpg",
     "fingerprintSha1": "c4a2976a177d1dc461209fbad81881f7dfe747bf"
+  },
+  {
+    "earthquakeAt": "2025-05-19T08:04:20.000Z",
+    "latitude": 1.15,
+    "longitude": 97.11,
+    "magnitude": 4.4,
+    "depthInKm": 16,
+    "locationInIndonesian": "Pusat gempa berada di laut 42 km barat daya Nias Utara",
+    "feltOnStations": "II - III Gunungsitoli, II - III Lahomi Nias Barat, II-III Nias Utara",
+    "bmkgEarthquakeId": "20250519150420",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250519150420.mmi.jpg",
+    "fingerprintSha1": "04b98daebd67505a24df4c60769b9aa367db23fa"
   }
 ]
