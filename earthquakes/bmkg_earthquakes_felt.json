@@ -25483,5 +25483,17 @@
     "bmkgEarthquakeId": "20250519094552",
     "shakeMapUrl": "https://static.bmkg.go.id/20250519094552.mmi.jpg",
     "fingerprintSha1": "6951ce04bf58c06d3cad9f7ff9ae5d14c8819944"
+  },
+  {
+    "earthquakeAt": "2025-05-19T05:59:30.000Z",
+    "latitude": 1.11,
+    "longitude": 97.07,
+    "magnitude": 4.6,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 45 km barat laut Nias Barat",
+    "feltOnStations": "II-III Gunungsitoli",
+    "bmkgEarthquakeId": "20250519125930",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250519125930.mmi.jpg",
+    "fingerprintSha1": "c4a2976a177d1dc461209fbad81881f7dfe747bf"
   }
 ]
