@@ -25519,5 +25519,17 @@
     "bmkgEarthquakeId": "20250520135052",
     "shakeMapUrl": "https://static.bmkg.go.id/20250520135052.mmi.jpg",
     "fingerprintSha1": "c63387d90a24364425c31a4319749229a0f66e09"
+  },
+  {
+    "earthquakeAt": "2025-05-20T20:10:14.000Z",
+    "latitude": -6.83,
+    "longitude": 107.94,
+    "magnitude": 3.7,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 Km Timur Laut Kab. Sumedang",
+    "feltOnStations": "II-III Kec. Cimalaka",
+    "bmkgEarthquakeId": "20250521031014",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250521031014.mmi.jpg",
+    "fingerprintSha1": "6d4bb2951619d674f512068e03237021848f500f"
   }
 ]
