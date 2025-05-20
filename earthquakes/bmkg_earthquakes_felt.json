@@ -25507,5 +25507,17 @@
     "bmkgEarthquakeId": "20250519150420",
     "shakeMapUrl": "https://static.bmkg.go.id/20250519150420.mmi.jpg",
     "fingerprintSha1": "04b98daebd67505a24df4c60769b9aa367db23fa"
+  },
+  {
+    "earthquakeAt": "2025-05-20T06:50:52.000Z",
+    "latitude": -4.8,
+    "longitude": 140.6,
+    "magnitude": 4.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 km Barat Laut Oksibil",
+    "feltOnStations": "II Kab. Oksibil",
+    "bmkgEarthquakeId": "20250520135052",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250520135052.mmi.jpg",
+    "fingerprintSha1": "c63387d90a24364425c31a4319749229a0f66e09"
   }
 ]
