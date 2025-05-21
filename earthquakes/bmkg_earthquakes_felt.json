@@ -25531,5 +25531,17 @@
     "bmkgEarthquakeId": "20250521031014",
     "shakeMapUrl": "https://static.bmkg.go.id/20250521031014.mmi.jpg",
     "fingerprintSha1": "6d4bb2951619d674f512068e03237021848f500f"
+  },
+  {
+    "earthquakeAt": "2025-05-21T12:27:26.000Z",
+    "latitude": -0.42,
+    "longitude": 131.87,
+    "magnitude": 4.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 73 km Baratlaut Tambrauw",
+    "feltOnStations": "Kota Sorong II-III, Kab. Sorong II-III",
+    "bmkgEarthquakeId": "20250521192726",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250521192726.mmi.jpg",
+    "fingerprintSha1": "bb82e41dcf6b814f340ae64f80bd3c3dd77ec482"
   }
 ]
