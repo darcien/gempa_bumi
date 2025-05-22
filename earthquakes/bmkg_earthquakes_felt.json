@@ -25543,5 +25543,17 @@
     "bmkgEarthquakeId": "20250521192726",
     "shakeMapUrl": "https://static.bmkg.go.id/20250521192726.mmi.jpg",
     "fingerprintSha1": "bb82e41dcf6b814f340ae64f80bd3c3dd77ec482"
+  },
+  {
+    "earthquakeAt": "2025-05-22T19:52:37.000Z",
+    "latitude": -4.17,
+    "longitude": 102.17,
+    "magnitude": 6.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 43 km Barat Daya Bengkulu",
+    "feltOnStations": "IV - V Kota Bengkulu, IV - V Bengkulu, IV - V Empat Lawang, IV Kepahiang, IV Liwa, III - IV Lemong, III - IV Tais, III Muko - Muko, IV Rejang Lebong, IV Lubuk Linggau",
+    "bmkgEarthquakeId": "20250523025237",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250523025237.mmi.jpg",
+    "fingerprintSha1": "01afa394e754a6e6584d480a3c7f36208d7564bf"
   }
 ]
