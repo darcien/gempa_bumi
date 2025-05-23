@@ -25567,5 +25567,17 @@
     "bmkgEarthquakeId": "20250523222022",
     "shakeMapUrl": "https://static.bmkg.go.id/20250523222022.mmi.jpg",
     "fingerprintSha1": "58d72d64ab61a7c79c68edebaa8ef3e4ba421541"
+  },
+  {
+    "earthquakeAt": "2025-05-23T21:35:31.000Z",
+    "latitude": -3.9,
+    "longitude": 122.47,
+    "magnitude": 3.7,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km barat daya Bondoala Konawe",
+    "feltOnStations": "III Konawe, III Konawe Selatan, III Kendari",
+    "bmkgEarthquakeId": "20250524043531",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250524043531.mmi.jpg",
+    "fingerprintSha1": "946b1adac9b2a573fc90b75ce019d9f7c94dbb37"
   }
 ]
