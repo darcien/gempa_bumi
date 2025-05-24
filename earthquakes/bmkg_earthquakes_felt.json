@@ -25575,7 +25575,7 @@
     "magnitude": 3.7,
     "depthInKm": 8,
     "locationInIndonesian": "Pusat gempa berada di darat 1 km barat daya Bondoala Konawe",
-    "feltOnStations": "III Konawe, III Konawe Selatan, III Kendari",
+    "feltOnStations": "III Konawe Selatan, III Konawe, III Kendari",
     "bmkgEarthquakeId": "20250524043531",
     "shakeMapUrl": "https://static.bmkg.go.id/20250524043531.mmi.jpg",
     "fingerprintSha1": "946b1adac9b2a573fc90b75ce019d9f7c94dbb37"
@@ -25591,5 +25591,29 @@
     "bmkgEarthquakeId": "20250524065225",
     "shakeMapUrl": "https://static.bmkg.go.id/20250524065225.mmi.jpg",
     "fingerprintSha1": "43f16f7418fecd3d43451efe0a716dcb2019a0fe"
+  },
+  {
+    "earthquakeAt": "2025-05-24T08:36:40.000Z",
+    "latitude": -4.48,
+    "longitude": 129.97,
+    "magnitude": 4,
+    "depthInKm": 66,
+    "locationInIndonesian": "Pusat gempa berada di laut 9 km timur laut Banda-MALTENG",
+    "feltOnStations": "Banda II",
+    "bmkgEarthquakeId": "20250524153640",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250524153640.mmi.jpg",
+    "fingerprintSha1": "9fa53fef04f9191e447580e69c8f0f63b6b42722"
+  },
+  {
+    "earthquakeAt": "2025-05-23T20:41:48.000Z",
+    "latitude": -4.1,
+    "longitude": 121.87,
+    "magnitude": 2.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km barat daya Loea Kolaka Timur",
+    "feltOnStations": "II-III Kolaka Timur",
+    "bmkgEarthquakeId": "20250524034148",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250524034148.mmi.jpg",
+    "fingerprintSha1": "ac2e7279ab69ebbf70bdfd30098645187b8a766d"
   }
 ]
