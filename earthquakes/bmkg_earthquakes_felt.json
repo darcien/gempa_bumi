@@ -25615,5 +25615,17 @@
     "bmkgEarthquakeId": "20250524034148",
     "shakeMapUrl": "https://static.bmkg.go.id/20250524034148.mmi.jpg",
     "fingerprintSha1": "ac2e7279ab69ebbf70bdfd30098645187b8a766d"
+  },
+  {
+    "earthquakeAt": "2025-05-24T10:51:59.000Z",
+    "latitude": -3.98,
+    "longitude": 122.37,
+    "magnitude": 2.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km barat laut Sampara Konawe",
+    "feltOnStations": "II Konawe",
+    "bmkgEarthquakeId": "20250524175159",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250524175159.mmi.jpg",
+    "fingerprintSha1": "04d64bb9b4b007838796632ae60cf9bfc37a25e7"
   }
 ]
