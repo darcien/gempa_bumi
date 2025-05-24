@@ -25579,5 +25579,17 @@
     "bmkgEarthquakeId": "20250524043531",
     "shakeMapUrl": "https://static.bmkg.go.id/20250524043531.mmi.jpg",
     "fingerprintSha1": "946b1adac9b2a573fc90b75ce019d9f7c94dbb37"
+  },
+  {
+    "earthquakeAt": "2025-05-23T23:52:25.000Z",
+    "latitude": -3.98,
+    "longitude": 121.35,
+    "magnitude": 3.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km barat daya Samaturu Kolaka",
+    "feltOnStations": "III Kolaka",
+    "bmkgEarthquakeId": "20250524065225",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250524065225.mmi.jpg",
+    "fingerprintSha1": "43f16f7418fecd3d43451efe0a716dcb2019a0fe"
   }
 ]
