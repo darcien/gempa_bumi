@@ -25663,5 +25663,17 @@
     "bmkgEarthquakeId": "20250526161649",
     "shakeMapUrl": "https://static.bmkg.go.id/20250526161649.mmi.jpg",
     "fingerprintSha1": "0811abfd7bab497568414fd38051698e8bd0ec4d"
+  },
+  {
+    "earthquakeAt": "2025-05-27T00:55:05.000Z",
+    "latitude": -10.41,
+    "longitude": 110.25,
+    "magnitude": 5.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 265 km baratdaya Pacitan",
+    "feltOnStations": "II Nganjuk, II Trenggalek, II Yogyakarta, II Bantul, II Pacitan, II Blitar, II Malang, II Sukoharjo, II Gunungkidul",
+    "bmkgEarthquakeId": "20250527075505",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250527075505.mmi.jpg",
+    "fingerprintSha1": "b1dbacc4917c00ea0e0c54c343dac94131bb728f"
   }
 ]
