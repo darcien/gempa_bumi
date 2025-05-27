@@ -25687,5 +25687,17 @@
     "bmkgEarthquakeId": "20250527150939",
     "shakeMapUrl": "https://static.bmkg.go.id/20250527150939.mmi.jpg",
     "fingerprintSha1": "dd8774a3b0d8f75456a4ebb7488f454e2ff8dc20"
+  },
+  {
+    "earthquakeAt": "2025-05-27T11:27:10.000Z",
+    "latitude": -5,
+    "longitude": 122.95,
+    "magnitude": 4.6,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km tenggara Kambowa, Buton Utara",
+    "feltOnStations": "IV Buton Utara, IV Muna, IV Buton, III Baubau, III Buton Selatan",
+    "bmkgEarthquakeId": "20250527182710",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250527182710.mmi.jpg",
+    "fingerprintSha1": "7e39a093a560273b443fd743d22e8ab7efccbe08"
   }
 ]
