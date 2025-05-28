@@ -25699,5 +25699,17 @@
     "bmkgEarthquakeId": "20250527182710",
     "shakeMapUrl": "https://static.bmkg.go.id/20250527182710.mmi.jpg",
     "fingerprintSha1": "7e39a093a560273b443fd743d22e8ab7efccbe08"
+  },
+  {
+    "earthquakeAt": "2025-05-28T01:41:25.000Z",
+    "latitude": -2.35,
+    "longitude": 104.94,
+    "magnitude": 4.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 35 km Timur Laut Banyuasin",
+    "feltOnStations": "II - III Palembang, II - III Musi Banyuasin",
+    "bmkgEarthquakeId": "20250528084125",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250528084125.mmi.jpg",
+    "fingerprintSha1": "cb4bc3a8b6fa54b8531d7964b31eeae73f5b44f3"
   }
 ]
