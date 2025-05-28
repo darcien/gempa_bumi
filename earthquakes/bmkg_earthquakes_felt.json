@@ -25711,5 +25711,17 @@
     "bmkgEarthquakeId": "20250528084125",
     "shakeMapUrl": "https://static.bmkg.go.id/20250528084125.mmi.jpg",
     "fingerprintSha1": "cb4bc3a8b6fa54b8531d7964b31eeae73f5b44f3"
+  },
+  {
+    "earthquakeAt": "2025-05-28T13:46:09.000Z",
+    "latitude": -0.29,
+    "longitude": 100.3,
+    "magnitude": 3.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km baratlaut Bukittinggi",
+    "feltOnStations": "II - III Padang Panjang, II - III Payakumbuh, II - III Bukittinggi",
+    "bmkgEarthquakeId": "20250528204609",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250528204609.mmi.jpg",
+    "fingerprintSha1": "2a04d6619d759d5d2c0f5993fce4a6319004ef7e"
   }
 ]
