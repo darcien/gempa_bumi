@@ -25743,7 +25743,7 @@
     "magnitude": 4.2,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 55 km baratdaya Kab. Bandung",
-    "feltOnStations": "II-III Cianjur",
+    "feltOnStations": "II-III Cianjur, II-III Kec. Pagelaran, II-III Kec. Pasir Kuda",
     "bmkgEarthquakeId": "20250530041225",
     "shakeMapUrl": "https://static.bmkg.go.id/20250530041225.mmi.jpg",
     "fingerprintSha1": "3c66abb536bda47ebbabb68151250e0ca93f152f"
