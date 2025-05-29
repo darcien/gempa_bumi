@@ -25735,5 +25735,17 @@
     "bmkgEarthquakeId": "20250529085923",
     "shakeMapUrl": "https://static.bmkg.go.id/20250529085923.mmi.jpg",
     "fingerprintSha1": "45bf6c322d70cab11baad0d5bef92945e6be488c"
+  },
+  {
+    "earthquakeAt": "2025-05-29T21:12:25.000Z",
+    "latitude": -7.38,
+    "longitude": 107.18,
+    "magnitude": 4.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 55 km baratdaya Kab. Bandung",
+    "feltOnStations": "II-III Cianjur",
+    "bmkgEarthquakeId": "20250530041225",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250530041225.mmi.jpg",
+    "fingerprintSha1": "3c66abb536bda47ebbabb68151250e0ca93f152f"
   }
 ]
