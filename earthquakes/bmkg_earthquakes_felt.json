@@ -25747,5 +25747,29 @@
     "bmkgEarthquakeId": "20250530041225",
     "shakeMapUrl": "https://static.bmkg.go.id/20250530041225.mmi.jpg",
     "fingerprintSha1": "3c66abb536bda47ebbabb68151250e0ca93f152f"
+  },
+  {
+    "earthquakeAt": "2025-05-30T02:38:49.000Z",
+    "latitude": -4.18,
+    "longitude": 122.7,
+    "magnitude": 2.9,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km barat daya Moramo, Konawe Selatan",
+    "feltOnStations": "II - III Konawe Selatan",
+    "bmkgEarthquakeId": "20250530093849",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250530093849.mmi.jpg",
+    "fingerprintSha1": "ec4577dbd09634ab56aa7123a000d01c4b944f77"
+  },
+  {
+    "earthquakeAt": "2025-05-29T18:17:56.000Z",
+    "latitude": -4.28,
+    "longitude": 122.54,
+    "magnitude": 2.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km timur laut Laeya, Konawe Selatan",
+    "feltOnStations": "II-III Konawe Selatan",
+    "bmkgEarthquakeId": "20250530011756",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250530011756.mmi.jpg",
+    "fingerprintSha1": "952eaeecf849842c34d9d615a54a5a443a7ccc83"
   }
 ]
