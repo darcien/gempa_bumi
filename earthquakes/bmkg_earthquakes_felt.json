@@ -25803,7 +25803,7 @@
     "magnitude": 3.1,
     "depthInKm": 6,
     "locationInIndonesian": "Pusat gempa berada di darat 1 km BaratDaya Moramo-Konawe Selatan",
-    "feltOnStations": "III Konawe Selatan",
+    "feltOnStations": "III Konawe Selatan, II Kendari",
     "bmkgEarthquakeId": "20250530210026",
     "shakeMapUrl": "https://static.bmkg.go.id/20250530210026.mmi.jpg",
     "fingerprintSha1": "6b22a0e3cf055fc6af964833f170fa4a38ae6537"
