@@ -25779,9 +25779,21 @@
     "magnitude": 2.6,
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di darat 2 km BaratDaya Moramo Utara, Konawe Selatan",
-    "feltOnStations": "",
+    "feltOnStations": "II - III Konawe Selatan",
     "bmkgEarthquakeId": "20250530114021",
     "shakeMapUrl": "https://static.bmkg.go.id/20250530114021.mmi.jpg",
     "fingerprintSha1": "f2558ed3e85ded2094badb871add203235adf4c5"
+  },
+  {
+    "earthquakeAt": "2025-05-30T04:53:45.000Z",
+    "latitude": -5.02,
+    "longitude": 122.94,
+    "magnitude": 2.9,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km TimurLaut Kambowa, Buton Utara",
+    "feltOnStations": "III Buton Utara",
+    "bmkgEarthquakeId": "20250530115345",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250530115345.mmi.jpg",
+    "fingerprintSha1": "3d26895b295e8d260ddb4129bc25e5345001e329"
   }
 ]
