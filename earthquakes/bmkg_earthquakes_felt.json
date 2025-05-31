@@ -25807,5 +25807,17 @@
     "bmkgEarthquakeId": "20250530210026",
     "shakeMapUrl": "https://static.bmkg.go.id/20250530210026.mmi.jpg",
     "fingerprintSha1": "6b22a0e3cf055fc6af964833f170fa4a38ae6537"
+  },
+  {
+    "earthquakeAt": "2025-05-31T04:03:18.000Z",
+    "latitude": -3.99,
+    "longitude": 122.49,
+    "magnitude": 2.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km Timur Laut Wua-Wua, Kota Kendari",
+    "feltOnStations": "II Kendari",
+    "bmkgEarthquakeId": "20250531110318",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250531110318.mmi.jpg",
+    "fingerprintSha1": "c82044612632e6d91dc01842c27183ab9fa72132"
   }
 ]
