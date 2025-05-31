@@ -25843,5 +25843,17 @@
     "bmkgEarthquakeId": "20250531202206",
     "shakeMapUrl": "https://static.bmkg.go.id/20250531202206.mmi.jpg",
     "fingerprintSha1": "087f960dc3273f03bb90ad9bd0e49bbbafcdda80"
+  },
+  {
+    "earthquakeAt": "2025-05-31T18:41:50.000Z",
+    "latitude": -1.07,
+    "longitude": 119.69,
+    "magnitude": 4.9,
+    "depthInKm": 36,
+    "locationInIndonesian": "Pusat gempa berada di darat 28 km baratdaya Palu",
+    "feltOnStations": "III-IV Sigi, III-IV Palu",
+    "bmkgEarthquakeId": "20250601014150",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250601014150.mmi.jpg",
+    "fingerprintSha1": "7636c31921f11c7a4ff73d90497dee835d4f556d"
   }
 ]
