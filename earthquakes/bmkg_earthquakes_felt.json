@@ -25855,5 +25855,17 @@
     "bmkgEarthquakeId": "20250601014150",
     "shakeMapUrl": "https://static.bmkg.go.id/20250601014150.mmi.jpg",
     "fingerprintSha1": "7636c31921f11c7a4ff73d90497dee835d4f556d"
+  },
+  {
+    "earthquakeAt": "2025-06-01T16:13:14.000Z",
+    "latitude": -0.47,
+    "longitude": 99.91,
+    "magnitude": 4.6,
+    "depthInKm": 83,
+    "locationInIndonesian": "Pusat gempa berada di laut 21km barat daya Lubuk Basung - Agam",
+    "feltOnStations": "II - III Padang, I - II Padang Panjang",
+    "bmkgEarthquakeId": "20250601231314",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250601231314.mmi.jpg",
+    "fingerprintSha1": "c79a0e8a15a81a5bc58084885bfe218f3000d8b6"
   }
 ]
