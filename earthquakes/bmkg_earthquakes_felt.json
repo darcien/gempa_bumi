@@ -25879,5 +25879,17 @@
     "bmkgEarthquakeId": "20250602174152",
     "shakeMapUrl": "https://static.bmkg.go.id/20250602174152.mmi.jpg",
     "fingerprintSha1": "298d7cb9b04192bfebac547ab2561b09827bbbbb"
+  },
+  {
+    "earthquakeAt": "2025-06-02T11:39:44.000Z",
+    "latitude": -3.98,
+    "longitude": 122.35,
+    "magnitude": 2.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km baratlaut Besulutu, Konawe",
+    "feltOnStations": "II Konawe",
+    "bmkgEarthquakeId": "20250602183944",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250602183944.mmi.jpg",
+    "fingerprintSha1": "7d8e34ab3db8159a0ffb9765be054777b3ee9b77"
   }
 ]
