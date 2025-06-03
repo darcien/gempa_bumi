@@ -25886,7 +25886,7 @@
     "longitude": 122.35,
     "magnitude": 2.4,
     "depthInKm": 5,
-    "locationInIndonesian": "Pusat gempa berada di darat 1 km baratlaut Besulutu, Konawe",
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km baratlaut Besulutu, Konawe.",
     "feltOnStations": "II Konawe",
     "bmkgEarthquakeId": "20250602183944",
     "shakeMapUrl": "https://static.bmkg.go.id/20250602183944.mmi.jpg",
@@ -25915,5 +25915,17 @@
     "bmkgEarthquakeId": "20250603053409",
     "shakeMapUrl": "https://static.bmkg.go.id/20250603053409.mmi.jpg",
     "fingerprintSha1": "3752e4c2e1c16452387ae8e5292c1a32a9e069a7"
+  },
+  {
+    "earthquakeAt": "2025-06-03T16:22:31.000Z",
+    "latitude": -2.49,
+    "longitude": 140.69,
+    "magnitude": 3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km BaratLaut Kota Jayapura",
+    "feltOnStations": "III Kota Jayapura",
+    "bmkgEarthquakeId": "20250603232231",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250603232231.mmi.jpg",
+    "fingerprintSha1": "0cfb26b657a84b8ecf8a242c509d9e044ca59bf1"
   }
 ]
