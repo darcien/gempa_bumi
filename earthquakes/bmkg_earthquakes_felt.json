@@ -25939,5 +25939,17 @@
     "bmkgEarthquakeId": "20250606144404",
     "shakeMapUrl": "https://static.bmkg.go.id/20250606144404.mmi.jpg",
     "fingerprintSha1": "20aa8d2f6a5479e2e857c0a7fc70420a55de0778"
+  },
+  {
+    "earthquakeAt": "2025-06-06T09:27:05.000Z",
+    "latitude": -3.41,
+    "longitude": 128.64,
+    "magnitude": 3.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km barat Amalatu",
+    "feltOnStations": "II Saparua",
+    "bmkgEarthquakeId": "20250606162705",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250606162705.mmi.jpg",
+    "fingerprintSha1": "7eb24189ed07417a70871017498e862c7b6d11dc"
   }
 ]
