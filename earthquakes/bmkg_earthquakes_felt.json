@@ -25951,5 +25951,41 @@
     "bmkgEarthquakeId": "20250606162705",
     "shakeMapUrl": "https://static.bmkg.go.id/20250606162705.mmi.jpg",
     "fingerprintSha1": "7eb24189ed07417a70871017498e862c7b6d11dc"
+  },
+  {
+    "earthquakeAt": "2025-06-06T14:42:01.000Z",
+    "latitude": -8.77,
+    "longitude": 118.8,
+    "magnitude": 4.5,
+    "depthInKm": 85,
+    "locationInIndonesian": "Pusat gempa berada di darat 34 km tenggara kota Bima",
+    "feltOnStations": "III Kab. Bima, III Kota Bima, III Kab. Dompu",
+    "bmkgEarthquakeId": "20250606214201",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250606214201.mmi.jpg",
+    "fingerprintSha1": "1f777d5c6e641089dc179878a6cd62f8ff2f945b"
+  },
+  {
+    "earthquakeAt": "2025-06-06T14:34:56.000Z",
+    "latitude": -4.13,
+    "longitude": 122.58,
+    "magnitude": 2.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km timur laut Konawe Selatan",
+    "feltOnStations": "II-III Konawe Selatan",
+    "bmkgEarthquakeId": "20250606213456",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250606213456.mmi.jpg",
+    "fingerprintSha1": "2e4d907cf57bed00017d190f029625153f3cce47"
+  },
+  {
+    "earthquakeAt": "2025-06-06T14:31:53.000Z",
+    "latitude": -4.09,
+    "longitude": 122.54,
+    "magnitude": 2.2,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km barat laut Konawe Selatan",
+    "feltOnStations": "II-III Konawe Selatan",
+    "bmkgEarthquakeId": "20250606213153",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250606213153.mmi.jpg",
+    "fingerprintSha1": "d93887b9a348547ec9b8a819061c982e17260091"
   }
 ]
