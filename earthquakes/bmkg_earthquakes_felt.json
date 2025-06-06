@@ -25927,5 +25927,17 @@
     "bmkgEarthquakeId": "20250603232231",
     "shakeMapUrl": "https://static.bmkg.go.id/20250603232231.mmi.jpg",
     "fingerprintSha1": "0cfb26b657a84b8ecf8a242c509d9e044ca59bf1"
+  },
+  {
+    "earthquakeAt": "2025-06-06T07:44:04.000Z",
+    "latitude": -8.43,
+    "longitude": 117.54,
+    "magnitude": 3.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 14 km Timur Laut Sumbawa",
+    "feltOnStations": "III Sumbawa",
+    "bmkgEarthquakeId": "20250606144404",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250606144404.mmi.jpg",
+    "fingerprintSha1": "20aa8d2f6a5479e2e857c0a7fc70420a55de0778"
   }
 ]
