@@ -25999,5 +25999,17 @@
     "bmkgEarthquakeId": "20250607144821",
     "shakeMapUrl": "https://static.bmkg.go.id/20250607144821.mmi.jpg",
     "fingerprintSha1": "a2cb4fb30b5ee61e788ec817af1e16708cac10bf"
+  },
+  {
+    "earthquakeAt": "2025-06-07T08:42:14.000Z",
+    "latitude": -3.47,
+    "longitude": 128.65,
+    "magnitude": 4.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 5 km barat daya Amalatu, Seram Bagian Barat",
+    "feltOnStations": "III Kairatu, II Saparua",
+    "bmkgEarthquakeId": "20250607154214",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250607154214.mmi.jpg",
+    "fingerprintSha1": "411a5476eab9f2bb37c314eaceaf30a3e69adf09"
   }
 ]
