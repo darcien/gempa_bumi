@@ -26023,5 +26023,17 @@
     "bmkgEarthquakeId": "20250608180905",
     "shakeMapUrl": "https://static.bmkg.go.id/20250608180905.mmi.jpg",
     "fingerprintSha1": "440ab918f69e312438b436dd0a641dfb7bd59836"
+  },
+  {
+    "earthquakeAt": "2025-06-09T16:55:06.000Z",
+    "latitude": -8.08,
+    "longitude": 108.72,
+    "magnitude": 5,
+    "depthInKm": 47,
+    "locationInIndonesian": "Pusat gempa berada di laut 48 km Tenggara Kab. Pangandaran",
+    "feltOnStations": "III Pangandaran, II - III Cilacap, II - III Banyumas, II - III Kebumen, II - III Tasikmalaya, II - III Garut",
+    "bmkgEarthquakeId": "20250609235506",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250609235506.mmi.jpg",
+    "fingerprintSha1": "ba3e7128a313579f915cb19f6fe61250ec1026ce"
   }
 ]
