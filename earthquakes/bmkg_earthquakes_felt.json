@@ -26071,5 +26071,17 @@
     "bmkgEarthquakeId": "20250612164123",
     "shakeMapUrl": "https://static.bmkg.go.id/20250612164123.mmi.jpg",
     "fingerprintSha1": "1c4fcc520ec6d12f76f3819a57aee8ae23c4327f"
+  },
+  {
+    "earthquakeAt": "2025-06-12T11:26:51.000Z",
+    "latitude": -9.38,
+    "longitude": 124.45,
+    "magnitude": 4.7,
+    "depthInKm": 39,
+    "locationInIndonesian": "Pusat gempa berada di darat 18 km BaratLaut Timot Tengah Utara",
+    "feltOnStations": "II Kab. Timor Tengah Utara",
+    "bmkgEarthquakeId": "20250612182651",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250612182651.mmi.jpg",
+    "fingerprintSha1": "527ac5a4cc441d1219f6d286be5068abedb3c898"
   }
 ]
