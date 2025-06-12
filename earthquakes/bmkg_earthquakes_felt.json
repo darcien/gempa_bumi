@@ -26059,5 +26059,17 @@
     "bmkgEarthquakeId": "20250611052846",
     "shakeMapUrl": "https://static.bmkg.go.id/20250611052846.mmi.jpg",
     "fingerprintSha1": "1d45fa9de59f767c96c3a3af8297ab062c801782"
+  },
+  {
+    "earthquakeAt": "2025-06-12T09:41:23.000Z",
+    "latitude": -3.25,
+    "longitude": 130.35,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 14 km BaratDaya Seram Bagian Timur",
+    "feltOnStations": "III Bula, III Werinama",
+    "bmkgEarthquakeId": "20250612164123",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250612164123.mmi.jpg",
+    "fingerprintSha1": "1c4fcc520ec6d12f76f3819a57aee8ae23c4327f"
   }
 ]
