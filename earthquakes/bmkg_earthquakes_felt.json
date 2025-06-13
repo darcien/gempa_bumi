@@ -26095,5 +26095,17 @@
     "bmkgEarthquakeId": "20250613004943",
     "shakeMapUrl": "https://static.bmkg.go.id/20250613004943.mmi.jpg",
     "fingerprintSha1": "da555350a1e4483c83136c0aa29630be73987fda"
+  },
+  {
+    "earthquakeAt": "2025-06-13T22:31:53.000Z",
+    "latitude": -6.84,
+    "longitude": 107.11,
+    "magnitude": 2.5,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km baratdaya Kab. Cianjur",
+    "feltOnStations": "II-III Nagrak, II-III WarungKondang, II Mekarsari, II-III Cilaku",
+    "bmkgEarthquakeId": "20250614053153",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250614053153.mmi.jpg",
+    "fingerprintSha1": "2bbee890e566a5b58523f78c9baab6a17ac5afa6"
   }
 ]
