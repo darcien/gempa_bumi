@@ -26083,5 +26083,17 @@
     "bmkgEarthquakeId": "20250612182651",
     "shakeMapUrl": "https://static.bmkg.go.id/20250612182651.mmi.jpg",
     "fingerprintSha1": "527ac5a4cc441d1219f6d286be5068abedb3c898"
+  },
+  {
+    "earthquakeAt": "2025-06-12T17:49:43.000Z",
+    "latitude": -7.87,
+    "longitude": 113.76,
+    "magnitude": 3.6,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 20 km barat laut Bondowoso",
+    "feltOnStations": "III-IV Situbondo",
+    "bmkgEarthquakeId": "20250613004943",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250613004943.mmi.jpg",
+    "fingerprintSha1": "da555350a1e4483c83136c0aa29630be73987fda"
   }
 ]
