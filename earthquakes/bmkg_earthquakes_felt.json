@@ -26107,5 +26107,17 @@
     "bmkgEarthquakeId": "20250614053153",
     "shakeMapUrl": "https://static.bmkg.go.id/20250614053153.mmi.jpg",
     "fingerprintSha1": "2bbee890e566a5b58523f78c9baab6a17ac5afa6"
+  },
+  {
+    "earthquakeAt": "2025-06-14T04:58:00.000Z",
+    "latitude": -5.4,
+    "longitude": 104.67,
+    "magnitude": 3.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km barat laut Tanggamus",
+    "feltOnStations": "III Kota Agung, II Ulu Belu",
+    "bmkgEarthquakeId": "20250614115800",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250614115800.mmi.jpg",
+    "fingerprintSha1": "ab60f0d7963b791e3828503009eaaba016ece56b"
   }
 ]
