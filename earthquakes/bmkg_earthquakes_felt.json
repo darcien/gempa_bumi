@@ -26167,5 +26167,17 @@
     "bmkgEarthquakeId": "20250615182823",
     "shakeMapUrl": "https://static.bmkg.go.id/20250615182823.mmi.jpg",
     "fingerprintSha1": "3a3c62f53617fc07c9189e22519a69b3bb094cff"
+  },
+  {
+    "earthquakeAt": "2025-06-15T16:31:16.000Z",
+    "latitude": -8.18,
+    "longitude": 107.64,
+    "magnitude": 4.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 104 km baratdaya Kab. Tasikmalaya",
+    "feltOnStations": "II-III Pangandaran, II-III Tasikmalaya",
+    "bmkgEarthquakeId": "20250615233116",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250615233116.mmi.jpg",
+    "fingerprintSha1": "a6fa07062c48ce67169b697911f6e6ec86942094"
   }
 ]
