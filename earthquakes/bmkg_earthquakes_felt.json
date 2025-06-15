@@ -26143,5 +26143,17 @@
     "bmkgEarthquakeId": "20250615134945",
     "shakeMapUrl": "https://static.bmkg.go.id/20250615134945.mmi.jpg",
     "fingerprintSha1": "6cd09ce17dc7245c8e4524026ea98e003f94d120"
+  },
+  {
+    "earthquakeAt": "2025-06-15T07:42:14.000Z",
+    "latitude": -8.24,
+    "longitude": 112.99,
+    "magnitude": 3.1,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di darat 28 km BaratDaya Lumajang",
+    "feltOnStations": "II - III Lumajang",
+    "bmkgEarthquakeId": "20250615144214",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250615144214.mmi.jpg",
+    "fingerprintSha1": "a3c17e112abe99293902eed560cf0b314ee99701"
   }
 ]
