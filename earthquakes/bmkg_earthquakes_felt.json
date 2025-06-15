@@ -26131,5 +26131,17 @@
     "bmkgEarthquakeId": "20250615110844",
     "shakeMapUrl": "https://static.bmkg.go.id/20250615110844.mmi.jpg",
     "fingerprintSha1": "17ab9bff4e8766a9c2fde956e07fbe1c64be5e33"
+  },
+  {
+    "earthquakeAt": "2025-06-15T06:49:45.000Z",
+    "latitude": -3.52,
+    "longitude": 102.51,
+    "magnitude": 3.5,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km BaratDaya REJANGLEBONG",
+    "feltOnStations": "III Curup",
+    "bmkgEarthquakeId": "20250615134945",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250615134945.mmi.jpg",
+    "fingerprintSha1": "6cd09ce17dc7245c8e4524026ea98e003f94d120"
   }
 ]
