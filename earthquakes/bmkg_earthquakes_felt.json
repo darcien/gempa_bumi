@@ -26179,5 +26179,17 @@
     "bmkgEarthquakeId": "20250615233116",
     "shakeMapUrl": "https://static.bmkg.go.id/20250615233116.mmi.jpg",
     "fingerprintSha1": "a6fa07062c48ce67169b697911f6e6ec86942094"
+  },
+  {
+    "earthquakeAt": "2025-06-16T03:09:01.000Z",
+    "latitude": 0.73,
+    "longitude": 118.68,
+    "magnitude": 4.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 149 km timur laut Bontang",
+    "feltOnStations": "II - III Tarakan, II-III Sandaran, II-III Biduk - Biduk",
+    "bmkgEarthquakeId": "20250616100901",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250616100901.mmi.jpg",
+    "fingerprintSha1": "8f3c3101f6dcc255caa51bf14129ea349d75c31e"
   }
 ]
