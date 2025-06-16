@@ -26191,5 +26191,17 @@
     "bmkgEarthquakeId": "20250616100901",
     "shakeMapUrl": "https://static.bmkg.go.id/20250616100901.mmi.jpg",
     "fingerprintSha1": "8f3c3101f6dcc255caa51bf14129ea349d75c31e"
+  },
+  {
+    "earthquakeAt": "2025-06-16T03:51:02.000Z",
+    "latitude": -2.52,
+    "longitude": 121.12,
+    "magnitude": 3.6,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km barat laut Luwu Timur",
+    "feltOnStations": "III Malili",
+    "bmkgEarthquakeId": "20250616105102",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250616105102.mmi.jpg",
+    "fingerprintSha1": "14666a475ccd34dc7e5dceacd3f6ec5c2967610c"
   }
 ]
