@@ -26239,5 +26239,17 @@
     "bmkgEarthquakeId": "20250617210616",
     "shakeMapUrl": "https://static.bmkg.go.id/20250617210616.mmi.jpg",
     "fingerprintSha1": "cde9c77f2d3b3c37f4f44f928bb4fbcf9d293821"
+  },
+  {
+    "earthquakeAt": "2025-06-17T14:21:12.000Z",
+    "latitude": -8.44,
+    "longitude": 117.9,
+    "magnitude": 4.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 53 km Timurlaut SUMBAWA",
+    "feltOnStations": "III Sumbawa, III Dompu",
+    "bmkgEarthquakeId": "20250617212112",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250617212112.mmi.jpg",
+    "fingerprintSha1": "815f7ea4efbc14510935aae8faaff83b58a1fa8e"
   }
 ]
