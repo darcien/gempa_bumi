@@ -26227,5 +26227,17 @@
     "bmkgEarthquakeId": "20250617060526",
     "shakeMapUrl": "https://static.bmkg.go.id/20250617060526.mmi.jpg",
     "fingerprintSha1": "568724ccd0ca468c86477f095ac7eacb0c2fc1ee"
+  },
+  {
+    "earthquakeAt": "2025-06-17T14:06:16.000Z",
+    "latitude": -4.59,
+    "longitude": 102.14,
+    "magnitude": 4.3,
+    "depthInKm": 22,
+    "locationInIndonesian": "Pusat gempa berada di laut 74 km Baratdaya SELUMA",
+    "feltOnStations": "II - III Seluma",
+    "bmkgEarthquakeId": "20250617210616",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250617210616.mmi.jpg",
+    "fingerprintSha1": "cde9c77f2d3b3c37f4f44f928bb4fbcf9d293821"
   }
 ]
