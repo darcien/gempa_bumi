@@ -26259,9 +26259,33 @@
     "magnitude": 2.6,
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di darat 3 km BaratDaya Moramo, Konawe Selatan",
-    "feltOnStations": "III Konawe Selatan",
+    "feltOnStations": "III Konawe Selatan, II Nabire",
     "bmkgEarthquakeId": "20250617215149",
     "shakeMapUrl": "https://static.bmkg.go.id/20250617215149.mmi.jpg",
     "fingerprintSha1": "5300320cb67abbd32f683bb5407ca7af2624fc66"
+  },
+  {
+    "earthquakeAt": "2025-06-18T08:24:49.000Z",
+    "latitude": -8.32,
+    "longitude": 107.27,
+    "magnitude": 4.9,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 140 km BaratDaya Kabupaten Garut",
+    "feltOnStations": "III Garut",
+    "bmkgEarthquakeId": "20250618152449",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250618152449.mmi.jpg",
+    "fingerprintSha1": "36352db4955bf393fafe36dca2147f17c3949bc1"
+  },
+  {
+    "earthquakeAt": "2025-06-17T14:51:37.000Z",
+    "latitude": -3.16,
+    "longitude": 135.43,
+    "magnitude": 3.4,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 24 km BaratLaut Nabire",
+    "feltOnStations": "II Nabire",
+    "bmkgEarthquakeId": "20250617215137",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250617215137.mmi.jpg",
+    "fingerprintSha1": "3c352d0ed3f99da377d905df2d32431d142a2634"
   }
 ]
