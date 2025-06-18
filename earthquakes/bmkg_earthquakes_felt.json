@@ -26287,5 +26287,29 @@
     "bmkgEarthquakeId": "20250617215137",
     "shakeMapUrl": "https://static.bmkg.go.id/20250617215137.mmi.jpg",
     "fingerprintSha1": "3c352d0ed3f99da377d905df2d32431d142a2634"
+  },
+  {
+    "earthquakeAt": "2025-06-18T17:05:58.000Z",
+    "latitude": 4.8,
+    "longitude": 96.18,
+    "magnitude": 3.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada didarat 24 Km Barat Daya Pidie Jaya",
+    "feltOnStations": "II Geumpang",
+    "bmkgEarthquakeId": "20250619000558",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250619000558.mmi.jpg",
+    "fingerprintSha1": "d99296e28023dc91caff932a3c3e9df19aa5d7e2"
+  },
+  {
+    "earthquakeAt": "2025-06-18T16:52:44.000Z",
+    "latitude": 5.54,
+    "longitude": 95.78,
+    "magnitude": 3.7,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada didarat 26 Km Barat Laut Pidie",
+    "feltOnStations": "II Sare",
+    "bmkgEarthquakeId": "20250618235244",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250618235244.mmi.jpg",
+    "fingerprintSha1": "b892bde4b6b711a0aeefcc0da5b565749a52dc30"
   }
 ]
