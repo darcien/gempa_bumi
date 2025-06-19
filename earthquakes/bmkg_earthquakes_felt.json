@@ -26347,5 +26347,17 @@
     "bmkgEarthquakeId": "20250619194005",
     "shakeMapUrl": "https://static.bmkg.go.id/20250619194005.mmi.jpg",
     "fingerprintSha1": "c667eafc34db25282c2bfd6923368d3dd8476360"
+  },
+  {
+    "earthquakeAt": "2025-06-19T12:26:13.000Z",
+    "latitude": -8.35,
+    "longitude": 116.45,
+    "magnitude": 2.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 32 km timur laut Lombok Utara",
+    "feltOnStations": "Lombok Timur II",
+    "bmkgEarthquakeId": "20250619192613",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250619192613.mmi.jpg",
+    "fingerprintSha1": "b8fad8928d51c21cf324e3bee8f26767a672e42c"
   }
 ]
