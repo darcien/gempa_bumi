@@ -26335,5 +26335,17 @@
     "bmkgEarthquakeId": "20250619104858",
     "shakeMapUrl": "https://static.bmkg.go.id/20250619104858.mmi.jpg",
     "fingerprintSha1": "a5e04d22aa5f4a12167d02ac0a997c844d7d6521"
+  },
+  {
+    "earthquakeAt": "2025-06-19T12:40:05.000Z",
+    "latitude": -3.45,
+    "longitude": 128.63,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 6 km barat daya Amalatu, Seram Bagian Barat",
+    "feltOnStations": "II - III Ambon, II - III Saparua, II-III Amahai",
+    "bmkgEarthquakeId": "20250619194005",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250619194005.mmi.jpg",
+    "fingerprintSha1": "c667eafc34db25282c2bfd6923368d3dd8476360"
   }
 ]
