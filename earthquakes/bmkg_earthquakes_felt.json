@@ -26311,5 +26311,17 @@
     "bmkgEarthquakeId": "20250618235244",
     "shakeMapUrl": "https://static.bmkg.go.id/20250618235244.mmi.jpg",
     "fingerprintSha1": "b892bde4b6b711a0aeefcc0da5b565749a52dc30"
+  },
+  {
+    "earthquakeAt": "2025-06-19T01:41:31.000Z",
+    "latitude": -2.75,
+    "longitude": 134.5,
+    "magnitude": 4.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km barat daya Teluk Wondama",
+    "feltOnStations": "II-III Wasior",
+    "bmkgEarthquakeId": "20250619084131",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250619084131.mmi.jpg",
+    "fingerprintSha1": "3f34c6b22ca2b82b47b1fdfa13dbaaa5f59b0972"
   }
 ]
