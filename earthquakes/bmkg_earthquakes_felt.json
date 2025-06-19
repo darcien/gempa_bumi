@@ -26323,5 +26323,17 @@
     "bmkgEarthquakeId": "20250619084131",
     "shakeMapUrl": "https://static.bmkg.go.id/20250619084131.mmi.jpg",
     "fingerprintSha1": "3f34c6b22ca2b82b47b1fdfa13dbaaa5f59b0972"
+  },
+  {
+    "earthquakeAt": "2025-06-19T03:48:58.000Z",
+    "latitude": -2.88,
+    "longitude": 122.33,
+    "magnitude": 4.2,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di laut 15 km timurlaut Lafeu, Kab. Morowali",
+    "feltOnStations": "III Bahodopi, II-III Morowali",
+    "bmkgEarthquakeId": "20250619104858",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250619104858.mmi.jpg",
+    "fingerprintSha1": "a5e04d22aa5f4a12167d02ac0a997c844d7d6521"
   }
 ]
