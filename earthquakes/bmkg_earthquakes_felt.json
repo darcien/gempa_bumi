@@ -26383,5 +26383,17 @@
     "bmkgEarthquakeId": "20250621125306",
     "shakeMapUrl": "https://static.bmkg.go.id/20250621125306.mmi.jpg",
     "fingerprintSha1": "1767044a0cc0e1fb374acc41a00d09fa6e47a1df"
+  },
+  {
+    "earthquakeAt": "2025-06-21T16:34:58.000Z",
+    "latitude": -6.73,
+    "longitude": 105.15,
+    "magnitude": 4.9,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di laut 48 km baratdaya Sumur",
+    "feltOnStations": "II-III Kec. Malingping, II Pandeglang, II Labuan, II Kec. Kabandungan",
+    "bmkgEarthquakeId": "20250621233458",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250621233458.mmi.jpg",
+    "fingerprintSha1": "1a260f93c18c33a7866c0edf5fcb283eb66c683e"
   }
 ]
