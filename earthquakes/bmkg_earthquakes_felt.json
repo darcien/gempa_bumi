@@ -26371,5 +26371,17 @@
     "bmkgEarthquakeId": "20250621101334",
     "shakeMapUrl": "https://static.bmkg.go.id/20250621101334.mmi.jpg",
     "fingerprintSha1": "5a5df992babb4e11c2ce1e0bb0b4b67b7fac1953"
+  },
+  {
+    "earthquakeAt": "2025-06-21T05:53:06.000Z",
+    "latitude": -8.1,
+    "longitude": 108.24,
+    "magnitude": 4.4,
+    "depthInKm": 22,
+    "locationInIndonesian": "Pusat gempa berada di laut 52 km baratdaya Pangandaran",
+    "feltOnStations": "II-III Caringin , II - III Pamengpeuk, II-III Cisompet, II-III Pasirwangi, II-III Garut Kota, II-III Sindangkasih",
+    "bmkgEarthquakeId": "20250621125306",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250621125306.mmi.jpg",
+    "fingerprintSha1": "1767044a0cc0e1fb374acc41a00d09fa6e47a1df"
   }
 ]
