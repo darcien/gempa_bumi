@@ -26359,5 +26359,17 @@
     "bmkgEarthquakeId": "20250619192613",
     "shakeMapUrl": "https://static.bmkg.go.id/20250619192613.mmi.jpg",
     "fingerprintSha1": "b8fad8928d51c21cf324e3bee8f26767a672e42c"
+  },
+  {
+    "earthquakeAt": "2025-06-21T03:13:34.000Z",
+    "latitude": -2.83,
+    "longitude": 122.03,
+    "magnitude": 2.9,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km BaratDaya Bahodopi, Kab.Morowali",
+    "feltOnStations": "II-III Bahadopi",
+    "bmkgEarthquakeId": "20250621101334",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250621101334.mmi.jpg",
+    "fingerprintSha1": "5a5df992babb4e11c2ce1e0bb0b4b67b7fac1953"
   }
 ]
