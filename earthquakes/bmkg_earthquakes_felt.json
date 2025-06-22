@@ -26407,5 +26407,17 @@
     "bmkgEarthquakeId": "20250622163120",
     "shakeMapUrl": "https://static.bmkg.go.id/20250622163120.mmi.jpg",
     "fingerprintSha1": "3b63a98c848385b448bf9b9be85b1dd955ca43c5"
+  },
+  {
+    "earthquakeAt": "2025-06-22T11:47:22.000Z",
+    "latitude": -3.21,
+    "longitude": 130.32,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 23 km baratdaya Bula",
+    "feltOnStations": "III Werinama",
+    "bmkgEarthquakeId": "20250622184722",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250622184722.mmi.jpg",
+    "fingerprintSha1": "1b536217b4c7c01bddbdd765041346d63e8fc29b"
   }
 ]
