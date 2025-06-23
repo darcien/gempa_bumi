@@ -26419,5 +26419,17 @@
     "bmkgEarthquakeId": "20250622184722",
     "shakeMapUrl": "https://static.bmkg.go.id/20250622184722.mmi.jpg",
     "fingerprintSha1": "1b536217b4c7c01bddbdd765041346d63e8fc29b"
+  },
+  {
+    "earthquakeAt": "2025-06-23T15:07:41.000Z",
+    "latitude": -6.73,
+    "longitude": 106.54,
+    "magnitude": 2.5,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 28 km barat laut Kab. Sukabumi",
+    "feltOnStations": "II Kab. Bogor",
+    "bmkgEarthquakeId": "20250623220741",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250623220741.mmi.jpg",
+    "fingerprintSha1": "3b2f5f0593f6e3dc5e06984701cc006ff2214691"
   }
 ]
