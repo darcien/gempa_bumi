@@ -26443,5 +26443,17 @@
     "bmkgEarthquakeId": "20250624122156",
     "shakeMapUrl": "https://static.bmkg.go.id/20250624122156.mmi.jpg",
     "fingerprintSha1": "099003c440dad2bc073a1e87bcda5bdf30f826e0"
+  },
+  {
+    "earthquakeAt": "2025-06-24T15:18:37.000Z",
+    "latitude": 1.27,
+    "longitude": 117.94,
+    "magnitude": 3.7,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 107 km tenggara Berau",
+    "feltOnStations": "II-III Sangkulirang",
+    "bmkgEarthquakeId": "20250624221837",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250624221837.mmi.jpg",
+    "fingerprintSha1": "b12ec8ba97aaacb34cf5e54ecb24cb6d11f9e93b"
   }
 ]
