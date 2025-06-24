@@ -26431,5 +26431,17 @@
     "bmkgEarthquakeId": "20250623220741",
     "shakeMapUrl": "https://static.bmkg.go.id/20250623220741.mmi.jpg",
     "fingerprintSha1": "3b2f5f0593f6e3dc5e06984701cc006ff2214691"
+  },
+  {
+    "earthquakeAt": "2025-06-24T05:21:56.000Z",
+    "latitude": -3.41,
+    "longitude": 128.68,
+    "magnitude": 3.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km utara Amalatu-SBB",
+    "feltOnStations": "III Saparua",
+    "bmkgEarthquakeId": "20250624122156",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250624122156.mmi.jpg",
+    "fingerprintSha1": "099003c440dad2bc073a1e87bcda5bdf30f826e0"
   }
 ]
