@@ -26467,5 +26467,17 @@
     "bmkgEarthquakeId": "20250625023935",
     "shakeMapUrl": "https://static.bmkg.go.id/20250625023935.mmi.jpg",
     "fingerprintSha1": "ab8e415d390a8d5c973cbdcd9e8f8ee77e75fdf3"
+  },
+  {
+    "earthquakeAt": "2025-06-26T23:08:35.000Z",
+    "latitude": -8.39,
+    "longitude": 121.91,
+    "magnitude": 4.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di Laut 41 km Barat laut Maumere",
+    "feltOnStations": "II Ende",
+    "bmkgEarthquakeId": "20250627060835",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250627060835.mmi.jpg",
+    "fingerprintSha1": "9aba4e0b1a0fd59e53e039a8b6c338868ea31d46"
   }
 ]
