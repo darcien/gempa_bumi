@@ -26479,5 +26479,17 @@
     "bmkgEarthquakeId": "20250627060835",
     "shakeMapUrl": "https://static.bmkg.go.id/20250627060835.mmi.jpg",
     "fingerprintSha1": "9aba4e0b1a0fd59e53e039a8b6c338868ea31d46"
+  },
+  {
+    "earthquakeAt": "2025-06-27T04:53:53.000Z",
+    "latitude": -4.12,
+    "longitude": 121.88,
+    "magnitude": 3.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km Barat Daya Kolaka Timur",
+    "feltOnStations": "III - IV Kolaka Timur",
+    "bmkgEarthquakeId": "20250627115353",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250627115353.mmi.jpg",
+    "fingerprintSha1": "7424097da94f2371ddcc63dd4b4bb5a170e3f9bc"
   }
 ]
