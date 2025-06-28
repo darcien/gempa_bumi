@@ -26503,5 +26503,17 @@
     "bmkgEarthquakeId": "20250628110315",
     "shakeMapUrl": "https://static.bmkg.go.id/20250628110315.mmi.jpg",
     "fingerprintSha1": "270c1959b852ec83eecf52f7d306f920f0967807"
+  },
+  {
+    "earthquakeAt": "2025-06-28T11:10:55.000Z",
+    "latitude": -2.6,
+    "longitude": 121.24,
+    "magnitude": 2.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km tenggara Luwu Timur",
+    "feltOnStations": "II Wasuponda",
+    "bmkgEarthquakeId": "20250628181055",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250628181055.mmi.jpg",
+    "fingerprintSha1": "9d882c565d8d461dd8c8b1261b55a317d1217bd3"
   }
 ]
