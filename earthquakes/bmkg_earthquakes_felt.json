@@ -26515,5 +26515,17 @@
     "bmkgEarthquakeId": "20250628181055",
     "shakeMapUrl": "https://static.bmkg.go.id/20250628181055.mmi.jpg",
     "fingerprintSha1": "9d882c565d8d461dd8c8b1261b55a317d1217bd3"
+  },
+  {
+    "earthquakeAt": "2025-06-29T01:49:42.000Z",
+    "latitude": -6.76,
+    "longitude": 107.63,
+    "magnitude": 2.7,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada didarat 14Km Timur Laut Kota Cimahi",
+    "feltOnStations": "II-III lembang",
+    "bmkgEarthquakeId": "20250629084942",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250629084942.mmi.jpg",
+    "fingerprintSha1": "d9657db81e6da9bdbf87ea470c6a8d163694a12d"
   }
 ]
