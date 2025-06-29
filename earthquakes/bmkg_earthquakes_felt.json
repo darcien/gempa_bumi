@@ -26527,5 +26527,17 @@
     "bmkgEarthquakeId": "20250629084942",
     "shakeMapUrl": "https://static.bmkg.go.id/20250629084942.mmi.jpg",
     "fingerprintSha1": "d9657db81e6da9bdbf87ea470c6a8d163694a12d"
+  },
+  {
+    "earthquakeAt": "2025-06-29T10:29:01.000Z",
+    "latitude": -5.16,
+    "longitude": 102.51,
+    "magnitude": 4.2,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 33 km timur laut Enggano",
+    "feltOnStations": "III Enggano",
+    "bmkgEarthquakeId": "20250629172901",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250629172901.mmi.jpg",
+    "fingerprintSha1": "c4bc82737ef526fb0727830024dadcf77030e88e"
   }
 ]
