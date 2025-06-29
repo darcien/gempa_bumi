@@ -26539,5 +26539,17 @@
     "bmkgEarthquakeId": "20250629172901",
     "shakeMapUrl": "https://static.bmkg.go.id/20250629172901.mmi.jpg",
     "fingerprintSha1": "c4bc82737ef526fb0727830024dadcf77030e88e"
+  },
+  {
+    "earthquakeAt": "2025-06-29T13:52:36.000Z",
+    "latitude": -8.88,
+    "longitude": 112.46,
+    "magnitude": 3.7,
+    "depthInKm": 60,
+    "locationInIndonesian": "Pusat gempa berada di Laut 83 km BaratDaya Kab. Malang",
+    "feltOnStations": "II-III Lumajang",
+    "bmkgEarthquakeId": "20250629205236",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250629205236.mmi.jpg",
+    "fingerprintSha1": "a08804f8208f659c1a9956212f0f64e8162cf777"
   }
 ]
