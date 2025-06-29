@@ -26551,5 +26551,17 @@
     "bmkgEarthquakeId": "20250629205236",
     "shakeMapUrl": "https://static.bmkg.go.id/20250629205236.mmi.jpg",
     "fingerprintSha1": "a08804f8208f659c1a9956212f0f64e8162cf777"
+  },
+  {
+    "earthquakeAt": "2025-06-29T17:31:16.000Z",
+    "latitude": -7.26,
+    "longitude": 106.11,
+    "magnitude": 4,
+    "depthInKm": 24,
+    "locationInIndonesian": "Pusat gempa berada di Laut 39km baratdaya Bayah",
+    "feltOnStations": "II Simpenan, II Jampang Kulon",
+    "bmkgEarthquakeId": "20250630003116",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250630003116.mmi.jpg",
+    "fingerprintSha1": "b812b18399cd4a0d6f110288c4bf6c89def2444b"
   }
 ]
