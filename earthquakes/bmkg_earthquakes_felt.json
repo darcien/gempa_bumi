@@ -26563,5 +26563,17 @@
     "bmkgEarthquakeId": "20250630003116",
     "shakeMapUrl": "https://static.bmkg.go.id/20250630003116.mmi.jpg",
     "fingerprintSha1": "b812b18399cd4a0d6f110288c4bf6c89def2444b"
+  },
+  {
+    "earthquakeAt": "2025-06-30T16:49:16.000Z",
+    "latitude": 0.55,
+    "longitude": 99.59,
+    "magnitude": 4.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 35 km tenggara Mandailing Natal",
+    "feltOnStations": "IV Kab. Mandailing Natal, II-III Kab. Pasaman, II-III Pasaman Barat, II-III Padang Sidempuan",
+    "bmkgEarthquakeId": "20250630234916",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250630234916.mmi.jpg",
+    "fingerprintSha1": "8a99c45e1ad9a03cb88a66ba77412e8d1b3c11f2"
   }
 ]
