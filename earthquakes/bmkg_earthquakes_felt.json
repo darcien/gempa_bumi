@@ -26611,5 +26611,17 @@
     "bmkgEarthquakeId": "20250701200846",
     "shakeMapUrl": "https://static.bmkg.go.id/20250701200846.mmi.jpg",
     "fingerprintSha1": "46580ba99a814a6e2bc41c1ab689cad4205d4c3e"
+  },
+  {
+    "earthquakeAt": "2025-07-01T15:18:01.000Z",
+    "latitude": 2.27,
+    "longitude": 117.13,
+    "magnitude": 3.7,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 35 km barat laut Berau",
+    "feltOnStations": "II - III Muara Segah, II - III Tanjung Redep",
+    "bmkgEarthquakeId": "20250701221801",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250701221801.mmi.jpg",
+    "fingerprintSha1": "1834d62935ff05153e8023f1db8fd9d34d136801"
   }
 ]
