@@ -26587,5 +26587,17 @@
     "bmkgEarthquakeId": "20250701003123",
     "shakeMapUrl": "https://static.bmkg.go.id/20250701003123.mmi.jpg",
     "fingerprintSha1": "3c79389076ebd148beccde3b0c60a46660d9236e"
+  },
+  {
+    "earthquakeAt": "2025-07-01T02:00:44.000Z",
+    "latitude": 2.32,
+    "longitude": 117.12,
+    "magnitude": 3.6,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 40 km barat laut Berau",
+    "feltOnStations": "II - III Berau",
+    "bmkgEarthquakeId": "20250701090044",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250701090044.mmi.jpg",
+    "fingerprintSha1": "69d6ecb2a14d16361edadcf4b92a8346855dc7b6"
   }
 ]
