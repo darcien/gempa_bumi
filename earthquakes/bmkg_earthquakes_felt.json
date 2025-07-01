@@ -26599,5 +26599,17 @@
     "bmkgEarthquakeId": "20250701090044",
     "shakeMapUrl": "https://static.bmkg.go.id/20250701090044.mmi.jpg",
     "fingerprintSha1": "69d6ecb2a14d16361edadcf4b92a8346855dc7b6"
+  },
+  {
+    "earthquakeAt": "2025-07-01T13:08:46.000Z",
+    "latitude": 1.55,
+    "longitude": 97.01,
+    "magnitude": 4.6,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 40 km barat laut Nias Utara",
+    "feltOnStations": "III Nias Utara",
+    "bmkgEarthquakeId": "20250701200846",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250701200846.mmi.jpg",
+    "fingerprintSha1": "46580ba99a814a6e2bc41c1ab689cad4205d4c3e"
   }
 ]
