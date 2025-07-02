@@ -26659,5 +26659,17 @@
     "bmkgEarthquakeId": "20250702182119",
     "shakeMapUrl": "https://static.bmkg.go.id/20250702182119.mmi.jpg",
     "fingerprintSha1": "e3180ad2499c80878325b0322c06bbb21e7c32ec"
+  },
+  {
+    "earthquakeAt": "2025-07-02T14:27:38.000Z",
+    "latitude": -3.78,
+    "longitude": 101.85,
+    "magnitude": 4.8,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di laut 54 km BaratDaya Bengkulu Utara",
+    "feltOnStations": "III Kota Bengkulu, III Bengkulu Utara, II-III Kepahiang, II-III Rejang Lebong",
+    "bmkgEarthquakeId": "20250702212738",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250702212738.mmi.jpg",
+    "fingerprintSha1": "5c467da10dff4966c65890cea5ed952e9c4c1f13"
   }
 ]
