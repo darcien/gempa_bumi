@@ -26643,7 +26643,7 @@
     "magnitude": 5.1,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 32 km baratlaut Ransiki",
-    "feltOnStations": "II-III Manokwari",
+    "feltOnStations": "II-III Manokwari, III Ransiki",
     "bmkgEarthquakeId": "20250702173316",
     "shakeMapUrl": "https://static.bmkg.go.id/20250702173316.mmi.jpg",
     "fingerprintSha1": "9f4b958fe8f92c8b8ba9f06504dd72ce899ca7e3"
