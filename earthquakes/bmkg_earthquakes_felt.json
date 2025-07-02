@@ -26635,5 +26635,17 @@
     "bmkgEarthquakeId": "20250701233409",
     "shakeMapUrl": "https://static.bmkg.go.id/20250701233409.mmi.jpg",
     "fingerprintSha1": "36b08130732e37a7f2e3e9ced818433251c3ad21"
+  },
+  {
+    "earthquakeAt": "2025-07-02T10:33:16.000Z",
+    "latitude": -1.23,
+    "longitude": 134.02,
+    "magnitude": 5.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 32 km baratlaut Ransiki",
+    "feltOnStations": "II-III Manokwari",
+    "bmkgEarthquakeId": "20250702173316",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250702173316.mmi.jpg",
+    "fingerprintSha1": "9f4b958fe8f92c8b8ba9f06504dd72ce899ca7e3"
   }
 ]
