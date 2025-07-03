@@ -26671,5 +26671,17 @@
     "bmkgEarthquakeId": "20250702212738",
     "shakeMapUrl": "https://static.bmkg.go.id/20250702212738.mmi.jpg",
     "fingerprintSha1": "5c467da10dff4966c65890cea5ed952e9c4c1f13"
+  },
+  {
+    "earthquakeAt": "2025-07-03T00:43:47.000Z",
+    "latitude": 4.8,
+    "longitude": 94.62,
+    "magnitude": 4.8,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di laut 108 km Barat laut Calang - Aceh Jaya",
+    "feltOnStations": "II-III Aceh Jaya, II Banda Aceh, II Aceh Besar",
+    "bmkgEarthquakeId": "20250703074347",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250703074347.mmi.jpg",
+    "fingerprintSha1": "69cd6b79584fecb9b55d180e4508f760d02f6ac3"
   }
 ]
