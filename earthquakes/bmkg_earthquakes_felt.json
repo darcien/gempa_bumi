@@ -26782,5 +26782,17 @@
     "bmkgEarthquakeId": "20250704205931",
     "shakeMapUrl": "https://static.bmkg.go.id/20250704205931.mmi.jpg",
     "fingerprintSha1": "8ee3ea279cf1724bd7d1fd65dc68e798db17025b"
+  },
+  {
+    "earthquakeAt": "2025-07-04T17:21:21.000Z",
+    "latitude": -3.97,
+    "longitude": 126.85,
+    "magnitude": 4.2,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada dilaut 19 Km Tenggara Namrole-Buru Selatan",
+    "feltOnStations": "III Waesama",
+    "bmkgEarthquakeId": "20250705002121",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250705002121.mmi.jpg",
+    "fingerprintSha1": "d452d1352029f79f6980e1e4ba4e9572292ec70f"
   }
 ]
