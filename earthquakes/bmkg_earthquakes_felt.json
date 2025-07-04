@@ -26746,5 +26746,17 @@
     "meta": {
       "erroneousDataReason": "FUTURE_EARTHQUAKE"
     }
+  },
+  {
+    "earthquakeAt": "2025-07-04T10:46:27.000Z",
+    "latitude": -4.33,
+    "longitude": 122.48,
+    "magnitude": 2.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada didarat 1 Km Tenggara Laeya",
+    "feltOnStations": "II-III Konawe Selatan",
+    "bmkgEarthquakeId": "20250704174627",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250704174627.mmi.jpg",
+    "fingerprintSha1": "8819129e86b3c50fbaa67e3db4943ca8328a2612"
   }
 ]
