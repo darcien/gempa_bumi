@@ -26770,5 +26770,17 @@
     "bmkgEarthquakeId": "20250704182102",
     "shakeMapUrl": "https://static.bmkg.go.id/20250704182102.mmi.jpg",
     "fingerprintSha1": "34ae25bc88dbd15a8b277cc78502e09e1c81feef"
+  },
+  {
+    "earthquakeAt": "2025-07-04T13:59:31.000Z",
+    "latitude": -3.4,
+    "longitude": 128.64,
+    "magnitude": 4.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km barat laut Amalatu, Seram Bagian Barat",
+    "feltOnStations": "III-IV Amalatu, III-IV Kairatu, III-IV Masohi, II Ambon",
+    "bmkgEarthquakeId": "20250704205931",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250704205931.mmi.jpg",
+    "fingerprintSha1": "8ee3ea279cf1724bd7d1fd65dc68e798db17025b"
   }
 ]
