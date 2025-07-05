@@ -16,4 +16,4 @@ I do not own the earthquakes data. The earthquakes data is owned by BMKG and
 should be attributed to them. For usage rights of the data, please contact
 [DATA ONLINE BMKG][dataonline].
 
-[dataonline]: https://dataonline.bmkg.go.id/home
+[dataonline]: https://dataonline.bmkg.go.id
