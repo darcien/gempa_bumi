@@ -26806,5 +26806,17 @@
     "bmkgEarthquakeId": "20250706024222",
     "shakeMapUrl": "https://static.bmkg.go.id/20250706024222.mmi.jpg",
     "fingerprintSha1": "97b321d73e282200b88fe8f7b5f53f726ab2f840"
+  },
+  {
+    "earthquakeAt": "2025-07-06T11:55:49.000Z",
+    "latitude": -3.52,
+    "longitude": 128.67,
+    "magnitude": 3.1,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di laut 11 km selatan Amalatu",
+    "feltOnStations": "III Amalatu",
+    "bmkgEarthquakeId": "20250706185549",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250706185549.mmi.jpg",
+    "fingerprintSha1": "02456ccfe4fbbefd203959fa6b816a1a7849c27e"
   }
 ]
