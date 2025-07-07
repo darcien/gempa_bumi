@@ -26866,5 +26866,17 @@
     "bmkgEarthquakeId": "20250707170818",
     "shakeMapUrl": "https://static.bmkg.go.id/20250707170818.mmi.jpg",
     "fingerprintSha1": "0f4847139ab45caf4e99ed7d15bcde1d4a43dac8"
+  },
+  {
+    "earthquakeAt": "2025-07-07T10:41:04.000Z",
+    "latitude": -0.11,
+    "longitude": 130.63,
+    "magnitude": 4.8,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 41 km BaratLaut Raja Ampat",
+    "feltOnStations": "III Raja Ampat",
+    "bmkgEarthquakeId": "20250707174104",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250707174104.mmi.jpg",
+    "fingerprintSha1": "0599d68a05b5ba58de42514afc22795b08155b6f"
   }
 ]
