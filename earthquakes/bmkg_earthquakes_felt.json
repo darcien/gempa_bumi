@@ -26842,5 +26842,17 @@
     "bmkgEarthquakeId": "20250707081713",
     "shakeMapUrl": "https://static.bmkg.go.id/20250707081713.mmi.jpg",
     "fingerprintSha1": "59ba546f5399aaca8d5c6f351102e4ef6d596326"
+  },
+  {
+    "earthquakeAt": "2025-07-07T03:29:10.000Z",
+    "latitude": -0.73,
+    "longitude": 119.91,
+    "magnitude": 3.2,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 35 km tenggara Donggala",
+    "feltOnStations": "II-III Palu",
+    "bmkgEarthquakeId": "20250707102910",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250707102910.mmi.jpg",
+    "fingerprintSha1": "014591f864e5d499812621a8cc861ce6bd7332a8"
   }
 ]
