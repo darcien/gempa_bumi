@@ -26878,5 +26878,17 @@
     "bmkgEarthquakeId": "20250707174104",
     "shakeMapUrl": "https://static.bmkg.go.id/20250707174104.mmi.jpg",
     "fingerprintSha1": "0599d68a05b5ba58de42514afc22795b08155b6f"
+  },
+  {
+    "earthquakeAt": "2025-07-08T23:50:39.000Z",
+    "latitude": -6.52,
+    "longitude": 104.73,
+    "magnitude": 5.4,
+    "depthInKm": 24,
+    "locationInIndonesian": "Pusat gempa berada di laut 95 km barat laut Sumur",
+    "feltOnStations": "III Cibeber, III Bayah, III Pringsewu, II-III Malingping, II - III Banjarsari, II Semaka, II Pematang Sawah, II Kota Agung, II Bandar Lampung, II Sumberjo",
+    "bmkgEarthquakeId": "20250709065039",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250709065039.mmi.jpg",
+    "fingerprintSha1": "039fbf4ca595796ac35428d1f439b6755544c8ac"
   }
 ]
