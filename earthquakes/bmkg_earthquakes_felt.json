@@ -26890,5 +26890,29 @@
     "bmkgEarthquakeId": "20250709065039",
     "shakeMapUrl": "https://static.bmkg.go.id/20250709065039.mmi.jpg",
     "fingerprintSha1": "039fbf4ca595796ac35428d1f439b6755544c8ac"
+  },
+  {
+    "earthquakeAt": "2025-07-09T05:41:02.000Z",
+    "latitude": -3.42,
+    "longitude": 128.68,
+    "magnitude": 3.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km Barat laut Amalatu-SBB",
+    "feltOnStations": "III Amalatu",
+    "bmkgEarthquakeId": "20250709124102",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250709124102.mmi.jpg",
+    "fingerprintSha1": "a1dc3354cc3590d86053fba5c14c7f363c33be53"
+  },
+  {
+    "earthquakeAt": "2025-07-09T05:27:34.000Z",
+    "latitude": -0.2,
+    "longitude": 122.87,
+    "magnitude": 4.7,
+    "depthInKm": 144,
+    "locationInIndonesian": "Pusat gempa berada di laut 87 km barat daya Bonebolango",
+    "feltOnStations": "II Kabupaten Gorontalo",
+    "bmkgEarthquakeId": "20250709122734",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250709122734.mmi.jpg",
+    "fingerprintSha1": "d8330d17b5eb7a45fa5b344e55a039934cf0ca47"
   }
 ]
