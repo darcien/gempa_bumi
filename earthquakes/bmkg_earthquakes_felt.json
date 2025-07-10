@@ -26926,5 +26926,17 @@
     "bmkgEarthquakeId": "20250710000812",
     "shakeMapUrl": "https://static.bmkg.go.id/20250710000812.mmi.jpg",
     "fingerprintSha1": "8fd983ad9cf0aae52294aa2dd1d0f5313692fbd2"
+  },
+  {
+    "earthquakeAt": "2025-07-10T00:15:00.000Z",
+    "latitude": -3.43,
+    "longitude": 128.67,
+    "magnitude": 3.2,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km barat Amalatu, Seram Bagian Barat",
+    "feltOnStations": "II Amalatu",
+    "bmkgEarthquakeId": "20250710071500",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250710071500.mmi.jpg",
+    "fingerprintSha1": "22b22c3a1e427c02a920d2ba76b6cab1aed4d99c"
   }
 ]
