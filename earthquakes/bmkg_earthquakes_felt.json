@@ -26938,5 +26938,17 @@
     "bmkgEarthquakeId": "20250710071500",
     "shakeMapUrl": "https://static.bmkg.go.id/20250710071500.mmi.jpg",
     "fingerprintSha1": "22b22c3a1e427c02a920d2ba76b6cab1aed4d99c"
+  },
+  {
+    "earthquakeAt": "2025-07-10T06:50:48.000Z",
+    "latitude": -3.85,
+    "longitude": 128.46,
+    "magnitude": 4.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 35 km tenggara Ambon",
+    "feltOnStations": "III Ambon, II Amalatu",
+    "bmkgEarthquakeId": "20250710135048",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250710135048.mmi.jpg",
+    "fingerprintSha1": "c34a18186507d9febdee10d6d23fb82a2fa7d442"
   }
 ]
