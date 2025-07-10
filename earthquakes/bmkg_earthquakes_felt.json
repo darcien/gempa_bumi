@@ -26950,5 +26950,17 @@
     "bmkgEarthquakeId": "20250710135048",
     "shakeMapUrl": "https://static.bmkg.go.id/20250710135048.mmi.jpg",
     "fingerprintSha1": "c34a18186507d9febdee10d6d23fb82a2fa7d442"
+  },
+  {
+    "earthquakeAt": "2025-07-10T21:02:51.000Z",
+    "latitude": -8.38,
+    "longitude": 110.64,
+    "magnitude": 4,
+    "depthInKm": 68,
+    "locationInIndonesian": "Pusat gempa berada di laut 43 km Tenggara Gunungkidul",
+    "feltOnStations": "",
+    "bmkgEarthquakeId": "20250711040251",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250711040251.mmi.jpg",
+    "fingerprintSha1": "c1cf2b1e5481f7c18a4b9a00a18a8db9806412ca"
   }
 ]
