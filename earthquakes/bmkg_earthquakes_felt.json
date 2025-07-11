@@ -26974,5 +26974,17 @@
     "bmkgEarthquakeId": "20250711080149",
     "shakeMapUrl": "https://static.bmkg.go.id/20250711080149.mmi.jpg",
     "fingerprintSha1": "3122c60039b0da5081cebd9765173cf266220416"
+  },
+  {
+    "earthquakeAt": "2025-07-11T12:45:13.000Z",
+    "latitude": 3.15,
+    "longitude": 97.26,
+    "magnitude": 5.2,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 15 km tenggara Kab. Aceh Selatan",
+    "feltOnStations": "IV Aceh Selatan, III Aceh Tenggara, III Kab. Gayo Lues, III Aceh Barat Daya, III Nagan Raya, II-III Medan, II-III Karo, II-III Deli Serdang, III Subussalam, II-III Aceh Singkil",
+    "bmkgEarthquakeId": "20250711194513",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250711194513.mmi.jpg",
+    "fingerprintSha1": "f39b921ca379abf833a7f9ed49316bed9362a598"
   }
 ]
