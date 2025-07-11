@@ -26962,5 +26962,17 @@
     "bmkgEarthquakeId": "20250711040251",
     "shakeMapUrl": "https://static.bmkg.go.id/20250711040251.mmi.jpg",
     "fingerprintSha1": "c1cf2b1e5481f7c18a4b9a00a18a8db9806412ca"
+  },
+  {
+    "earthquakeAt": "2025-07-11T01:01:49.000Z",
+    "latitude": -4.03,
+    "longitude": 122.47,
+    "magnitude": 2.2,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km barat daya Baruga, Kota Kendari",
+    "feltOnStations": "II Kendari",
+    "bmkgEarthquakeId": "20250711080149",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250711080149.mmi.jpg",
+    "fingerprintSha1": "3122c60039b0da5081cebd9765173cf266220416"
   }
 ]
