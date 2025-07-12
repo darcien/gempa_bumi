@@ -26986,5 +26986,17 @@
     "bmkgEarthquakeId": "20250711194513",
     "shakeMapUrl": "https://static.bmkg.go.id/20250711194513.mmi.jpg",
     "fingerprintSha1": "f39b921ca379abf833a7f9ed49316bed9362a598"
+  },
+  {
+    "earthquakeAt": "2025-07-11T23:18:34.000Z",
+    "latitude": -4.14,
+    "longitude": 122.62,
+    "magnitude": 3.3,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km barat laut Moramo, Konawe Selatan",
+    "feltOnStations": "III Konawe Selatan",
+    "bmkgEarthquakeId": "20250712061834",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250712061834.mmi.jpg",
+    "fingerprintSha1": "9982d7190af640b9984096c753ab085525ef3bc5"
   }
 ]
