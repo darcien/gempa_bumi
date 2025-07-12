@@ -27022,5 +27022,17 @@
     "bmkgEarthquakeId": "20250712110037",
     "shakeMapUrl": "https://static.bmkg.go.id/20250712110037.mmi.jpg",
     "fingerprintSha1": "52ec57a58438637102d9f72009286089e1ae1d63"
+  },
+  {
+    "earthquakeAt": "2025-07-12T21:49:02.000Z",
+    "latitude": -3.27,
+    "longitude": 128.65,
+    "magnitude": 2.9,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di darat 14 km Barat Elpaputih, Seram Bagian Barat",
+    "feltOnStations": "III Amalatu",
+    "bmkgEarthquakeId": "20250713044902",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250713044902.mmi.jpg",
+    "fingerprintSha1": "23fc37a71176e09a6492dc323175b180bc5316bd"
   }
 ]
