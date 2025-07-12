@@ -27010,5 +27010,17 @@
     "bmkgEarthquakeId": "20250712102556",
     "shakeMapUrl": "https://static.bmkg.go.id/20250712102556.mmi.jpg",
     "fingerprintSha1": "a2513d52018771854d098c7499911c71fc2b966f"
+  },
+  {
+    "earthquakeAt": "2025-07-12T04:00:37.000Z",
+    "latitude": 1.63,
+    "longitude": 128.43,
+    "magnitude": 4.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 35 km BaratLaut Halmahera Timur",
+    "feltOnStations": "III Halmahera Utara",
+    "bmkgEarthquakeId": "20250712110037",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250712110037.mmi.jpg",
+    "fingerprintSha1": "52ec57a58438637102d9f72009286089e1ae1d63"
   }
 ]
