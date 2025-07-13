@@ -27034,5 +27034,17 @@
     "bmkgEarthquakeId": "20250713044902",
     "shakeMapUrl": "https://static.bmkg.go.id/20250713044902.mmi.jpg",
     "fingerprintSha1": "23fc37a71176e09a6492dc323175b180bc5316bd"
+  },
+  {
+    "earthquakeAt": "2025-07-13T18:42:10.000Z",
+    "latitude": -4.1,
+    "longitude": 136.33,
+    "magnitude": 4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km Tenggara Deiyai",
+    "feltOnStations": "III Enarotali",
+    "bmkgEarthquakeId": "20250714014210",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250714014210.mmi.jpg",
+    "fingerprintSha1": "635cfa9682dd1c4f9bf80310b000df361bab3819"
   }
 ]
