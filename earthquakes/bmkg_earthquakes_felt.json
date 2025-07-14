@@ -27106,5 +27106,17 @@
     "bmkgEarthquakeId": "20250714183846",
     "shakeMapUrl": "https://static.bmkg.go.id/20250714183846.mmi.jpg",
     "fingerprintSha1": "47ad9549d2aae2420efaa88876531102d6f3d9e0"
+  },
+  {
+    "earthquakeAt": "2025-07-14T12:52:18.000Z",
+    "latitude": -2,
+    "longitude": 120.71,
+    "magnitude": 5.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 67km Barat daya Poso",
+    "feltOnStations": "III-IV Poso, III-IV Morowali Utara, III-IV Luwu Timur, III Palopo, II Parigi, III Luwu Utara",
+    "bmkgEarthquakeId": "20250714195218",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250714195218.mmi.jpg",
+    "fingerprintSha1": "6717badf89198efe1883ab31caa4c6173e7a3b26"
   }
 ]
