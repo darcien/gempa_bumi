@@ -27058,5 +27058,29 @@
     "bmkgEarthquakeId": "20250714104912",
     "shakeMapUrl": "https://static.bmkg.go.id/20250714104912.mmi.jpg",
     "fingerprintSha1": "b88832276cdadbcce6a82c81b5345301731c577c"
+  },
+  {
+    "earthquakeAt": "2025-07-14T05:49:58.000Z",
+    "latitude": -6.23,
+    "longitude": 131.31,
+    "magnitude": 6.9,
+    "depthInKm": 108,
+    "locationInIndonesian": "Pusat gempa berada di laut 170 km Barat Daya Maluku Tenggara",
+    "feltOnStations": "IV-V Saumlaki, III-IV Dobo, III Banda, III - IV Tual, III Bula, III Sorong, IV Fak-Fak, III Ransiki, III Nabire",
+    "bmkgEarthquakeId": "20250714124958",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250714124958.mmi.jpg",
+    "fingerprintSha1": "0d61aa01d3ab76d684b6ab2916942631fe16f82e"
+  },
+  {
+    "earthquakeAt": "2025-07-14T05:39:09.000Z",
+    "latitude": 1.31,
+    "longitude": 126.53,
+    "magnitude": 5.1,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 107 km Barat Laut Jailolo",
+    "feltOnStations": "II - III Ternate Utara",
+    "bmkgEarthquakeId": "20250714123909",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250714123909.mmi.jpg",
+    "fingerprintSha1": "b2c3635ea3ae38ff293f81ad7a6838358a1074ae"
   }
 ]
