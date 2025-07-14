@@ -27082,5 +27082,29 @@
     "bmkgEarthquakeId": "20250714123909",
     "shakeMapUrl": "https://static.bmkg.go.id/20250714123909.mmi.jpg",
     "fingerprintSha1": "b2c3635ea3ae38ff293f81ad7a6838358a1074ae"
+  },
+  {
+    "earthquakeAt": "2025-07-14T11:39:02.000Z",
+    "latitude": -6.41,
+    "longitude": 107.18,
+    "magnitude": 2.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 5km Tenggara Kabupaten Bekasi",
+    "feltOnStations": "II Cikarang",
+    "bmkgEarthquakeId": "20250714183902",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250714183902.mmi.jpg",
+    "fingerprintSha1": "ba6ffaa9c1aec9b312543b531c14ba2f19a23ff7"
+  },
+  {
+    "earthquakeAt": "2025-07-14T11:38:46.000Z",
+    "latitude": -4.09,
+    "longitude": 121.81,
+    "magnitude": 3.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km Barat Laut Loea, Kolaka Timur",
+    "feltOnStations": "III Kolaka Timur",
+    "bmkgEarthquakeId": "20250714183846",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250714183846.mmi.jpg",
+    "fingerprintSha1": "47ad9549d2aae2420efaa88876531102d6f3d9e0"
   }
 ]
