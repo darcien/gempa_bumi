@@ -27118,5 +27118,29 @@
     "bmkgEarthquakeId": "20250714195218",
     "shakeMapUrl": "https://static.bmkg.go.id/20250714195218.mmi.jpg",
     "fingerprintSha1": "6717badf89198efe1883ab31caa4c6173e7a3b26"
+  },
+  {
+    "earthquakeAt": "2025-07-15T01:19:37.000Z",
+    "latitude": -2.71,
+    "longitude": 129.54,
+    "magnitude": 4.2,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 12 km timur laut Wahai, Maluku Tengah",
+    "feltOnStations": "III Seram Utara",
+    "bmkgEarthquakeId": "20250715081937",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250715081937.mmi.jpg",
+    "fingerprintSha1": "aa7a60a54a1dfad634c12516ed9f1a911237d63b"
+  },
+  {
+    "earthquakeAt": "2025-07-14T22:18:26.000Z",
+    "latitude": -2.71,
+    "longitude": 129.57,
+    "magnitude": 4.7,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di laut 14 km timur laut Wahai, Maluku Tengah",
+    "feltOnStations": "III Seram Utara",
+    "bmkgEarthquakeId": "20250715051826",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250715051826.mmi.jpg",
+    "fingerprintSha1": "a85d58477ce65ea09c2ef064200d97e9e2d6d4a7"
   }
 ]
