@@ -27142,5 +27142,17 @@
     "bmkgEarthquakeId": "20250715051826",
     "shakeMapUrl": "https://static.bmkg.go.id/20250715051826.mmi.jpg",
     "fingerprintSha1": "a85d58477ce65ea09c2ef064200d97e9e2d6d4a7"
+  },
+  {
+    "earthquakeAt": "2025-07-15T08:35:55.000Z",
+    "latitude": -8.4,
+    "longitude": 116.04,
+    "magnitude": 4.5,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 14 km barat daya Lombok Utara",
+    "feltOnStations": "III Mataram, III Lombok Barat, III Lombok Utara, II Lombok Tengah, II Lombok Timur, II Karangasem, II Klungkung, II Gianyar, II Kuta Selatan",
+    "bmkgEarthquakeId": "20250715153555",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250715153555.mmi.jpg",
+    "fingerprintSha1": "fce02a218bd3218c4a7b8dc855e7ae8e92a2246a"
   }
 ]
