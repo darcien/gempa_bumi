@@ -27154,5 +27154,17 @@
     "bmkgEarthquakeId": "20250715153555",
     "shakeMapUrl": "https://static.bmkg.go.id/20250715153555.mmi.jpg",
     "fingerprintSha1": "fce02a218bd3218c4a7b8dc855e7ae8e92a2246a"
+  },
+  {
+    "earthquakeAt": "2025-07-16T06:06:05.000Z",
+    "latitude": -2.4,
+    "longitude": 120.81,
+    "magnitude": 3.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 44 km BaratLaut Luwu Timur",
+    "feltOnStations": "III Tomoni, III Mangkutana",
+    "bmkgEarthquakeId": "20250716130605",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250716130605.mmi.jpg",
+    "fingerprintSha1": "c03846e309ff67d30feb27b00a67e2f92add5bad"
   }
 ]
