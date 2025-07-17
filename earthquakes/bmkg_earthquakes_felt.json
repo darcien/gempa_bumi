@@ -27214,5 +27214,17 @@
     "bmkgEarthquakeId": "20250717234014",
     "shakeMapUrl": "https://static.bmkg.go.id/20250717234014.mmi.jpg",
     "fingerprintSha1": "7041e21f35f5b2c5e208623059f90ef2622466a1"
+  },
+  {
+    "earthquakeAt": "2025-07-17T19:02:10.000Z",
+    "latitude": -0.27,
+    "longitude": 99.06,
+    "magnitude": 5.3,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di laut 95 km barat daya Pasaman Barat",
+    "feltOnStations": "II - III Pasaman Barat, II - III Pariaman, I - II Padang Panjang",
+    "bmkgEarthquakeId": "20250718020210",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250718020210.mmi.jpg",
+    "fingerprintSha1": "12128c0c04152188c232f849e7cf87da44356307"
   }
 ]
