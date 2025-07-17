@@ -27226,5 +27226,17 @@
     "bmkgEarthquakeId": "20250718020210",
     "shakeMapUrl": "https://static.bmkg.go.id/20250718020210.mmi.jpg",
     "fingerprintSha1": "12128c0c04152188c232f849e7cf87da44356307"
+  },
+  {
+    "earthquakeAt": "2025-07-17T21:46:34.000Z",
+    "latitude": -4.17,
+    "longitude": 121.77,
+    "magnitude": 2.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km Tenggara Baula, Kolaka",
+    "feltOnStations": "II-III Kolaka",
+    "bmkgEarthquakeId": "20250718044634",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250718044634.mmi.jpg",
+    "fingerprintSha1": "25eed52b00c9bf994d1c1ad0bd7abb5a90a17e29"
   }
 ]
