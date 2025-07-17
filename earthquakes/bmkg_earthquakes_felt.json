@@ -27178,5 +27178,17 @@
     "bmkgEarthquakeId": "20250717120236",
     "shakeMapUrl": "https://static.bmkg.go.id/20250717120236.mmi.jpg",
     "fingerprintSha1": "cfd2846497eae0062ff1e5492599f1d7d8e727fd"
+  },
+  {
+    "earthquakeAt": "2025-07-17T09:04:27.000Z",
+    "latitude": -10.02,
+    "longitude": 119.22,
+    "magnitude": 5.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 31 km Barat daya Wanokaka",
+    "feltOnStations": "III-IV Sumba Timur, II-III Tambolaka, III Kab. Bima, III Kota Bima, III Sumbawa Barat, III Sumbawa, II Lombok Tengah, II Lombok Timur, II Lombok Barat",
+    "bmkgEarthquakeId": "20250717160427",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250717160427.mmi.jpg",
+    "fingerprintSha1": "12ccc62af12463e2eab58423579b98caecdc31e3"
   }
 ]
