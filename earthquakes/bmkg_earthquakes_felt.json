@@ -27298,5 +27298,17 @@
     "bmkgEarthquakeId": "20250718204733",
     "shakeMapUrl": "https://static.bmkg.go.id/20250718204733.mmi.jpg",
     "fingerprintSha1": "9b5763086e1ec9aca92238a24c2f183fc2b02b7d"
+  },
+  {
+    "earthquakeAt": "2025-07-18T19:33:29.000Z",
+    "latitude": -3.4,
+    "longitude": 101.51,
+    "magnitude": 4.1,
+    "depthInKm": 22,
+    "locationInIndonesian": "Pusat gempa berada di laut 76 km barat laut Bengkulu Utara",
+    "feltOnStations": "II-III Bengkulu Utara",
+    "bmkgEarthquakeId": "20250719023329",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250719023329.mmi.jpg",
+    "fingerprintSha1": "c7e47752ce660adfa6092f1199e1d32dd7d7cc32"
   }
 ]
