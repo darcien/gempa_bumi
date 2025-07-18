@@ -27262,5 +27262,17 @@
     "bmkgEarthquakeId": "20250718125625",
     "shakeMapUrl": "https://static.bmkg.go.id/20250718125625.mmi.jpg",
     "fingerprintSha1": "0fd9ff719d9ed0de875531b6eb922a05d4a8aff5"
+  },
+  {
+    "earthquakeAt": "2025-07-18T12:19:06.000Z",
+    "latitude": -8.02,
+    "longitude": 113.36,
+    "magnitude": 3.3,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 19 km timur laut Lumajang",
+    "feltOnStations": "II Probolinggo",
+    "bmkgEarthquakeId": "20250718191906",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250718191906.mmi.jpg",
+    "fingerprintSha1": "dc741cef2d77b66267de089a9b096a71852a78d2"
   }
 ]
