@@ -27210,7 +27210,7 @@
     "magnitude": 4.4,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 18 km Barat Laut Sinabang",
-    "feltOnStations": "3 Simeulue",
+    "feltOnStations": "III Simeulue",
     "bmkgEarthquakeId": "20250717234014",
     "shakeMapUrl": "https://static.bmkg.go.id/20250717234014.mmi.jpg",
     "fingerprintSha1": "7041e21f35f5b2c5e208623059f90ef2622466a1"
@@ -27238,5 +27238,17 @@
     "bmkgEarthquakeId": "20250718044634",
     "shakeMapUrl": "https://static.bmkg.go.id/20250718044634.mmi.jpg",
     "fingerprintSha1": "25eed52b00c9bf994d1c1ad0bd7abb5a90a17e29"
+  },
+  {
+    "earthquakeAt": "2025-07-17T23:59:36.000Z",
+    "latitude": -1.98,
+    "longitude": 117.48,
+    "magnitude": 4.6,
+    "depthInKm": 26,
+    "locationInIndonesian": "Pusat gempa berada di laut 107 km Tenggara Balikpapan",
+    "feltOnStations": "II-III Balikpapan, II-III Kotabaru, II-III Batulicin",
+    "bmkgEarthquakeId": "20250718065936",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250718065936.mmi.jpg",
+    "fingerprintSha1": "f31f2ea013b916ee2803aac61dcfa3ed4590e673"
   }
 ]
