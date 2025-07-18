@@ -27286,5 +27286,17 @@
     "bmkgEarthquakeId": "20250718200346",
     "shakeMapUrl": "https://static.bmkg.go.id/20250718200346.mmi.jpg",
     "fingerprintSha1": "300c7b9693533ce7e01e9733b37ab965e9b6de4c"
+  },
+  {
+    "earthquakeAt": "2025-07-18T13:47:33.000Z",
+    "latitude": -8.01,
+    "longitude": 113.37,
+    "magnitude": 2.4,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 19 km Barat Daya Kab. Probolinggo",
+    "feltOnStations": "II - III Probolinggo",
+    "bmkgEarthquakeId": "20250718204733",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250718204733.mmi.jpg",
+    "fingerprintSha1": "9b5763086e1ec9aca92238a24c2f183fc2b02b7d"
   }
 ]
