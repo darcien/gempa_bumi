@@ -27322,5 +27322,17 @@
     "bmkgEarthquakeId": "20250719070734",
     "shakeMapUrl": "https://static.bmkg.go.id/20250719070734.mmi.jpg",
     "fingerprintSha1": "306bb793dd8175a93e21c790844cb060b341e3e0"
+  },
+  {
+    "earthquakeAt": "2025-07-19T06:53:43.000Z",
+    "latitude": -0.67,
+    "longitude": 123.23,
+    "magnitude": 5.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 74 km Timur Laut Banggai Kepulauan",
+    "feltOnStations": "II-III Kota Gorontalo",
+    "bmkgEarthquakeId": "20250719135343",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250719135343.mmi.jpg",
+    "fingerprintSha1": "5ac5277151a131888d7fb5daf7fbaf7093bbee78"
   }
 ]
