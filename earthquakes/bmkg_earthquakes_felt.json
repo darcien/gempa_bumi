@@ -27310,5 +27310,17 @@
     "bmkgEarthquakeId": "20250719023329",
     "shakeMapUrl": "https://static.bmkg.go.id/20250719023329.mmi.jpg",
     "fingerprintSha1": "c7e47752ce660adfa6092f1199e1d32dd7d7cc32"
+  },
+  {
+    "earthquakeAt": "2025-07-19T00:07:34.000Z",
+    "latitude": -4.08,
+    "longitude": 121.67,
+    "magnitude": 2.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di 1 km barat daya Wundulako",
+    "feltOnStations": "II-III Kolaka",
+    "bmkgEarthquakeId": "20250719070734",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250719070734.mmi.jpg",
+    "fingerprintSha1": "306bb793dd8175a93e21c790844cb060b341e3e0"
   }
 ]
