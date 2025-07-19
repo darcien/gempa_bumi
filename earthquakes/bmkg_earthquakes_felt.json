@@ -27330,9 +27330,21 @@
     "magnitude": 5.3,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 74 km Timur Laut Banggai Kepulauan",
-    "feltOnStations": "II-III Kota Gorontalo",
+    "feltOnStations": "II-III Kota Gorontalo, III Luwuk",
     "bmkgEarthquakeId": "20250719135343",
     "shakeMapUrl": "https://static.bmkg.go.id/20250719135343.mmi.jpg",
     "fingerprintSha1": "5ac5277151a131888d7fb5daf7fbaf7093bbee78"
+  },
+  {
+    "earthquakeAt": "2025-07-19T10:52:22.000Z",
+    "latitude": -4.1,
+    "longitude": 121.64,
+    "magnitude": 2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km TimurLaut Wundulako, Kolaka",
+    "feltOnStations": "II Kolaka",
+    "bmkgEarthquakeId": "20250719175222",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250719175222.mmi.jpg",
+    "fingerprintSha1": "9dda7d0808abf13b47674be1d0936ef85ffa33dd"
   }
 ]
