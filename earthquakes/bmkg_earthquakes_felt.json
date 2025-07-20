@@ -27370,5 +27370,17 @@
     "bmkgEarthquakeId": "20250719213334",
     "shakeMapUrl": "https://static.bmkg.go.id/20250719213334.mmi.jpg",
     "fingerprintSha1": "5cf426ac9c0aefcb127eeda6d94a3abd3adb3b13"
+  },
+  {
+    "earthquakeAt": "2025-07-20T04:47:34.000Z",
+    "latitude": -7.74,
+    "longitude": 106.49,
+    "magnitude": 4.2,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 83 km barat daya Kabupaten Sukabumi",
+    "feltOnStations": "III Surade, Kabupaten Sukabumi, III Ciracap, Kabupaten Sukabumi",
+    "bmkgEarthquakeId": "20250720114734",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250720114734.mmi.jpg",
+    "fingerprintSha1": "790f68e45643ff679bfc270ef3d83002991ed957"
   }
 ]
