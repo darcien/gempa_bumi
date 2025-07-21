@@ -27382,5 +27382,29 @@
     "bmkgEarthquakeId": "20250720114734",
     "shakeMapUrl": "https://static.bmkg.go.id/20250720114734.mmi.jpg",
     "fingerprintSha1": "790f68e45643ff679bfc270ef3d83002991ed957"
+  },
+  {
+    "earthquakeAt": "2025-07-21T06:41:21.000Z",
+    "latitude": -7.76,
+    "longitude": 106.65,
+    "magnitude": 3.3,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 86 km tenggara Kabupaten Sukabumi",
+    "feltOnStations": "II-III Ciracap, II Surade",
+    "bmkgEarthquakeId": "20250721134121",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250721134121.mmi.jpg",
+    "fingerprintSha1": "a24884d648dc8b600d5e568e78f1ab20d6292580"
+  },
+  {
+    "earthquakeAt": "2025-07-21T04:50:30.000Z",
+    "latitude": -0.12,
+    "longitude": 123.28,
+    "magnitude": 4.9,
+    "depthInKm": 131,
+    "locationInIndonesian": "Pusat gempa berada di laut 74 Km Tenggara, Bonebolango, Gorontalo",
+    "feltOnStations": "II-III Gorontalo",
+    "bmkgEarthquakeId": "20250721115030",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250721115030.mmi.jpg",
+    "fingerprintSha1": "25c1c4f2993e06fae531fad45dcc3cdb0c5c96a9"
   }
 ]
