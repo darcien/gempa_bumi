@@ -27406,5 +27406,17 @@
     "bmkgEarthquakeId": "20250721115030",
     "shakeMapUrl": "https://static.bmkg.go.id/20250721115030.mmi.jpg",
     "fingerprintSha1": "25c1c4f2993e06fae531fad45dcc3cdb0c5c96a9"
+  },
+  {
+    "earthquakeAt": "2025-07-22T08:40:11.000Z",
+    "latitude": -7.76,
+    "longitude": 118.92,
+    "magnitude": 4.9,
+    "depthInKm": 21,
+    "locationInIndonesian": "Pusat gempa berada di laut 79 km timur laut Bima",
+    "feltOnStations": "III Kota Bima, III Kab. Bima",
+    "bmkgEarthquakeId": "20250722154011",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250722154011.mmi.jpg",
+    "fingerprintSha1": "dc1e1ba344a79513c786d05066a6b496768ac230"
   }
 ]
