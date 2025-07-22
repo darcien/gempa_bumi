@@ -27418,5 +27418,17 @@
     "bmkgEarthquakeId": "20250722154011",
     "shakeMapUrl": "https://static.bmkg.go.id/20250722154011.mmi.jpg",
     "fingerprintSha1": "dc1e1ba344a79513c786d05066a6b496768ac230"
+  },
+  {
+    "earthquakeAt": "2025-07-22T09:11:40.000Z",
+    "latitude": -7.18,
+    "longitude": 107.49,
+    "magnitude": 2.4,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 18 km barat daya Kab. Bandung",
+    "feltOnStations": "2 Ciwidey, 2 Banjaran, 2 Cimaung",
+    "bmkgEarthquakeId": "20250722161140",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250722161140.mmi.jpg",
+    "fingerprintSha1": "9e1099d0eb98721eab9602758958485bc19a3a01"
   }
 ]
