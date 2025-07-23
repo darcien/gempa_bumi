@@ -27430,5 +27430,17 @@
     "bmkgEarthquakeId": "20250722161140",
     "shakeMapUrl": "https://static.bmkg.go.id/20250722161140.mmi.jpg",
     "fingerprintSha1": "9e1099d0eb98721eab9602758958485bc19a3a01"
+  },
+  {
+    "earthquakeAt": "2025-07-23T07:29:14.000Z",
+    "latitude": -8.3,
+    "longitude": 124.35,
+    "magnitude": 3.6,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 22 km Barat Daya Alor",
+    "feltOnStations": "III Kalabahi",
+    "bmkgEarthquakeId": "20250723142914",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250723142914.mmi.jpg",
+    "fingerprintSha1": "5510501f77734e7503c2d0d47bd5c9a5a0813dbe"
   }
 ]
