@@ -27462,9 +27462,21 @@
     "magnitude": 6.3,
     "depthInKm": 132,
     "locationInIndonesian": "Pusat gempa berada di darat 8 km tenggara Pohuwato",
-    "feltOnStations": "III-IV Pohuwato, III Gorontalo, III Bulungan, II-III Manado, II-III Minahasa Utara, III-IV Toli-Toli, III Kab. Kutai Timur, III Kab. Berau, III Bolaang Mongondow Timur, III Tomohon, III Bolaang Mongondow, III Minahasa Selatan, III Kotamobagu, III Bolaang Mongondow Utara, III Minahasa Tenggara",
+    "feltOnStations": "III-IV Pohuwato, III Gorontalo, III Bulungan, II-III Manado, II-III Minahasa Utara, III-IV Toli-Toli, III Kab. Kutai Timur, III Kab. Berau, III Bolaang Mongondow Timur, III Tomohon, III Bolaang Mongondow, III Minahasa Selatan, III Kotamobagu, III Bolaang Mongondow Utara, III Minahasa Tenggara, III Boalemo, III Donggala, III Gorontalo Utara, III Bone Bolango, III-IV Parigi Moutong",
     "bmkgEarthquakeId": "20250724035045",
     "shakeMapUrl": "https://static.bmkg.go.id/20250724035045.mmi.jpg",
     "fingerprintSha1": "31fe56fb60ce423ad7b58be4529e58a2145f4195"
+  },
+  {
+    "earthquakeAt": "2025-07-23T20:33:54.000Z",
+    "latitude": -6.84,
+    "longitude": 107.11,
+    "magnitude": 1.9,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km barat daya Cianjur",
+    "feltOnStations": "II Cianjur",
+    "bmkgEarthquakeId": "20250724033354",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250724033354.mmi.jpg",
+    "fingerprintSha1": "f12eaeafdfce952abce4136f90c53579e9342e6f"
   }
 ]
