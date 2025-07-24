@@ -27478,5 +27478,17 @@
     "bmkgEarthquakeId": "20250724033354",
     "shakeMapUrl": "https://static.bmkg.go.id/20250724033354.mmi.jpg",
     "fingerprintSha1": "f12eaeafdfce952abce4136f90c53579e9342e6f"
+  },
+  {
+    "earthquakeAt": "2025-07-24T13:06:59.000Z",
+    "latitude": -2.03,
+    "longitude": 120.7,
+    "magnitude": 6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 70 Km Barat Daya Poso",
+    "feltOnStations": "IV - V Poso, III-IV Bungku, IV - V Kolonodale, II - III Palu, IV - V Mangkutana, III - IV Mappadeceng, III - IV Tana Toraja, III - IV Palopo, III Belopa, III Mamuju, III Malunda, III Pasang Kayu",
+    "bmkgEarthquakeId": "20250724200659",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250724200659.mmi.jpg",
+    "fingerprintSha1": "e321cebaef8a173af302e4c34f0694be847acfba"
   }
 ]
