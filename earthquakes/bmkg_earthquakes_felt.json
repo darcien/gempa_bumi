@@ -27550,5 +27550,17 @@
     "bmkgEarthquakeId": "20250725115623",
     "shakeMapUrl": "https://static.bmkg.go.id/20250725115623.mmi.jpg",
     "fingerprintSha1": "da742046d43d0504d0d1d38b69edeeb4e15c4964"
+  },
+  {
+    "earthquakeAt": "2025-07-25T21:30:00.000Z",
+    "latitude": 2.04,
+    "longitude": 126.87,
+    "magnitude": 6,
+    "depthInKm": 58,
+    "locationInIndonesian": "Pusat gempa berada di laut 104 km BaratDaya PulauDoi",
+    "feltOnStations": "III Halmahera Barat, III Ternate, III Tidore, III Halmahera Utara, III Siau, II - III Manado, II - III Minahasa, II Bitung",
+    "bmkgEarthquakeId": "20250726043000",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250726043000.mmi.jpg",
+    "fingerprintSha1": "950e3c6136620649cb91b3a9411201d624fe0f63"
   }
 ]
