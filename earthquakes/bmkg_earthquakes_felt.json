@@ -27526,5 +27526,17 @@
     "bmkgEarthquakeId": "20250725060727",
     "shakeMapUrl": "https://static.bmkg.go.id/20250725060727.mmi.jpg",
     "fingerprintSha1": "ded3542c113b633a2408576b08acb4e3a63c8007"
+  },
+  {
+    "earthquakeAt": "2025-07-25T03:20:11.000Z",
+    "latitude": -3.31,
+    "longitude": 101.25,
+    "magnitude": 5.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 82 km tenggara Mukomuko",
+    "feltOnStations": "III Mukomuko, II Bengkulu Utara",
+    "bmkgEarthquakeId": "20250725102011",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250725102011.mmi.jpg",
+    "fingerprintSha1": "dae47079fae95816851b2280fabdde08ca7e1225"
   }
 ]
