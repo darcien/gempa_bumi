@@ -27497,8 +27497,8 @@
     "longitude": 119.04,
     "magnitude": 3.4,
     "depthInKm": 3,
-    "locationInIndonesian": "Pusat gempa berada di darat 17 km timur laut Majene",
-    "feltOnStations": "III Malunda, III Maliaya",
+    "locationInIndonesian": "Pusat gempa berada di darat 17 Km Timur Laut Majene",
+    "feltOnStations": "III Maliaya, III Malunda",
     "bmkgEarthquakeId": "20250725073838",
     "shakeMapUrl": "https://static.bmkg.go.id/20250725073838.mmi.jpg",
     "fingerprintSha1": "ea14ddbe5a7ceb8134295b2468387057ab686a42"
@@ -27514,5 +27514,17 @@
     "bmkgEarthquakeId": "20250724195318",
     "shakeMapUrl": "https://static.bmkg.go.id/20250724195318.mmi.jpg",
     "fingerprintSha1": "50a796c00220528eb879ba6a702e85c2769f35b5"
+  },
+  {
+    "earthquakeAt": "2025-07-24T23:07:27.000Z",
+    "latitude": -4.14,
+    "longitude": 122.58,
+    "magnitude": 2.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 Km Timur Laut Moramo Utara",
+    "feltOnStations": "II-III Konawe Selatan",
+    "bmkgEarthquakeId": "20250725060727",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250725060727.mmi.jpg",
+    "fingerprintSha1": "ded3542c113b633a2408576b08acb4e3a63c8007"
   }
 ]
