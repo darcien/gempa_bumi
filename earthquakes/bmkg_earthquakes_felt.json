@@ -27490,5 +27490,29 @@
     "bmkgEarthquakeId": "20250724200659",
     "shakeMapUrl": "https://static.bmkg.go.id/20250724200659.mmi.jpg",
     "fingerprintSha1": "e321cebaef8a173af302e4c34f0694be847acfba"
+  },
+  {
+    "earthquakeAt": "2025-07-25T00:38:38.000Z",
+    "latitude": -2.95,
+    "longitude": 119.04,
+    "magnitude": 3.4,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km timur laut Majene",
+    "feltOnStations": "III Malunda, III Maliaya",
+    "bmkgEarthquakeId": "20250725073838",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250725073838.mmi.jpg",
+    "fingerprintSha1": "ea14ddbe5a7ceb8134295b2468387057ab686a42"
+  },
+  {
+    "earthquakeAt": "2025-07-24T12:53:18.000Z",
+    "latitude": -1.61,
+    "longitude": 116.28,
+    "magnitude": 3.1,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 38 Km Timur Laut Paser",
+    "feltOnStations": "",
+    "bmkgEarthquakeId": "20250724195318",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250724195318.mmi.jpg",
+    "fingerprintSha1": "50a796c00220528eb879ba6a702e85c2769f35b5"
   }
 ]
