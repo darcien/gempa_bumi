@@ -27538,5 +27538,17 @@
     "bmkgEarthquakeId": "20250725102011",
     "shakeMapUrl": "https://static.bmkg.go.id/20250725102011.mmi.jpg",
     "fingerprintSha1": "dae47079fae95816851b2280fabdde08ca7e1225"
+  },
+  {
+    "earthquakeAt": "2025-07-25T04:56:23.000Z",
+    "latitude": -5.41,
+    "longitude": 103.27,
+    "magnitude": 4.7,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di laut 69 km barat daya Kaur",
+    "feltOnStations": "II Pesisir Barat",
+    "bmkgEarthquakeId": "20250725115623",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250725115623.mmi.jpg",
+    "fingerprintSha1": "da742046d43d0504d0d1d38b69edeeb4e15c4964"
   }
 ]
