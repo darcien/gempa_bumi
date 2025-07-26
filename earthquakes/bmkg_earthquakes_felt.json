@@ -27574,5 +27574,17 @@
     "bmkgEarthquakeId": "20250726063807",
     "shakeMapUrl": "https://static.bmkg.go.id/20250726063807.mmi.jpg",
     "fingerprintSha1": "0d8ca9c1e2b8b644b74498c9a78a4a33a159b461"
+  },
+  {
+    "earthquakeAt": "2025-07-26T05:31:47.000Z",
+    "latitude": -0.39,
+    "longitude": 131.6,
+    "magnitude": 6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 64 km timurlaut Kota Sorong",
+    "feltOnStations": "III-IV Kota Sorong, III - IV Kab. Sorong, III Raja Ampat, II Ransiki",
+    "bmkgEarthquakeId": "20250726123147",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250726123147.mmi.jpg",
+    "fingerprintSha1": "6424ebc82f04ad956b226cf1239c3d8f739fccf4"
   }
 ]
