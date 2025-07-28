@@ -27622,5 +27622,17 @@
     "bmkgEarthquakeId": "20250729014155",
     "shakeMapUrl": "https://static.bmkg.go.id/20250729014155.mmi.jpg",
     "fingerprintSha1": "168a7cfde7df3e506e3555d36bf4fb866168e1db"
+  },
+  {
+    "earthquakeAt": "2025-07-28T19:33:13.000Z",
+    "latitude": -0.19,
+    "longitude": 110.36,
+    "magnitude": 2.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 40 km barat daya Sanggau",
+    "feltOnStations": "II-III Sanggau",
+    "bmkgEarthquakeId": "20250729023313",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250729023313.mmi.jpg",
+    "fingerprintSha1": "c98e37ab8a6ccbb44cf81040f823ff7d5e1d98f3"
   }
 ]
