@@ -27640,12 +27640,12 @@
     "latitude": -3.41,
     "longitude": 128.65,
     "magnitude": 3,
-    "depthInKm": 18,
-    "locationInIndonesian": "Pusat gempa berada di darat 18 km utara Saparua, Maluku Tengah",
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km Barat Laut Amalatu - SBB",
     "feltOnStations": "III Amalatu",
     "bmkgEarthquakeId": "20250729171405",
     "shakeMapUrl": "https://static.bmkg.go.id/20250729171405.mmi.jpg",
-    "fingerprintSha1": "c0194921c50abb6b2a3530553c5837215cbf59ba"
+    "fingerprintSha1": "511bcb1f6dafdd15545eb6b0d83f3a00e667abff"
   },
   {
     "earthquakeAt": "2025-07-29T10:00:44.000Z",
