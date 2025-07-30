@@ -27718,5 +27718,17 @@
     "bmkgEarthquakeId": "20250730140039",
     "shakeMapUrl": "https://static.bmkg.go.id/20250730140039.mmi.jpg",
     "fingerprintSha1": "65fb508a4af2073a086f235e7b0d8b3b1fa821b7"
+  },
+  {
+    "earthquakeAt": "2025-07-30T16:58:06.000Z",
+    "latitude": -2.43,
+    "longitude": 120.8,
+    "magnitude": 3.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 44 km Barat Laut Luwu Timur",
+    "feltOnStations": "III-IV Mangkutana, II-III Malili",
+    "bmkgEarthquakeId": "20250730235806",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250730235806.mmi.jpg",
+    "fingerprintSha1": "da95c48202cc6c987014371f6145f094c05dfb14"
   }
 ]
