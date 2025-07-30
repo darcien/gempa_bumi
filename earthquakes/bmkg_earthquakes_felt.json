@@ -27706,5 +27706,17 @@
     "bmkgEarthquakeId": "20250730144625",
     "shakeMapUrl": "https://static.bmkg.go.id/20250730144625.mmi.jpg",
     "fingerprintSha1": "d7c90914ef561b683e7e75012974ab9467e1a5e7"
+  },
+  {
+    "earthquakeAt": "2025-07-30T07:00:39.000Z",
+    "latitude": -4.49,
+    "longitude": 122.7,
+    "magnitude": 2.7,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km Barat Laut Towea-Muna",
+    "feltOnStations": "II-III Muna",
+    "bmkgEarthquakeId": "20250730140039",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250730140039.mmi.jpg",
+    "fingerprintSha1": "65fb508a4af2073a086f235e7b0d8b3b1fa821b7"
   }
 ]
