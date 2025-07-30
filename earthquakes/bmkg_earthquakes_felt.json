@@ -27670,5 +27670,17 @@
     "bmkgEarthquakeId": "20250729203302",
     "shakeMapUrl": "https://static.bmkg.go.id/20250729203302.mmi.jpg",
     "fingerprintSha1": "5505c12545288b14a0b9662e9b6a13ad60d03e37"
+  },
+  {
+    "earthquakeAt": "2025-07-30T02:50:21.000Z",
+    "latitude": -4.5,
+    "longitude": 122.72,
+    "magnitude": 4.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 3 km Timur Laut Towea-Muna",
+    "feltOnStations": "III-IV Muna , III Buton Utara, III Konawe Selatan",
+    "bmkgEarthquakeId": "20250730095021",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250730095021.mmi.jpg",
+    "fingerprintSha1": "3fa9afa3221761699946eedc2fb916a7dd1dec63"
   }
 ]
