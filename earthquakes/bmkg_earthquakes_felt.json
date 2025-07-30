@@ -27682,5 +27682,17 @@
     "bmkgEarthquakeId": "20250730095021",
     "shakeMapUrl": "https://static.bmkg.go.id/20250730095021.mmi.jpg",
     "fingerprintSha1": "3fa9afa3221761699946eedc2fb916a7dd1dec63"
+  },
+  {
+    "earthquakeAt": "2025-07-30T07:14:10.000Z",
+    "latitude": -8.54,
+    "longitude": 111.69,
+    "magnitude": 4,
+    "depthInKm": 116,
+    "locationInIndonesian": "Pusat gempa berada di laut 50 km baratdaya Trenggalek",
+    "feltOnStations": "II Karangkates",
+    "bmkgEarthquakeId": "20250730141410",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250730141410.mmi.jpg",
+    "fingerprintSha1": "4f7f82fb70b29490fa72421b4e5603c9f556eb04"
   }
 ]
