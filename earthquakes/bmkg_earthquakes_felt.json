@@ -27730,5 +27730,17 @@
     "bmkgEarthquakeId": "20250730235806",
     "shakeMapUrl": "https://static.bmkg.go.id/20250730235806.mmi.jpg",
     "fingerprintSha1": "da95c48202cc6c987014371f6145f094c05dfb14"
+  },
+  {
+    "earthquakeAt": "2025-07-31T10:56:03.000Z",
+    "latitude": -7.11,
+    "longitude": 110.07,
+    "magnitude": 3.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 25 km barat daya Kendal",
+    "feltOnStations": "II-III Kendal, II-III Temanggung",
+    "bmkgEarthquakeId": "20250731175603",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250731175603.mmi.jpg",
+    "fingerprintSha1": "2dff644da1d0cb8e62a8b38288085b4ffa9e9708"
   }
 ]
