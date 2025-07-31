@@ -27742,5 +27742,17 @@
     "bmkgEarthquakeId": "20250731175603",
     "shakeMapUrl": "https://static.bmkg.go.id/20250731175603.mmi.jpg",
     "fingerprintSha1": "2dff644da1d0cb8e62a8b38288085b4ffa9e9708"
+  },
+  {
+    "earthquakeAt": "2025-07-31T17:40:28.000Z",
+    "latitude": -8.3,
+    "longitude": 122.09,
+    "magnitude": 3.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 38 km barat laut Maumere",
+    "feltOnStations": "I-II Waioti",
+    "bmkgEarthquakeId": "20250801004028",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250801004028.mmi.jpg",
+    "fingerprintSha1": "64a93390e2b00dbb1d3905d6825112ca675e090a"
   }
 ]
