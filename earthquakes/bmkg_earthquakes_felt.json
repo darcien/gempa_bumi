@@ -27754,5 +27754,17 @@
     "bmkgEarthquakeId": "20250801004028",
     "shakeMapUrl": "https://static.bmkg.go.id/20250801004028.mmi.jpg",
     "fingerprintSha1": "64a93390e2b00dbb1d3905d6825112ca675e090a"
+  },
+  {
+    "earthquakeAt": "2025-07-31T22:13:25.000Z",
+    "latitude": -0.17,
+    "longitude": 123.14,
+    "magnitude": 5.2,
+    "depthInKm": 114,
+    "locationInIndonesian": "Pusat gempa berada di laut 72 km timur laut Pulau Puah",
+    "feltOnStations": "III Kab. Gorontalo, III Luwuk, II-III Tojo Una-una",
+    "bmkgEarthquakeId": "20250801051325",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250801051325.mmi.jpg",
+    "fingerprintSha1": "2c3e5e8d11ffacd07aa821eef2ff7c293910cb38"
   }
 ]
