@@ -27778,5 +27778,17 @@
     "bmkgEarthquakeId": "20250801111115",
     "shakeMapUrl": "https://static.bmkg.go.id/20250801111115.mmi.jpg",
     "fingerprintSha1": "608c887642e5e43528417628ce91ef6175912c8f"
+  },
+  {
+    "earthquakeAt": "2025-08-01T13:16:10.000Z",
+    "latitude": -4.38,
+    "longitude": 122.73,
+    "magnitude": 2.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di 3 km Barat Daya Kolono Timur",
+    "feltOnStations": "II-III Konawe Selatan",
+    "bmkgEarthquakeId": "20250801201610",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250801201610.mmi.jpg",
+    "fingerprintSha1": "d1041b1f5a8535cfbeea2788614a05c1ec0501d7"
   }
 ]
