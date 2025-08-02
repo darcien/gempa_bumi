@@ -27790,5 +27790,17 @@
     "bmkgEarthquakeId": "20250801201610",
     "shakeMapUrl": "https://static.bmkg.go.id/20250801201610.mmi.jpg",
     "fingerprintSha1": "d1041b1f5a8535cfbeea2788614a05c1ec0501d7"
+  },
+  {
+    "earthquakeAt": "2025-08-02T04:20:23.000Z",
+    "latitude": -2.03,
+    "longitude": 120.66,
+    "magnitude": 3.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 Km Barat Laut Pendolo, Kab. Poso",
+    "feltOnStations": "III Pamona",
+    "bmkgEarthquakeId": "20250802112023",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250802112023.mmi.jpg",
+    "fingerprintSha1": "756f88f26447b3144c6ad2febeb1dabb33878aef"
   }
 ]
