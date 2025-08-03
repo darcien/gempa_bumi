@@ -27802,5 +27802,17 @@
     "bmkgEarthquakeId": "20250802112023",
     "shakeMapUrl": "https://static.bmkg.go.id/20250802112023.mmi.jpg",
     "fingerprintSha1": "756f88f26447b3144c6ad2febeb1dabb33878aef"
+  },
+  {
+    "earthquakeAt": "2025-08-03T05:34:34.000Z",
+    "latitude": -4.4,
+    "longitude": 102.55,
+    "magnitude": 4.3,
+    "depthInKm": 34,
+    "locationInIndonesian": "Pusat gempa berada di laut 36 km barat daya Seluma",
+    "feltOnStations": "II Kota Bengkulu, II Arga Makmur",
+    "bmkgEarthquakeId": "20250803123434",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250803123434.mmi.jpg",
+    "fingerprintSha1": "d9da9358ca9fc77eb234c9078002c084fcce1bbf"
   }
 ]
