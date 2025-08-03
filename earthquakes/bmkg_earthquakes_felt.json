@@ -27814,5 +27814,17 @@
     "bmkgEarthquakeId": "20250803123434",
     "shakeMapUrl": "https://static.bmkg.go.id/20250803123434.mmi.jpg",
     "fingerprintSha1": "d9da9358ca9fc77eb234c9078002c084fcce1bbf"
+  },
+  {
+    "earthquakeAt": "2025-08-03T16:32:49.000Z",
+    "latitude": -4.49,
+    "longitude": 129.9,
+    "magnitude": 3.5,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di laut, 131 km Selatan Tehoru",
+    "feltOnStations": "II - III Banda",
+    "bmkgEarthquakeId": "20250803233249",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250803233249.mmi.jpg",
+    "fingerprintSha1": "68d867a62f8e6fe6cfaccf8f20b5b1c9e04d7452"
   }
 ]
