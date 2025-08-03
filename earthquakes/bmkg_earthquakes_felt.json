@@ -27838,5 +27838,17 @@
     "bmkgEarthquakeId": "20250804005126",
     "shakeMapUrl": "https://static.bmkg.go.id/20250804005126.mmi.jpg",
     "fingerprintSha1": "6f70ddbcd2cb3b4c011086b12dc37d3694616510"
+  },
+  {
+    "earthquakeAt": "2025-08-03T19:29:03.000Z",
+    "latitude": 4.83,
+    "longitude": 96.1,
+    "magnitude": 4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 26 Km Barat Daya Pidie Jaya",
+    "feltOnStations": "II Pidie",
+    "bmkgEarthquakeId": "20250804022903",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250804022903.mmi.jpg",
+    "fingerprintSha1": "fa4028f4d11f303243f1adb16823c033e8d9db13"
   }
 ]
