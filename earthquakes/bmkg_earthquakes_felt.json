@@ -27850,5 +27850,29 @@
     "bmkgEarthquakeId": "20250804022903",
     "shakeMapUrl": "https://static.bmkg.go.id/20250804022903.mmi.jpg",
     "fingerprintSha1": "fa4028f4d11f303243f1adb16823c033e8d9db13"
+  },
+  {
+    "earthquakeAt": "2025-08-04T14:36:48.000Z",
+    "latitude": 1.32,
+    "longitude": 124.2,
+    "magnitude": 4.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 45 km Barat Laut Amurang - Minahasa Selatan",
+    "feltOnStations": "III Kotamobagu, II - III Manado, II Minahasa Utara, II Bolaang Mongondow",
+    "bmkgEarthquakeId": "20250804213648",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250804213648.mmi.jpg",
+    "fingerprintSha1": "474e85da9b6a4fc25bf1d6d272a7c7feff6044bd"
+  },
+  {
+    "earthquakeAt": "2025-08-04T14:21:30.000Z",
+    "latitude": -4.27,
+    "longitude": 122.53,
+    "magnitude": 2.9,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km Timur Laut Laeya, Konawe Selatan",
+    "feltOnStations": "III Konawe Selatan",
+    "bmkgEarthquakeId": "20250804212130",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250804212130.mmi.jpg",
+    "fingerprintSha1": "b252bda97ab0018c40257c106a12654e578f6ffa"
   }
 ]
