@@ -27874,5 +27874,17 @@
     "bmkgEarthquakeId": "20250804212130",
     "shakeMapUrl": "https://static.bmkg.go.id/20250804212130.mmi.jpg",
     "fingerprintSha1": "b252bda97ab0018c40257c106a12654e578f6ffa"
+  },
+  {
+    "earthquakeAt": "2025-08-05T20:26:50.000Z",
+    "latitude": 3.59,
+    "longitude": 117.19,
+    "magnitude": 2.7,
+    "depthInKm": 1,
+    "locationInIndonesian": "Pusat gempa berada di darat 13 km timurlaut Tanatidung",
+    "feltOnStations": "II Kota Tarakan",
+    "bmkgEarthquakeId": "20250806032650",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250806032650.mmi.jpg",
+    "fingerprintSha1": "419521ed9ffd3c27dc205b82c37ad5f87f6ea3f4"
   }
 ]
