@@ -27910,5 +27910,17 @@
     "bmkgEarthquakeId": "20250807104705",
     "shakeMapUrl": "https://static.bmkg.go.id/20250807104705.mmi.jpg",
     "fingerprintSha1": "1060d06fdd9c5feaae3e0564afff42e6aba05c4d"
+  },
+  {
+    "earthquakeAt": "2025-08-07T12:00:47.000Z",
+    "latitude": -8.38,
+    "longitude": 112.83,
+    "magnitude": 3.1,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat laut 39 km tenggara kab. Malang",
+    "feltOnStations": "III Malang",
+    "bmkgEarthquakeId": "20250807190047",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250807190047.mmi.jpg",
+    "fingerprintSha1": "66c8cf0a504514fa11af1be87dfadd3b277c34b4"
   }
 ]
