@@ -27898,5 +27898,17 @@
     "bmkgEarthquakeId": "20250807064401",
     "shakeMapUrl": "https://static.bmkg.go.id/20250807064401.mmi.jpg",
     "fingerprintSha1": "32c9b47cd25a32be26b7a8ef910560922ffc74e4"
+  },
+  {
+    "earthquakeAt": "2025-08-07T03:47:05.000Z",
+    "latitude": 4.18,
+    "longitude": 126.78,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 23 km timur laut Melonguane",
+    "feltOnStations": "III Kab. Talaud",
+    "bmkgEarthquakeId": "20250807104705",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250807104705.mmi.jpg",
+    "fingerprintSha1": "1060d06fdd9c5feaae3e0564afff42e6aba05c4d"
   }
 ]
