@@ -27927,13 +27927,13 @@
     "earthquakeAt": "2025-08-07T15:29:00.000Z",
     "latitude": 1.25,
     "longitude": 98.77,
-    "magnitude": 5,
+    "magnitude": 5.3,
     "depthInKm": 84,
     "locationInIndonesian": "Pusat gempa berada di laut 50 km barat daya Tapanuli Tengah",
     "feltOnStations": "IV Sibolga, IV Sarudik, IV Pandan, IV Doloksanggul, II-III Sidikalang, II-III Gunung Sitoli, II-III Nias Selatan, II-III Nias Utara, II Humbang Hasundutan",
     "bmkgEarthquakeId": "20250807222900",
     "shakeMapUrl": "https://static.bmkg.go.id/20250807222900.mmi.jpg",
-    "fingerprintSha1": "957cf6bf9a7623af6d1cb87133e3bff79102a4d5"
+    "fingerprintSha1": "a16a655224459fac0cb829af0fdbd8fee9ee4be7"
   },
   {
     "earthquakeAt": "2025-08-08T12:22:13.000Z",
