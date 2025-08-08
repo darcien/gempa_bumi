@@ -27934,5 +27934,17 @@
     "bmkgEarthquakeId": "20250807222900",
     "shakeMapUrl": "https://static.bmkg.go.id/20250807222900.mmi.jpg",
     "fingerprintSha1": "957cf6bf9a7623af6d1cb87133e3bff79102a4d5"
+  },
+  {
+    "earthquakeAt": "2025-08-08T12:22:13.000Z",
+    "latitude": 1.82,
+    "longitude": 127.04,
+    "magnitude": 5.4,
+    "depthInKm": 84,
+    "locationInIndonesian": "Pusat gempa berada di laut 80 km Barat Laut Halmahera Barat",
+    "feltOnStations": "II-III Tagulandang, II-III Halmahera Barat , II Tondano",
+    "bmkgEarthquakeId": "20250808192213",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250808192213.mmi.jpg",
+    "fingerprintSha1": "7589bd9a8bda43f7be901895f64144d5b4668588"
   }
 ]
