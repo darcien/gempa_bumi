@@ -27946,5 +27946,17 @@
     "bmkgEarthquakeId": "20250808192213",
     "shakeMapUrl": "https://static.bmkg.go.id/20250808192213.mmi.jpg",
     "fingerprintSha1": "7589bd9a8bda43f7be901895f64144d5b4668588"
+  },
+  {
+    "earthquakeAt": "2025-08-09T00:21:24.000Z",
+    "latitude": -8.3,
+    "longitude": 120.69,
+    "magnitude": 3.7,
+    "depthInKm": 29,
+    "locationInIndonesian": "Pusat gempa berada di laut 42 km TimurLaut RUTENG-MANGGARAI",
+    "feltOnStations": "II-III Ruteng",
+    "bmkgEarthquakeId": "20250809072124",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250809072124.mmi.jpg",
+    "fingerprintSha1": "4dd9e26b778133ba0b88816d39ce67c66929c462"
   }
 ]
