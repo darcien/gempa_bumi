@@ -27982,5 +27982,17 @@
     "bmkgEarthquakeId": "20250810102707",
     "shakeMapUrl": "https://static.bmkg.go.id/20250810102707.mmi.jpg",
     "fingerprintSha1": "f7b7a1280b0a2712cc829f1dbc435935b4b4b539"
+  },
+  {
+    "earthquakeAt": "2025-08-10T20:30:46.000Z",
+    "latitude": 2.04,
+    "longitude": 128.6,
+    "magnitude": 4.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 34 km Tenggara Daruba",
+    "feltOnStations": "III-IV Morotai, II-III Tobelo",
+    "bmkgEarthquakeId": "20250811033046",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250811033046.mmi.jpg",
+    "fingerprintSha1": "eb9582d8300d8e29ba0b912b180e82acaad0fc9f"
   }
 ]
