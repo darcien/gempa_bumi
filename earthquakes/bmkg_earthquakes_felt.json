@@ -27970,5 +27970,17 @@
     "bmkgEarthquakeId": "20250810073905",
     "shakeMapUrl": "https://static.bmkg.go.id/20250810073905.mmi.jpg",
     "fingerprintSha1": "10ec13f5c8154519318003a354ba519d3568dcec"
+  },
+  {
+    "earthquakeAt": "2025-08-10T03:27:07.000Z",
+    "latitude": -4.2,
+    "longitude": 102.47,
+    "magnitude": 4.9,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di laut 18 km barat daya Seluma",
+    "feltOnStations": "II-III Seluma, II-III Bengkulu, II-III Kepahiang",
+    "bmkgEarthquakeId": "20250810102707",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250810102707.mmi.jpg",
+    "fingerprintSha1": "f7b7a1280b0a2712cc829f1dbc435935b4b4b539"
   }
 ]
