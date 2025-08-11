@@ -28018,5 +28018,17 @@
     "bmkgEarthquakeId": "20250811103724",
     "shakeMapUrl": "https://static.bmkg.go.id/20250811103724.mmi.jpg",
     "fingerprintSha1": "28236cbff8d417ec1157fb6a44485d40c8acb37f"
+  },
+  {
+    "earthquakeAt": "2025-08-11T04:00:51.000Z",
+    "latitude": -7.72,
+    "longitude": 106.55,
+    "magnitude": 3.5,
+    "depthInKm": 31,
+    "locationInIndonesian": "Pusat gempa berada di laut 81 km selatan Kab. Sukabumi",
+    "feltOnStations": "II-III Ciracap",
+    "bmkgEarthquakeId": "20250811110051",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250811110051.mmi.jpg",
+    "fingerprintSha1": "0b98f65502be06a2b12ca4ebe4ab0133872ce617"
   }
 ]
