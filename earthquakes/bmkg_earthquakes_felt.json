@@ -28030,5 +28030,17 @@
     "bmkgEarthquakeId": "20250811110051",
     "shakeMapUrl": "https://static.bmkg.go.id/20250811110051.mmi.jpg",
     "fingerprintSha1": "0b98f65502be06a2b12ca4ebe4ab0133872ce617"
+  },
+  {
+    "earthquakeAt": "2025-08-11T08:03:55.000Z",
+    "latitude": -1.85,
+    "longitude": 135.17,
+    "magnitude": 4.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 105 km tenggara Pulau Numfor",
+    "feltOnStations": "III Supiori",
+    "bmkgEarthquakeId": "20250811150355",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250811150355.mmi.jpg",
+    "fingerprintSha1": "0fd3505a61841f414d30d88f2093d5b8d6c6b857"
   }
 ]
