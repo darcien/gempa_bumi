@@ -27994,5 +27994,17 @@
     "bmkgEarthquakeId": "20250811033046",
     "shakeMapUrl": "https://static.bmkg.go.id/20250811033046.mmi.jpg",
     "fingerprintSha1": "eb9582d8300d8e29ba0b912b180e82acaad0fc9f"
+  },
+  {
+    "earthquakeAt": "2025-08-11T02:11:42.000Z",
+    "latitude": -9.79,
+    "longitude": 120.52,
+    "magnitude": 4.9,
+    "depthInKm": 51,
+    "locationInIndonesian": "Pusat gempa berada di darat 32 km tenggara Waingapu",
+    "feltOnStations": "III-IV Waingapu, III Ende",
+    "bmkgEarthquakeId": "20250811091142",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250811091142.mmi.jpg",
+    "fingerprintSha1": "fd874df1188e36a7b772ba5da9ec342e49cd0771"
   }
 ]
