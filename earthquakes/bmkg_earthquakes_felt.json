@@ -28006,5 +28006,17 @@
     "bmkgEarthquakeId": "20250811091142",
     "shakeMapUrl": "https://static.bmkg.go.id/20250811091142.mmi.jpg",
     "fingerprintSha1": "fd874df1188e36a7b772ba5da9ec342e49cd0771"
+  },
+  {
+    "earthquakeAt": "2025-08-11T03:37:24.000Z",
+    "latitude": -4.82,
+    "longitude": 122.82,
+    "magnitude": 3.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 4 km baratlaut Wakorumba Selatan, Muna",
+    "feltOnStations": "III Muna",
+    "bmkgEarthquakeId": "20250811103724",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250811103724.mmi.jpg",
+    "fingerprintSha1": "28236cbff8d417ec1157fb6a44485d40c8acb37f"
   }
 ]
