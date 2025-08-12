@@ -28102,5 +28102,17 @@
     "bmkgEarthquakeId": "20250812172710",
     "shakeMapUrl": "https://static.bmkg.go.id/20250812172710.mmi.jpg",
     "fingerprintSha1": "4cd8f4818022596b37eb70115a4cffaef1b4187c"
+  },
+  {
+    "earthquakeAt": "2025-08-12T09:26:52.000Z",
+    "latitude": -1.95,
+    "longitude": 139.08,
+    "magnitude": 4.4,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 37 km tenggara Sarmi",
+    "feltOnStations": "II Sarmi",
+    "bmkgEarthquakeId": "20250812162652",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250812162652.mmi.jpg",
+    "fingerprintSha1": "cff45b00f2d4c4ba0c1edff4dc0744e5c0e533b5"
   }
 ]
