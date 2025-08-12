@@ -28090,5 +28090,17 @@
     "bmkgEarthquakeId": "20250812164327",
     "shakeMapUrl": "https://static.bmkg.go.id/20250812164327.mmi.jpg",
     "fingerprintSha1": "cef6de003236de1d2057438eb3c7477420376d21"
+  },
+  {
+    "earthquakeAt": "2025-08-12T10:27:10.000Z",
+    "latitude": 4.25,
+    "longitude": 97.92,
+    "magnitude": 3.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km Barat Daya Kab. Aceh Tamiang",
+    "feltOnStations": "II-III Aceh Tamiang",
+    "bmkgEarthquakeId": "20250812172710",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250812172710.mmi.jpg",
+    "fingerprintSha1": "4cd8f4818022596b37eb70115a4cffaef1b4187c"
   }
 ]
