@@ -28054,5 +28054,17 @@
     "bmkgEarthquakeId": "20250812062432",
     "shakeMapUrl": "https://static.bmkg.go.id/20250812062432.mmi.jpg",
     "fingerprintSha1": "7afbf7556a3880d06abd9eceb60b55f9501de002"
+  },
+  {
+    "earthquakeAt": "2025-08-12T02:14:12.000Z",
+    "latitude": 0.28,
+    "longitude": 123.37,
+    "magnitude": 5.3,
+    "depthInKm": 240,
+    "locationInIndonesian": "Pusat gempa berada di laut 38 km tenggara Bone Bolango",
+    "feltOnStations": "III Luwuk",
+    "bmkgEarthquakeId": "20250812091412",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250812091412.mmi.jpg",
+    "fingerprintSha1": "6bb8c67d0d81878cd3efdc9f2e1d5e79362efafc"
   }
 ]
