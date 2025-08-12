@@ -28066,5 +28066,17 @@
     "bmkgEarthquakeId": "20250812091412",
     "shakeMapUrl": "https://static.bmkg.go.id/20250812091412.mmi.jpg",
     "fingerprintSha1": "6bb8c67d0d81878cd3efdc9f2e1d5e79362efafc"
+  },
+  {
+    "earthquakeAt": "2025-08-12T08:24:24.000Z",
+    "latitude": -1.9,
+    "longitude": 138.99,
+    "magnitude": 6.4,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 27 km tenggara Sarmi",
+    "feltOnStations": "IV-V Sarmi, II-III Kota Jayapura, II-III Kab. Jayapura, II-III Wamena",
+    "bmkgEarthquakeId": "20250812152424",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250812152424.mmi.jpg",
+    "fingerprintSha1": "cb599e22d129bb8511f2633216900bee22077146"
   }
 ]
