@@ -28138,5 +28138,17 @@
     "bmkgEarthquakeId": "20250813082653",
     "shakeMapUrl": "https://static.bmkg.go.id/20250813082653.mmi.jpg",
     "fingerprintSha1": "6ddf06b2a556f6f9bcb1fd4d34dda9d9a3fa1729"
+  },
+  {
+    "earthquakeAt": "2025-08-13T16:45:57.000Z",
+    "latitude": 1.03,
+    "longitude": 125.54,
+    "magnitude": 5.7,
+    "depthInKm": 46,
+    "locationInIndonesian": "Pusat gempa berada di laut 65 Km tenggara Bitung",
+    "feltOnStations": "II - III Tomohon, III Manado, III Minahasa, III Bitung, III Bolaang Mongondow Timur, III Minahasa Tenggara, II - III Minahasa Selatan, II Bone Bolango",
+    "bmkgEarthquakeId": "20250813234557",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250813234557.mmi.jpg",
+    "fingerprintSha1": "f41e625f6456f58b92867d2578fd8eb0d0adaa3b"
   }
 ]
