@@ -28114,5 +28114,29 @@
     "bmkgEarthquakeId": "20250812162652",
     "shakeMapUrl": "https://static.bmkg.go.id/20250812162652.mmi.jpg",
     "fingerprintSha1": "cff45b00f2d4c4ba0c1edff4dc0744e5c0e533b5"
+  },
+  {
+    "earthquakeAt": "2025-08-13T01:32:27.000Z",
+    "latitude": -7.66,
+    "longitude": 107.15,
+    "magnitude": 4.7,
+    "depthInKm": 37,
+    "locationInIndonesian": "Pusat gempa berada di laut 82 km Barat daya Kab. Bandung",
+    "feltOnStations": "III Tegalbuleud, II-III Pelabuhan Ratu, III Campaka, III Naringgul, III Pagelaran, II-III Pangalengan, III Garut, II-III Tasikmalaya, II-III Cianjur",
+    "bmkgEarthquakeId": "20250813083227",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250813083227.mmi.jpg",
+    "fingerprintSha1": "4ae7826d412062aec30fb43a5cd79303dca45f67"
+  },
+  {
+    "earthquakeAt": "2025-08-13T01:26:53.000Z",
+    "latitude": -8.28,
+    "longitude": 116.76,
+    "magnitude": 3.7,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di laut 24 km Barat laut Pulau Panjang",
+    "feltOnStations": "II Lombok Timur",
+    "bmkgEarthquakeId": "20250813082653",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250813082653.mmi.jpg",
+    "fingerprintSha1": "6ddf06b2a556f6f9bcb1fd4d34dda9d9a3fa1729"
   }
 ]
