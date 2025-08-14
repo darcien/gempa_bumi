@@ -28186,5 +28186,17 @@
     "bmkgEarthquakeId": "20250814134812",
     "shakeMapUrl": "https://static.bmkg.go.id/20250814134812.mmi.jpg",
     "fingerprintSha1": "b7005b83acdf11999b39d12263b0e4836299682b"
+  },
+  {
+    "earthquakeAt": "2025-08-14T09:13:34.000Z",
+    "latitude": -6.81,
+    "longitude": 107.53,
+    "magnitude": 1.8,
+    "depthInKm": 19,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km timur laut Kab. Bandung",
+    "feltOnStations": "II - III Pasir Langu",
+    "bmkgEarthquakeId": "20250814161334",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250814161334.mmi.jpg",
+    "fingerprintSha1": "bbfcd5e681a8a2491566319ff21c66f6fa7f3c28"
   }
 ]
