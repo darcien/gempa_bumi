@@ -28210,5 +28210,17 @@
     "bmkgEarthquakeId": "20250814211320",
     "shakeMapUrl": "https://static.bmkg.go.id/20250814211320.mmi.jpg",
     "fingerprintSha1": "1f033e1b4820103fb2baed6ddbc7bc62c496951f"
+  },
+  {
+    "earthquakeAt": "2025-08-14T17:35:12.000Z",
+    "latitude": -7.7,
+    "longitude": 106.91,
+    "magnitude": 4.4,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di laut 87 km Barat Daya Kota Sukabumi",
+    "feltOnStations": "III Tegalbuleud, II Pelabuhan Ratu, II Cianjur, III Cidolog, II-III Pabuaran, II - III Kadupandak, II - III Cisurupan, II Garut, II Cililin",
+    "bmkgEarthquakeId": "20250815003512",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250815003512.mmi.jpg",
+    "fingerprintSha1": "1c8b968293c37bfbf25a493221cd188b97361c28"
   }
 ]
