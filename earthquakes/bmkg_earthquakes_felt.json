@@ -28222,5 +28222,17 @@
     "bmkgEarthquakeId": "20250815003512",
     "shakeMapUrl": "https://static.bmkg.go.id/20250815003512.mmi.jpg",
     "fingerprintSha1": "1c8b968293c37bfbf25a493221cd188b97361c28"
+  },
+  {
+    "earthquakeAt": "2025-08-14T23:30:32.000Z",
+    "latitude": -2.04,
+    "longitude": 120.65,
+    "magnitude": 3.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km arah barat-laut Pendolo, Poso",
+    "feltOnStations": "II-III Pendolo",
+    "bmkgEarthquakeId": "20250815063032",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250815063032.mmi.jpg",
+    "fingerprintSha1": "a0c61a7dafd0fd5f640b484e249180da35dc9f82"
   }
 ]
