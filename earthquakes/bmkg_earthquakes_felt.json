@@ -28234,5 +28234,17 @@
     "bmkgEarthquakeId": "20250815063032",
     "shakeMapUrl": "https://static.bmkg.go.id/20250815063032.mmi.jpg",
     "fingerprintSha1": "a0c61a7dafd0fd5f640b484e249180da35dc9f82"
+  },
+  {
+    "earthquakeAt": "2025-08-15T00:53:22.000Z",
+    "latitude": -3.24,
+    "longitude": 128.64,
+    "magnitude": 4.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km Barat Elpaputih, SBB",
+    "feltOnStations": "II-III Amalatu",
+    "bmkgEarthquakeId": "20250815075322",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250815075322.mmi.jpg",
+    "fingerprintSha1": "e4eb11b760191a28ea44275ddee938b2a59b465e"
   }
 ]
