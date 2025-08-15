@@ -28246,5 +28246,29 @@
     "bmkgEarthquakeId": "20250815075322",
     "shakeMapUrl": "https://static.bmkg.go.id/20250815075322.mmi.jpg",
     "fingerprintSha1": "e4eb11b760191a28ea44275ddee938b2a59b465e"
+  },
+  {
+    "earthquakeAt": "2025-08-15T02:39:22.000Z",
+    "latitude": 1.08,
+    "longitude": 125.57,
+    "magnitude": 4.5,
+    "depthInKm": 46,
+    "locationInIndonesian": "Pusat gempa berada di laut 63 km Tenggara Bitung",
+    "feltOnStations": "III Bitung",
+    "bmkgEarthquakeId": "20250815093922",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250815093922.mmi.jpg",
+    "fingerprintSha1": "128cbeb9282e1b952f244a4c15997177dc9230f2"
+  },
+  {
+    "earthquakeAt": "2025-08-15T02:28:37.000Z",
+    "latitude": -2.05,
+    "longitude": 120.67,
+    "magnitude": 4.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 73 km baratdaya Poso",
+    "feltOnStations": "III-IV Pendolo, II-III Masamba, II-III Wotu, II-III Tomoni Timur",
+    "bmkgEarthquakeId": "20250815092837",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250815092837.mmi.jpg",
+    "fingerprintSha1": "9fe06ac1e8c00e9db8703adb7913d02a6d0da184"
   }
 ]
