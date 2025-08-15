@@ -28270,5 +28270,17 @@
     "bmkgEarthquakeId": "20250815092837",
     "shakeMapUrl": "https://static.bmkg.go.id/20250815092837.mmi.jpg",
     "fingerprintSha1": "9fe06ac1e8c00e9db8703adb7913d02a6d0da184"
+  },
+  {
+    "earthquakeAt": "2025-08-15T03:32:00.000Z",
+    "latitude": 1.07,
+    "longitude": 125.56,
+    "magnitude": 4.5,
+    "depthInKm": 47,
+    "locationInIndonesian": "Pusat gempa berada di laut 63 km tenggara Bitung",
+    "feltOnStations": "III Manado, III Bitung",
+    "bmkgEarthquakeId": "20250815103200",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250815103200.mmi.jpg",
+    "fingerprintSha1": "0b1ce8a59194345614bd5d278bd047c4efe75f03"
   }
 ]
