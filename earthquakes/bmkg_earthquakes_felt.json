@@ -28330,5 +28330,17 @@
     "bmkgEarthquakeId": "20250818001018",
     "shakeMapUrl": "https://static.bmkg.go.id/20250818001018.mmi.jpg",
     "fingerprintSha1": "df903789e4e277fb6c6028899f205b8185e1d219"
+  },
+  {
+    "earthquakeAt": "2025-08-18T00:33:13.000Z",
+    "latitude": -4.15,
+    "longitude": 121.9,
+    "magnitude": 2.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 Km barat laut Ladongi, Kolaka Timur",
+    "feltOnStations": "II - III Kolaka Timur",
+    "bmkgEarthquakeId": "20250818073313",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250818073313.mmi.jpg",
+    "fingerprintSha1": "80824afa6f4975b1e6ef99f55543dc05edac48a5"
   }
 ]
