@@ -28342,5 +28342,17 @@
     "bmkgEarthquakeId": "20250818073313",
     "shakeMapUrl": "https://static.bmkg.go.id/20250818073313.mmi.jpg",
     "fingerprintSha1": "80824afa6f4975b1e6ef99f55543dc05edac48a5"
+  },
+  {
+    "earthquakeAt": "2025-08-18T06:28:00.000Z",
+    "latitude": -4.15,
+    "longitude": 122.41,
+    "magnitude": 2.4,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km BaratLaut Wolasi, Konawe Selatan",
+    "feltOnStations": "II-III Konawe Selatan",
+    "bmkgEarthquakeId": "20250818132800",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250818132800.mmi.jpg",
+    "fingerprintSha1": "0d3662a4230fdc27397a4f6e77316abd4d6f4691"
   }
 ]
