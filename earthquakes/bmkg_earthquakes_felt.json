@@ -28402,5 +28402,17 @@
     "bmkgEarthquakeId": "20250819071706",
     "shakeMapUrl": "https://static.bmkg.go.id/20250819071706.mmi.jpg",
     "fingerprintSha1": "8d5f9d4e168a05d8a95c51634d75c5ee3d08ccbf"
+  },
+  {
+    "earthquakeAt": "2025-08-19T04:41:57.000Z",
+    "latitude": -6.82,
+    "longitude": 107.49,
+    "magnitude": 2.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km barat laut Kota Cimahi",
+    "feltOnStations": "II-III Bandung Barat",
+    "bmkgEarthquakeId": "20250819114157",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250819114157.mmi.jpg",
+    "fingerprintSha1": "c0d173306bae93249ebdbca25b3cd40010db3298"
   }
 ]
