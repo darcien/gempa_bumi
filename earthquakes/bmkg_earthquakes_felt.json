@@ -28414,5 +28414,17 @@
     "bmkgEarthquakeId": "20250819114157",
     "shakeMapUrl": "https://static.bmkg.go.id/20250819114157.mmi.jpg",
     "fingerprintSha1": "c0d173306bae93249ebdbca25b3cd40010db3298"
+  },
+  {
+    "earthquakeAt": "2025-08-19T07:03:09.000Z",
+    "latitude": -8.78,
+    "longitude": 120.62,
+    "magnitude": 3.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km selatan Borong",
+    "feltOnStations": "II-III Borong",
+    "bmkgEarthquakeId": "20250819140309",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250819140309.mmi.jpg",
+    "fingerprintSha1": "062e9b03e2c0fc4b9b9babc9fe86fdc3d272588f"
   }
 ]
