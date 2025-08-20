@@ -28474,5 +28474,17 @@
     "bmkgEarthquakeId": "20250820144205",
     "shakeMapUrl": "https://static.bmkg.go.id/20250820144205.mmi.jpg",
     "fingerprintSha1": "1907fb8e56bf27b2240cfd324484e9c297b8581f"
+  },
+  {
+    "earthquakeAt": "2025-08-20T12:54:55.000Z",
+    "latitude": -6.48,
+    "longitude": 107.24,
+    "magnitude": 4.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 14 km Tenggara Kabupaten Bekasi",
+    "feltOnStations": "III Purwakarta, III-IV Bekasi, II-III Jakarta, III Depok, II Tangerang, II-III Tangerang Selatan, II Pelabuhan Ratu, III Cikarang, II-III Bekasi Timur, II Cianjur, II-III Bandung, II Pandeglang, II Lebak",
+    "bmkgEarthquakeId": "20250820195455",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250820195455.mmi.jpg",
+    "fingerprintSha1": "1be20c2f564cb9e02e43bd7ad2d2fb994699086a"
   }
 ]
