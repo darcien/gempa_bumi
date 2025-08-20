@@ -28486,5 +28486,17 @@
     "bmkgEarthquakeId": "20250820195455",
     "shakeMapUrl": "https://static.bmkg.go.id/20250820195455.mmi.jpg",
     "fingerprintSha1": "1be20c2f564cb9e02e43bd7ad2d2fb994699086a"
+  },
+  {
+    "earthquakeAt": "2025-08-20T15:39:57.000Z",
+    "latitude": -6.49,
+    "longitude": 107.24,
+    "magnitude": 3.9,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 Km Tenggara Kab.Bekasi",
+    "feltOnStations": "III Karawang, III Purwakarta, II-III Bekasi",
+    "bmkgEarthquakeId": "20250820223957",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250820223957.mmi.jpg",
+    "fingerprintSha1": "74ea7c36a2a5144448db770c98110eceedcd3baf"
   }
 ]
