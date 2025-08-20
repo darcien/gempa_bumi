@@ -28450,5 +28450,17 @@
     "bmkgEarthquakeId": "20250820085359",
     "shakeMapUrl": "https://static.bmkg.go.id/20250820085359.mmi.jpg",
     "fingerprintSha1": "73b3803cf6482945fca067713bd4d011aea8d935"
+  },
+  {
+    "earthquakeAt": "2025-08-20T05:28:42.000Z",
+    "latitude": -6.81,
+    "longitude": 107.51,
+    "magnitude": 1.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km baratlaut Kab. Bandung",
+    "feltOnStations": "II Kab. Bandung Barat",
+    "bmkgEarthquakeId": "20250820122842",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250820122842.mmi.jpg",
+    "fingerprintSha1": "9d4264bd823ddb7026ba6c6bd9146f67e5c5eb14"
   }
 ]
