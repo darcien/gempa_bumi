@@ -28534,5 +28534,17 @@
     "bmkgEarthquakeId": "20250821205246",
     "shakeMapUrl": "https://static.bmkg.go.id/20250821205246.mmi.jpg",
     "fingerprintSha1": "d3480439253b60dbc66ac9e59d6e4ef467a30f65"
+  },
+  {
+    "earthquakeAt": "2025-08-22T12:29:09.000Z",
+    "latitude": -2.97,
+    "longitude": 122,
+    "magnitude": 4.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 32 km tenggara Morowali",
+    "feltOnStations": "II-III Morowali",
+    "bmkgEarthquakeId": "20250822192909",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250822192909.mmi.jpg",
+    "fingerprintSha1": "732d7cd2909d590c648ace3c30ab99730102726d"
   }
 ]
