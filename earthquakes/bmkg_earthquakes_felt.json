@@ -28546,5 +28546,17 @@
     "bmkgEarthquakeId": "20250822192909",
     "shakeMapUrl": "https://static.bmkg.go.id/20250822192909.mmi.jpg",
     "fingerprintSha1": "732d7cd2909d590c648ace3c30ab99730102726d"
+  },
+  {
+    "earthquakeAt": "2025-08-23T12:24:53.000Z",
+    "latitude": 2.03,
+    "longitude": 96.52,
+    "magnitude": 5.8,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 51 km Tenggara Sinabang",
+    "feltOnStations": "IV Simeulue, III Gunung Sitoli, III Aceh Selatan",
+    "bmkgEarthquakeId": "20250823192453",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250823192453.mmi.jpg",
+    "fingerprintSha1": "255358dfa69f52aaebc7f81169c28fe8606fc3d5"
   }
 ]
