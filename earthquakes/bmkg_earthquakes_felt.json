@@ -28582,5 +28582,17 @@
     "bmkgEarthquakeId": "20250824143114",
     "shakeMapUrl": "https://static.bmkg.go.id/20250824143114.mmi.jpg",
     "fingerprintSha1": "1831b87cb9a3743c7a2494118ec7357ee169ccdc"
+  },
+  {
+    "earthquakeAt": "2025-08-24T15:26:58.000Z",
+    "latitude": 1.07,
+    "longitude": 125.59,
+    "magnitude": 4.4,
+    "depthInKm": 33,
+    "locationInIndonesian": "Pusat gempa berada di laut 66 km Tenggara Bitung",
+    "feltOnStations": "II Manado, II Minahasa Utara",
+    "bmkgEarthquakeId": "20250824222658",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250824222658.mmi.jpg",
+    "fingerprintSha1": "0b58d2c871912281b811d9e476aa7e188fd5d7e8"
   }
 ]
