@@ -28570,5 +28570,17 @@
     "bmkgEarthquakeId": "20250824141348",
     "shakeMapUrl": "https://static.bmkg.go.id/20250824141348.mmi.jpg",
     "fingerprintSha1": "b19febf45adfd25377060ef7f8fe1f00bc28c9eb"
+  },
+  {
+    "earthquakeAt": "2025-08-24T07:31:14.000Z",
+    "latitude": -9.46,
+    "longitude": 115.16,
+    "magnitude": 4.3,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di laut 74 km baratdaya Kuta Selatan",
+    "feltOnStations": "II-III Kuta Selatan, II-III Kuta, II-III Kuta Utara",
+    "bmkgEarthquakeId": "20250824143114",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250824143114.mmi.jpg",
+    "fingerprintSha1": "1831b87cb9a3743c7a2494118ec7357ee169ccdc"
   }
 ]
