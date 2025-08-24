@@ -28558,5 +28558,17 @@
     "bmkgEarthquakeId": "20250823192453",
     "shakeMapUrl": "https://static.bmkg.go.id/20250823192453.mmi.jpg",
     "fingerprintSha1": "255358dfa69f52aaebc7f81169c28fe8606fc3d5"
+  },
+  {
+    "earthquakeAt": "2025-08-24T07:13:48.000Z",
+    "latitude": -7.13,
+    "longitude": 107.81,
+    "magnitude": 2.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 13 km baratlaut Kab. Garut",
+    "feltOnStations": "II Leles, II Kadungora",
+    "bmkgEarthquakeId": "20250824141348",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250824141348.mmi.jpg",
+    "fingerprintSha1": "b19febf45adfd25377060ef7f8fe1f00bc28c9eb"
   }
 ]
