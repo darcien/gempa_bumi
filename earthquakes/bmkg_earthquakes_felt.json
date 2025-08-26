@@ -28666,5 +28666,17 @@
     "bmkgEarthquakeId": "20250825171915",
     "shakeMapUrl": "https://static.bmkg.go.id/20250825171915.mmi.jpg",
     "fingerprintSha1": "3e6495275a291d692c3ae8bec3720a296abd0ffc"
+  },
+  {
+    "earthquakeAt": "2025-08-26T03:51:17.000Z",
+    "latitude": -4.81,
+    "longitude": 123.13,
+    "magnitude": 2,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di laut 5 km barat daya Kulisusu, Buton Utara",
+    "feltOnStations": "II Kulisusu",
+    "bmkgEarthquakeId": "20250826105117",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250826105117.mmi.jpg",
+    "fingerprintSha1": "c69bc143f3a61c9051b4960bdfc8c66512af135d"
   }
 ]
