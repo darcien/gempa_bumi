@@ -28678,5 +28678,17 @@
     "bmkgEarthquakeId": "20250826105117",
     "shakeMapUrl": "https://static.bmkg.go.id/20250826105117.mmi.jpg",
     "fingerprintSha1": "c69bc143f3a61c9051b4960bdfc8c66512af135d"
+  },
+  {
+    "earthquakeAt": "2025-08-26T22:26:54.000Z",
+    "latitude": -1.14,
+    "longitude": 136.35,
+    "magnitude": 4.2,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di laut 29 km timur laut Biak",
+    "feltOnStations": "III-IV Biak",
+    "bmkgEarthquakeId": "20250827052654",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250827052654.mmi.jpg",
+    "fingerprintSha1": "78f68de6c28f7465090c855d82120bc982c6d4f8"
   }
 ]
