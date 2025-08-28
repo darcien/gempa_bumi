@@ -28702,5 +28702,17 @@
     "bmkgEarthquakeId": "20250828000644",
     "shakeMapUrl": "https://static.bmkg.go.id/20250828000644.mmi.jpg",
     "fingerprintSha1": "66c759256acc3c86b3787f300755fa0175ea4a7c"
+  },
+  {
+    "earthquakeAt": "2025-08-28T19:36:49.000Z",
+    "latitude": -9.51,
+    "longitude": 116.32,
+    "magnitude": 4.2,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di laut 89 km tenggara Lombok Tengah",
+    "feltOnStations": "III Lombok Tengah , III Lombok Barat, III Lombok Timur , III Kota Mataram",
+    "bmkgEarthquakeId": "20250829023649",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250829023649.mmi.jpg",
+    "fingerprintSha1": "fcfd7b74d39420fe8fae5cde8fce68f2d8ceca27"
   }
 ]
