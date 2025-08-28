@@ -28714,5 +28714,17 @@
     "bmkgEarthquakeId": "20250829023649",
     "shakeMapUrl": "https://static.bmkg.go.id/20250829023649.mmi.jpg",
     "fingerprintSha1": "fcfd7b74d39420fe8fae5cde8fce68f2d8ceca27"
+  },
+  {
+    "earthquakeAt": "2025-08-28T20:34:20.000Z",
+    "latitude": 4.48,
+    "longitude": 96.62,
+    "magnitude": 3.6,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 29 km Barat Daya Takengon, Aceh Tengah",
+    "feltOnStations": "II-III Takengon",
+    "bmkgEarthquakeId": "20250829033420",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250829033420.mmi.jpg",
+    "fingerprintSha1": "42091f0f9cb4786acd846cd9fd27af6121ef7016"
   }
 ]
