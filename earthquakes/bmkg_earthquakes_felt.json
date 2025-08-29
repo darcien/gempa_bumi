@@ -28726,5 +28726,17 @@
     "bmkgEarthquakeId": "20250829033420",
     "shakeMapUrl": "https://static.bmkg.go.id/20250829033420.mmi.jpg",
     "fingerprintSha1": "42091f0f9cb4786acd846cd9fd27af6121ef7016"
+  },
+  {
+    "earthquakeAt": "2025-08-29T04:45:09.000Z",
+    "latitude": -7.19,
+    "longitude": 107.44,
+    "magnitude": 2.6,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km barat daya Kabupaten Bandung",
+    "feltOnStations": "II Ciwidey",
+    "bmkgEarthquakeId": "20250829114509",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250829114509.mmi.jpg",
+    "fingerprintSha1": "8822b15b853b5c8ab99aac189a25e87b44346ab2"
   }
 ]
