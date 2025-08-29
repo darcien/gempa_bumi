@@ -28750,5 +28750,17 @@
     "bmkgEarthquakeId": "20250829171610",
     "shakeMapUrl": "https://static.bmkg.go.id/20250829171610.mmi.jpg",
     "fingerprintSha1": "855eefde54b965d600246a6de816aaa46f6da8b2"
+  },
+  {
+    "earthquakeAt": "2025-08-29T14:02:14.000Z",
+    "latitude": -8.65,
+    "longitude": 108.79,
+    "magnitude": 4.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 105 km Barat Daya Cilacap",
+    "feltOnStations": "II-III Pangandaran",
+    "bmkgEarthquakeId": "20250829210214",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250829210214.mmi.jpg",
+    "fingerprintSha1": "020dc88604ab9e73cd5519dfe338e214d95f8148"
   }
 ]
