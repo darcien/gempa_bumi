@@ -28762,5 +28762,17 @@
     "bmkgEarthquakeId": "20250829210214",
     "shakeMapUrl": "https://static.bmkg.go.id/20250829210214.mmi.jpg",
     "fingerprintSha1": "020dc88604ab9e73cd5519dfe338e214d95f8148"
+  },
+  {
+    "earthquakeAt": "2025-08-30T13:35:34.000Z",
+    "latitude": -4.92,
+    "longitude": 102.99,
+    "magnitude": 5,
+    "depthInKm": 21,
+    "locationInIndonesian": "Pusat gempa berada di laut 42 km Baratdaya Kaur",
+    "feltOnStations": "III Kepahiang, III Kaur, II Enggano, II Bengkulu Utara, II Empat Lawang, II-III Pagar Alam, II Bengkulu Selatan, II Rejang Lebong",
+    "bmkgEarthquakeId": "20250830203534",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250830203534.mmi.jpg",
+    "fingerprintSha1": "10a870a493e5929d10bb0bbced6b2f110ad2c585"
   }
 ]
