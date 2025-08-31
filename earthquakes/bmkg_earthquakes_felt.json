@@ -28786,5 +28786,17 @@
     "bmkgEarthquakeId": "20250830214942",
     "shakeMapUrl": "https://static.bmkg.go.id/20250830214942.mmi.jpg",
     "fingerprintSha1": "4616335aceab3f3048d3b002a0298c0707ab7f2f"
+  },
+  {
+    "earthquakeAt": "2025-08-31T01:14:43.000Z",
+    "latitude": 0.67,
+    "longitude": 98.53,
+    "magnitude": 4.7,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di laut 80 km timurlaut Nias Selatan",
+    "feltOnStations": "III Kab. Mandailing Natal",
+    "bmkgEarthquakeId": "20250831081443",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250831081443.mmi.jpg",
+    "fingerprintSha1": "892371e6034ec41e29a7ea6ad2fd6d2c69a6ef9c"
   }
 ]
