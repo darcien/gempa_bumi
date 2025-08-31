@@ -28822,5 +28822,17 @@
     "bmkgEarthquakeId": "20250831172320",
     "shakeMapUrl": "https://static.bmkg.go.id/20250831172320.mmi.jpg",
     "fingerprintSha1": "70d723b886f1a904572fdb5b833a1358c3e46a84"
+  },
+  {
+    "earthquakeAt": "2025-08-31T23:04:33.000Z",
+    "latitude": -8.15,
+    "longitude": 107.62,
+    "magnitude": 4.4,
+    "depthInKm": 28,
+    "locationInIndonesian": "Pusat gempa berada di laut 103 km baratdaya Kab. Tasikmalaya",
+    "feltOnStations": "II Tasikmalaya, II Pamengpeuk",
+    "bmkgEarthquakeId": "20250901060433",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250901060433.mmi.jpg",
+    "fingerprintSha1": "dbb8a2b238ec17baeeec133e9ed719a7cb0965b8"
   }
 ]
