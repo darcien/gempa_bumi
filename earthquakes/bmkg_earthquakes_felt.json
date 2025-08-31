@@ -28798,5 +28798,17 @@
     "bmkgEarthquakeId": "20250831081443",
     "shakeMapUrl": "https://static.bmkg.go.id/20250831081443.mmi.jpg",
     "fingerprintSha1": "892371e6034ec41e29a7ea6ad2fd6d2c69a6ef9c"
+  },
+  {
+    "earthquakeAt": "2025-08-31T04:18:45.000Z",
+    "latitude": -6.5,
+    "longitude": 107.25,
+    "magnitude": 2.9,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km Tenggara Kab. Bekasi",
+    "feltOnStations": "III Tegalwaru",
+    "bmkgEarthquakeId": "20250831111845",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250831111845.mmi.jpg",
+    "fingerprintSha1": "5d4aeb1423a4ac491222aa7b6f599e575908a983"
   }
 ]
