@@ -28818,7 +28818,7 @@
     "magnitude": 3.9,
     "depthInKm": 29,
     "locationInIndonesian": "Pusat gempa berada di darat 21 km Barat Laut Nabire",
-    "feltOnStations": "",
+    "feltOnStations": "II Nabire",
     "bmkgEarthquakeId": "20250831172320",
     "shakeMapUrl": "https://static.bmkg.go.id/20250831172320.mmi.jpg",
     "fingerprintSha1": "70d723b886f1a904572fdb5b833a1358c3e46a84"
