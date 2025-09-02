@@ -28846,5 +28846,17 @@
     "bmkgEarthquakeId": "20250901144258",
     "shakeMapUrl": "https://static.bmkg.go.id/20250901144258.mmi.jpg",
     "fingerprintSha1": "48851901b4db8e3adf33ee86fff16ea6b09bf65d"
+  },
+  {
+    "earthquakeAt": "2025-09-02T04:52:40.000Z",
+    "latitude": -6.7,
+    "longitude": 107.65,
+    "magnitude": 2.2,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 18 km baratdaya KAB-SUBANG",
+    "feltOnStations": "II-III Ciater",
+    "bmkgEarthquakeId": "20250902115240",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250902115240.mmi.jpg",
+    "fingerprintSha1": "8b1bee5fb65d54789acc2953d9894180d38a0f97"
   }
 ]
