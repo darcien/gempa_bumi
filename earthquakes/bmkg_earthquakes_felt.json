@@ -28882,5 +28882,17 @@
     "bmkgEarthquakeId": "20250902190528",
     "shakeMapUrl": "https://static.bmkg.go.id/20250902190528.mmi.jpg",
     "fingerprintSha1": "cc71e4bd1656be0406504042eb90a66600c5ea14"
+  },
+  {
+    "earthquakeAt": "2025-09-02T13:06:41.000Z",
+    "latitude": -3.33,
+    "longitude": 129.16,
+    "magnitude": 3.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 38 km barat Tehoru, Maluku Tengah",
+    "feltOnStations": "III Masohi",
+    "bmkgEarthquakeId": "20250902200641",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250902200641.mmi.jpg",
+    "fingerprintSha1": "30d689a91c9dae0fd9ab53b5f4b8847cc568ccd8"
   }
 ]
