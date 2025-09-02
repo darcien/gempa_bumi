@@ -28866,7 +28866,7 @@
     "magnitude": 2.1,
     "depthInKm": 4,
     "locationInIndonesian": "Pusat gempa berada di darat 17 km timurlaut KAB-BANDUNG",
-    "feltOnStations": "",
+    "feltOnStations": "II Ciater",
     "bmkgEarthquakeId": "20250902063139",
     "shakeMapUrl": "https://static.bmkg.go.id/20250902063139.mmi.jpg",
     "fingerprintSha1": "2faebf4bc020b36f1fcf2bab70a0b4f2a92eb7b0"
