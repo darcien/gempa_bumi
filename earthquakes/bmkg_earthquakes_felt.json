@@ -28889,10 +28889,58 @@
     "longitude": 129.16,
     "magnitude": 3.1,
     "depthInKm": 10,
-    "locationInIndonesian": "Pusat gempa berada di darat 38 km barat Tehoru, Maluku Tengah",
+    "locationInIndonesian": "Pusat gempa berada di darat 26 km timur Masohi, Maluku Tengah",
     "feltOnStations": "III Masohi",
     "bmkgEarthquakeId": "20250902200641",
     "shakeMapUrl": "https://static.bmkg.go.id/20250902200641.mmi.jpg",
     "fingerprintSha1": "30d689a91c9dae0fd9ab53b5f4b8847cc568ccd8"
+  },
+  {
+    "earthquakeAt": "2025-09-02T13:17:16.000Z",
+    "latitude": -3.27,
+    "longitude": 129.12,
+    "magnitude": 4.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 23 km timur Masohi, Maluku Tengah",
+    "feltOnStations": "III-IV Masohi",
+    "bmkgEarthquakeId": "20250902201716",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250902201716.mmi.jpg",
+    "fingerprintSha1": "baa52cce82686752f3d7c9cb5be3dd4bbf26c605"
+  },
+  {
+    "earthquakeAt": "2025-09-02T13:10:24.000Z",
+    "latitude": -3.29,
+    "longitude": 129.14,
+    "magnitude": 4.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 24 km timur Masohi, Maluku Tengah",
+    "feltOnStations": "III-IV Masohi",
+    "bmkgEarthquakeId": "20250902201024",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250902201024.mmi.jpg",
+    "fingerprintSha1": "2049f141f958c1797aae329c0606ff93f943b8f3"
+  },
+  {
+    "earthquakeAt": "2025-09-02T13:01:06.000Z",
+    "latitude": -3.14,
+    "longitude": 128.81,
+    "magnitude": 3.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km utara Elpaputih, SBB",
+    "feltOnStations": "III Masohi",
+    "bmkgEarthquakeId": "20250902200106",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250902200106.mmi.jpg",
+    "fingerprintSha1": "b8d8ef666f8d2c3a6e56956ccb38a3512ca256f7"
+  },
+  {
+    "earthquakeAt": "2025-09-02T12:36:04.000Z",
+    "latitude": -3.29,
+    "longitude": 129.09,
+    "magnitude": 3.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 19 km timur Masohi, Maluku Tengah",
+    "feltOnStations": "III Masohi",
+    "bmkgEarthquakeId": "20250902193604",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250902193604.mmi.jpg",
+    "fingerprintSha1": "f67febc7959138bb44f40f7ba902a2286fb4939f"
   }
 ]
