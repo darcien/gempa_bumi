@@ -28858,5 +28858,17 @@
     "bmkgEarthquakeId": "20250902115240",
     "shakeMapUrl": "https://static.bmkg.go.id/20250902115240.mmi.jpg",
     "fingerprintSha1": "8b1bee5fb65d54789acc2953d9894180d38a0f97"
+  },
+  {
+    "earthquakeAt": "2025-09-01T23:31:39.000Z",
+    "latitude": -6.73,
+    "longitude": 107.63,
+    "magnitude": 2.1,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km timurlaut KAB-BANDUNG",
+    "feltOnStations": "",
+    "bmkgEarthquakeId": "20250902063139",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250902063139.mmi.jpg",
+    "fingerprintSha1": "2faebf4bc020b36f1fcf2bab70a0b4f2a92eb7b0"
   }
 ]
