@@ -28966,5 +28966,17 @@
     "bmkgEarthquakeId": "20250903052242",
     "shakeMapUrl": "https://static.bmkg.go.id/20250903052242.mmi.jpg",
     "fingerprintSha1": "be2b9f232c992f3bfc035d3324109eee2ef58542"
+  },
+  {
+    "earthquakeAt": "2025-09-02T23:53:12.000Z",
+    "latitude": -0.88,
+    "longitude": 120.28,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 44 km timurlaut Palu",
+    "feltOnStations": "IV Parigi, III-IV Palu, III Poso",
+    "bmkgEarthquakeId": "20250903065312",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250903065312.mmi.jpg",
+    "fingerprintSha1": "6fbe04226a8098e93abe220313a4006941246195"
   }
 ]
