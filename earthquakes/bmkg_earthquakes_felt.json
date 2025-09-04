@@ -29062,5 +29062,17 @@
     "bmkgEarthquakeId": "20250905024803",
     "shakeMapUrl": "https://static.bmkg.go.id/20250905024803.mmi.jpg",
     "fingerprintSha1": "2c69724830dfdc65eb7420a5e5fed0ee92225e20"
+  },
+  {
+    "earthquakeAt": "2025-09-04T22:10:30.000Z",
+    "latitude": -4.3,
+    "longitude": 122.49,
+    "magnitude": 2.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km TimurLaut Konawe Selatan",
+    "feltOnStations": "II-III Konawe Selatan",
+    "bmkgEarthquakeId": "20250905051030",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250905051030.mmi.jpg",
+    "fingerprintSha1": "bca0155a32a4a9f5d6aa782196a566972c785639"
   }
 ]
