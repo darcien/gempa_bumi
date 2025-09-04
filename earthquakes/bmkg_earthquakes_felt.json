@@ -29050,5 +29050,17 @@
     "bmkgEarthquakeId": "20250904184915",
     "shakeMapUrl": "https://static.bmkg.go.id/20250904184915.mmi.jpg",
     "fingerprintSha1": "ab1cca17a9367cf439cbe3afc4849089a86253a7"
+  },
+  {
+    "earthquakeAt": "2025-09-04T19:48:03.000Z",
+    "latitude": -1.81,
+    "longitude": 137.38,
+    "magnitude": 4.7,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di darat 91 km BaratLaut Kasonaweja",
+    "feltOnStations": "II-III Waropen, II Nabire",
+    "bmkgEarthquakeId": "20250905024803",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250905024803.mmi.jpg",
+    "fingerprintSha1": "2c69724830dfdc65eb7420a5e5fed0ee92225e20"
   }
 ]
