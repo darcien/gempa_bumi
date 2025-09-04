@@ -29002,5 +29002,41 @@
     "bmkgEarthquakeId": "20250904045506",
     "shakeMapUrl": "https://static.bmkg.go.id/20250904045506.mmi.jpg",
     "fingerprintSha1": "19963c8a33559dce1195aea4d8687ed24a33b990"
+  },
+  {
+    "earthquakeAt": "2025-09-04T01:09:58.000Z",
+    "latitude": -0.85,
+    "longitude": 120.29,
+    "magnitude": 4.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 13 km Timur Parigi",
+    "feltOnStations": "III-IV Toboli, III Palu",
+    "bmkgEarthquakeId": "20250904080958",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250904080958.mmi.jpg",
+    "fingerprintSha1": "9ef1793cdc2caaf209dec74df1c79928e707c218"
+  },
+  {
+    "earthquakeAt": "2025-09-04T00:23:15.000Z",
+    "latitude": -2.79,
+    "longitude": 130.17,
+    "magnitude": 3.2,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di laut 39 km timurlaut Kobisonta, Maluku Tengah",
+    "feltOnStations": "II-III Kobisonta",
+    "bmkgEarthquakeId": "20250904072315",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250904072315.mmi.jpg",
+    "fingerprintSha1": "0daf2590f93b0b465dac1f57f6aa0713045d02a1"
+  },
+  {
+    "earthquakeAt": "2025-09-04T00:14:28.000Z",
+    "latitude": -2.77,
+    "longitude": 130.12,
+    "magnitude": 4.9,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di laut 36 km timurlaut Kobisonta, Maluku Tengah",
+    "feltOnStations": "II-III Kobisonta",
+    "bmkgEarthquakeId": "20250904071428",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250904071428.mmi.jpg",
+    "fingerprintSha1": "2060df7106599d80f57e63e5b82db37a6e8e6fbc"
   }
 ]
