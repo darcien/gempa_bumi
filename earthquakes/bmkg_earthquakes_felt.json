@@ -29082,7 +29082,7 @@
     "magnitude": 4.6,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 166 km tenggara Jember",
-    "feltOnStations": "III Kuta Selatan",
+    "feltOnStations": "III Kuta Selatan, III Kuta",
     "bmkgEarthquakeId": "20250905232907",
     "shakeMapUrl": "https://static.bmkg.go.id/20250905232907.mmi.jpg",
     "fingerprintSha1": "f0b5f7391b367ce79e3609205b459709261c366f"
