@@ -29086,5 +29086,17 @@
     "bmkgEarthquakeId": "20250905232907",
     "shakeMapUrl": "https://static.bmkg.go.id/20250905232907.mmi.jpg",
     "fingerprintSha1": "f0b5f7391b367ce79e3609205b459709261c366f"
+  },
+  {
+    "earthquakeAt": "2025-09-05T18:43:21.000Z",
+    "latitude": -3.3,
+    "longitude": 129.09,
+    "magnitude": 3.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 35 km timur Elpaputih, Seram Bagian Barat",
+    "feltOnStations": "III Masohi",
+    "bmkgEarthquakeId": "20250906014321",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250906014321.mmi.jpg",
+    "fingerprintSha1": "5697287d29b91a1160585269e512d1c5a3c67c7b"
   }
 ]
