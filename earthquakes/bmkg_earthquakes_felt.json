@@ -29122,5 +29122,29 @@
     "bmkgEarthquakeId": "20250907075059",
     "shakeMapUrl": "https://static.bmkg.go.id/20250907075059.mmi.jpg",
     "fingerprintSha1": "354b1e0f164858cf66fc756de229a18761f4ab80"
+  },
+  {
+    "earthquakeAt": "2025-09-07T02:24:35.000Z",
+    "latitude": -3.94,
+    "longitude": 122.51,
+    "magnitude": 2.7,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km BaratDaya Mandonga, Kota Kendari",
+    "feltOnStations": "II-III Kendari",
+    "bmkgEarthquakeId": "20250907092435",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250907092435.mmi.jpg",
+    "fingerprintSha1": "121a4d42f86be83d561586946a24f7d4fc9c4350"
+  },
+  {
+    "earthquakeAt": "2025-09-07T02:18:08.000Z",
+    "latitude": -3.94,
+    "longitude": 122.51,
+    "magnitude": 3.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km Barat daya Mandonga, Kota Kendari",
+    "feltOnStations": "II-III Konawe, III Kendari",
+    "bmkgEarthquakeId": "20250907091808",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250907091808.mmi.jpg",
+    "fingerprintSha1": "9bfae198127b79e4d517f61b0f014f77331afe54"
   }
 ]
