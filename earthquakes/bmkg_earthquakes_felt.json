@@ -29194,5 +29194,17 @@
     "bmkgEarthquakeId": "20250908105015",
     "shakeMapUrl": "https://static.bmkg.go.id/20250908105015.mmi.jpg",
     "fingerprintSha1": "ad7f37868f56a17ee822ee98f7b58edd0340563b"
+  },
+  {
+    "earthquakeAt": "2025-09-08T15:49:27.000Z",
+    "latitude": -0.31,
+    "longitude": 99.44,
+    "magnitude": 4.3,
+    "depthInKm": 53,
+    "locationInIndonesian": "Pusat gempa berada di laut 57 km Tenggara Air Bangis, Pasaman Barat",
+    "feltOnStations": "I-II Padang Panjang, II-III Pasaman Barat, II-III Pariaman, II-III Padang",
+    "bmkgEarthquakeId": "20250908224927",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250908224927.mmi.jpg",
+    "fingerprintSha1": "421712f259785c37a8f72e76610912a10eafc28f"
   }
 ]
