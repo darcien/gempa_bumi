@@ -29170,5 +29170,17 @@
     "bmkgEarthquakeId": "20250907222157",
     "shakeMapUrl": "https://static.bmkg.go.id/20250907222157.mmi.jpg",
     "fingerprintSha1": "6ab562cd2f42a7eb17b0134d45dcae4cc6e8f0cd"
+  },
+  {
+    "earthquakeAt": "2025-09-08T04:23:03.000Z",
+    "latitude": -0.98,
+    "longitude": 134.32,
+    "magnitude": 4.4,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di laut 33 km tenggara Manokwari",
+    "feltOnStations": "II Manokwari",
+    "bmkgEarthquakeId": "20250908112303",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250908112303.mmi.jpg",
+    "fingerprintSha1": "296476e93a0b7c0a50296f0179c9f31da76a0bc8"
   }
 ]
