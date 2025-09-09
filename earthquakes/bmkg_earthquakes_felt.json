@@ -29206,5 +29206,17 @@
     "bmkgEarthquakeId": "20250908224927",
     "shakeMapUrl": "https://static.bmkg.go.id/20250908224927.mmi.jpg",
     "fingerprintSha1": "421712f259785c37a8f72e76610912a10eafc28f"
+  },
+  {
+    "earthquakeAt": "2025-09-09T14:24:22.000Z",
+    "latitude": -9.07,
+    "longitude": 110.42,
+    "magnitude": 3.1,
+    "depthInKm": 24,
+    "locationInIndonesian": "Pusat gempa berada di laut 121 km barat daya Gunung Kidul",
+    "feltOnStations": "II Bawean",
+    "bmkgEarthquakeId": "20250909212422",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250909212422.mmi.jpg",
+    "fingerprintSha1": "2f813c9117082f9f08c1abdaf37eb851ee5483aa"
   }
 ]
