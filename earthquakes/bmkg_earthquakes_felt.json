@@ -29218,5 +29218,17 @@
     "bmkgEarthquakeId": "20250909212422",
     "shakeMapUrl": "https://static.bmkg.go.id/20250909212422.mmi.jpg",
     "fingerprintSha1": "2f813c9117082f9f08c1abdaf37eb851ee5483aa"
+  },
+  {
+    "earthquakeAt": "2025-09-09T12:26:16.000Z",
+    "latitude": -6.79,
+    "longitude": 111.93,
+    "magnitude": 2.4,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km barat laut Tuban",
+    "feltOnStations": "II Tuban",
+    "bmkgEarthquakeId": "20250909192616",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250909192616.mmi.jpg",
+    "fingerprintSha1": "d124744898445ffe16cadac21f7a9be2a15c488c"
   }
 ]
