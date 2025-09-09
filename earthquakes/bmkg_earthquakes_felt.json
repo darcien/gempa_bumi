@@ -29237,10 +29237,22 @@
     "longitude": 121.99,
     "magnitude": 3.3,
     "depthInKm": 5,
-    "locationInIndonesian": "Pusat gempa berada di laut 1 km Barat Daya Rorowatu Utara, Bombana",
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km Barat Daya Rorowatu Utara, Bombana",
     "feltOnStations": "III Bombana",
     "bmkgEarthquakeId": "20250910040246",
     "shakeMapUrl": "https://static.bmkg.go.id/20250910040246.mmi.jpg",
     "fingerprintSha1": "7ca4a4a58e0615141c9506254f6a20333744e905"
+  },
+  {
+    "earthquakeAt": "2025-09-09T21:19:58.000Z",
+    "latitude": -4.67,
+    "longitude": 122.02,
+    "magnitude": 2.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km Tenggara Rorowatu Utara, Bombana",
+    "feltOnStations": "II-III Bombana",
+    "bmkgEarthquakeId": "20250910041958",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250910041958.mmi.jpg",
+    "fingerprintSha1": "dd3dfc97d54d4e361792770ae4cd8a39a1d8dfc6"
   }
 ]
