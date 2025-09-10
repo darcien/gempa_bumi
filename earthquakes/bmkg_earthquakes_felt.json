@@ -29254,5 +29254,17 @@
     "bmkgEarthquakeId": "20250910041958",
     "shakeMapUrl": "https://static.bmkg.go.id/20250910041958.mmi.jpg",
     "fingerprintSha1": "dd3dfc97d54d4e361792770ae4cd8a39a1d8dfc6"
+  },
+  {
+    "earthquakeAt": "2025-09-10T13:26:09.000Z",
+    "latitude": -7.45,
+    "longitude": 106.7,
+    "magnitude": 4.7,
+    "depthInKm": 31,
+    "locationInIndonesian": "Pusat gempa berada di laut 53 km tenggara Kab. Sukabumi",
+    "feltOnStations": "III Bayah, III Pangalengan, III Pelabuhan Ratu, II-III Cilaku, II-III Cireunghas, II-III Sukabumi, II-III Cisolok, II-III Kota Bandung, II-III Bandung Barat, II-III Jampang Kulon, II-III Cicurug, II-III Curugkembar, II-III Kabupaten Bandung, II-III Cimahi, II Cidadap, II Depok",
+    "bmkgEarthquakeId": "20250910202609",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250910202609.mmi.jpg",
+    "fingerprintSha1": "839e96f2edfff69caf978bf32e5ad84a4e05388e"
   }
 ]
