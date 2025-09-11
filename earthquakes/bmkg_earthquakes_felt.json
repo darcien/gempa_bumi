@@ -29302,5 +29302,17 @@
     "bmkgEarthquakeId": "20250911101500",
     "shakeMapUrl": "https://static.bmkg.go.id/20250911101500.mmi.jpg",
     "fingerprintSha1": "267039860c9884523414b9108764e014ccb987a8"
+  },
+  {
+    "earthquakeAt": "2025-09-11T10:44:09.000Z",
+    "latitude": -4.22,
+    "longitude": 122.3,
+    "magnitude": 2.5,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km tenggara Baito, Konawe Selatan",
+    "feltOnStations": "III Konawe Selatan",
+    "bmkgEarthquakeId": "20250911174409",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250911174409.mmi.jpg",
+    "fingerprintSha1": "57e070ae237d6839d42b4d5f73d07bd9933cc8f2"
   }
 ]
