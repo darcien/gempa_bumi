@@ -29298,7 +29298,7 @@
     "magnitude": 5,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 144 tenggara Kab. Malang",
-    "feltOnStations": "III Malang, II Trenggalek, II Blitar",
+    "feltOnStations": "III Kab. Malang, II Trenggalek, II Blitar, II-III Kota Malang, II Tulungagung",
     "bmkgEarthquakeId": "20250911101500",
     "shakeMapUrl": "https://static.bmkg.go.id/20250911101500.mmi.jpg",
     "fingerprintSha1": "267039860c9884523414b9108764e014ccb987a8"
