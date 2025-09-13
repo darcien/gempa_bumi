@@ -29326,5 +29326,17 @@
     "bmkgEarthquakeId": "20250912214857",
     "shakeMapUrl": "https://static.bmkg.go.id/20250912214857.mmi.jpg",
     "fingerprintSha1": "02d799648057a5f6807e349e511f8caa3cfa8057"
+  },
+  {
+    "earthquakeAt": "2025-09-13T01:01:11.000Z",
+    "latitude": -6.36,
+    "longitude": 104.6,
+    "magnitude": 4.4,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di laut 98 km barat daya Tanggamus",
+    "feltOnStations": "II Ngaras Bengkunat",
+    "bmkgEarthquakeId": "20250913080111",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250913080111.mmi.jpg",
+    "fingerprintSha1": "b3eae9b0f60c3e52b9baadb381f5ef2b91954770"
   }
 ]
