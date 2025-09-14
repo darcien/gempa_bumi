@@ -29350,5 +29350,17 @@
     "bmkgEarthquakeId": "20250914081343",
     "shakeMapUrl": "https://static.bmkg.go.id/20250914081343.mmi.jpg",
     "fingerprintSha1": "fb3ab4d57cd8f7bc1b6b0c1fdc7012e2ec945276"
+  },
+  {
+    "earthquakeAt": "2025-09-14T14:49:42.000Z",
+    "latitude": -2.84,
+    "longitude": 100.93,
+    "magnitude": 5.2,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di laut 35 km Barat Daya Mukomuko",
+    "feltOnStations": "III Sungai Penuh, III Kerinci, III Padang, III Pesisir Selatan, III Solok, III Solok Selatan",
+    "bmkgEarthquakeId": "20250914214942",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250914214942.mmi.jpg",
+    "fingerprintSha1": "0f472da2d5bc070a93dfa3c2e8f6784ef00fd9ea"
   }
 ]
