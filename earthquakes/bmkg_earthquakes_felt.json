@@ -29362,5 +29362,17 @@
     "bmkgEarthquakeId": "20250914214942",
     "shakeMapUrl": "https://static.bmkg.go.id/20250914214942.mmi.jpg",
     "fingerprintSha1": "0f472da2d5bc070a93dfa3c2e8f6784ef00fd9ea"
+  },
+  {
+    "earthquakeAt": "2025-09-15T03:50:41.000Z",
+    "latitude": -7.05,
+    "longitude": 106.66,
+    "magnitude": 3.1,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 13 km Tenggara Kab. Sukabumi",
+    "feltOnStations": "II-III Bantargadung, II-III Parungkuda",
+    "bmkgEarthquakeId": "20250915105041",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250915105041.mmi.jpg",
+    "fingerprintSha1": "ffecf47cbe61ab38a57aef5ae4171b9431d08c6f"
   }
 ]
