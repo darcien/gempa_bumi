@@ -29386,5 +29386,17 @@
     "bmkgEarthquakeId": "20250917015836",
     "shakeMapUrl": "https://static.bmkg.go.id/20250917015836.mmi.jpg",
     "fingerprintSha1": "c8dd647187b8af9cfe15783784157dfae572d012"
+  },
+  {
+    "earthquakeAt": "2025-09-16T19:43:06.000Z",
+    "latitude": -0.59,
+    "longitude": 135.65,
+    "magnitude": 4.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 18 Km barat laut Supiori",
+    "feltOnStations": "III Supiori",
+    "bmkgEarthquakeId": "20250917024306",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250917024306.mmi.jpg",
+    "fingerprintSha1": "6ce52bb13b210680513d7c92bd58a4e0ac0e248e"
   }
 ]
