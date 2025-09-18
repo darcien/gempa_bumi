@@ -29446,5 +29446,17 @@
     "bmkgEarthquakeId": "20250918172639",
     "shakeMapUrl": "https://static.bmkg.go.id/20250918172639.mmi.jpg",
     "fingerprintSha1": "59b485e1914805dcc4dd37c07dfe6d3ab4c65ed4"
+  },
+  {
+    "earthquakeAt": "2025-09-18T14:59:34.000Z",
+    "latitude": -10.3,
+    "longitude": 113.96,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 218 Km barat daya Kuta Selatan",
+    "feltOnStations": "II Kuta, II Denpasar",
+    "bmkgEarthquakeId": "20250918215934",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250918215934.mmi.jpg",
+    "fingerprintSha1": "9f7c2d2f9755cab7a581f42b2f17f0176527739e"
   }
 ]
