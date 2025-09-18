@@ -29434,5 +29434,17 @@
     "bmkgEarthquakeId": "20250918140710",
     "shakeMapUrl": "https://static.bmkg.go.id/20250918140710.mmi.jpg",
     "fingerprintSha1": "abe0109fd1b160d47d02e7236aba77a0446ac091"
+  },
+  {
+    "earthquakeAt": "2025-09-18T10:26:39.000Z",
+    "latitude": -4.02,
+    "longitude": 122.29,
+    "magnitude": 2.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km timur laut Sabulakoa, Konawe Selatan",
+    "feltOnStations": "II Konawe, II Kendari",
+    "bmkgEarthquakeId": "20250918172639",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250918172639.mmi.jpg",
+    "fingerprintSha1": "59b485e1914805dcc4dd37c07dfe6d3ab4c65ed4"
   }
 ]
