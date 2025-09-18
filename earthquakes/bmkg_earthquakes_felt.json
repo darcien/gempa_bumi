@@ -29410,5 +29410,17 @@
     "bmkgEarthquakeId": "20250917201157",
     "shakeMapUrl": "https://static.bmkg.go.id/20250917201157.mmi.jpg",
     "fingerprintSha1": "4b3057624d37d1be8a553f7eb2551157038e0968"
+  },
+  {
+    "earthquakeAt": "2025-09-18T03:30:32.000Z",
+    "latitude": -0.66,
+    "longitude": 128.04,
+    "magnitude": 4.6,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 60 km timur Labuha",
+    "feltOnStations": "III-IV Gane Barat Selatan",
+    "bmkgEarthquakeId": "20250918103032",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250918103032.mmi.jpg",
+    "fingerprintSha1": "88f0e31860a5afde41db34c1c98edd34b996a146"
   }
 ]
