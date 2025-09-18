@@ -29458,5 +29458,17 @@
     "bmkgEarthquakeId": "20250918215934",
     "shakeMapUrl": "https://static.bmkg.go.id/20250918215934.mmi.jpg",
     "fingerprintSha1": "9f7c2d2f9755cab7a581f42b2f17f0176527739e"
+  },
+  {
+    "earthquakeAt": "2025-09-18T18:19:50.000Z",
+    "latitude": -3.47,
+    "longitude": 135.49,
+    "magnitude": 6.6,
+    "depthInKm": 24,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 km Barat Daya Nabire",
+    "feltOnStations": "V Nabire, IV-V Wasior, III Timika, III-IV Enarotali, II-III Biak, II-III Supiori",
+    "bmkgEarthquakeId": "20250919011950",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250919011950.mmi.jpg",
+    "fingerprintSha1": "fb6ecf10c7fcf31d07743112b2e273a5c372e811"
   }
 ]
