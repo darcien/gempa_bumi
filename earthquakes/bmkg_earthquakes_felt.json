@@ -29602,5 +29602,41 @@
     "bmkgEarthquakeId": "20250920234744",
     "shakeMapUrl": "https://static.bmkg.go.id/20250920234744.mmi.jpg",
     "fingerprintSha1": "57dcd2a0fab3df5f182da134a347b3e82cd28250"
+  },
+  {
+    "earthquakeAt": "2025-09-20T17:22:08.000Z",
+    "latitude": -6.75,
+    "longitude": 106.57,
+    "magnitude": 2.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 26 km timur laut Kab.Sukabumi",
+    "feltOnStations": "II Kalapanunggal, II Kabandungan",
+    "bmkgEarthquakeId": "20250921002208",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250921002208.mmi.jpg",
+    "fingerprintSha1": "b36745fdb82333b059578d034428733bed126fa6"
+  },
+  {
+    "earthquakeAt": "2025-09-20T17:17:40.000Z",
+    "latitude": -3.37,
+    "longitude": 135.6,
+    "magnitude": 3,
+    "depthInKm": 22,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km tenggara Nabire",
+    "feltOnStations": "II Nabire",
+    "bmkgEarthquakeId": "20250921001740",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250921001740.mmi.jpg",
+    "fingerprintSha1": "f1bb62f55afd1985ff0b66daec188b8b9d69ca43"
+  },
+  {
+    "earthquakeAt": "2025-09-20T16:56:00.000Z",
+    "latitude": -6.72,
+    "longitude": 106.6,
+    "magnitude": 3,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 25 km barat daya Kota Bogor",
+    "feltOnStations": "II-III Kalapanunggal, II-III Kabandungan, II Pamijahan, II Leuwiliang, II Bogor",
+    "bmkgEarthquakeId": "20250920235600",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250920235600.mmi.jpg",
+    "fingerprintSha1": "af84b8a79b0ff174aa511d348a076e7d428b9277"
   }
 ]
