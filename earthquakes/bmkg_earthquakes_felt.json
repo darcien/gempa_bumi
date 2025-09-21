@@ -29674,5 +29674,17 @@
     "bmkgEarthquakeId": "20250921034341",
     "shakeMapUrl": "https://static.bmkg.go.id/20250921034341.mmi.jpg",
     "fingerprintSha1": "4147ab5a6d77d242c028c0ec40b58420597cfc80"
+  },
+  {
+    "earthquakeAt": "2025-09-21T09:23:37.000Z",
+    "latitude": -6.73,
+    "longitude": 106.58,
+    "magnitude": 3.8,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 28 km timur laut Sukabumi",
+    "feltOnStations": "II Kalapanunggal",
+    "bmkgEarthquakeId": "20250921162337",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250921162337.mmi.jpg",
+    "fingerprintSha1": "683738732227856d1838333cee008230b443b8a6"
   }
 ]
