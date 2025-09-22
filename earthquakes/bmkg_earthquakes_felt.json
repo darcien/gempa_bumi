@@ -29746,5 +29746,17 @@
     "bmkgEarthquakeId": "20250922125029",
     "shakeMapUrl": "https://static.bmkg.go.id/20250922125029.mmi.jpg",
     "fingerprintSha1": "de73516bc0614df8c93fb06a49a211717f0a1f97"
+  },
+  {
+    "earthquakeAt": "2025-09-22T05:41:59.000Z",
+    "latitude": -6.5,
+    "longitude": 107.26,
+    "magnitude": 2.6,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km tenggara Kabupaten Bekasi",
+    "feltOnStations": "II-III Karawang",
+    "bmkgEarthquakeId": "20250922124159",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250922124159.mmi.jpg",
+    "fingerprintSha1": "1b75608ecbcbeb715009fc7f1a95622ab9180e0d"
   }
 ]
