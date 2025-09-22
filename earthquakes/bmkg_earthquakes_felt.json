@@ -29782,5 +29782,17 @@
     "bmkgEarthquakeId": "20250922191936",
     "shakeMapUrl": "https://static.bmkg.go.id/20250922191936.mmi.jpg",
     "fingerprintSha1": "962593f07f792af828215e082d09bdd177e32e61"
+  },
+  {
+    "earthquakeAt": "2025-09-22T12:13:10.000Z",
+    "latitude": 4.73,
+    "longitude": 97.16,
+    "magnitude": 3.1,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di darat 33 km tenggara Bener Meriah",
+    "feltOnStations": "II - III Kec. Pintu Rime Gayo, Kab. Bener Meriah",
+    "bmkgEarthquakeId": "20250922191310",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250922191310.mmi.jpg",
+    "fingerprintSha1": "f86e78c7b24b65be3dffd8b38cae17c471f50770"
   }
 ]
