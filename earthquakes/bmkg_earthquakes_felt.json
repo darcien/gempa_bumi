@@ -29838,7 +29838,7 @@
     "magnitude": 5.1,
     "depthInKm": 34,
     "locationInIndonesian": "Pusat gempa berada di darat 13 km timur laut Waibakul",
-    "feltOnStations": "III Waingapu, III Tambolaka, II Kota Bima, II Sumbawa",
+    "feltOnStations": "III-IV Waikabubak, III-IV Waibakul, III Waingapu, III Tambolaka, II Kota Bima, II Sumbawa",
     "bmkgEarthquakeId": "20250924025443",
     "shakeMapUrl": "https://static.bmkg.go.id/20250924025443.mmi.jpg",
     "fingerprintSha1": "a392f0fcd7a2d076834e5daef2fe8a333562d4fc"
