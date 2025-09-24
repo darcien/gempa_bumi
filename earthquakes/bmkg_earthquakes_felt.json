@@ -29842,5 +29842,17 @@
     "bmkgEarthquakeId": "20250924025443",
     "shakeMapUrl": "https://static.bmkg.go.id/20250924025443.mmi.jpg",
     "fingerprintSha1": "a392f0fcd7a2d076834e5daef2fe8a333562d4fc"
+  },
+  {
+    "earthquakeAt": "2025-09-24T15:29:30.000Z",
+    "latitude": 4.15,
+    "longitude": 97.5,
+    "magnitude": 4.4,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 24 km timur laut Kabupaten Gayo Lues",
+    "feltOnStations": "III Pining-Gayo Lues, II - III Aceh Tengah, II Bener Meriah",
+    "bmkgEarthquakeId": "20250924222930",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250924222930.mmi.jpg",
+    "fingerprintSha1": "9e2b4862efd9816a1da2fd852451cc5f950cd1ec"
   }
 ]
