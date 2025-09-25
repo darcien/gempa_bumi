@@ -29881,5 +29881,17 @@
     "meta": {
       "erroneousDataReason": "FUTURE_EARTHQUAKE"
     }
+  },
+  {
+    "earthquakeAt": "2025-09-25T09:04:12.000Z",
+    "latitude": -7.82,
+    "longitude": 114.47,
+    "magnitude": 5.7,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 46 km timur laut Banyuwangi",
+    "feltOnStations": "IV Banyuwangi, IV Penebel, III Lumajang, III Kuta, III Denpasar, III Buleleng, II-III Jember, II-III Bondowoso, II Situbondo, II Pasuruan, II Surabaya, II Kuta Selatan, II Pamekasan, II Mataram, II Lombok Barat",
+    "bmkgEarthquakeId": "20250925160412",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250925160412.mmi.jpg",
+    "fingerprintSha1": "260c51990d032b8d7f4916d605f52d3401c23f2d"
   }
 ]
