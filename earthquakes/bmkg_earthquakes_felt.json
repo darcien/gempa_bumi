@@ -29893,5 +29893,17 @@
     "bmkgEarthquakeId": "20250925160412",
     "shakeMapUrl": "https://static.bmkg.go.id/20250925160412.mmi.jpg",
     "fingerprintSha1": "260c51990d032b8d7f4916d605f52d3401c23f2d"
+  },
+  {
+    "earthquakeAt": "2025-09-25T10:06:46.000Z",
+    "latitude": 0.91,
+    "longitude": 117.12,
+    "magnitude": 2.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km tenggara Kutai Timur",
+    "feltOnStations": "II-III Kutai Timur",
+    "bmkgEarthquakeId": "20250925170646",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250925170646.mmi.jpg",
+    "fingerprintSha1": "b9586e7c6d443bfc99d03a84da228511adc3fd85"
   }
 ]
