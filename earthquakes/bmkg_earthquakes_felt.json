@@ -29965,5 +29965,17 @@
     "bmkgEarthquakeId": "20250926215503",
     "shakeMapUrl": "https://static.bmkg.go.id/20250926215503.mmi.jpg",
     "fingerprintSha1": "0daa28207584663a8274984db2a8a13ca82a5965"
+  },
+  {
+    "earthquakeAt": "2025-09-26T15:08:55.000Z",
+    "latitude": -6.75,
+    "longitude": 106.57,
+    "magnitude": 3,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 26 km timur laut Kab. Sukabumi",
+    "feltOnStations": "II-III Kabandungan, II Pamijahan, II Bogor",
+    "bmkgEarthquakeId": "20250926220855",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250926220855.mmi.jpg",
+    "fingerprintSha1": "d121e0e5219c71babdac279dd1140bc56da8071f"
   }
 ]
