@@ -29953,5 +29953,17 @@
     "bmkgEarthquakeId": "20250926202219",
     "shakeMapUrl": "https://static.bmkg.go.id/20250926202219.mmi.jpg",
     "fingerprintSha1": "04aedfcbff9ae83ab303de84394f7c7d72efdd27"
+  },
+  {
+    "earthquakeAt": "2025-09-26T14:55:03.000Z",
+    "latitude": -5.47,
+    "longitude": 104.51,
+    "magnitude": 4.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 19 km barat laut Tanggamus",
+    "feltOnStations": "III-IV Semaka, III Kota Agung, II-III Limau",
+    "bmkgEarthquakeId": "20250926215503",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250926215503.mmi.jpg",
+    "fingerprintSha1": "0daa28207584663a8274984db2a8a13ca82a5965"
   }
 ]
