@@ -30013,5 +30013,17 @@
     "bmkgEarthquakeId": "20250928095426",
     "shakeMapUrl": "https://static.bmkg.go.id/20250928095426.mmi.jpg",
     "fingerprintSha1": "7c127f8324b1b74c2ec1ea07535fb44cc3231f30"
+  },
+  {
+    "earthquakeAt": "2025-09-28T14:06:20.000Z",
+    "latitude": -6.7,
+    "longitude": 106.64,
+    "magnitude": 2.8,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di darat 20 km BaratDaya Kota Bogor",
+    "feltOnStations": "II-III Leuwiliang, II Pamijahan",
+    "bmkgEarthquakeId": "20250928210620",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250928210620.mmi.jpg",
+    "fingerprintSha1": "de573638924d329b17f4dcd0d62c2f837ffff2d9"
   }
 ]
