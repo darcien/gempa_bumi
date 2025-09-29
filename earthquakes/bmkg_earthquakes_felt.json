@@ -30044,7 +30044,7 @@
     "longitude": 135.31,
     "magnitude": 2.7,
     "depthInKm": 35,
-    "locationInIndonesian": "Pusat gempa berada di darat 25 km Barat Laut Nabire",
+    "locationInIndonesian": "Pusat gempa berada di laut 25 km Baratlaut Nabire",
     "feltOnStations": "II Nabire",
     "bmkgEarthquakeId": "20250929222406",
     "shakeMapUrl": "https://static.bmkg.go.id/20250929222406.mmi.jpg",
@@ -30064,5 +30064,17 @@
     "meta": {
       "erroneousDataReason": "FUTURE_EARTHQUAKE"
     }
+  },
+  {
+    "earthquakeAt": "2025-09-29T22:30:15.000Z",
+    "latitude": -8.2,
+    "longitude": 107.41,
+    "magnitude": 4.9,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut, 121 km BaratDaya KAB-GARUT",
+    "feltOnStations": "II Kota Sukabumi, II-III Kota Garut, II Kertasari, Kab. Bandung, II Kab. Bandung Barat",
+    "bmkgEarthquakeId": "20250930053015",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250930053015.mmi.jpg",
+    "fingerprintSha1": "0eab524e68483dbe85c17a99db32a27daee925ca"
   }
 ]
