@@ -30088,5 +30088,17 @@
     "bmkgEarthquakeId": "20250930084130",
     "shakeMapUrl": "https://static.bmkg.go.id/20250930084130.mmi.jpg",
     "fingerprintSha1": "059ae54322259c40a4664bc27db71e74a6619b9c"
+  },
+  {
+    "earthquakeAt": "2025-09-30T16:49:43.000Z",
+    "latitude": -7.25,
+    "longitude": 114.22,
+    "magnitude": 6.5,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 50 km Tenggara Sumenep - Jawa Timur",
+    "feltOnStations": "III - IV Pamekasan, III Tuban, Denpasar, Gianyar, II-III Tabanan, Buleleng, Kuta, Banyuwangi, II Lombok Utara, Lombok Tengah, Mataram, Malang, II Blitar",
+    "bmkgEarthquakeId": "20250930234943",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250930234943.mmi.jpg",
+    "fingerprintSha1": "5c777b4e8fe5b0379c9c3aa95c9959d1f2c8415d"
   }
 ]
