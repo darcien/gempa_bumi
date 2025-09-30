@@ -30076,5 +30076,17 @@
     "bmkgEarthquakeId": "20250930053015",
     "shakeMapUrl": "https://static.bmkg.go.id/20250930053015.mmi.jpg",
     "fingerprintSha1": "0eab524e68483dbe85c17a99db32a27daee925ca"
+  },
+  {
+    "earthquakeAt": "2025-09-30T01:41:30.000Z",
+    "latitude": -8.22,
+    "longitude": 107.38,
+    "magnitude": 3.5,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 125 km baratdaya Kabupaten Garut",
+    "feltOnStations": "II Kabupaten Pangandaran",
+    "bmkgEarthquakeId": "20250930084130",
+    "shakeMapUrl": "https://static.bmkg.go.id/20250930084130.mmi.jpg",
+    "fingerprintSha1": "059ae54322259c40a4664bc27db71e74a6619b9c"
   }
 ]
