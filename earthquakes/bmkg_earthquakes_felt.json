@@ -30096,7 +30096,7 @@
     "magnitude": 6.5,
     "depthInKm": 11,
     "locationInIndonesian": "Pusat gempa berada di laut 50 km Tenggara Sumenep - Jawa Timur",
-    "feltOnStations": "III - IV Pamekasan, Situbondo, Sampang, Surabaya, III Tuban, Denpasar, Gianyar, II-III Tabanan, Buleleng, Kuta, Banyuwangi, Bangkalan, II-III Probolinggo, Lumajang, Jember, Sidoarjo, Mojokerto, II Lombok Utara, Lombok Tengah, Mataram, Malang, V - VI Pulau Sapudi, IV Sumenep, II Blitar, Bondowoso, Poncokusumo",
+    "feltOnStations": "III - IV Pamekasan, III Tuban, II-III Tabanan, III - IV Situbondo, II-III Probolinggo, II Lombok Tengah, II Lombok Utara, V - VI Pulau Sapudi, IV Sumenep, II Blitar, III Denpasar, II-III Buleleng, II-III Lumajang, II Bondowoso, III - IV Sampang, III - IV Surabaya, III Gianyar, II-III Kuta, II-III Banyuwangi, II-III Bangkalan, II Mataram, II Malang, II Poncokusumo, II Banjarmasin, II-III Jember, II-III Sidoarjo, II-III Mojokerto",
     "bmkgEarthquakeId": "20250930234943",
     "shakeMapUrl": "https://static.bmkg.go.id/20250930234943.mmi.jpg",
     "fingerprintSha1": "5c777b4e8fe5b0379c9c3aa95c9959d1f2c8415d"
