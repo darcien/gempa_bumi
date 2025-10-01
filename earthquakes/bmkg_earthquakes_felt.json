@@ -30100,5 +30100,17 @@
     "bmkgEarthquakeId": "20250930234943",
     "shakeMapUrl": "https://static.bmkg.go.id/20250930234943.mmi.jpg",
     "fingerprintSha1": "5c777b4e8fe5b0379c9c3aa95c9959d1f2c8415d"
+  },
+  {
+    "earthquakeAt": "2025-10-01T13:49:51.000Z",
+    "latitude": -7.61,
+    "longitude": 128.37,
+    "magnitude": 6.1,
+    "depthInKm": 163,
+    "locationInIndonesian": "Pusat gempa berada di laut 77 km Timur Laut Tiakur",
+    "feltOnStations": "III Tiakur",
+    "bmkgEarthquakeId": "20251001204951",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251001204951.mmi.jpg",
+    "fingerprintSha1": "c34f8bd41a2f45f8ac2da92c1ed7bd9ffe072809"
   }
 ]
