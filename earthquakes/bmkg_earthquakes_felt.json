@@ -30124,5 +30124,17 @@
     "bmkgEarthquakeId": "20251002125917",
     "shakeMapUrl": "https://static.bmkg.go.id/20251002125917.mmi.jpg",
     "fingerprintSha1": "f9041a9260905abf780150f1571336d5f52eba89"
+  },
+  {
+    "earthquakeAt": "2025-10-02T22:45:08.000Z",
+    "latitude": -2.83,
+    "longitude": 136.32,
+    "magnitude": 5.7,
+    "depthInKm": 43,
+    "locationInIndonesian": "Pusat gempa berada di darat 66 km BaratDaya Waropen",
+    "feltOnStations": "IV-V Nabire, III Enarotali",
+    "bmkgEarthquakeId": "20251003054508",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251003054508.mmi.jpg",
+    "fingerprintSha1": "9ab0689f697f23c1b1934ab6f7d97be0b6319098"
   }
 ]
