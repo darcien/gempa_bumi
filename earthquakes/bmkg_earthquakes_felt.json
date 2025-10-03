@@ -30184,5 +30184,17 @@
     "bmkgEarthquakeId": "20251003180318",
     "shakeMapUrl": "https://static.bmkg.go.id/20251003180318.mmi.jpg",
     "fingerprintSha1": "9c4d87db889b38211ad29331f3495dad9805aa55"
+  },
+  {
+    "earthquakeAt": "2025-10-03T15:26:00.000Z",
+    "latitude": 1.33,
+    "longitude": 117.03,
+    "magnitude": 3.1,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 43 km timur laut Kutai Timur",
+    "feltOnStations": "II-III Kelay Kab. Berau",
+    "bmkgEarthquakeId": "20251003222600",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251003222600.mmi.jpg",
+    "fingerprintSha1": "3f4828dcb7d5e849f048cbddd423cbf27b386f69"
   }
 ]
