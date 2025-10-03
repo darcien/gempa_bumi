@@ -30172,5 +30172,17 @@
     "bmkgEarthquakeId": "20251003131830",
     "shakeMapUrl": "https://static.bmkg.go.id/20251003131830.mmi.jpg",
     "fingerprintSha1": "0b5122b00900a40db6693bb6bb1a6115bec1f5c9"
+  },
+  {
+    "earthquakeAt": "2025-10-03T11:03:18.000Z",
+    "latitude": -3.08,
+    "longitude": 101.23,
+    "magnitude": 4.9,
+    "depthInKm": 25,
+    "locationInIndonesian": "Pusat gempa berada di laut 57 km tenggara Muko-Muko",
+    "feltOnStations": "III Muko-Muko, II-III Pesisir Selatan",
+    "bmkgEarthquakeId": "20251003180318",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251003180318.mmi.jpg",
+    "fingerprintSha1": "9c4d87db889b38211ad29331f3495dad9805aa55"
   }
 ]
