@@ -30136,5 +30136,17 @@
     "bmkgEarthquakeId": "20251003054508",
     "shakeMapUrl": "https://static.bmkg.go.id/20251003054508.mmi.jpg",
     "fingerprintSha1": "9ab0689f697f23c1b1934ab6f7d97be0b6319098"
+  },
+  {
+    "earthquakeAt": "2025-10-03T03:55:54.000Z",
+    "latitude": 1.46,
+    "longitude": 122.99,
+    "magnitude": 4.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 68 km barat laut Boroko-Bolmut",
+    "feltOnStations": "II-III Kabupaten Bone Bolango, II Kabupaten Gorontalo",
+    "bmkgEarthquakeId": "20251003105554",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251003105554.mmi.jpg",
+    "fingerprintSha1": "762d0b19882cf619046c652ba3b244f3506047e6"
   }
 ]
