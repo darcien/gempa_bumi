@@ -30160,5 +30160,17 @@
     "bmkgEarthquakeId": "20251003130239",
     "shakeMapUrl": "https://static.bmkg.go.id/20251003130239.mmi.jpg",
     "fingerprintSha1": "e04d55cf66ae5fd34849ac1161ccdf95bc381edc"
+  },
+  {
+    "earthquakeAt": "2025-10-03T06:18:30.000Z",
+    "latitude": -2.83,
+    "longitude": 136.29,
+    "magnitude": 4.8,
+    "depthInKm": 16,
+    "locationInIndonesian": "Pusat gempa berada di darat 67 km baratdaya Waropen",
+    "feltOnStations": "II Enarotali",
+    "bmkgEarthquakeId": "20251003131830",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251003131830.mmi.jpg",
+    "fingerprintSha1": "0b5122b00900a40db6693bb6bb1a6115bec1f5c9"
   }
 ]
