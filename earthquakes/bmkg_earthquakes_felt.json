@@ -30148,5 +30148,17 @@
     "bmkgEarthquakeId": "20251003105554",
     "shakeMapUrl": "https://static.bmkg.go.id/20251003105554.mmi.jpg",
     "fingerprintSha1": "762d0b19882cf619046c652ba3b244f3506047e6"
+  },
+  {
+    "earthquakeAt": "2025-10-03T06:02:39.000Z",
+    "latitude": -2.88,
+    "longitude": 136.32,
+    "magnitude": 5.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada dI darat 39 km Baratdaya Waropen",
+    "feltOnStations": "III Nabire, II - III Enarotali, II - III Dogiyai",
+    "bmkgEarthquakeId": "20251003130239",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251003130239.mmi.jpg",
+    "fingerprintSha1": "e04d55cf66ae5fd34849ac1161ccdf95bc381edc"
   }
 ]
