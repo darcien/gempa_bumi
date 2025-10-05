@@ -30208,5 +30208,17 @@
     "bmkgEarthquakeId": "20251004193558",
     "shakeMapUrl": "https://static.bmkg.go.id/20251004193558.mmi.jpg",
     "fingerprintSha1": "a21f77a9ea1ad2e18521afccdf1df0b0ba76e725"
+  },
+  {
+    "earthquakeAt": "2025-10-05T20:29:44.000Z",
+    "latitude": -4.08,
+    "longitude": 121.86,
+    "magnitude": 2.2,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km tenggara Loea, Kolaka Timur",
+    "feltOnStations": "II Lalolae",
+    "bmkgEarthquakeId": "20251006032944",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251006032944.mmi.jpg",
+    "fingerprintSha1": "a88c8635e05154e731e283cf0ba40ef15f248249"
   }
 ]
