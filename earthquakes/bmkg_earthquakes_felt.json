@@ -30220,5 +30220,17 @@
     "bmkgEarthquakeId": "20251006032944",
     "shakeMapUrl": "https://static.bmkg.go.id/20251006032944.mmi.jpg",
     "fingerprintSha1": "a88c8635e05154e731e283cf0ba40ef15f248249"
+  },
+  {
+    "earthquakeAt": "2025-10-07T20:59:53.000Z",
+    "latitude": -3.64,
+    "longitude": 128.21,
+    "magnitude": 2.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 7 km timur laut Ambon",
+    "feltOnStations": "II Ambon",
+    "bmkgEarthquakeId": "20251008035953",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251008035953.mmi.jpg",
+    "fingerprintSha1": "776aa847d81edf963176a6236c0d47484a51f9ff"
   }
 ]
