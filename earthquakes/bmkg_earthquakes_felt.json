@@ -30232,5 +30232,17 @@
     "bmkgEarthquakeId": "20251008035953",
     "shakeMapUrl": "https://static.bmkg.go.id/20251008035953.mmi.jpg",
     "fingerprintSha1": "776aa847d81edf963176a6236c0d47484a51f9ff"
+  },
+  {
+    "earthquakeAt": "2025-10-08T02:07:50.000Z",
+    "latitude": -7.22,
+    "longitude": 114.18,
+    "magnitude": 4.1,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di laut 44 km Tenggara SUMENEP",
+    "feltOnStations": "III Sapudi",
+    "bmkgEarthquakeId": "20251008090750",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251008090750.mmi.jpg",
+    "fingerprintSha1": "264d25e14005597b547e147d2718ffcf53719a32"
   }
 ]
