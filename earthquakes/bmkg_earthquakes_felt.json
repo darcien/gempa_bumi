@@ -30256,5 +30256,17 @@
     "bmkgEarthquakeId": "20251008150905",
     "shakeMapUrl": "https://static.bmkg.go.id/20251008150905.mmi.jpg",
     "fingerprintSha1": "7fbac0bd79a7e975f1ab86485880c31afa290c61"
+  },
+  {
+    "earthquakeAt": "2025-10-08T09:19:42.000Z",
+    "latitude": -2.06,
+    "longitude": 120.68,
+    "magnitude": 4.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km tenggara Taipa (Kab. Poso)",
+    "feltOnStations": "III - IV Pendolo (Kab. Poso)",
+    "bmkgEarthquakeId": "20251008161942",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251008161942.mmi.jpg",
+    "fingerprintSha1": "069b9e8ab5326512c2fbfafd75b917dd112f01f4"
   }
 ]
