@@ -30280,5 +30280,17 @@
     "bmkgEarthquakeId": "20251008170931",
     "shakeMapUrl": "https://static.bmkg.go.id/20251008170931.mmi.jpg",
     "fingerprintSha1": "30cbafd038377102df7210c3ddcb795cf5a29919"
+  },
+  {
+    "earthquakeAt": "2025-10-08T23:58:06.000Z",
+    "latitude": -2.31,
+    "longitude": 140.55,
+    "magnitude": 3.4,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di laut 32 km barat laut Kota Jayapura",
+    "feltOnStations": "II-III Jayapura, II-III Sentani",
+    "bmkgEarthquakeId": "20251009065806",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251009065806.mmi.jpg",
+    "fingerprintSha1": "c15912a4264639f7bc2131d56497b35fa1f9048b"
   }
 ]
