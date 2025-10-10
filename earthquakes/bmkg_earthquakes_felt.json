@@ -30300,7 +30300,7 @@
     "magnitude": 4.5,
     "depthInKm": 43,
     "locationInIndonesian": "Pusat gempa berada di laut 82 km barat daya Aceh Besar",
-    "feltOnStations": "II - III Aceh Besar, II Banda Aceh",
+    "feltOnStations": "II - III Aceh Besar, II - III Banda Aceh, II Aceh Jaya",
     "bmkgEarthquakeId": "20251010133510",
     "shakeMapUrl": "https://static.bmkg.go.id/20251010133510.mmi.jpg",
     "fingerprintSha1": "a677e20215cba8d6c68b441073c867a0526c0c57"
