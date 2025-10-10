@@ -30316,5 +30316,17 @@
     "bmkgEarthquakeId": "20251010170250",
     "shakeMapUrl": "https://static.bmkg.go.id/20251010170250.mmi.jpg",
     "fingerprintSha1": "193896159da68246d965fc075f9f3eb1f3c8ab01"
+  },
+  {
+    "earthquakeAt": "2025-10-10T11:12:12.000Z",
+    "latitude": 6.93,
+    "longitude": 126.66,
+    "magnitude": 6.9,
+    "depthInKm": 56,
+    "locationInIndonesian": "Pusat gempa berada di Mindanao",
+    "feltOnStations": "III Naha",
+    "bmkgEarthquakeId": "20251010181212",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251010181212.mmi.jpg",
+    "fingerprintSha1": "76324c6cf870aa335c765f857ddcc67bc2f5915d"
   }
 ]
