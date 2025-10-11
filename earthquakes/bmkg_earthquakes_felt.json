@@ -30340,5 +30340,17 @@
     "bmkgEarthquakeId": "20251010190835",
     "shakeMapUrl": "https://static.bmkg.go.id/20251010190835.mmi.jpg",
     "fingerprintSha1": "4f9562949b4191f46567ea4044e482955993d158"
+  },
+  {
+    "earthquakeAt": "2025-10-11T08:15:18.000Z",
+    "latitude": -6.69,
+    "longitude": 107.79,
+    "magnitude": 2.4,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 13 km tenggara Kabupaten Subang",
+    "feltOnStations": "II-III Ciater",
+    "bmkgEarthquakeId": "20251011151518",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251011151518.mmi.jpg",
+    "fingerprintSha1": "7b380320eef37b82b852c3e927cc90df2313004c"
   }
 ]
