@@ -30388,5 +30388,17 @@
     "bmkgEarthquakeId": "20251012214106",
     "shakeMapUrl": "https://static.bmkg.go.id/20251012214106.mmi.jpg",
     "fingerprintSha1": "ed4904afe58c447a757831ed7f93bb25dc5db32f"
+  },
+  {
+    "earthquakeAt": "2025-10-12T22:08:58.000Z",
+    "latitude": -4.77,
+    "longitude": 122.59,
+    "magnitude": 4.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km timurlaut Muna Barat",
+    "feltOnStations": "III - IV Muna Barat, III - IV Muna",
+    "bmkgEarthquakeId": "20251013050858",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251013050858.mmi.jpg",
+    "fingerprintSha1": "5e8bc32226bed1cef61d4b475b7c770d77cd0f13"
   }
 ]
