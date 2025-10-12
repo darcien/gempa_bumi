@@ -30352,5 +30352,17 @@
     "bmkgEarthquakeId": "20251011151518",
     "shakeMapUrl": "https://static.bmkg.go.id/20251011151518.mmi.jpg",
     "fingerprintSha1": "7b380320eef37b82b852c3e927cc90df2313004c"
+  },
+  {
+    "earthquakeAt": "2025-10-12T03:00:34.000Z",
+    "latitude": -2.5,
+    "longitude": 139.38,
+    "magnitude": 5.3,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di darat 100 km Tenggara Sarmi",
+    "feltOnStations": "II Genyem",
+    "bmkgEarthquakeId": "20251012100034",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251012100034.mmi.jpg",
+    "fingerprintSha1": "ce0d1ad2869a1677a06e287158fa22f5be685aae"
   }
 ]
