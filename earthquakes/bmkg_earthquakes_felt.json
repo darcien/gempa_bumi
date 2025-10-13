@@ -30424,5 +30424,17 @@
     "bmkgEarthquakeId": "20251013220954",
     "shakeMapUrl": "https://static.bmkg.go.id/20251013220954.mmi.jpg",
     "fingerprintSha1": "fe4f80a0e2a69a6aa3dc0de005385d8a5f7cbd1d"
+  },
+  {
+    "earthquakeAt": "2025-10-13T15:57:08.000Z",
+    "latitude": 0.13,
+    "longitude": 100.04,
+    "magnitude": 3.2,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 km Tenggara Talu-Pasaman Barat",
+    "feltOnStations": "II Lubuk Sikaping",
+    "bmkgEarthquakeId": "20251013225708",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251013225708.mmi.jpg",
+    "fingerprintSha1": "8ba49b8f6e8f3b5e54203cb75f1ea4b221075e29"
   }
 ]
