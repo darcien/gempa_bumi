@@ -30412,5 +30412,17 @@
     "bmkgEarthquakeId": "20251013141031",
     "shakeMapUrl": "https://static.bmkg.go.id/20251013141031.mmi.jpg",
     "fingerprintSha1": "f57487947f0da3b53101833d2ac6fe5d9c794838"
+  },
+  {
+    "earthquakeAt": "2025-10-13T15:09:54.000Z",
+    "latitude": -2.64,
+    "longitude": 101.8,
+    "magnitude": 4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 55 km BaratDaya Merangin",
+    "feltOnStations": "II-III Bangko",
+    "bmkgEarthquakeId": "20251013220954",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251013220954.mmi.jpg",
+    "fingerprintSha1": "fe4f80a0e2a69a6aa3dc0de005385d8a5f7cbd1d"
   }
 ]
