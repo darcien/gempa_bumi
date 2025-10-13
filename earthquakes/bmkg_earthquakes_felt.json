@@ -30408,7 +30408,7 @@
     "magnitude": 5,
     "depthInKm": 14,
     "locationInIndonesian": "Pusat gempa berada di laut 47 km Tenggara Sumenep",
-    "feltOnStations": "II - III Pasuruan, II - III Pamekasan, II-III Sapudi, II Kota Malang",
+    "feltOnStations": "II - III Pasuruan, II - III Pamekasan, III - IV Sapudi, II Kota Malang, III Kab. Sumenep",
     "bmkgEarthquakeId": "20251013141031",
     "shakeMapUrl": "https://static.bmkg.go.id/20251013141031.mmi.jpg",
     "fingerprintSha1": "f57487947f0da3b53101833d2ac6fe5d9c794838"
