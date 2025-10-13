@@ -30384,7 +30384,7 @@
     "magnitude": 4.4,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 22 km TimurLaut Muna Barat",
-    "feltOnStations": "III - IV Muna",
+    "feltOnStations": "III - IV Muna, III - IV Muna Barat",
     "bmkgEarthquakeId": "20251012214106",
     "shakeMapUrl": "https://static.bmkg.go.id/20251012214106.mmi.jpg",
     "fingerprintSha1": "ed4904afe58c447a757831ed7f93bb25dc5db32f"
@@ -30400,5 +30400,17 @@
     "bmkgEarthquakeId": "20251013050858",
     "shakeMapUrl": "https://static.bmkg.go.id/20251013050858.mmi.jpg",
     "fingerprintSha1": "5e8bc32226bed1cef61d4b475b7c770d77cd0f13"
+  },
+  {
+    "earthquakeAt": "2025-10-13T07:10:31.000Z",
+    "latitude": -7.28,
+    "longitude": 114.14,
+    "magnitude": 5,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di laut 47 km Tenggara Sumenep",
+    "feltOnStations": "II - III Pasuruan, II - III Pamekasan, II-III Sapudi, II Kota Malang",
+    "bmkgEarthquakeId": "20251013141031",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251013141031.mmi.jpg",
+    "fingerprintSha1": "f57487947f0da3b53101833d2ac6fe5d9c794838"
   }
 ]
