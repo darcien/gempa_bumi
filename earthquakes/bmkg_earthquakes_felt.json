@@ -30460,5 +30460,17 @@
     "bmkgEarthquakeId": "20251016095207",
     "shakeMapUrl": "https://static.bmkg.go.id/20251016095207.mmi.jpg",
     "fingerprintSha1": "2cb900030794bbc8da55669fb7df25f4c448df50"
+  },
+  {
+    "earthquakeAt": "2025-10-16T05:48:53.000Z",
+    "latitude": -1.94,
+    "longitude": 139.03,
+    "magnitude": 6.6,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di darat 32 km Tenggara Sarmi",
+    "feltOnStations": "V Sarmi, III Jayapura, II Wamena, II Timika, II Nabire",
+    "bmkgEarthquakeId": "20251016124853",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251016124853.mmi.jpg",
+    "fingerprintSha1": "f0115e364083d5aaac13990cc515228a7a15e910"
   }
 ]
