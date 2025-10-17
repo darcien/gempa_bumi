@@ -30556,5 +30556,17 @@
     "bmkgEarthquakeId": "20251017111304",
     "shakeMapUrl": "https://static.bmkg.go.id/20251017111304.mmi.jpg",
     "fingerprintSha1": "080eb0fee2119b502361cb4b72f53433af3be5f4"
+  },
+  {
+    "earthquakeAt": "2025-10-17T09:32:18.000Z",
+    "latitude": -3.86,
+    "longitude": 118.7,
+    "magnitude": 4.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 75 km Barat Daya Polewali Mandar",
+    "feltOnStations": "III Polewali Mandar",
+    "bmkgEarthquakeId": "20251017163218",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251017163218.mmi.jpg",
+    "fingerprintSha1": "fd7f3f5e7365af66f0a083ce5714803f8a5fb5d3"
   }
 ]
