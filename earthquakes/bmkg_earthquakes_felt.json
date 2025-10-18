@@ -30568,5 +30568,17 @@
     "bmkgEarthquakeId": "20251017163218",
     "shakeMapUrl": "https://static.bmkg.go.id/20251017163218.mmi.jpg",
     "fingerprintSha1": "fd7f3f5e7365af66f0a083ce5714803f8a5fb5d3"
+  },
+  {
+    "earthquakeAt": "2025-10-18T15:57:02.000Z",
+    "latitude": -8.11,
+    "longitude": 114.78,
+    "magnitude": 3.8,
+    "depthInKm": 197,
+    "locationInIndonesian": "Pusat gempa berada di laut 33 km Jembrana",
+    "feltOnStations": "II Kuta",
+    "bmkgEarthquakeId": "20251018225702",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251018225702.mmi.jpg",
+    "fingerprintSha1": "3bc109d842626e6fb912f2a607cdf319a2db5452"
   }
 ]
