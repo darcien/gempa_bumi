@@ -30616,5 +30616,29 @@
     "bmkgEarthquakeId": "20251019170526",
     "shakeMapUrl": "https://static.bmkg.go.id/20251019170526.mmi.jpg",
     "fingerprintSha1": "6a11159f0767dcdc1a619487e025cc7915553574"
+  },
+  {
+    "earthquakeAt": "2025-10-19T10:00:19.000Z",
+    "latitude": -7.76,
+    "longitude": 123.38,
+    "magnitude": 4.7,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 76 km timur laut Larantuka",
+    "feltOnStations": "II-III Ile Ape",
+    "bmkgEarthquakeId": "20251019170019",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251019170019.mmi.jpg",
+    "fingerprintSha1": "bea5631a1e119cd2394eb6d3c7ed6b6d06ca5038"
+  },
+  {
+    "earthquakeAt": "2025-10-19T08:58:00.000Z",
+    "latitude": -2.45,
+    "longitude": 121.22,
+    "magnitude": 3.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 5.8 km tenggara Nuha",
+    "feltOnStations": "II Malili",
+    "bmkgEarthquakeId": "20251019155800",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251019155800.mmi.jpg",
+    "fingerprintSha1": "60d0778ccc8e588266e62fdd14da9e2fedada8b2"
   }
 ]
