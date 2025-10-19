@@ -30592,5 +30592,17 @@
     "bmkgEarthquakeId": "20251019095235",
     "shakeMapUrl": "https://static.bmkg.go.id/20251019095235.mmi.jpg",
     "fingerprintSha1": "09536b7c357dfa5c3ba1239059b8b7d48e7a2c1d"
+  },
+  {
+    "earthquakeAt": "2025-10-19T06:53:21.000Z",
+    "latitude": -8.26,
+    "longitude": 109.2,
+    "magnitude": 4.5,
+    "depthInKm": 30,
+    "locationInIndonesian": "Pusat gempa berada di laut 63 km tenggara Cilacap",
+    "feltOnStations": "II-III Cilacap, II-III Kroya, II Baturaden , II Purworejo, II Bantul, II Kebumen",
+    "bmkgEarthquakeId": "20251019135321",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251019135321.mmi.jpg",
+    "fingerprintSha1": "ccc2f5e788fede97da98ce4f1bd2342fb9aa16bc"
   }
 ]
