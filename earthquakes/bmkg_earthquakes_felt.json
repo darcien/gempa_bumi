@@ -30652,5 +30652,17 @@
     "bmkgEarthquakeId": "20251019223720",
     "shakeMapUrl": "https://static.bmkg.go.id/20251019223720.mmi.jpg",
     "fingerprintSha1": "06f7df495465e247c8d6ce01584e23bc04f44185"
+  },
+  {
+    "earthquakeAt": "2025-10-20T05:56:03.000Z",
+    "latitude": -9.27,
+    "longitude": 119.86,
+    "magnitude": 4.9,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di laut 47 km barat laut Lewa, Sumba Timur",
+    "feltOnStations": "III Waingapu, III Kab. Bima, III Kota Bima",
+    "bmkgEarthquakeId": "20251020125603",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251020125603.mmi.jpg",
+    "fingerprintSha1": "835f095e2ac797c9caa4046331de31107a86cca1"
   }
 ]
