@@ -30688,5 +30688,17 @@
     "bmkgEarthquakeId": "20251021073130",
     "shakeMapUrl": "https://static.bmkg.go.id/20251021073130.mmi.jpg",
     "fingerprintSha1": "d9e693f2e3d52d8be46cf0350f9116ae21fa522d"
+  },
+  {
+    "earthquakeAt": "2025-10-21T07:10:35.000Z",
+    "latitude": -9.43,
+    "longitude": 120.11,
+    "magnitude": 4.1,
+    "depthInKm": 42,
+    "locationInIndonesian": "Pusat gempa berada di laut 30 km Barat Daya Waingapu",
+    "feltOnStations": "II Waingapu",
+    "bmkgEarthquakeId": "20251021141035",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251021141035.mmi.jpg",
+    "fingerprintSha1": "3924c45f527e6dc0cd83bebfaadbad8d8945bf49"
   }
 ]
