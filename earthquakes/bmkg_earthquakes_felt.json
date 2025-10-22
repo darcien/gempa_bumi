@@ -30732,7 +30732,7 @@
     "magnitude": 4.5,
     "depthInKm": 38,
     "locationInIndonesian": "Pusat gempa berada di laut 84 km Barat Daya Kota Sabang",
-    "feltOnStations": "II Banda Aceh",
+    "feltOnStations": "II Banda Aceh, II Aceh Besar",
     "bmkgEarthquakeId": "20251022220757",
     "shakeMapUrl": "https://static.bmkg.go.id/20251022220757.mmi.jpg",
     "fingerprintSha1": "73662e8663592c7f821a79d7e6c39a13e56b2c8c"
