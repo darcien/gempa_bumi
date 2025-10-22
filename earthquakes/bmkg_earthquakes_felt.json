@@ -30700,5 +30700,17 @@
     "bmkgEarthquakeId": "20251021141035",
     "shakeMapUrl": "https://static.bmkg.go.id/20251021141035.mmi.jpg",
     "fingerprintSha1": "3924c45f527e6dc0cd83bebfaadbad8d8945bf49"
+  },
+  {
+    "earthquakeAt": "2025-10-22T09:07:13.000Z",
+    "latitude": -4.05,
+    "longitude": 126.26,
+    "magnitude": 4.8,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 59 km Barat Daya Namrole, Buru Selatan",
+    "feltOnStations": "II Leksula",
+    "bmkgEarthquakeId": "20251022160713",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251022160713.mmi.jpg",
+    "fingerprintSha1": "c5794c603e8c20c4269a9144b386869b49bd5566"
   }
 ]
