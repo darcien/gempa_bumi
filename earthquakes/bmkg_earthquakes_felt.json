@@ -30760,5 +30760,17 @@
     "bmkgEarthquakeId": "20251023173726",
     "shakeMapUrl": "https://static.bmkg.go.id/20251023173726.mmi.jpg",
     "fingerprintSha1": "5ea1cbbabcbf56751fd0183dd4506225eb7a0ba5"
+  },
+  {
+    "earthquakeAt": "2025-10-23T11:46:12.000Z",
+    "latitude": -6.17,
+    "longitude": 131.08,
+    "magnitude": 6.1,
+    "depthInKm": 117,
+    "locationInIndonesian": "Pusat gempa berada di laut 192 km BaratDaya Maluku Tenggara",
+    "feltOnStations": "II Sorong, III Kaimana, II Saumlaki",
+    "bmkgEarthquakeId": "20251023184612",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251023184612.mmi.jpg",
+    "fingerprintSha1": "8a8b1e0dab0b9a9435de2ca00e9a5b781f5b6999"
   }
 ]
