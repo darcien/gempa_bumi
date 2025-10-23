@@ -30748,5 +30748,17 @@
     "bmkgEarthquakeId": "20251023062416",
     "shakeMapUrl": "https://static.bmkg.go.id/20251023062416.mmi.jpg",
     "fingerprintSha1": "4cad4df82c96d0ea8db863199d2e769f18c4483d"
+  },
+  {
+    "earthquakeAt": "2025-10-23T10:37:26.000Z",
+    "latitude": -4.61,
+    "longitude": 102.77,
+    "magnitude": 4.7,
+    "depthInKm": 33,
+    "locationInIndonesian": "Pusat gempa berada di laut 23 km barat daya Bengkulu Selatan",
+    "feltOnStations": "II-III Manna, II-III Kedurang",
+    "bmkgEarthquakeId": "20251023173726",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251023173726.mmi.jpg",
+    "fingerprintSha1": "5ea1cbbabcbf56751fd0183dd4506225eb7a0ba5"
   }
 ]
