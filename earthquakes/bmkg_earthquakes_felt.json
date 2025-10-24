@@ -30796,5 +30796,17 @@
     "bmkgEarthquakeId": "20251024085203",
     "shakeMapUrl": "https://static.bmkg.go.id/20251024085203.mmi.jpg",
     "fingerprintSha1": "435a55664a203e3f2f5b267c0f31ff6139956beb"
+  },
+  {
+    "earthquakeAt": "2025-10-24T04:46:36.000Z",
+    "latitude": -9.03,
+    "longitude": 123.73,
+    "magnitude": 5.3,
+    "depthInKm": 108,
+    "locationInIndonesian": "Pusat gempa berada di laut 67 km Tenggara Lembata",
+    "feltOnStations": "II Maumere, II Ende",
+    "bmkgEarthquakeId": "20251024114636",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251024114636.mmi.jpg",
+    "fingerprintSha1": "b2a9e54a9308df92c6faa9e0fe53ec5cfb5cc021"
   }
 ]
