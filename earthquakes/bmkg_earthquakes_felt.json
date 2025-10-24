@@ -30784,5 +30784,17 @@
     "bmkgEarthquakeId": "20251024031211",
     "shakeMapUrl": "https://static.bmkg.go.id/20251024031211.mmi.jpg",
     "fingerprintSha1": "b37305bff9a8891bc1a65fe9885b5650d7390896"
+  },
+  {
+    "earthquakeAt": "2025-10-24T01:52:03.000Z",
+    "latitude": -4.31,
+    "longitude": 122.39,
+    "magnitude": 3.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km Barat Daya Konawe Selatan",
+    "feltOnStations": "III Andoolo, III Palangga",
+    "bmkgEarthquakeId": "20251024085203",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251024085203.mmi.jpg",
+    "fingerprintSha1": "435a55664a203e3f2f5b267c0f31ff6139956beb"
   }
 ]
