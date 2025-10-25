@@ -30826,15 +30826,15 @@
   },
   {
     "earthquakeAt": "2025-10-25T04:56:27.000Z",
-    "latitude": 4.43,
-    "longitude": 96.51,
+    "latitude": 4.42,
+    "longitude": 96.5,
     "magnitude": 5,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 29 km timur laut Kab. Nagan Raya",
     "feltOnStations": "III Nagan Raya, II-III Bener Meriah, II-III Aceh Tengah, II Aceh Selatan",
     "bmkgEarthquakeId": "20251025115627",
     "shakeMapUrl": "https://static.bmkg.go.id/20251025115627.mmi.jpg",
-    "fingerprintSha1": "9627495d1f63811c7f29fa353be384fb7fbd1d45"
+    "fingerprintSha1": "970246c78dad7857c34ad983d4f0bda3e4703657"
   },
   {
     "earthquakeAt": "2025-10-25T03:59:17.000Z",
