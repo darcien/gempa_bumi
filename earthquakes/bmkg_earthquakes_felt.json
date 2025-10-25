@@ -30823,5 +30823,29 @@
     "meta": {
       "erroneousDataReason": "FUTURE_EARTHQUAKE"
     }
+  },
+  {
+    "earthquakeAt": "2025-10-25T04:56:27.000Z",
+    "latitude": 4.43,
+    "longitude": 96.51,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 29 km timur laut Kab. Nagan Raya",
+    "feltOnStations": "III Nagan Raya, II-III Bener Meriah, II-III Aceh Tengah, II Aceh Selatan",
+    "bmkgEarthquakeId": "20251025115627",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251025115627.mmi.jpg",
+    "fingerprintSha1": "9627495d1f63811c7f29fa353be384fb7fbd1d45"
+  },
+  {
+    "earthquakeAt": "2025-10-25T03:59:17.000Z",
+    "latitude": -2.08,
+    "longitude": 120.67,
+    "magnitude": 4.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 76 km barat daya Poso",
+    "feltOnStations": "II Masamba, II-III Pamona",
+    "bmkgEarthquakeId": "20251025105917",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251025105917.mmi.jpg",
+    "fingerprintSha1": "270075a10c4b0164fd7a52f302ccf938abc3f772"
   }
 ]
