@@ -30831,7 +30831,7 @@
     "magnitude": 5,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 29 km timur laut Kab. Nagan Raya",
-    "feltOnStations": "III Nagan Raya, II-III Bener Meriah, II-III Aceh Tengah, II Aceh Selatan",
+    "feltOnStations": "III Nagan Raya, II-III Bener Meriah, II-III Aceh Tengah, III Aceh Selatan, III Aceh Utara",
     "bmkgEarthquakeId": "20251025115627",
     "shakeMapUrl": "https://static.bmkg.go.id/20251025115627.mmi.jpg",
     "fingerprintSha1": "970246c78dad7857c34ad983d4f0bda3e4703657"
