@@ -30808,5 +30808,20 @@
     "bmkgEarthquakeId": "20251024114636",
     "shakeMapUrl": "https://static.bmkg.go.id/20251024114636.mmi.jpg",
     "fingerprintSha1": "b2a9e54a9308df92c6faa9e0fe53ec5cfb5cc021"
+  },
+  {
+    "earthquakeAt": "2025-10-26T03:59:17.000Z",
+    "latitude": -2.08,
+    "longitude": 120.67,
+    "magnitude": 4.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 76 km barat daya Poso",
+    "feltOnStations": "II Masamba, II-III Pamona",
+    "bmkgEarthquakeId": "20251026105917",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251026105917.mmi.jpg",
+    "fingerprintSha1": "f49a36ad58849b6c1bd3f8c01f774f25b1cc6e4a",
+    "meta": {
+      "erroneousDataReason": "FUTURE_EARTHQUAKE"
+    }
   }
 ]
