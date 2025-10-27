@@ -30859,5 +30859,17 @@
     "bmkgEarthquakeId": "20251027000428",
     "shakeMapUrl": "https://static.bmkg.go.id/20251027000428.mmi.jpg",
     "fingerprintSha1": "b92dd6fcc33a86c03a5221c8bdffbcd6aeac5706"
+  },
+  {
+    "earthquakeAt": "2025-10-27T15:56:58.000Z",
+    "latitude": 4.21,
+    "longitude": 97.5,
+    "magnitude": 4.3,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 29 km timur laut Kabupaten Gayo Lues",
+    "feltOnStations": "III Gayo Lues , II-III Aceh Selatan, II-III Bener Meriah, II Aceh Tengah, II Aceh Tamiang",
+    "bmkgEarthquakeId": "20251027225658",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251027225658.mmi.jpg",
+    "fingerprintSha1": "984b0ce7f4ffbc8c358574948c85b3ce3c466000"
   }
 ]
