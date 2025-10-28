@@ -30915,7 +30915,7 @@
     "magnitude": 6.8,
     "depthInKm": 185,
     "locationInIndonesian": "Pusat gempa berada di Laut 183 km BaratLaut Tanimbar",
-    "feltOnStations": "IV Saumlaki, III Tual, III Tepa, III Sorong, III Kaimana, III Manokwari, III Maybrat, III Raja Ampat, III Sorong Selatan, II-III Fak-fak, II-III Dobo, II Nabire",
+    "feltOnStations": "III Teluk Bintuni, III Sorong Selatan, III Raja Ampat, III Maybrat, III Kaimana, III Sorong, III Tepa, III Tual, IV Saumlaki, III Manokwari, II-III Fak-fak, II-III Dobo, II Nabire, II-III Dogiyai, II-III Deiyai, II Enarotali",
     "bmkgEarthquakeId": "20251028214018",
     "shakeMapUrl": "https://static.bmkg.go.id/20251028214018.mmi.jpg",
     "fingerprintSha1": "491bed64af6fdcc88d6c67dca93efa3394a97870"
