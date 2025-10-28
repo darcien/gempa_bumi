@@ -30895,5 +30895,17 @@
     "bmkgEarthquakeId": "20251028063515",
     "shakeMapUrl": "https://static.bmkg.go.id/20251028063515.mmi.jpg",
     "fingerprintSha1": "3fa3efa8fe9056b8db277c8c55fe5b407e9611aa"
+  },
+  {
+    "earthquakeAt": "2025-10-28T09:23:53.000Z",
+    "latitude": 2.38,
+    "longitude": 96.96,
+    "magnitude": 4.1,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 66 km Tenggara Sinabang",
+    "feltOnStations": "II-III Sinabang",
+    "bmkgEarthquakeId": "20251028162353",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251028162353.mmi.jpg",
+    "fingerprintSha1": "c47ef883ad8887acc5922ec532bbd8e6f589afea"
   }
 ]
