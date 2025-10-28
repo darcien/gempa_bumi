@@ -30871,5 +30871,29 @@
     "bmkgEarthquakeId": "20251027225658",
     "shakeMapUrl": "https://static.bmkg.go.id/20251027225658.mmi.jpg",
     "fingerprintSha1": "984b0ce7f4ffbc8c358574948c85b3ce3c466000"
+  },
+  {
+    "earthquakeAt": "2025-10-28T01:31:20.000Z",
+    "latitude": 1.43,
+    "longitude": 121.77,
+    "magnitude": 5.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 68 km TimurLaut Buol",
+    "feltOnStations": "III-IV Kab. Buol, II-III Pohuwato",
+    "bmkgEarthquakeId": "20251028083120",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251028083120.mmi.jpg",
+    "fingerprintSha1": "634748392686b29f9f8d6fb6dd297bcfe2a21f60"
+  },
+  {
+    "earthquakeAt": "2025-10-27T23:35:15.000Z",
+    "latitude": 4.89,
+    "longitude": 96.06,
+    "magnitude": 5.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 26 km Barat Daya Kab. Pidie Jaya",
+    "feltOnStations": "III Pidie, II - III Banda Aceh, III Pidie Jaya , II-III Aceh Besar, II Bireun, II Aceh Jaya",
+    "bmkgEarthquakeId": "20251028063515",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251028063515.mmi.jpg",
+    "fingerprintSha1": "3fa3efa8fe9056b8db277c8c55fe5b407e9611aa"
   }
 ]
