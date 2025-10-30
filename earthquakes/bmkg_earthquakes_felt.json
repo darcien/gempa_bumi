@@ -30919,5 +30919,17 @@
     "bmkgEarthquakeId": "20251028214018",
     "shakeMapUrl": "https://static.bmkg.go.id/20251028214018.mmi.jpg",
     "fingerprintSha1": "491bed64af6fdcc88d6c67dca93efa3394a97870"
+  },
+  {
+    "earthquakeAt": "2025-10-30T03:38:59.000Z",
+    "latitude": -3.14,
+    "longitude": 128.25,
+    "magnitude": 3.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di 10 km barat laut Kairatu Barat",
+    "feltOnStations": "III-IV Piru",
+    "bmkgEarthquakeId": "20251030103859",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251030103859.mmi.jpg",
+    "fingerprintSha1": "001973f50ad2d5c78c98210d34c6b634e6f848bd"
   }
 ]
