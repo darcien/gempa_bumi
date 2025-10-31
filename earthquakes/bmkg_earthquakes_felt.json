@@ -30955,5 +30955,17 @@
     "bmkgEarthquakeId": "20251030190804",
     "shakeMapUrl": "https://static.bmkg.go.id/20251030190804.mmi.jpg",
     "fingerprintSha1": "e27044f98505cf03fde765da0060e46d6dd59fa2"
+  },
+  {
+    "earthquakeAt": "2025-10-31T08:51:22.000Z",
+    "latitude": -7.11,
+    "longitude": 109.92,
+    "magnitude": 3.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 28 km timur laut Wonosobo",
+    "feltOnStations": "II Dieng, II Batang",
+    "bmkgEarthquakeId": "20251031155122",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251031155122.mmi.jpg",
+    "fingerprintSha1": "835ffad32b156ca0549ae5f3697a4b0a8645d1d0"
   }
 ]
