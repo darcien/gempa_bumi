@@ -30979,5 +30979,17 @@
     "bmkgEarthquakeId": "20251031165407",
     "shakeMapUrl": "https://static.bmkg.go.id/20251031165407.mmi.jpg",
     "fingerprintSha1": "addec2ecd3b8c417ae346aee8639a808404ea96d"
+  },
+  {
+    "earthquakeAt": "2025-11-01T05:26:34.000Z",
+    "latitude": -3.44,
+    "longitude": 102.44,
+    "magnitude": 3.7,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km Barat Laut Rejang Lebong",
+    "feltOnStations": "III Rejang Lebong",
+    "bmkgEarthquakeId": "20251101122634",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251101122634.mmi.jpg",
+    "fingerprintSha1": "2e841a2ec2902225137666c07c49c0f2f3238d01"
   }
 ]
