@@ -31003,5 +31003,17 @@
     "bmkgEarthquakeId": "20251102000419",
     "shakeMapUrl": "https://static.bmkg.go.id/20251102000419.mmi.jpg",
     "fingerprintSha1": "1d4f7f82b3230d97996e159e7bc9aca311c89368"
+  },
+  {
+    "earthquakeAt": "2025-11-01T21:00:08.000Z",
+    "latitude": 3.94,
+    "longitude": 95.93,
+    "magnitude": 4.9,
+    "depthInKm": 28,
+    "locationInIndonesian": "Pusat gempa berada di laut 31 km barat daya Meulaboh, Aceh Barat",
+    "feltOnStations": "III-IV Meulaboh, III Aceh Barat Daya, III Calang, II-III Tapak Tuan, II Aceh Selatan, II Sigli",
+    "bmkgEarthquakeId": "20251102040008",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251102040008.mmi.jpg",
+    "fingerprintSha1": "4ed0eea9f28ae4a7e2b46c04b500c4cb319c671d"
   }
 ]
