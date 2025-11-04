@@ -31066,5 +31066,17 @@
     "bmkgEarthquakeId": "20251104162311",
     "shakeMapUrl": "https://static.bmkg.go.id/20251104162311.mmi.jpg",
     "fingerprintSha1": "04487fa0f1ecba46080b7b5d97cfccf553566a7a"
+  },
+  {
+    "earthquakeAt": "2025-11-04T15:58:26.000Z",
+    "latitude": 1.88,
+    "longitude": 127.06,
+    "magnitude": 5.1,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di laut 83 km BaratLaut Halmahera Barat",
+    "feltOnStations": "III Ibu",
+    "bmkgEarthquakeId": "20251104225826",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251104225826.mmi.jpg",
+    "fingerprintSha1": "3d86b90ec515dc91f328675c50519dfb2e61a2bf"
   }
 ]
