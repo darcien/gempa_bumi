@@ -31050,7 +31050,7 @@
     "magnitude": 3.6,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 20 km Tenggara Kab. Bandung",
-    "feltOnStations": "III Kec. Pangalengan",
+    "feltOnStations": "III Kec. Pangalengan, II Ciparay, II Kertasari, II Banjaran, II Soreang, II Pangauban, II Pameungpeuk",
     "bmkgEarthquakeId": "20251104170436",
     "shakeMapUrl": "https://static.bmkg.go.id/20251104170436.mmi.jpg",
     "fingerprintSha1": "5613d44ea055d22ff50867249744589c6ecbf74f"
