@@ -31126,5 +31126,17 @@
     "bmkgEarthquakeId": "20251105233245",
     "shakeMapUrl": "https://static.bmkg.go.id/20251105233245.mmi.jpg",
     "fingerprintSha1": "b6ed6c3f98854bdc7d136dc138c7e6e58798c14c"
+  },
+  {
+    "earthquakeAt": "2025-11-05T16:56:09.000Z",
+    "latitude": -4.29,
+    "longitude": 122.51,
+    "magnitude": 2.3,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 36 km timur Konawe Selatan",
+    "feltOnStations": "II-III Laeya",
+    "bmkgEarthquakeId": "20251105235609",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251105235609.mmi.jpg",
+    "fingerprintSha1": "4641946eeabe96c793d34da4b403c12d6ee885ac"
   }
 ]
