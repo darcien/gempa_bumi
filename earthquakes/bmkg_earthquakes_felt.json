@@ -31078,5 +31078,17 @@
     "bmkgEarthquakeId": "20251104225826",
     "shakeMapUrl": "https://static.bmkg.go.id/20251104225826.mmi.jpg",
     "fingerprintSha1": "3d86b90ec515dc91f328675c50519dfb2e61a2bf"
+  },
+  {
+    "earthquakeAt": "2025-11-04T23:32:24.000Z",
+    "latitude": -0.11,
+    "longitude": 123.13,
+    "magnitude": 6.2,
+    "depthInKm": 103,
+    "locationInIndonesian": "Pusat gempa berada di laut 71 km barat daya Bone Bolango",
+    "feltOnStations": "III-IV Bone Bolango, III-IV Luwuk, III Kab. Gorontalo Utara, III Kab. Boalemo, III Ampana, III Taliabu, III Bolaang Mongodow Utara, III Bolaang Mongodow, III Banggai Kepulauan, III Banggai Laut, III Kota Gorontalo, II-III Kab. Pohuwato, II-III Tondano, II Sorowako",
+    "bmkgEarthquakeId": "20251105063224",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251105063224.mmi.jpg",
+    "fingerprintSha1": "86501eecabfa9d07376e7732b4e5f803f8371618"
   }
 ]
