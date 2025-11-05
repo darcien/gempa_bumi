@@ -31114,5 +31114,17 @@
     "bmkgEarthquakeId": "20251105222105",
     "shakeMapUrl": "https://static.bmkg.go.id/20251105222105.mmi.jpg",
     "fingerprintSha1": "f080f1513156c40b9b4b1a526e4305b02e3c0595"
+  },
+  {
+    "earthquakeAt": "2025-11-05T16:32:45.000Z",
+    "latitude": -3.96,
+    "longitude": 122.7,
+    "magnitude": 2.7,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di laut 37 km barat Konawe Kepulauan",
+    "feltOnStations": "II-III Soropia",
+    "bmkgEarthquakeId": "20251105233245",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251105233245.mmi.jpg",
+    "fingerprintSha1": "b6ed6c3f98854bdc7d136dc138c7e6e58798c14c"
   }
 ]
