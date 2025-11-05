@@ -31090,5 +31090,17 @@
     "bmkgEarthquakeId": "20251105063224",
     "shakeMapUrl": "https://static.bmkg.go.id/20251105063224.mmi.jpg",
     "fingerprintSha1": "86501eecabfa9d07376e7732b4e5f803f8371618"
+  },
+  {
+    "earthquakeAt": "2025-11-05T10:37:11.000Z",
+    "latitude": 3.33,
+    "longitude": 117.82,
+    "magnitude": 4.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 24 km tenggara Tarakan",
+    "feltOnStations": "IV-V Tarakan, III-IV Tanjung Selor, III-IV Berau, III-IV Nunukan, III Malinau, IV Pulau Bunyu",
+    "bmkgEarthquakeId": "20251105173711",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251105173711.mmi.jpg",
+    "fingerprintSha1": "cac1f0142581976c8a9526470da688b46e09d09d"
   }
 ]
