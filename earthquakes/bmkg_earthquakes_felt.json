@@ -31138,5 +31138,17 @@
     "bmkgEarthquakeId": "20251105235609",
     "shakeMapUrl": "https://static.bmkg.go.id/20251105235609.mmi.jpg",
     "fingerprintSha1": "4641946eeabe96c793d34da4b403c12d6ee885ac"
+  },
+  {
+    "earthquakeAt": "2025-11-06T22:28:29.000Z",
+    "latitude": 3.3,
+    "longitude": 117.73,
+    "magnitude": 2.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 15 km Tenggara Tarakan",
+    "feltOnStations": "II-III Tarakan",
+    "bmkgEarthquakeId": "20251107052829",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251107052829.mmi.jpg",
+    "fingerprintSha1": "f261cccc18cf550c3d9c026b732aaa9816737908"
   }
 ]
