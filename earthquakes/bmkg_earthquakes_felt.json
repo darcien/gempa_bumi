@@ -31162,5 +31162,17 @@
     "bmkgEarthquakeId": "20251107150226",
     "shakeMapUrl": "https://static.bmkg.go.id/20251107150226.mmi.jpg",
     "fingerprintSha1": "661a5f1637594f4463363020c8793f8243bfeaab"
+  },
+  {
+    "earthquakeAt": "2025-11-08T08:56:36.000Z",
+    "latitude": 3.31,
+    "longitude": 117.67,
+    "magnitude": 4.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 9 km tenggara Tarakan",
+    "feltOnStations": "IV-V Tarakan, III-IV Tanjung Selor, III-IV Tana Tidung, III Nunukan, II-III Tanjung Redep",
+    "bmkgEarthquakeId": "20251108155636",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251108155636.mmi.jpg",
+    "fingerprintSha1": "7461228052cd3120c64809b8f741583bc70eeb32"
   }
 ]
