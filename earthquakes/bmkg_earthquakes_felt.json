@@ -31174,5 +31174,17 @@
     "bmkgEarthquakeId": "20251108155636",
     "shakeMapUrl": "https://static.bmkg.go.id/20251108155636.mmi.jpg",
     "fingerprintSha1": "7461228052cd3120c64809b8f741583bc70eeb32"
+  },
+  {
+    "earthquakeAt": "2025-11-09T03:01:33.000Z",
+    "latitude": -6.84,
+    "longitude": 108.22,
+    "magnitude": 3.1,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di darat 0 km baratdaya Kab. Majalengka",
+    "feltOnStations": "III Majalengka",
+    "bmkgEarthquakeId": "20251109100133",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251109100133.mmi.jpg",
+    "fingerprintSha1": "a1b3c1590e704bd317ab5a8741701a181e7f435e"
   }
 ]
