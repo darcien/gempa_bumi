@@ -31186,5 +31186,17 @@
     "bmkgEarthquakeId": "20251109100133",
     "shakeMapUrl": "https://static.bmkg.go.id/20251109100133.mmi.jpg",
     "fingerprintSha1": "a1b3c1590e704bd317ab5a8741701a181e7f435e"
+  },
+  {
+    "earthquakeAt": "2025-11-11T21:23:32.000Z",
+    "latitude": -5.3,
+    "longitude": 133.93,
+    "magnitude": 5.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 60 km barat laut Kep. Aru",
+    "feltOnStations": "III Dobo",
+    "bmkgEarthquakeId": "20251112042332",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251112042332.mmi.jpg",
+    "fingerprintSha1": "02ccda5c125dc5172a529ebd1048272fdfaf07ba"
   }
 ]
