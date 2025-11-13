@@ -31198,5 +31198,17 @@
     "bmkgEarthquakeId": "20251112042332",
     "shakeMapUrl": "https://static.bmkg.go.id/20251112042332.mmi.jpg",
     "fingerprintSha1": "02ccda5c125dc5172a529ebd1048272fdfaf07ba"
+  },
+  {
+    "earthquakeAt": "2025-11-13T20:07:21.000Z",
+    "latitude": 4.68,
+    "longitude": 95.46,
+    "magnitude": 4.9,
+    "depthInKm": 27,
+    "locationInIndonesian": "Pusat gempa berada di laut 14 km Barat Calang- Aceh Jaya",
+    "feltOnStations": "IV Aceh Besar, III Banda Aceh, III Pidie Jaya, II-III Pidie, II Bener Meriah",
+    "bmkgEarthquakeId": "20251114030721",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251114030721.mmi.jpg",
+    "fingerprintSha1": "d6fedad7a5accd98564356a26e6c79fcd33ee6de"
   }
 ]
