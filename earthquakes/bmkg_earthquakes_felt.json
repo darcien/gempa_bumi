@@ -31222,5 +31222,17 @@
     "bmkgEarthquakeId": "20251114200555",
     "shakeMapUrl": "https://static.bmkg.go.id/20251114200555.mmi.jpg",
     "fingerprintSha1": "e4dc25757949d8916882394d817697ee86f6e0e0"
+  },
+  {
+    "earthquakeAt": "2025-11-15T02:24:10.000Z",
+    "latitude": -4.01,
+    "longitude": 136.16,
+    "magnitude": 3.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 14 km tenggara Dogiyai",
+    "feltOnStations": "II-III Enarotali",
+    "bmkgEarthquakeId": "20251115092410",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251115092410.mmi.jpg",
+    "fingerprintSha1": "67254f702f7d5b3aa0010237aa33ad1097f62b2b"
   }
 ]
