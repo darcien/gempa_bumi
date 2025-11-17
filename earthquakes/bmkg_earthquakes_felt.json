@@ -31270,5 +31270,17 @@
     "bmkgEarthquakeId": "20251117191237",
     "shakeMapUrl": "https://static.bmkg.go.id/20251117191237.mmi.jpg",
     "fingerprintSha1": "827809e958260811f473f2f00e4c48e40cc668cc"
+  },
+  {
+    "earthquakeAt": "2025-11-17T16:40:55.000Z",
+    "latitude": -7.2,
+    "longitude": 107.44,
+    "magnitude": 2.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 22 km barat daya Kabupaten Bandung",
+    "feltOnStations": "II-III Rancabolang, II-III Rancabali, II-III Ciwidey, II Pangalengan",
+    "bmkgEarthquakeId": "20251117234055",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251117234055.mmi.jpg",
+    "fingerprintSha1": "c9169d1918fd277e7267e39248eebc7c55290c48"
   }
 ]
