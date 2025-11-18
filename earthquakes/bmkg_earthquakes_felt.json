@@ -31282,5 +31282,17 @@
     "bmkgEarthquakeId": "20251117234055",
     "shakeMapUrl": "https://static.bmkg.go.id/20251117234055.mmi.jpg",
     "fingerprintSha1": "c9169d1918fd277e7267e39248eebc7c55290c48"
+  },
+  {
+    "earthquakeAt": "2025-11-18T17:13:20.000Z",
+    "latitude": -3.82,
+    "longitude": 122.31,
+    "magnitude": 3.1,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 29 km timur Konawe",
+    "feltOnStations": "III Wawolesea",
+    "bmkgEarthquakeId": "20251119001320",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251119001320.mmi.jpg",
+    "fingerprintSha1": "158d18ca9b1aec0d37c0929050fb897c4d695c4c"
   }
 ]
