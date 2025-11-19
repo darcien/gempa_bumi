@@ -31294,5 +31294,17 @@
     "bmkgEarthquakeId": "20251119001320",
     "shakeMapUrl": "https://static.bmkg.go.id/20251119001320.mmi.jpg",
     "fingerprintSha1": "158d18ca9b1aec0d37c0929050fb897c4d695c4c"
+  },
+  {
+    "earthquakeAt": "2025-11-19T03:10:41.000Z",
+    "latitude": -7.19,
+    "longitude": 107.63,
+    "magnitude": 2.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km tenggara Kabupaten Bandung",
+    "feltOnStations": "II-III Kertasari, II-III Banjaran",
+    "bmkgEarthquakeId": "20251119101041",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251119101041.mmi.jpg",
+    "fingerprintSha1": "69356fa9d47891c3b43a4b5af205cfbe979ff756"
   }
 ]
