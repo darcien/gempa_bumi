@@ -31318,5 +31318,17 @@
     "bmkgEarthquakeId": "20251119225421",
     "shakeMapUrl": "https://static.bmkg.go.id/20251119225421.mmi.jpg",
     "fingerprintSha1": "a7c77815691ca72864068b4376d68e7d4d236ba7"
+  },
+  {
+    "earthquakeAt": "2025-11-19T16:50:36.000Z",
+    "latitude": -7.23,
+    "longitude": 107.59,
+    "magnitude": 2.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 24 km Tenggara Kab. Bandung",
+    "feltOnStations": "II Pangalengan",
+    "bmkgEarthquakeId": "20251119235036",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251119235036.mmi.jpg",
+    "fingerprintSha1": "af016d80991c087aed23d8ce0da70c440d73ff10"
   }
 ]
