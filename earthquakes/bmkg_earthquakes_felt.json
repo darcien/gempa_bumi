@@ -31306,5 +31306,17 @@
     "bmkgEarthquakeId": "20251119101041",
     "shakeMapUrl": "https://static.bmkg.go.id/20251119101041.mmi.jpg",
     "fingerprintSha1": "69356fa9d47891c3b43a4b5af205cfbe979ff756"
+  },
+  {
+    "earthquakeAt": "2025-11-19T15:54:21.000Z",
+    "latitude": -7.22,
+    "longitude": 107.58,
+    "magnitude": 3.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 22 km Tenggara Kabupaten Bandung",
+    "feltOnStations": "II-III Kertasari, II-III Cimaung, II-III Pangalengan, II-III Pameungpeuk",
+    "bmkgEarthquakeId": "20251119225421",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251119225421.mmi.jpg",
+    "fingerprintSha1": "a7c77815691ca72864068b4376d68e7d4d236ba7"
   }
 ]
