@@ -31330,5 +31330,17 @@
     "bmkgEarthquakeId": "20251119235036",
     "shakeMapUrl": "https://static.bmkg.go.id/20251119235036.mmi.jpg",
     "fingerprintSha1": "af016d80991c087aed23d8ce0da70c440d73ff10"
+  },
+  {
+    "earthquakeAt": "2025-11-19T17:26:56.000Z",
+    "latitude": -7.22,
+    "longitude": 107.61,
+    "magnitude": 3.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 23 km Tenggara Kab. Bandung",
+    "feltOnStations": "III-IV Pangalengan, II-III Banjaran, II-III Ibun, II-III Kertasari, II-III Pasirjambu, II-III Baleendah, II-III Margaasih",
+    "bmkgEarthquakeId": "20251120002656",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251120002656.mmi.jpg",
+    "fingerprintSha1": "13c9e81371042b9e0bfc23b05ed0047aca894fd2"
   }
 ]
