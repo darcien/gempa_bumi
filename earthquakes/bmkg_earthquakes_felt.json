@@ -31378,5 +31378,17 @@
     "bmkgEarthquakeId": "20251120111955",
     "shakeMapUrl": "https://static.bmkg.go.id/20251120111955.mmi.jpg",
     "fingerprintSha1": "f2200bf78d386260e23705f09a143c8baf484cba"
+  },
+  {
+    "earthquakeAt": "2025-11-20T06:59:44.000Z",
+    "latitude": -3.66,
+    "longitude": 128.33,
+    "magnitude": 6,
+    "depthInKm": 119,
+    "locationInIndonesian": "Pusat gempa berada di laut 15 km tenggara Ambon",
+    "feltOnStations": "III-IV Amahai, III Ambon, III Sorong, II Fak - Fak",
+    "bmkgEarthquakeId": "20251120135944",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251120135944.mmi.jpg",
+    "fingerprintSha1": "bf53fc64f0b46e1a0560893ed5e4f56e8bf495c2"
   }
 ]
