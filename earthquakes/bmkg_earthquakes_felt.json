@@ -31342,5 +31342,17 @@
     "bmkgEarthquakeId": "20251120002656",
     "shakeMapUrl": "https://static.bmkg.go.id/20251120002656.mmi.jpg",
     "fingerprintSha1": "13c9e81371042b9e0bfc23b05ed0047aca894fd2"
+  },
+  {
+    "earthquakeAt": "2025-11-20T00:15:35.000Z",
+    "latitude": 0.56,
+    "longitude": 120.44,
+    "magnitude": 4.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 40 km barat daya Parigimoutong",
+    "feltOnStations": "III Tolitoli",
+    "bmkgEarthquakeId": "20251120071535",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251120071535.mmi.jpg",
+    "fingerprintSha1": "c11cb77ed6f8b9a8949501ce8e33f9f6bdbc6a80"
   }
 ]
