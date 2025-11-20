@@ -31374,7 +31374,7 @@
     "magnitude": 5.4,
     "depthInKm": 118,
     "locationInIndonesian": "Pusat gempa berada di laut 55 km BaratLaut Halmahera Barat",
-    "feltOnStations": "II Ternate, III Naha",
+    "feltOnStations": "II Ternate, III Naha, III Halmahera Barat, III Bitung",
     "bmkgEarthquakeId": "20251120111955",
     "shakeMapUrl": "https://static.bmkg.go.id/20251120111955.mmi.jpg",
     "fingerprintSha1": "f2200bf78d386260e23705f09a143c8baf484cba"
