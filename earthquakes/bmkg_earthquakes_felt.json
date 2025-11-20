@@ -31366,5 +31366,17 @@
     "bmkgEarthquakeId": "20251120094913",
     "shakeMapUrl": "https://static.bmkg.go.id/20251120094913.mmi.jpg",
     "fingerprintSha1": "4354b75de4f1a602446cfa66dc0db073be673c5d"
+  },
+  {
+    "earthquakeAt": "2025-11-20T04:19:55.000Z",
+    "latitude": 1.59,
+    "longitude": 127.15,
+    "magnitude": 5.4,
+    "depthInKm": 118,
+    "locationInIndonesian": "Pusat gempa berada di laut 55 km BaratLaut Halmahera Barat",
+    "feltOnStations": "II Ternate, III Naha",
+    "bmkgEarthquakeId": "20251120111955",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251120111955.mmi.jpg",
+    "fingerprintSha1": "f2200bf78d386260e23705f09a143c8baf484cba"
   }
 ]
