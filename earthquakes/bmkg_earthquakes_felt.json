@@ -31390,5 +31390,17 @@
     "bmkgEarthquakeId": "20251120135944",
     "shakeMapUrl": "https://static.bmkg.go.id/20251120135944.mmi.jpg",
     "fingerprintSha1": "bf53fc64f0b46e1a0560893ed5e4f56e8bf495c2"
+  },
+  {
+    "earthquakeAt": "2025-11-21T02:26:00.000Z",
+    "latitude": -6.81,
+    "longitude": 107.65,
+    "magnitude": 2.2,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 km timur laut Kota Cimahi",
+    "feltOnStations": "II-III Lembang, II-III Cihideung, II-III Parongpong, Kab. Bandung Barat, II-III Dago, Kota Bandung",
+    "bmkgEarthquakeId": "20251121092600",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251121092600.mmi.jpg",
+    "fingerprintSha1": "1219e0d8817675922064c5f61d29a2ec32a5df00"
   }
 ]
