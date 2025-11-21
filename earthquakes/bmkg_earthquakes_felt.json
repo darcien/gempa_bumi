@@ -31402,5 +31402,17 @@
     "bmkgEarthquakeId": "20251121092600",
     "shakeMapUrl": "https://static.bmkg.go.id/20251121092600.mmi.jpg",
     "fingerprintSha1": "1219e0d8817675922064c5f61d29a2ec32a5df00"
+  },
+  {
+    "earthquakeAt": "2025-11-21T05:15:59.000Z",
+    "latitude": -2.09,
+    "longitude": 100.6,
+    "magnitude": 4.4,
+    "depthInKm": 25,
+    "locationInIndonesian": "Pusat gempa berada di laut 37 km barat daya Pesisir Selatan",
+    "feltOnStations": "III-IV Pesisir Selatan, II-III Tua Pejat, II-III Solok Selatan",
+    "bmkgEarthquakeId": "20251121121559",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251121121559.mmi.jpg",
+    "fingerprintSha1": "c0076eabb5cd6dcc4b30c6b8996dabc5bc000cde"
   }
 ]
