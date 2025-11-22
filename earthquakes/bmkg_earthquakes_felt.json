@@ -31414,5 +31414,17 @@
     "bmkgEarthquakeId": "20251121121559",
     "shakeMapUrl": "https://static.bmkg.go.id/20251121121559.mmi.jpg",
     "fingerprintSha1": "c0076eabb5cd6dcc4b30c6b8996dabc5bc000cde"
+  },
+  {
+    "earthquakeAt": "2025-11-22T21:36:52.000Z",
+    "latitude": 0.55,
+    "longitude": 120.43,
+    "magnitude": 4.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 42 km barat Parigi Moutong",
+    "feltOnStations": "III-IV Palasa",
+    "bmkgEarthquakeId": "20251123043652",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251123043652.mmi.jpg",
+    "fingerprintSha1": "4b5b3775057c1895d857a834424c1ca6eedaabb3"
   }
 ]
