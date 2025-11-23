@@ -31450,5 +31450,17 @@
     "bmkgEarthquakeId": "20251123105940",
     "shakeMapUrl": "https://static.bmkg.go.id/20251123105940.mmi.jpg",
     "fingerprintSha1": "d2af9dace95ae961a319802dc3af912e8bca6bad"
+  },
+  {
+    "earthquakeAt": "2025-11-23T05:57:42.000Z",
+    "latitude": -9.47,
+    "longitude": 116.53,
+    "magnitude": 3.9,
+    "depthInKm": 29,
+    "locationInIndonesian": "Pusat gempa berada di laut 87 km Barat Daya Sumbawa Barat",
+    "feltOnStations": "II Sumbawa, II Lombok Tengah, II Lombok Barat, II Lombok Timur",
+    "bmkgEarthquakeId": "20251123125742",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251123125742.mmi.jpg",
+    "fingerprintSha1": "abb26e4e8dcf17b9b35b6f1eed8fccf9372ad2e2"
   }
 ]
