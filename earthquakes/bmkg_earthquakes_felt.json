@@ -31474,5 +31474,17 @@
     "bmkgEarthquakeId": "20251123205402",
     "shakeMapUrl": "https://static.bmkg.go.id/20251123205402.mmi.jpg",
     "fingerprintSha1": "648e8fcb9c0210447a1bb76dbca92727a396b89c"
+  },
+  {
+    "earthquakeAt": "2025-11-23T20:40:21.000Z",
+    "latitude": -9.35,
+    "longitude": 111.85,
+    "magnitude": 5.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 141 km BaratDaya Kab. Blitar",
+    "feltOnStations": "II-III Kuta, II Karangkates, II Nganjuk, II Blitar, II Tulungagung, II Bantul",
+    "bmkgEarthquakeId": "20251124034021",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251124034021.mmi.jpg",
+    "fingerprintSha1": "f39822e558ab6d37970f08ceaaf05750c78a69ee"
   }
 ]
