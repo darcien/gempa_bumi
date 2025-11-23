@@ -31426,5 +31426,17 @@
     "bmkgEarthquakeId": "20251123043652",
     "shakeMapUrl": "https://static.bmkg.go.id/20251123043652.mmi.jpg",
     "fingerprintSha1": "4b5b3775057c1895d857a834424c1ca6eedaabb3"
+  },
+  {
+    "earthquakeAt": "2025-11-23T03:19:57.000Z",
+    "latitude": 1.21,
+    "longitude": 128.48,
+    "magnitude": 5.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km Barat Daya Halmahera Timur",
+    "feltOnStations": "III Tobelo",
+    "bmkgEarthquakeId": "20251123101957",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251123101957.mmi.jpg",
+    "fingerprintSha1": "8e12fb6e0f94889664c2ceb756dcd1e555a8351f"
   }
 ]
