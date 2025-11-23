@@ -31438,5 +31438,17 @@
     "bmkgEarthquakeId": "20251123101957",
     "shakeMapUrl": "https://static.bmkg.go.id/20251123101957.mmi.jpg",
     "fingerprintSha1": "8e12fb6e0f94889664c2ceb756dcd1e555a8351f"
+  },
+  {
+    "earthquakeAt": "2025-11-23T03:59:40.000Z",
+    "latitude": -0.33,
+    "longitude": 99.02,
+    "magnitude": 3.9,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di Laut 71 Km Barat Daya Air Bangis",
+    "feltOnStations": "II Air Bangis",
+    "bmkgEarthquakeId": "20251123105940",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251123105940.mmi.jpg",
+    "fingerprintSha1": "d2af9dace95ae961a319802dc3af912e8bca6bad"
   }
 ]
