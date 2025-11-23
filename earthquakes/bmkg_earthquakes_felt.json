@@ -31462,5 +31462,17 @@
     "bmkgEarthquakeId": "20251123125742",
     "shakeMapUrl": "https://static.bmkg.go.id/20251123125742.mmi.jpg",
     "fingerprintSha1": "abb26e4e8dcf17b9b35b6f1eed8fccf9372ad2e2"
+  },
+  {
+    "earthquakeAt": "2025-11-23T13:54:02.000Z",
+    "latitude": -8.26,
+    "longitude": 123.51,
+    "magnitude": 2.5,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 23 km TimurLaut Lembata",
+    "feltOnStations": "II Lembata",
+    "bmkgEarthquakeId": "20251123205402",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251123205402.mmi.jpg",
+    "fingerprintSha1": "648e8fcb9c0210447a1bb76dbca92727a396b89c"
   }
 ]
