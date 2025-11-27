@@ -31522,5 +31522,17 @@
     "bmkgEarthquakeId": "20251125112048",
     "shakeMapUrl": "https://static.bmkg.go.id/20251125112048.mmi.jpg",
     "fingerprintSha1": "a8a0f4c643eec23bee051e91bd469b54e95d0ce7"
+  },
+  {
+    "earthquakeAt": "2025-11-27T04:56:24.000Z",
+    "latitude": 2.67,
+    "longitude": 95.84,
+    "magnitude": 6.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 62 km baratlaut Sinabang",
+    "feltOnStations": "III-IV Aceh Selatan, III Banda Aceh, III Aceh Besar, III Aceh Barat Daya, III Aceh Tenggara",
+    "bmkgEarthquakeId": "20251127115624",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251127115624.mmi.jpg",
+    "fingerprintSha1": "d92939a0779eacf4ef17d49e2b1e8cbcbcd0484f"
   }
 ]
