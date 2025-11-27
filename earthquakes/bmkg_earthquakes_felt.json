@@ -31530,7 +31530,7 @@
     "magnitude": 6.3,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 62 km baratlaut Sinabang",
-    "feltOnStations": "III-IV Aceh Selatan, III Banda Aceh, III Aceh Besar, III Aceh Barat Daya, III Aceh Tenggara",
+    "feltOnStations": "III-IV Aceh Selatan, III Banda Aceh, III Aceh Besar, III Aceh Barat Daya, III Aceh Tenggara, IV Semeulue, III Singkil, III Subulussalam, II-III Kabanjahe, II-III Tiganderket, II-III Pidie, II-III Lhokseumawe, II Medan, II Silangit, II-III Berastagi",
     "bmkgEarthquakeId": "20251127115624",
     "shakeMapUrl": "https://static.bmkg.go.id/20251127115624.mmi.jpg",
     "fingerprintSha1": "d92939a0779eacf4ef17d49e2b1e8cbcbcd0484f"
