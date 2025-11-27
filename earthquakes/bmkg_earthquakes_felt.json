@@ -31534,5 +31534,17 @@
     "bmkgEarthquakeId": "20251127115624",
     "shakeMapUrl": "https://static.bmkg.go.id/20251127115624.mmi.jpg",
     "fingerprintSha1": "d92939a0779eacf4ef17d49e2b1e8cbcbcd0484f"
+  },
+  {
+    "earthquakeAt": "2025-11-27T17:55:37.000Z",
+    "latitude": 2.64,
+    "longitude": 95.88,
+    "magnitude": 3.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 57 km Barat Laut Sinabang",
+    "feltOnStations": "II-III Simeulue",
+    "bmkgEarthquakeId": "20251128005537",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251128005537.mmi.jpg",
+    "fingerprintSha1": "f75438052a1c64022e076ad4ccac34815d4c12da"
   }
 ]
