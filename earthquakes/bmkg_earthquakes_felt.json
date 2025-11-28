@@ -31570,5 +31570,17 @@
     "bmkgEarthquakeId": "20251128143734",
     "shakeMapUrl": "https://static.bmkg.go.id/20251128143734.mmi.jpg",
     "fingerprintSha1": "5b3092cad4875b66704b5eba395dd29a100f78e4"
+  },
+  {
+    "earthquakeAt": "2025-11-28T14:20:53.000Z",
+    "latitude": -4.91,
+    "longitude": 103.07,
+    "magnitude": 3.7,
+    "depthInKm": 25,
+    "locationInIndonesian": "Pusat gempa berada di laut 33 Km Baratdaya Kaur",
+    "feltOnStations": "II-III Kaur, II-III Bengkulu",
+    "bmkgEarthquakeId": "20251128212053",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251128212053.mmi.jpg",
+    "fingerprintSha1": "0e9be49c9b2f5f4802d21a6d8d8f6338d013e46d"
   }
 ]
