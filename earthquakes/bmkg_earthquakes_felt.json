@@ -31546,5 +31546,29 @@
     "bmkgEarthquakeId": "20251128005537",
     "shakeMapUrl": "https://static.bmkg.go.id/20251128005537.mmi.jpg",
     "fingerprintSha1": "f75438052a1c64022e076ad4ccac34815d4c12da"
+  },
+  {
+    "earthquakeAt": "2025-11-28T09:31:53.000Z",
+    "latitude": -5.35,
+    "longitude": 104.59,
+    "magnitude": 3.2,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km barat laut Tanggamus",
+    "feltOnStations": "II - III Tanggamus",
+    "bmkgEarthquakeId": "20251128163153",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251128163153.mmi.jpg",
+    "fingerprintSha1": "7fcf770d5135f4f7c0646cd7e888dd190d1dfe97"
+  },
+  {
+    "earthquakeAt": "2025-11-28T07:37:34.000Z",
+    "latitude": -2.9,
+    "longitude": 128.29,
+    "magnitude": 4.1,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km timur laut Piru",
+    "feltOnStations": "II - III Piru",
+    "bmkgEarthquakeId": "20251128143734",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251128143734.mmi.jpg",
+    "fingerprintSha1": "5b3092cad4875b66704b5eba395dd29a100f78e4"
   }
 ]
