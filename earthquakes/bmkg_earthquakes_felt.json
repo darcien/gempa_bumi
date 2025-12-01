@@ -31618,5 +31618,17 @@
     "bmkgEarthquakeId": "20251130233927",
     "shakeMapUrl": "https://static.bmkg.go.id/20251130233927.mmi.jpg",
     "fingerprintSha1": "7cea15228b7b62fc46944409008a863af9a7d986"
+  },
+  {
+    "earthquakeAt": "2025-11-30T23:16:39.000Z",
+    "latitude": -2.95,
+    "longitude": 130.25,
+    "magnitude": 5.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 31 km Barat Laut Seram Bagian Timur",
+    "feltOnStations": "III Bula",
+    "bmkgEarthquakeId": "20251201061639",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251201061639.mmi.jpg",
+    "fingerprintSha1": "28907fa8b3d857987b2b54ddec7e8cb38bd0f7c9"
   }
 ]
