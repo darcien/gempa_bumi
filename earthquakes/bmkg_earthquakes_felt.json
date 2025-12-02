@@ -31650,7 +31650,7 @@
     "magnitude": 5,
     "depthInKm": 31,
     "locationInIndonesian": "Pusat gempa berada di laut 96 km Tenggara Nias Selatan",
-    "feltOnStations": "III Sibolga, III Humbang Hasundutan, II Nias Barat, I Padang Sidempuan",
+    "feltOnStations": "III Sibolga, III Humbang Hasundutan, II Nias Barat",
     "bmkgEarthquakeId": "20251202201625",
     "shakeMapUrl": "https://static.bmkg.go.id/20251202201625.mmi.jpg",
     "fingerprintSha1": "cb2632f5272f0d075b83e6a3390b529b37579839"
