@@ -31678,5 +31678,17 @@
     "bmkgEarthquakeId": "20251204130518",
     "shakeMapUrl": "https://static.bmkg.go.id/20251204130518.mmi.jpg",
     "fingerprintSha1": "a49cc6ea3bab460121220720359b3becb85793d4"
+  },
+  {
+    "earthquakeAt": "2025-12-04T14:42:23.000Z",
+    "latitude": -4.63,
+    "longitude": 114.77,
+    "magnitude": 4.8,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di laut 95 km BaratDaya Tanah laut",
+    "feltOnStations": "II-III Banjarbaru",
+    "bmkgEarthquakeId": "20251204214223",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251204214223.mmi.jpg",
+    "fingerprintSha1": "28cd32dc4e97743a38c250503aba6a3fb0ea0627"
   }
 ]
