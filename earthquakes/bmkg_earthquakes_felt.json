@@ -31702,5 +31702,17 @@
     "bmkgEarthquakeId": "20251205124011",
     "shakeMapUrl": "https://static.bmkg.go.id/20251205124011.mmi.jpg",
     "fingerprintSha1": "e721da13043cce29c54d56356f47d0d857f40b96"
+  },
+  {
+    "earthquakeAt": "2025-12-05T11:06:20.000Z",
+    "latitude": -3.93,
+    "longitude": 122.37,
+    "magnitude": 3.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 36 km timur Konawe",
+    "feltOnStations": "III Morosi-Konawe, III Sawa-Konawe Utara, II Ranomeeto-Konawe Selatan",
+    "bmkgEarthquakeId": "20251205180620",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251205180620.mmi.jpg",
+    "fingerprintSha1": "5beecff3980ec91553a16a77f0ce777cfdf354d2"
   }
 ]
