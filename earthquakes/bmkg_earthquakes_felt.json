@@ -31757,10 +31757,22 @@
     "longitude": 117.28,
     "magnitude": 4.4,
     "depthInKm": 47,
-    "locationInIndonesian": "Pusat gempa berada di laut 83 km Tenggara Sumbawa Barat",
+    "locationInIndonesian": "Pusat gempa berada di laut 83 km tenggara Sumbawa Barat",
     "feltOnStations": "III Sumbawa Barat",
     "bmkgEarthquakeId": "20251206104821",
     "shakeMapUrl": "https://static.bmkg.go.id/20251206104821.mmi.jpg",
     "fingerprintSha1": "f8a8b3d82ec1cb164a38cd438b50c0192fe3e72a"
+  },
+  {
+    "earthquakeAt": "2025-12-06T04:49:01.000Z",
+    "latitude": -7.29,
+    "longitude": 107.59,
+    "magnitude": 2.5,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 30 km tenggara Kabupaten Bandung",
+    "feltOnStations": "II Pangalengan",
+    "bmkgEarthquakeId": "20251206114901",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251206114901.mmi.jpg",
+    "fingerprintSha1": "b183d8ea13d5bb34c32b4623033aac27d80751e9"
   }
 ]
