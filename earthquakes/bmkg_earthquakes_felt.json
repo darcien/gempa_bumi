@@ -31774,5 +31774,17 @@
     "bmkgEarthquakeId": "20251206114901",
     "shakeMapUrl": "https://static.bmkg.go.id/20251206114901.mmi.jpg",
     "fingerprintSha1": "b183d8ea13d5bb34c32b4623033aac27d80751e9"
+  },
+  {
+    "earthquakeAt": "2025-12-06T15:37:50.000Z",
+    "latitude": -4.11,
+    "longitude": 121.62,
+    "magnitude": 2.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km tenggara Kolaka",
+    "feltOnStations": "II Loea, II Tirawatu",
+    "bmkgEarthquakeId": "20251206223750",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251206223750.mmi.jpg",
+    "fingerprintSha1": "d02985d217278c96c242768408788913d060f5dc"
   }
 ]
