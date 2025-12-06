@@ -31738,5 +31738,17 @@
     "bmkgEarthquakeId": "20251206000014",
     "shakeMapUrl": "https://static.bmkg.go.id/20251206000014.mmi.jpg",
     "fingerprintSha1": "0aa0bce375231baee34038019345946b6534e79c"
+  },
+  {
+    "earthquakeAt": "2025-12-06T00:44:34.000Z",
+    "latitude": 1.69,
+    "longitude": 127.24,
+    "magnitude": 5.3,
+    "depthInKm": 99,
+    "locationInIndonesian": "Pusat gempa berada di laut 54 km barat laut Halmahera Barat",
+    "feltOnStations": "II Manado, II Minahasa, II Ternate",
+    "bmkgEarthquakeId": "20251206074434",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251206074434.mmi.jpg",
+    "fingerprintSha1": "5134623b808ae2bdedc143aafcefe2507c53241c"
   }
 ]
