@@ -31810,5 +31810,17 @@
     "bmkgEarthquakeId": "20251209140253",
     "shakeMapUrl": "https://static.bmkg.go.id/20251209140253.mmi.jpg",
     "fingerprintSha1": "18844e3d4b6e3a0483292b40636f2c660386f30e"
+  },
+  {
+    "earthquakeAt": "2025-12-09T13:24:27.000Z",
+    "latitude": -0.48,
+    "longitude": 100.41,
+    "magnitude": 2.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km Tenggara Padang Panjang",
+    "feltOnStations": "II-III Padang Panjang",
+    "bmkgEarthquakeId": "20251209202427",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251209202427.mmi.jpg",
+    "fingerprintSha1": "9058fbb0eb44e6995d9f47df5abba8ba8f9c1420"
   }
 ]
