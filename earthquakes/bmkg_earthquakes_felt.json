@@ -31834,5 +31834,17 @@
     "bmkgEarthquakeId": "20251210024827",
     "shakeMapUrl": "https://static.bmkg.go.id/20251210024827.mmi.jpg",
     "fingerprintSha1": "97a74bd8de8ea9a3d9c7e7bcc7b5c21a151bf204"
+  },
+  {
+    "earthquakeAt": "2025-12-09T21:26:08.000Z",
+    "latitude": 1.12,
+    "longitude": 121.28,
+    "magnitude": 3.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 19 km barat laut Buol",
+    "feltOnStations": "II-III Buol",
+    "bmkgEarthquakeId": "20251210042608",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251210042608.mmi.jpg",
+    "fingerprintSha1": "ac9fe1afda4b19ec0999f2245a9caded3e23da8d"
   }
 ]
