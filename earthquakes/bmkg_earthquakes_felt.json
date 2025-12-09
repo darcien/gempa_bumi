@@ -31846,5 +31846,17 @@
     "bmkgEarthquakeId": "20251210042608",
     "shakeMapUrl": "https://static.bmkg.go.id/20251210042608.mmi.jpg",
     "fingerprintSha1": "ac9fe1afda4b19ec0999f2245a9caded3e23da8d"
+  },
+  {
+    "earthquakeAt": "2025-12-09T23:19:37.000Z",
+    "latitude": -5.35,
+    "longitude": 122.54,
+    "magnitude": 3.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km barat laut Buton Tengah",
+    "feltOnStations": "III Buton Tengah, III Baubau",
+    "bmkgEarthquakeId": "20251210061937",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251210061937.mmi.jpg",
+    "fingerprintSha1": "6c7b7287972a8580532d43fda72ac546dd9c7808"
   }
 ]
