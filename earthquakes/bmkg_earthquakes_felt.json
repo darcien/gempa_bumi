@@ -31798,5 +31798,17 @@
     "bmkgEarthquakeId": "20251207012537",
     "shakeMapUrl": "https://static.bmkg.go.id/20251207012537.mmi.jpg",
     "fingerprintSha1": "57503415cc489466e62963eaa345dc5d6c7e5739"
+  },
+  {
+    "earthquakeAt": "2025-12-09T07:02:53.000Z",
+    "latitude": 2.48,
+    "longitude": 95.88,
+    "magnitude": 5.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 54 km BaratLaut SINABANG-ACEH",
+    "feltOnStations": "III-IV Simeulue, III Aceh Selatan, II-III Aceh Barat Daya",
+    "bmkgEarthquakeId": "20251209140253",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251209140253.mmi.jpg",
+    "fingerprintSha1": "18844e3d4b6e3a0483292b40636f2c660386f30e"
   }
 ]
