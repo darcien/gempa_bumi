@@ -31858,5 +31858,17 @@
     "bmkgEarthquakeId": "20251210061937",
     "shakeMapUrl": "https://static.bmkg.go.id/20251210061937.mmi.jpg",
     "fingerprintSha1": "6c7b7287972a8580532d43fda72ac546dd9c7808"
+  },
+  {
+    "earthquakeAt": "2025-12-10T07:43:01.000Z",
+    "latitude": 5.46,
+    "longitude": 94.59,
+    "magnitude": 4.6,
+    "depthInKm": 24,
+    "locationInIndonesian": "Pusat gempa berada di laut 94 km barat daya Kota Sabang",
+    "feltOnStations": "III-IV Banda Aceh, III-IV Aceh Besar, III Sabang, II-III Pidie",
+    "bmkgEarthquakeId": "20251210144301",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251210144301.mmi.jpg",
+    "fingerprintSha1": "fd52e232435e80f06b5bf72bf66e3355ed200288"
   }
 ]
