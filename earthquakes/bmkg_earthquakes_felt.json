@@ -31882,5 +31882,17 @@
     "bmkgEarthquakeId": "20251211001652",
     "shakeMapUrl": "https://static.bmkg.go.id/20251211001652.mmi.jpg",
     "fingerprintSha1": "96690480445811916ce57f9b1040fb0cfc7dca17"
+  },
+  {
+    "earthquakeAt": "2025-12-11T06:45:56.000Z",
+    "latitude": -8.56,
+    "longitude": 119.89,
+    "magnitude": 3.6,
+    "depthInKm": 37,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km selatan Labuan Bajo",
+    "feltOnStations": "III-IV Labuan Bajo",
+    "bmkgEarthquakeId": "20251211134556",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251211134556.mmi.jpg",
+    "fingerprintSha1": "eb5276aa9f8d55856f25d88560e1c9c5d19e795d"
   }
 ]
