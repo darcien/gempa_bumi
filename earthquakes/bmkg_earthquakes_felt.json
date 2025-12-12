@@ -31918,5 +31918,29 @@
     "bmkgEarthquakeId": "20251211214206",
     "shakeMapUrl": "https://static.bmkg.go.id/20251211214206.mmi.jpg",
     "fingerprintSha1": "afb16ec466d5648f317e8ae8d374e198f8d1c9d3"
+  },
+  {
+    "earthquakeAt": "2025-12-12T04:39:43.000Z",
+    "latitude": -2.04,
+    "longitude": 120.65,
+    "magnitude": 3.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 73 km Selatan Poso",
+    "feltOnStations": "II - III Pendolo",
+    "bmkgEarthquakeId": "20251212113943",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251212113943.mmi.jpg",
+    "fingerprintSha1": "f730439628a6218ddb46d282ddbbe17e3473c515"
+  },
+  {
+    "earthquakeAt": "2025-12-12T03:12:05.000Z",
+    "latitude": -3.55,
+    "longitude": 128.21,
+    "magnitude": 2.6,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 54 km Selatan Seram Bagian Barat",
+    "feltOnStations": "II - III Salahutu",
+    "bmkgEarthquakeId": "20251212101205",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251212101205.mmi.jpg",
+    "fingerprintSha1": "a7bf09827527cb27d368ddb7ef1217ccd7af8eaf"
   }
 ]
