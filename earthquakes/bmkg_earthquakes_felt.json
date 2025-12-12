@@ -31894,5 +31894,29 @@
     "bmkgEarthquakeId": "20251211134556",
     "shakeMapUrl": "https://static.bmkg.go.id/20251211134556.mmi.jpg",
     "fingerprintSha1": "eb5276aa9f8d55856f25d88560e1c9c5d19e795d"
+  },
+  {
+    "earthquakeAt": "2025-12-11T18:47:55.000Z",
+    "latitude": -6,
+    "longitude": 122.53,
+    "magnitude": 3.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 47 km selatan Buton Selatan",
+    "feltOnStations": "II-III Batu Atas",
+    "bmkgEarthquakeId": "20251212014755",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251212014755.mmi.jpg",
+    "fingerprintSha1": "8b90a17ce5d2b3265c2c86020264ff329239d70d"
+  },
+  {
+    "earthquakeAt": "2025-12-11T14:42:06.000Z",
+    "latitude": -5.99,
+    "longitude": 122.51,
+    "magnitude": 4,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 46 km selatan Buton Selatan",
+    "feltOnStations": "III Batu Atas",
+    "bmkgEarthquakeId": "20251211214206",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251211214206.mmi.jpg",
+    "fingerprintSha1": "afb16ec466d5648f317e8ae8d374e198f8d1c9d3"
   }
 ]
