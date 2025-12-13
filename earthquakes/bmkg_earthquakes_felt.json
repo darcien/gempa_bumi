@@ -31942,5 +31942,17 @@
     "bmkgEarthquakeId": "20251212101205",
     "shakeMapUrl": "https://static.bmkg.go.id/20251212101205.mmi.jpg",
     "fingerprintSha1": "a7bf09827527cb27d368ddb7ef1217ccd7af8eaf"
+  },
+  {
+    "earthquakeAt": "2025-12-13T06:05:41.000Z",
+    "latitude": -1.06,
+    "longitude": 100.17,
+    "magnitude": 3.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 25 km Barat Daya Padang",
+    "feltOnStations": "II - III Padang",
+    "bmkgEarthquakeId": "20251213130541",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251213130541.mmi.jpg",
+    "fingerprintSha1": "5460122025d293f57b4dd05c4dae2e38698a4c32"
   }
 ]
