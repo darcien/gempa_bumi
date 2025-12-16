@@ -31966,5 +31966,17 @@
     "bmkgEarthquakeId": "20251214075815",
     "shakeMapUrl": "https://static.bmkg.go.id/20251214075815.mmi.jpg",
     "fingerprintSha1": "ef594c8067dcd6d00df93d347422164cdfb79939"
+  },
+  {
+    "earthquakeAt": "2025-12-16T05:41:28.000Z",
+    "latitude": -4.71,
+    "longitude": 122.71,
+    "magnitude": 4.1,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 14 km Utara MUNA-SULTRA",
+    "feltOnStations": "III-IV Muna, III-IV Muna Barat",
+    "bmkgEarthquakeId": "20251216124128",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251216124128.mmi.jpg",
+    "fingerprintSha1": "545d0c8f03714d1148b093c116ef78710145d2eb"
   }
 ]
