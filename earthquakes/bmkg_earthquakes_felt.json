@@ -32014,5 +32014,17 @@
     "bmkgEarthquakeId": "20251218112246",
     "shakeMapUrl": "https://static.bmkg.go.id/20251218112246.mmi.jpg",
     "fingerprintSha1": "934e6d41641b0f26113421fa917ec1b70f6e3b4f"
+  },
+  {
+    "earthquakeAt": "2025-12-18T05:30:19.000Z",
+    "latitude": 1.38,
+    "longitude": 125.83,
+    "magnitude": 4.6,
+    "depthInKm": 43,
+    "locationInIndonesian": "Pusat gempa berada di laut 79 km Timur Bitung",
+    "feltOnStations": "III Manado, III Tondano, III Bitung",
+    "bmkgEarthquakeId": "20251218123019",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251218123019.mmi.jpg",
+    "fingerprintSha1": "e0a1f223300d3b5866549a9651d660b9667ba468"
   }
 ]
