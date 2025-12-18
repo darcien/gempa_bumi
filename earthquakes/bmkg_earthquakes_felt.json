@@ -31990,5 +31990,17 @@
     "bmkgEarthquakeId": "20251217110205",
     "shakeMapUrl": "https://static.bmkg.go.id/20251217110205.mmi.jpg",
     "fingerprintSha1": "cbec2e1918c54c58ac7f895de3c668787541d72f"
+  },
+  {
+    "earthquakeAt": "2025-12-18T03:40:38.000Z",
+    "latitude": 4.85,
+    "longitude": 96.06,
+    "magnitude": 4.4,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 29 km Barat Daya Kab. Pidiejaya Aceh",
+    "feltOnStations": "II Aceh Jaya, II Aceh Barat Daya",
+    "bmkgEarthquakeId": "20251218104038",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251218104038.mmi.jpg",
+    "fingerprintSha1": "548064d0827ae06264ebd53db5c33d3d8ebe0aac"
   }
 ]
