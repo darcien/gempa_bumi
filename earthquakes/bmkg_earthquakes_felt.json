@@ -32038,5 +32038,17 @@
     "bmkgEarthquakeId": "20251218122339",
     "shakeMapUrl": "https://static.bmkg.go.id/20251218122339.mmi.jpg",
     "fingerprintSha1": "84238383f85f41c413f030ab0869aa6e5e4c613e"
+  },
+  {
+    "earthquakeAt": "2025-12-18T13:48:01.000Z",
+    "latitude": 2.56,
+    "longitude": 95.73,
+    "magnitude": 4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 71 km Barat Sinabang - Aceh",
+    "feltOnStations": "II Sinabang",
+    "bmkgEarthquakeId": "20251218204801",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251218204801.mmi.jpg",
+    "fingerprintSha1": "898c8a2c5b55af219f6ff3a965c149cfe99e19ca"
   }
 ]
