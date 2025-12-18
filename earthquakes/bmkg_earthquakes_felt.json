@@ -32002,5 +32002,17 @@
     "bmkgEarthquakeId": "20251218104038",
     "shakeMapUrl": "https://static.bmkg.go.id/20251218104038.mmi.jpg",
     "fingerprintSha1": "548064d0827ae06264ebd53db5c33d3d8ebe0aac"
+  },
+  {
+    "earthquakeAt": "2025-12-18T04:22:46.000Z",
+    "latitude": -8.82,
+    "longitude": 110.31,
+    "magnitude": 4.8,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 97 km BaratDaya Gunungkidul",
+    "feltOnStations": "II-III Gunungkidul, II-III Bantul, II-III Sleman, II-III Kulonprogo, II Wonogiri",
+    "bmkgEarthquakeId": "20251218112246",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251218112246.mmi.jpg",
+    "fingerprintSha1": "934e6d41641b0f26113421fa917ec1b70f6e3b4f"
   }
 ]
