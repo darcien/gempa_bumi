@@ -32050,5 +32050,17 @@
     "bmkgEarthquakeId": "20251218204801",
     "shakeMapUrl": "https://static.bmkg.go.id/20251218204801.mmi.jpg",
     "fingerprintSha1": "898c8a2c5b55af219f6ff3a965c149cfe99e19ca"
+  },
+  {
+    "earthquakeAt": "2025-12-19T00:45:34.000Z",
+    "latitude": -2.86,
+    "longitude": 127.36,
+    "magnitude": 4.8,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di laut 53 km Timur Laut Buru",
+    "feltOnStations": "III Namlea, II Ambon",
+    "bmkgEarthquakeId": "20251219074534",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251219074534.mmi.jpg",
+    "fingerprintSha1": "b332cad94b2ded52682d82a8b8504386af9d0ad0"
   }
 ]
