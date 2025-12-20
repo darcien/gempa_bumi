@@ -32062,5 +32062,17 @@
     "bmkgEarthquakeId": "20251219074534",
     "shakeMapUrl": "https://static.bmkg.go.id/20251219074534.mmi.jpg",
     "fingerprintSha1": "b332cad94b2ded52682d82a8b8504386af9d0ad0"
+  },
+  {
+    "earthquakeAt": "2025-12-20T10:33:27.000Z",
+    "latitude": 0.47,
+    "longitude": 121.96,
+    "magnitude": 5.2,
+    "depthInKm": 102,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km timur laut Pohuwato",
+    "feltOnStations": "IV Pohuwato, IV Boalemo, III Gorontalo, III Bonebolango, III Buol, III Tolitoli, II-III Kab. Gorontalo, II Kab. Gorontalo Utara",
+    "bmkgEarthquakeId": "20251220173327",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251220173327.mmi.jpg",
+    "fingerprintSha1": "90727937ddba91ec80d1da1f6fca90bb6a0c6106"
   }
 ]
