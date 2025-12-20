@@ -32086,5 +32086,17 @@
     "bmkgEarthquakeId": "20251220201326",
     "shakeMapUrl": "https://static.bmkg.go.id/20251220201326.mmi.jpg",
     "fingerprintSha1": "640dc177a091ba43263afaecc7d619e5ae671c7e"
+  },
+  {
+    "earthquakeAt": "2025-12-20T22:59:21.000Z",
+    "latitude": -2.56,
+    "longitude": 121.63,
+    "magnitude": 4.7,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 34 km barat laut Morowali",
+    "feltOnStations": "III Sorowako, III Malili",
+    "bmkgEarthquakeId": "20251221055921",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251221055921.mmi.jpg",
+    "fingerprintSha1": "0a74949a6d682978b78a17a4f1723dd60a6894a5"
   }
 ]
