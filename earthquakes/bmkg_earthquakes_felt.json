@@ -32098,5 +32098,17 @@
     "bmkgEarthquakeId": "20251221055921",
     "shakeMapUrl": "https://static.bmkg.go.id/20251221055921.mmi.jpg",
     "fingerprintSha1": "0a74949a6d682978b78a17a4f1723dd60a6894a5"
+  },
+  {
+    "earthquakeAt": "2025-12-21T12:21:46.000Z",
+    "latitude": 1.47,
+    "longitude": 126.34,
+    "magnitude": 5.6,
+    "depthInKm": 27,
+    "locationInIndonesian": "Pusat gempa berada di laut 133 Km Barat laut Jailolo",
+    "feltOnStations": "III Manado, III Bitung, III Minahasa, III Minahasa Utara, III Tomohon , II-III Ternate",
+    "bmkgEarthquakeId": "20251221192146",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251221192146.mmi.jpg",
+    "fingerprintSha1": "94f7ed9a48be4b2143e3142d1fbd70272c96a918"
   }
 ]
