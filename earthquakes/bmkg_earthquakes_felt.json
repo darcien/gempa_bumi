@@ -32110,5 +32110,29 @@
     "bmkgEarthquakeId": "20251221192146",
     "shakeMapUrl": "https://static.bmkg.go.id/20251221192146.mmi.jpg",
     "fingerprintSha1": "94f7ed9a48be4b2143e3142d1fbd70272c96a918"
+  },
+  {
+    "earthquakeAt": "2025-12-23T04:10:36.000Z",
+    "latitude": -8.06,
+    "longitude": 119.24,
+    "magnitude": 4,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di laut 71 km TimurLaut Kota Bima",
+    "feltOnStations": "III Bima",
+    "bmkgEarthquakeId": "20251223111036",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251223111036.mmi.jpg",
+    "fingerprintSha1": "c23a1422bdf7fb4c29d055c972d736e42564f321"
+  },
+  {
+    "earthquakeAt": "2025-12-21T12:21:14.000Z",
+    "latitude": -5.32,
+    "longitude": 104.58,
+    "magnitude": 2.6,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km Barat laut Tanggamus",
+    "feltOnStations": "II-III Ulu Belu",
+    "bmkgEarthquakeId": "20251221192114",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251221192114.mmi.jpg",
+    "fingerprintSha1": "076d370163e1495ec5c84db6e13d1954fe8d7690"
   }
 ]
