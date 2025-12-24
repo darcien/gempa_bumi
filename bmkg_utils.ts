@@ -1,4 +1,7 @@
-import { HOUR } from "@std/datetime/constants";
+/**
+ * The number of milliseconds in an hour.
+ */
+const HOUR = 3_600_000;
 
 // WIB is UTC +7
 const WIB_OFFSET = 7 * HOUR;
