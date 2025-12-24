@@ -32,12 +32,12 @@ const bmkgApiResSchema = z
     Infogempa: z.object({
       gempa: z.array(
         z.object({
-          Tanggal: z.string(),
-          Jam: z.string(),
+          Tanggal: z.unknown(),
+          Jam: z.unknown(),
           DateTime: z.iso.datetime({ offset: true }).pipe(z.coerce.date()),
           Coordinates: coordinatesSchema,
-          Lintang: z.string(),
-          Bujur: z.string(),
+          Lintang: z.unknown(),
+          Bujur: z.unknown(),
           Magnitude: z.string().transform((value) => parseFloat(value)),
           Kedalaman: depthSchema,
           Wilayah: z.string(),
@@ -74,9 +74,10 @@ const bmkgApiResSchema = z
       // as `kode_shakemap`.
       const bmkgEarthquakeId = computeBmkgEarthquakeId(fresh.earthquakeAt);
       const shakeMapUrl = getBmkgShakeMapUrl(bmkgEarthquakeId);
+      const earthquakeAtIso = fresh.earthquakeAt.toISOString();
       return {
         ...fresh,
-        earthquakeAt: fresh.earthquakeAt.toISOString(),
+        earthquakeAt: earthquakeAtIso,
         bmkgEarthquakeId,
         shakeMapUrl,
         // BMKG doesn't expose the earthquake id,
@@ -86,7 +87,7 @@ const bmkgApiResSchema = z
         // If the row from BMKG page is updated,
         // we might introduce duplicate here.
         fingerprintSha1: hash.sha1({
-          earthquakeAt: fresh.earthquakeAt.toISOString(),
+          earthquakeAt: earthquakeAtIso,
           latitude: fresh.latitude,
           longitude: fresh.longitude,
           magnitude: fresh.magnitude,
@@ -127,6 +128,12 @@ export type Earthquake = {
 type FreshEarthquakes = z.infer<typeof bmkgApiResSchema>;
 type FreshEarthquake = FreshEarthquakes[number];
 
+const DEEP_MERGE_OPTIONS = {
+  arrays: "replace",
+  maps: "replace",
+  sets: "replace",
+} as const;
+
 function mergeFeltEarthquakes(
   staleEarthquakes: Array<Earthquake>,
   freshEarthquakes: Array<FreshEarthquake>,
@@ -146,11 +153,7 @@ function mergeFeltEarthquakes(
     if (old) {
       merged.set(
         key,
-        deepMerge(old, fresh, {
-          arrays: "replace",
-          maps: "replace",
-          sets: "replace",
-        }),
+        deepMerge(old, fresh, DEEP_MERGE_OPTIONS),
       );
     } else {
       merged.set(key, fresh);
