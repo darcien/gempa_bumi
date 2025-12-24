@@ -32146,5 +32146,17 @@
     "bmkgEarthquakeId": "20251224123034",
     "shakeMapUrl": "https://static.bmkg.go.id/20251224123034.mmi.jpg",
     "fingerprintSha1": "90db2f536382c06544cd2cc40ee27af2fac32448"
+  },
+  {
+    "earthquakeAt": "2025-12-24T13:34:30.000Z",
+    "latitude": -2.87,
+    "longitude": 101.06,
+    "magnitude": 4,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di laut 34 km selatan Mukomuko",
+    "feltOnStations": "II-III Mukomuko, II Sungaipenuh",
+    "bmkgEarthquakeId": "20251224203430",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251224203430.mmi.jpg",
+    "fingerprintSha1": "37639439ce76c614b7c08e22dd439419ca4b2aca"
   }
 ]
