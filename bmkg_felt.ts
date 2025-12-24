@@ -9,12 +9,10 @@ const savePath = "./earthquakes/bmkg_earthquakes_felt.json";
 
 const url = "https://data.bmkg.go.id/DataMKG/TEWS/gempadirasakan.json";
 
-const coordinatesRegex = /^-?\d+\.\d+,-?\d+\.\d+$/;
 const coordinatesSchema = z
-  .string()
-  .refine((value) => coordinatesRegex.test(value))
+  .templateLiteral([z.number(), ",", z.number()])
   .pipe(
-    z.string().transform((arg) => {
+    z.transform((arg) => {
       const [rLatitude, rLongitude] = arg.split(",");
       return {
         latitude: parseFloat(rLatitude),
@@ -23,13 +21,9 @@ const coordinatesSchema = z
     }),
   );
 
-const depthRegex = /^\d+ km$/;
 const depthSchema = z
-  .string()
-  .refine((value) => depthRegex.test(value))
-  .pipe(
-    z.string().transform((arg) => parseFloat(arg.split(" km").shift() || "")),
-  );
+  .templateLiteral([z.number(), " km"])
+  .pipe(z.transform((str) => parseFloat(str.slice(0, -3))));
 
 const now = new Date();
 
@@ -40,18 +34,11 @@ const bmkgApiResSchema = z
         z.object({
           Tanggal: z.string(),
           Jam: z.string(),
-          DateTime: z
-            .string()
-            .datetime({ offset: true })
-            .pipe(z.coerce.date()),
+          DateTime: z.iso.datetime({ offset: true }).pipe(z.coerce.date()),
           Coordinates: coordinatesSchema,
           Lintang: z.string(),
           Bujur: z.string(),
-          // Not using z.coerce.number() here as it uses Number(...)
-          Magnitude: z.preprocess(
-            (value) => parseFloat(String(value)),
-            z.number(),
-          ),
+          Magnitude: z.string().transform((value) => parseFloat(value)),
           Kedalaman: depthSchema,
           Wilayah: z.string(),
           Dirasakan: z.string(),
