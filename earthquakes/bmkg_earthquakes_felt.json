@@ -32134,5 +32134,17 @@
     "bmkgEarthquakeId": "20251221192114",
     "shakeMapUrl": "https://static.bmkg.go.id/20251221192114.mmi.jpg",
     "fingerprintSha1": "076d370163e1495ec5c84db6e13d1954fe8d7690"
+  },
+  {
+    "earthquakeAt": "2025-12-24T05:30:34.000Z",
+    "latitude": -4.46,
+    "longitude": 102.6,
+    "magnitude": 4.6,
+    "depthInKm": 30,
+    "locationInIndonesian": "Pusat gempa berada di laut 34 km barat Bengkulu Selatan",
+    "feltOnStations": "II-III Bengkulu Utara, II-III Bengkulu Selatan",
+    "bmkgEarthquakeId": "20251224123034",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251224123034.mmi.jpg",
+    "fingerprintSha1": "90db2f536382c06544cd2cc40ee27af2fac32448"
   }
 ]
