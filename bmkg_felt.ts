@@ -1,6 +1,6 @@
 import hash from "hash";
 import { deepMerge } from "@std/collections/deep-merge";
-import { z } from "zod";
+import { z } from "@zod/zod";
 import { logIfCi } from "./ci_utils.ts";
 import { readJsonFile, writeJsonFile } from "./utils.ts";
 import { computeBmkgEarthquakeId, getBmkgShakeMapUrl } from "./bmkg_utils.ts";
@@ -10,14 +10,26 @@ const savePath = "./earthquakes/bmkg_earthquakes_felt.json";
 const url = "https://data.bmkg.go.id/DataMKG/TEWS/gempadirasakan.json";
 
 const coordinatesRegex = /^-?\d+\.\d+,-?\d+\.\d+$/;
-const coordinatesSchema = z.custom<`${number},${number}`>((value) =>
-  coordinatesRegex.test(String(value))
-);
+const coordinatesSchema = z
+  .string()
+  .refine((value) => coordinatesRegex.test(value))
+  .pipe(
+    z.string().transform((arg) => {
+      const [rLatitude, rLongitude] = arg.split(",");
+      return {
+        latitude: parseFloat(rLatitude),
+        longitude: parseFloat(rLongitude),
+      };
+    }),
+  );
 
 const depthRegex = /^\d+ km$/;
-const depthSchema = z.custom<`${number} km`>((value) =>
-  depthRegex.test(String(value))
-);
+const depthSchema = z
+  .string()
+  .refine((value) => depthRegex.test(value))
+  .pipe(
+    z.string().transform((arg) => parseFloat(arg.split(" km").shift() || "")),
+  );
 
 const now = new Date();
 
@@ -31,14 +43,8 @@ const bmkgApiResSchema = z
           DateTime: z
             .string()
             .datetime({ offset: true })
-            .transform((value) => new Date(value)),
-          Coordinates: coordinatesSchema.transform((arg) => {
-            const [rLatitude, rLongitude] = arg.split(",");
-            return {
-              latitude: parseFloat(rLatitude),
-              longitude: parseFloat(rLongitude),
-            };
-          }),
+            .pipe(z.coerce.date()),
+          Coordinates: coordinatesSchema,
           Lintang: z.string(),
           Bujur: z.string(),
           // Not using z.coerce.number() here as it uses Number(...)
@@ -46,9 +52,7 @@ const bmkgApiResSchema = z
             (value) => parseFloat(String(value)),
             z.number(),
           ),
-          Kedalaman: depthSchema.transform((arg) =>
-            parseFloat(arg.split(" km").shift() || "")
-          ),
+          Kedalaman: depthSchema,
           Wilayah: z.string(),
           Dirasakan: z.string(),
         }),

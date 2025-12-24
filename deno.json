@@ -5,7 +5,7 @@
   "imports": {
     "@std/assert": "jsr:@std/assert@^1.0.10",
     "@std/collections": "jsr:@std/collections@^1.0.9",
-    "hash": "https://deno.land/x/object_hash@2.0.3.1/mod.ts",
-    "zod": "https://deno.land/x/zod@v3.24.1/mod.ts"
+    "@zod/zod": "jsr:@zod/zod@^4.2.1",
+    "hash": "https://deno.land/x/object_hash@2.0.3.1/mod.ts"
   }
 }
