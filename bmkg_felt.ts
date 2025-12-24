@@ -94,7 +94,6 @@ const bmkgApiResSchema = z
         // a new earthquake.
         // If the row from BMKG page is updated,
         // we might introduce duplicate here.
-        // TODO: Consider a better duplicate prevention here.
         fingerprintSha1: hash.sha1({
           earthquakeAt: fresh.earthquakeAt.toISOString(),
           latitude: fresh.latitude,
@@ -109,10 +108,14 @@ const bmkgApiResSchema = z
     })
   );
 
-enum MergeKey {
-  FingerprintSha1 = "fingerprintSha1",
-  BmkgEarthquakeId = "bmkgEarthquakeId",
-}
+type MergeKey =
+  /**
+   * @deprecated Use "bmkgEarthquakeId" instead.
+   * Computed bmkgEarthquakeId has been running for almost 3 years
+   * and does match the id used for shake map url.
+   */
+  | "fingerprintSha1"
+  | "bmkgEarthquakeId";
 
 type ErroneousDataReason = "FUTURE_EARTHQUAKE";
 
@@ -141,6 +144,7 @@ function mergeFeltEarthquakes(
   },
 ): Array<Earthquake> {
   const { mergeKey } = options;
+
   const merged = new Map(
     staleEarthquakes.map((earthquake) => [earthquake[mergeKey], earthquake]),
   );
@@ -173,7 +177,7 @@ try {
 
   const staleEarthquakes = await readJsonFile(savePath);
   const updated = mergeFeltEarthquakes(staleEarthquakes, freshEarthquakes, {
-    mergeKey: MergeKey.BmkgEarthquakeId,
+    mergeKey: "bmkgEarthquakeId",
   });
   logIfCi({
     staleEarthquakes,
