@@ -5,9 +5,10 @@ import { logIfCi } from "./ci_utils.ts";
 import { readJsonFile, writeJsonFile } from "./utils.ts";
 import { computeBmkgEarthquakeId, getBmkgShakeMapUrl } from "./bmkg_utils.ts";
 
-const savePath = "./earthquakes/bmkg_earthquakes_felt.json";
+const EARTHQUAKE_FELT_JSON_PATH = "./earthquakes/bmkg_earthquakes_felt.json";
 
-const url = "https://data.bmkg.go.id/DataMKG/TEWS/gempadirasakan.json";
+const EARTHQUAKE_FELT_URL =
+  "https://data.bmkg.go.id/DataMKG/TEWS/gempadirasakan.json";
 
 const coordinatesSchema = z
   .templateLiteral([z.number(), ",", z.number()])
@@ -164,12 +165,12 @@ function mergeFeltEarthquakes(
 }
 
 try {
-  const res = await fetch(url);
+  const res = await fetch(EARTHQUAKE_FELT_URL);
   const json = await res.json();
   logIfCi(json);
   const freshEarthquakes = bmkgApiResSchema.parse(json);
 
-  const staleEarthquakes = await readJsonFile(savePath);
+  const staleEarthquakes = await readJsonFile(EARTHQUAKE_FELT_JSON_PATH);
   const updated = mergeFeltEarthquakes(staleEarthquakes, freshEarthquakes, {
     mergeKey: "bmkgEarthquakeId",
   });
@@ -179,7 +180,7 @@ try {
     updated,
   });
 
-  await writeJsonFile(savePath, updated);
+  await writeJsonFile(EARTHQUAKE_FELT_JSON_PATH, updated);
 } catch (error) {
-  console.log(error);
+  console.error(error);
 }
