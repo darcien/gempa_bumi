@@ -1,4 +1,4 @@
-import { BmkgEarthquakeId, getBmkgShakeMapUrl } from "./bmkg_utils.ts";
+import { BmkgEarthquakeId, getBmkgShakeMapUrl } from "./bmkg_felt_utils.ts";
 import oldData from "./earthquakes/bmkg_earthquakes_felt.json" with {
   type: "json",
 };

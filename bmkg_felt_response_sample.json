@@ -1,0 +1,186 @@
+{
+  "Infogempa": {
+    "gempa": [
+      {
+        "Tanggal": "24 Des 2025",
+        "Jam": "12:30:34 WIB",
+        "DateTime": "2025-12-24T05:30:34+00:00",
+        "Coordinates": "-4.46,102.60",
+        "Lintang": "4.46 LS",
+        "Bujur": "102.60 BT",
+        "Magnitude": "4.6",
+        "Kedalaman": "30 km",
+        "Wilayah": "Pusat gempa berada di laut 34 km barat Bengkulu Selatan",
+        "Dirasakan": "II-III Bengkulu Utara, II-III Bengkulu Selatan"
+      },
+      {
+        "Tanggal": "23 Des 2025",
+        "Jam": "11:10:36 WIB",
+        "DateTime": "2025-12-23T04:10:36+00:00",
+        "Coordinates": "-8.06,119.24",
+        "Lintang": "8.06 LS",
+        "Bujur": "119.24 BT",
+        "Magnitude": "4.0",
+        "Kedalaman": "17 km",
+        "Wilayah": "Pusat gempa berada di laut 71 km TimurLaut Kota Bima",
+        "Dirasakan": "III Bima"
+      },
+      {
+        "Tanggal": "21 Des 2025",
+        "Jam": "19:21:46 WIB",
+        "DateTime": "2025-12-21T12:21:46+00:00",
+        "Coordinates": "1.47,126.34",
+        "Lintang": "1.47 LU",
+        "Bujur": "126.34 BT",
+        "Magnitude": "5.6",
+        "Kedalaman": "27 km",
+        "Wilayah": "Pusat gempa berada di laut 133 Km Barat laut Jailolo",
+        "Dirasakan": "III Manado, III Bitung, III Minahasa, III Minahasa Utara, III Tomohon , II-III Ternate"
+      },
+      {
+        "Tanggal": "21 Des 2025",
+        "Jam": "19:21:14 WIB",
+        "DateTime": "2025-12-21T12:21:14+00:00",
+        "Coordinates": "-5.32,104.58",
+        "Lintang": "5.32 LS",
+        "Bujur": "104.58 BT",
+        "Magnitude": "2.6",
+        "Kedalaman": "14 km",
+        "Wilayah": "Pusat gempa berada di darat 21 km Barat laut Tanggamus",
+        "Dirasakan": "II-III Ulu Belu"
+      },
+      {
+        "Tanggal": "21 Des 2025",
+        "Jam": "05:59:21 WIB",
+        "DateTime": "2025-12-20T22:59:21+00:00",
+        "Coordinates": "-2.56,121.63",
+        "Lintang": "2.56 LS",
+        "Bujur": "121.63 BT",
+        "Magnitude": "4.7",
+        "Kedalaman": "2 km",
+        "Wilayah": "Pusat gempa berada di darat 34 km barat laut Morowali",
+        "Dirasakan": "III Sorowako, III Malili"
+      },
+      {
+        "Tanggal": "20 Des 2025",
+        "Jam": "20:13:26 WIB",
+        "DateTime": "2025-12-20T13:13:26+00:00",
+        "Coordinates": "-5.23,102.50",
+        "Lintang": "5.23 LS",
+        "Bujur": "102.50 BT",
+        "Magnitude": "4.6",
+        "Kedalaman": "7 km",
+        "Wilayah": "Pusat gempa berada di laut 28 km timur laut Enggano",
+        "Dirasakan": "II-III Enggano, II-III Bengkulu"
+      },
+      {
+        "Tanggal": "20 Des 2025",
+        "Jam": "17:33:27 WIB",
+        "DateTime": "2025-12-20T10:33:27+00:00",
+        "Coordinates": "0.47,121.96",
+        "Lintang": "0.47 LU",
+        "Bujur": "121.96 BT",
+        "Magnitude": "5.2",
+        "Kedalaman": "102 km",
+        "Wilayah": "Pusat gempa berada di darat 1 km timur laut Pohuwato",
+        "Dirasakan": "IV Pohuwato, IV Boalemo, III Gorontalo, III Bonebolango, III Buol, III Tolitoli, II-III Kab. Gorontalo, II Kab. Gorontalo Utara"
+      },
+      {
+        "Tanggal": "19 Des 2025",
+        "Jam": "07:45:34 WIB",
+        "DateTime": "2025-12-19T00:45:34+00:00",
+        "Coordinates": "-2.86,127.36",
+        "Lintang": "2.86 LS",
+        "Bujur": "127.36 BT",
+        "Magnitude": "4.8",
+        "Kedalaman": "15 km",
+        "Wilayah": "Pusat gempa berada di laut 53 km Timur Laut Buru",
+        "Dirasakan": "III Namlea, II Ambon"
+      },
+      {
+        "Tanggal": "18 Des 2025",
+        "Jam": "20:48:01 WIB",
+        "DateTime": "2025-12-18T13:48:01+00:00",
+        "Coordinates": "2.56,95.73",
+        "Lintang": "2.56 LU",
+        "Bujur": "95.73 BT",
+        "Magnitude": "4.0",
+        "Kedalaman": "10 km",
+        "Wilayah": "Pusat gempa berada di darat 71 km Barat Sinabang - Aceh",
+        "Dirasakan": "II Sinabang"
+      },
+      {
+        "Tanggal": "18 Des 2025",
+        "Jam": "12:30:19 WIB",
+        "DateTime": "2025-12-18T05:30:19+00:00",
+        "Coordinates": "1.38,125.83",
+        "Lintang": "1.38 LU",
+        "Bujur": "125.83 BT",
+        "Magnitude": "4.6",
+        "Kedalaman": "43 km",
+        "Wilayah": "Pusat gempa berada di laut 79 km Timur Bitung",
+        "Dirasakan": "III Bitung, III Tondano, III Manado"
+      },
+      {
+        "Tanggal": "18 Des 2025",
+        "Jam": "12:23:39 WIB",
+        "DateTime": "2025-12-18T05:23:39+00:00",
+        "Coordinates": "-6.74,105.46",
+        "Lintang": "6.74 LS",
+        "Bujur": "105.46 BT",
+        "Magnitude": "4.0",
+        "Kedalaman": "10 km",
+        "Wilayah": "Pusat gempa berada di laut 16 km Barat Daya Sumur",
+        "Dirasakan": "II-III Sumur"
+      },
+      {
+        "Tanggal": "18 Des 2025",
+        "Jam": "11:22:46 WIB",
+        "DateTime": "2025-12-18T04:22:46+00:00",
+        "Coordinates": "-8.82,110.31",
+        "Lintang": "8.82 LS",
+        "Bujur": "110.31 BT",
+        "Magnitude": "4.8",
+        "Kedalaman": "13 km",
+        "Wilayah": "Pusat gempa berada di laut 97 km BaratDaya Gunungkidul",
+        "Dirasakan": "II-III Gunungkidul, II-III Bantul, II-III Sleman, II-III Kulonprogo, II Wonogiri"
+      },
+      {
+        "Tanggal": "18 Des 2025",
+        "Jam": "10:40:38 WIB",
+        "DateTime": "2025-12-18T03:40:38+00:00",
+        "Coordinates": "4.85,96.06",
+        "Lintang": "4.85 LU",
+        "Bujur": "96.06 BT",
+        "Magnitude": "4.4",
+        "Kedalaman": "11 km",
+        "Wilayah": "Pusat gempa berada di darat 29 km Barat Daya Kab. Pidiejaya Aceh",
+        "Dirasakan": "II Aceh Jaya, II Aceh Barat Daya"
+      },
+      {
+        "Tanggal": "17 Des 2025",
+        "Jam": "11:02:05 WIB",
+        "DateTime": "2025-12-17T04:02:05+00:00",
+        "Coordinates": "-8.32,124.76",
+        "Lintang": "8.32 LS",
+        "Bujur": "124.76 BT",
+        "Magnitude": "3.8",
+        "Kedalaman": "5 km",
+        "Wilayah": "Pusat gempa berada di darat 23 km Timur Alor",
+        "Dirasakan": "II-III Alor"
+      },
+      {
+        "Tanggal": "16 Des 2025",
+        "Jam": "12:41:28 WIB",
+        "DateTime": "2025-12-16T05:41:28+00:00",
+        "Coordinates": "-4.71,122.71",
+        "Lintang": "4.71 LS",
+        "Bujur": "122.71 BT",
+        "Magnitude": "4.1",
+        "Kedalaman": "7 km",
+        "Wilayah": "Pusat gempa berada di darat 14 km Utara MUNA-SULTRA",
+        "Dirasakan": "III-IV Muna, III-IV Muna Barat"
+      }
+    ]
+  }
+}

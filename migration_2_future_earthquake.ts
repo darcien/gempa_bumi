@@ -1,4 +1,4 @@
-import { Earthquake } from "./bmkg_felt.ts";
+import { Earthquake } from "./bmkg_felt_utils.ts";
 import oldData from "./earthquakes/bmkg_earthquakes_felt.json" with {
   type: "json",
 };
