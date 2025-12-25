@@ -32170,5 +32170,17 @@
     "bmkgEarthquakeId": "20251225210646",
     "shakeMapUrl": "https://static.bmkg.go.id/20251225210646.mmi.jpg",
     "fingerprintSha1": "9a69deee68452f5c846772e987403d7aab58cd44"
+  },
+  {
+    "earthquakeAt": "2025-12-25T20:26:17.000Z",
+    "latitude": 0.09,
+    "longitude": 129.56,
+    "magnitude": 4.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 113 km Barat Raja Ampat",
+    "feltOnStations": "III Pulau Gebe",
+    "bmkgEarthquakeId": "20251226032617",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251226032617.mmi.jpg",
+    "fingerprintSha1": "eb8371d16d2484385d5a45d8fc620edb8742acc3"
   }
 ]
