@@ -32182,5 +32182,41 @@
     "bmkgEarthquakeId": "20251226032617",
     "shakeMapUrl": "https://static.bmkg.go.id/20251226032617.mmi.jpg",
     "fingerprintSha1": "eb8371d16d2484385d5a45d8fc620edb8742acc3"
+  },
+  {
+    "earthquakeAt": "2025-12-26T07:47:56.000Z",
+    "latitude": 4.13,
+    "longitude": 97.45,
+    "magnitude": 3.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 19 km Timur Laut KAB-GAYOLUES-ACEH",
+    "feltOnStations": "II-III Gayo Lues, II Aceh Timur, II-III Aceh Tamiang, II-III Langsa",
+    "bmkgEarthquakeId": "20251226144756",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251226144756.mmi.jpg",
+    "fingerprintSha1": "e3e4e6f6466bbd220bb9d4235dee8bf334e03312"
+  },
+  {
+    "earthquakeAt": "2025-12-26T07:27:14.000Z",
+    "latitude": -6.83,
+    "longitude": 107.09,
+    "magnitude": 2.1,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km BaratDaya KAB-CIANJUR-JABAR",
+    "feltOnStations": "II Cugeneng",
+    "bmkgEarthquakeId": "20251226142714",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251226142714.mmi.jpg",
+    "fingerprintSha1": "b84b79e65459e6d714cd128f0183e2da40eaf7b2"
+  },
+  {
+    "earthquakeAt": "2025-12-26T06:51:05.000Z",
+    "latitude": 4.11,
+    "longitude": 97.44,
+    "magnitude": 4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km timur laut Kab. Gayo Lues",
+    "feltOnStations": "III Gayo Lues",
+    "bmkgEarthquakeId": "20251226135105",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251226135105.mmi.jpg",
+    "fingerprintSha1": "7dc18d996555a679f6b0ce0655bd4341ce70a8bc"
   }
 ]
