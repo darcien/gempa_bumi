@@ -32218,5 +32218,29 @@
     "bmkgEarthquakeId": "20251226135105",
     "shakeMapUrl": "https://static.bmkg.go.id/20251226135105.mmi.jpg",
     "fingerprintSha1": "7dc18d996555a679f6b0ce0655bd4341ce70a8bc"
+  },
+  {
+    "earthquakeAt": "2025-12-27T01:10:13.000Z",
+    "latitude": -5.58,
+    "longitude": 102.22,
+    "magnitude": 5.8,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di laut 24 km Barat Daya Enggano",
+    "feltOnStations": "III Enggano, II-III Kaur, II-III Kota Bengkulu, II-III Pagar Alam, I Kepahiang",
+    "bmkgEarthquakeId": "20251227081013",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251227081013.mmi.jpg",
+    "fingerprintSha1": "c64cf1fe2163ec6c38f260e3fb4ae97f52a37ba5"
+  },
+  {
+    "earthquakeAt": "2025-12-27T00:22:32.000Z",
+    "latitude": -5.58,
+    "longitude": 102.27,
+    "magnitude": 5.9,
+    "depthInKm": 19,
+    "locationInIndonesian": "Pusat gempa berada di laut 26 km Tenggara Enggano",
+    "feltOnStations": "III Enggano, II-III Kaur, II-III Kota Bengkulu",
+    "bmkgEarthquakeId": "20251227072232",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251227072232.mmi.jpg",
+    "fingerprintSha1": "49f14577cc2adc538560494a9979fe0e0692677e"
   }
 ]
