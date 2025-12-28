@@ -32262,9 +32262,21 @@
     "magnitude": 4.6,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 18 km timur laut Agam",
-    "feltOnStations": "III-IV Agam, III-IV Bukittinggi, II-III Padang Panjang, II-III Payakumbuh",
+    "feltOnStations": "III-IV Agam, III-IV Bukittinggi, II-III Padang Panjang, II-III Payakumbuh, III-IV Pasaman, III-IV Pasaman Barat",
     "bmkgEarthquakeId": "20251228091134",
     "shakeMapUrl": "https://static.bmkg.go.id/20251228091134.mmi.jpg",
     "fingerprintSha1": "462762802725841fceaf74cb1df99d9e0b27c753"
+  },
+  {
+    "earthquakeAt": "2025-12-28T02:15:46.000Z",
+    "latitude": -0.17,
+    "longitude": 100.11,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 18 km timur laut Agam",
+    "feltOnStations": "III-IV Agam, III-IV Bukittinggi, II-III Padang Panjang, II-III Payakumbuh",
+    "bmkgEarthquakeId": "20251228091546",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251228091546.mmi.jpg",
+    "fingerprintSha1": "8c9a5926919d208c226d5996f0f07d3df6661f75"
   }
 ]
