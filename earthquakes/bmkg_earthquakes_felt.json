@@ -32290,5 +32290,17 @@
     "bmkgEarthquakeId": "20251228172136",
     "shakeMapUrl": "https://static.bmkg.go.id/20251228172136.mmi.jpg",
     "fingerprintSha1": "afa616fd924475403950fb25a8ada7a88a153696"
+  },
+  {
+    "earthquakeAt": "2025-12-28T15:56:08.000Z",
+    "latitude": 4.21,
+    "longitude": 97.5,
+    "magnitude": 3.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 29 km Timur Laut Kab. Gayo Lues",
+    "feltOnStations": "III Gayo Lues , II-III Aceh Tamiang",
+    "bmkgEarthquakeId": "20251228225608",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251228225608.mmi.jpg",
+    "fingerprintSha1": "7b79dc5c37cc1103f6f70aa4700328694fe09969"
   }
 ]
