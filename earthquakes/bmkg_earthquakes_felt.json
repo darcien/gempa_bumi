@@ -32278,5 +32278,17 @@
     "bmkgEarthquakeId": "20251228091546",
     "shakeMapUrl": "https://static.bmkg.go.id/20251228091546.mmi.jpg",
     "fingerprintSha1": "8c9a5926919d208c226d5996f0f07d3df6661f75"
+  },
+  {
+    "earthquakeAt": "2025-12-28T10:21:36.000Z",
+    "latitude": 0.76,
+    "longitude": 127.37,
+    "magnitude": 2.9,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km Selatan Ternate",
+    "feltOnStations": "III Ternate",
+    "bmkgEarthquakeId": "20251228172136",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251228172136.mmi.jpg",
+    "fingerprintSha1": "afa616fd924475403950fb25a8ada7a88a153696"
   }
 ]
