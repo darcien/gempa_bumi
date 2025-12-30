@@ -32314,5 +32314,29 @@
     "bmkgEarthquakeId": "20251229060902",
     "shakeMapUrl": "https://static.bmkg.go.id/20251229060902.mmi.jpg",
     "fingerprintSha1": "78a2442d2ba5ec1762cafeba55785711f1ffe60d"
+  },
+  {
+    "earthquakeAt": "2025-12-30T14:06:00.000Z",
+    "latitude": -5.43,
+    "longitude": 104.65,
+    "magnitude": 2.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km BaratLaut Tanggamus",
+    "feltOnStations": "II-III Gisting, II-III Sumberejo",
+    "bmkgEarthquakeId": "20251230210600",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251230210600.mmi.jpg",
+    "fingerprintSha1": "23dd170596b1ebbfce226815d8dd89f1b2157995"
+  },
+  {
+    "earthquakeAt": "2025-12-30T13:43:10.000Z",
+    "latitude": 4.73,
+    "longitude": 96.8,
+    "magnitude": 4.5,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km barat Bener Meriah",
+    "feltOnStations": "IV Bener Meriah, IV Aceh Tengah, II-III Pidie, II-III Bireuen, II Aceh Timur, II-III Pidie Jaya",
+    "bmkgEarthquakeId": "20251230204310",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251230204310.mmi.jpg",
+    "fingerprintSha1": "d5c2d9da396616c901676dfc74d50c1f7c59acdf"
   }
 ]
