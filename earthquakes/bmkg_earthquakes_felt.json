@@ -32338,5 +32338,29 @@
     "bmkgEarthquakeId": "20251230204310",
     "shakeMapUrl": "https://static.bmkg.go.id/20251230204310.mmi.jpg",
     "fingerprintSha1": "963c3c6675c4779cc712f1b9377bcfa741cfb1a7"
+  },
+  {
+    "earthquakeAt": "2025-12-30T15:43:41.000Z",
+    "latitude": 4.75,
+    "longitude": 96.8,
+    "magnitude": 2.6,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km barat Bener Meriah",
+    "feltOnStations": "II Bener Meriah",
+    "bmkgEarthquakeId": "20251230224341",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251230224341.mmi.jpg",
+    "fingerprintSha1": "e5e1b0ed9472573bcb8fbd6cc84415c693f2dfaf"
+  },
+  {
+    "earthquakeAt": "2025-12-30T15:22:25.000Z",
+    "latitude": 4.73,
+    "longitude": 96.78,
+    "magnitude": 3.5,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km barat Bener Meriah",
+    "feltOnStations": "III-IV Aceh Tengah, III-IV Bener Meriah",
+    "bmkgEarthquakeId": "20251230222225",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251230222225.mmi.jpg",
+    "fingerprintSha1": "05b522a2e42b8f445fe2bd50a1c68014879b0286"
   }
 ]
