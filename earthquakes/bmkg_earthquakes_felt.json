@@ -32331,12 +32331,12 @@
     "earthquakeAt": "2025-12-30T13:43:10.000Z",
     "latitude": 4.73,
     "longitude": 96.8,
-    "magnitude": 4.5,
+    "magnitude": 4.6,
     "depthInKm": 7,
     "locationInIndonesian": "Pusat gempa berada di darat 7 km barat Bener Meriah",
     "feltOnStations": "IV Bener Meriah, IV Aceh Tengah, II-III Pidie, II-III Bireuen, II Aceh Timur, II-III Pidie Jaya",
     "bmkgEarthquakeId": "20251230204310",
     "shakeMapUrl": "https://static.bmkg.go.id/20251230204310.mmi.jpg",
-    "fingerprintSha1": "d5c2d9da396616c901676dfc74d50c1f7c59acdf"
+    "fingerprintSha1": "963c3c6675c4779cc712f1b9377bcfa741cfb1a7"
   }
 ]
