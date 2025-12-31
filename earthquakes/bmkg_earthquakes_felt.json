@@ -32410,5 +32410,17 @@
     "bmkgEarthquakeId": "20251231113033",
     "shakeMapUrl": "https://static.bmkg.go.id/20251231113033.mmi.jpg",
     "fingerprintSha1": "4fcc83bece866a27e388ba07caefa4caa679103f"
+  },
+  {
+    "earthquakeAt": "2025-12-31T06:28:08.000Z",
+    "latitude": 4.08,
+    "longitude": 95.96,
+    "magnitude": 3.7,
+    "depthInKm": 24,
+    "locationInIndonesian": "Pusat gempa berada di laut 20 km Barat Meulaboh",
+    "feltOnStations": "II Aceh Jaya",
+    "bmkgEarthquakeId": "20251231132808",
+    "shakeMapUrl": "https://static.bmkg.go.id/20251231132808.mmi.jpg",
+    "fingerprintSha1": "8b48d55d98c489c7275fdddb3f6b8889db31d614"
   }
 ]
