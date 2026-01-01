@@ -32422,5 +32422,17 @@
     "bmkgEarthquakeId": "20251231132808",
     "shakeMapUrl": "https://static.bmkg.go.id/20251231132808.mmi.jpg",
     "fingerprintSha1": "8b48d55d98c489c7275fdddb3f6b8889db31d614"
+  },
+  {
+    "earthquakeAt": "2026-01-01T06:02:00.000Z",
+    "latitude": -4.18,
+    "longitude": 138.44,
+    "magnitude": 5.4,
+    "depthInKm": 133,
+    "locationInIndonesian": "Pusat gempa berada di darat 26 km Tenggara Lanny Jaya",
+    "feltOnStations": "II - III Wamena",
+    "bmkgEarthquakeId": "20260101130200",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260101130200.mmi.jpg",
+    "fingerprintSha1": "efa9db54cb24629b16aa71af8bc09e6c365fe273"
   }
 ]
