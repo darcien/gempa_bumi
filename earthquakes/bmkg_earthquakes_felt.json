@@ -32446,5 +32446,17 @@
     "bmkgEarthquakeId": "20260102113412",
     "shakeMapUrl": "https://static.bmkg.go.id/20260102113412.mmi.jpg",
     "fingerprintSha1": "5bd53c6ffdbae26a234f1f2731d23ea4e872d3e3"
+  },
+  {
+    "earthquakeAt": "2026-01-02T05:19:47.000Z",
+    "latitude": -4.05,
+    "longitude": 122.42,
+    "magnitude": 1.6,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 41 km timur laut Konawe Selatan",
+    "feltOnStations": "II Ranomeeto",
+    "bmkgEarthquakeId": "20260102121947",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260102121947.mmi.jpg",
+    "fingerprintSha1": "eeb311bf917f809ee3ab9e92d77d1eacfb90ac34"
   }
 ]
