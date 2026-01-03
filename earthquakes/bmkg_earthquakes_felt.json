@@ -32458,5 +32458,17 @@
     "bmkgEarthquakeId": "20260102121947",
     "shakeMapUrl": "https://static.bmkg.go.id/20260102121947.mmi.jpg",
     "fingerprintSha1": "eeb311bf917f809ee3ab9e92d77d1eacfb90ac34"
+  },
+  {
+    "earthquakeAt": "2026-01-03T02:12:26.000Z",
+    "latitude": -5.83,
+    "longitude": 112.43,
+    "magnitude": 4.9,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di laut 126 km timur laut Tuban",
+    "feltOnStations": "III Tuban, III Bawean",
+    "bmkgEarthquakeId": "20260103091226",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260103091226.mmi.jpg",
+    "fingerprintSha1": "3a3101623280f132a2fabd11c10773f700595a0a"
   }
 ]
