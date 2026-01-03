@@ -32494,5 +32494,17 @@
     "bmkgEarthquakeId": "20260103191355",
     "shakeMapUrl": "https://static.bmkg.go.id/20260103191355.mmi.jpg",
     "fingerprintSha1": "7ac7333829ca425e78faf914d30981ffd6fc33e9"
+  },
+  {
+    "earthquakeAt": "2026-01-03T20:00:36.000Z",
+    "latitude": -3.3,
+    "longitude": 105.53,
+    "magnitude": 4.4,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di darat 39 km timur laut Ogan Komering Ilir",
+    "feltOnStations": "II-III Sukarami",
+    "bmkgEarthquakeId": "20260104030036",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260104030036.mmi.jpg",
+    "fingerprintSha1": "a7f49bf917c72dda5b0991a67ad9295aea1012b9"
   }
 ]
