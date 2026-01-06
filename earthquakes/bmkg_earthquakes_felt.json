@@ -32542,5 +32542,17 @@
     "bmkgEarthquakeId": "20260106032748",
     "shakeMapUrl": "https://static.bmkg.go.id/20260106032748.mmi.jpg",
     "fingerprintSha1": "d062ecf25571276eb76a42777225814c2dc0029f"
+  },
+  {
+    "earthquakeAt": "2026-01-06T00:11:32.000Z",
+    "latitude": -0.61,
+    "longitude": 119.84,
+    "magnitude": 3.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km selatan Donggala",
+    "feltOnStations": "II-III Palu Utara",
+    "bmkgEarthquakeId": "20260106071132",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260106071132.mmi.jpg",
+    "fingerprintSha1": "31275b2578b489fede1920ec59e92264a7226597"
   }
 ]
