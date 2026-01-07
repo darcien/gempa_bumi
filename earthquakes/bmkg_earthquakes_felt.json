@@ -32554,5 +32554,17 @@
     "bmkgEarthquakeId": "20260106071132",
     "shakeMapUrl": "https://static.bmkg.go.id/20260106071132.mmi.jpg",
     "fingerprintSha1": "31275b2578b489fede1920ec59e92264a7226597"
+  },
+  {
+    "earthquakeAt": "2026-01-07T10:28:36.000Z",
+    "latitude": -8.23,
+    "longitude": 116.58,
+    "magnitude": 3.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 42 km Barat Laut Pulau Panjang",
+    "feltOnStations": "III Lombok Timur",
+    "bmkgEarthquakeId": "20260107172836",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260107172836.mmi.jpg",
+    "fingerprintSha1": "75dcbdc221880d5cc59d9486f740d0f97e1e98e4"
   }
 ]
