@@ -32590,5 +32590,29 @@
     "bmkgEarthquakeId": "20260108215714",
     "shakeMapUrl": "https://static.bmkg.go.id/20260108215714.mmi.jpg",
     "fingerprintSha1": "45f078346c244b30c666dbb78a6e8b021bbe9c49"
+  },
+  {
+    "earthquakeAt": "2026-01-09T01:35:23.000Z",
+    "latitude": -5.62,
+    "longitude": 103.72,
+    "magnitude": 4.5,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di laut 54 km barat daya Pesisir Barat",
+    "feltOnStations": "III Bengkunat, II Sekincau, II Liwa, II Suoh",
+    "bmkgEarthquakeId": "20260109083523",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260109083523.mmi.jpg",
+    "fingerprintSha1": "85f4f899c048143024a39f4912690ad306e44a24"
+  },
+  {
+    "earthquakeAt": "2026-01-08T18:54:34.000Z",
+    "latitude": 4.74,
+    "longitude": 96.77,
+    "magnitude": 2.6,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km barat Kab. Bener Meriah",
+    "feltOnStations": "II Bener Meriah",
+    "bmkgEarthquakeId": "20260109015434",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260109015434.mmi.jpg",
+    "fingerprintSha1": "81acdae2d69e0fce20b3db81f702983ba3bf8bbd"
   }
 ]
