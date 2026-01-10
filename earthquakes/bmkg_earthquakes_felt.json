@@ -32650,5 +32650,17 @@
     "bmkgEarthquakeId": "20260109220807",
     "shakeMapUrl": "https://static.bmkg.go.id/20260109220807.mmi.jpg",
     "fingerprintSha1": "3097415502f68d4ee4d0c433be3f43e26968d7b7"
+  },
+  {
+    "earthquakeAt": "2026-01-10T09:34:07.000Z",
+    "latitude": -9.26,
+    "longitude": 114.78,
+    "magnitude": 4.5,
+    "depthInKm": 34,
+    "locationInIndonesian": "Pusat gempa berada di laut 71 km barat daya Kuta Selatan",
+    "feltOnStations": "II-III Kuta, II Jembrana",
+    "bmkgEarthquakeId": "20260110163407",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260110163407.mmi.jpg",
+    "fingerprintSha1": "06e1975cccae868cc73eda146de97ffa5e14ff80"
   }
 ]
