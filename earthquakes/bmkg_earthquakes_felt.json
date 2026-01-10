@@ -32658,7 +32658,7 @@
     "magnitude": 4.5,
     "depthInKm": 34,
     "locationInIndonesian": "Pusat gempa berada di laut 71 km barat daya Kuta Selatan",
-    "feltOnStations": "II-III Kuta, II Jembrana",
+    "feltOnStations": "II-III Kuta, II Jembrana, III Kuta Selatan, II-III Denpasar",
     "bmkgEarthquakeId": "20260110163407",
     "shakeMapUrl": "https://static.bmkg.go.id/20260110163407.mmi.jpg",
     "fingerprintSha1": "06e1975cccae868cc73eda146de97ffa5e14ff80"
