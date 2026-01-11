@@ -32674,5 +32674,29 @@
     "bmkgEarthquakeId": "20260110215825",
     "shakeMapUrl": "https://static.bmkg.go.id/20260110215825.mmi.jpg",
     "fingerprintSha1": "a3f628eefc8696a2f09cb2d1456d9135c4edbe3e"
+  },
+  {
+    "earthquakeAt": "2026-01-11T00:26:57.000Z",
+    "latitude": -3.07,
+    "longitude": 101.15,
+    "magnitude": 3.8,
+    "depthInKm": 21,
+    "locationInIndonesian": "Pusat gempa berada di laut 55 km selatan Mukomuko",
+    "feltOnStations": "I-II Mukomuko",
+    "bmkgEarthquakeId": "20260111072657",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260111072657.mmi.jpg",
+    "fingerprintSha1": "79f60296b64aad168d55927473587b342f9eda92"
+  },
+  {
+    "earthquakeAt": "2026-01-10T23:55:48.000Z",
+    "latitude": -0.6,
+    "longitude": 127.53,
+    "magnitude": 2.4,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km timur laut Labuha, Halmahera Selatan",
+    "feltOnStations": "III Labuha",
+    "bmkgEarthquakeId": "20260111065548",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260111065548.mmi.jpg",
+    "fingerprintSha1": "b46d29bcf6adfbf041b21b1e2d06486f218a3cba"
   }
 ]
