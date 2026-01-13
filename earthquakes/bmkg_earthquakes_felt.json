@@ -32734,5 +32734,17 @@
     "bmkgEarthquakeId": "20260113015038",
     "shakeMapUrl": "https://static.bmkg.go.id/20260113015038.mmi.jpg",
     "fingerprintSha1": "ab71926b796b5aba374aa93e7d0c1e619dae2d08"
+  },
+  {
+    "earthquakeAt": "2026-01-13T01:20:45.000Z",
+    "latitude": -4.77,
+    "longitude": 102.59,
+    "magnitude": 4.7,
+    "depthInKm": 33,
+    "locationInIndonesian": "Pusat gempa berada di laut 50 km BaratDaya Bengkulu Selatan",
+    "feltOnStations": "II-III Bengkulu Selatan",
+    "bmkgEarthquakeId": "20260113082045",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260113082045.mmi.jpg",
+    "fingerprintSha1": "ccde8a665283504d6268bdddd07df7936f8a5100"
   }
 ]
