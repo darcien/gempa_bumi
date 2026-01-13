@@ -32746,5 +32746,29 @@
     "bmkgEarthquakeId": "20260113082045",
     "shakeMapUrl": "https://static.bmkg.go.id/20260113082045.mmi.jpg",
     "fingerprintSha1": "ccde8a665283504d6268bdddd07df7936f8a5100"
+  },
+  {
+    "earthquakeAt": "2026-01-13T18:24:56.000Z",
+    "latitude": 4.77,
+    "longitude": 96.73,
+    "magnitude": 1.7,
+    "depthInKm": 1,
+    "locationInIndonesian": "Pusat gempa berada didarat 16 km Barat KAB-BENERMERIAH",
+    "feltOnStations": "II-III Bener Meriah, II-III Aceh Tengah",
+    "bmkgEarthquakeId": "20260114012456",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260114012456.mmi.jpg",
+    "fingerprintSha1": "e2d73bf0f7d6eaed87ea2fffe7bde0998a1e44a2"
+  },
+  {
+    "earthquakeAt": "2026-01-13T17:28:26.000Z",
+    "latitude": 4.7,
+    "longitude": 96.78,
+    "magnitude": 2.7,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km Barat Kab. Bener Meriah",
+    "feltOnStations": "II-III Bener Meriah, II-III Aceh Tengah",
+    "bmkgEarthquakeId": "20260114002826",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260114002826.mmi.jpg",
+    "fingerprintSha1": "5aec3f40433643bf30f2e8ddee2eb7ec51335faa"
   }
 ]
