@@ -32794,5 +32794,17 @@
     "bmkgEarthquakeId": "20260114064812",
     "shakeMapUrl": "https://static.bmkg.go.id/20260114064812.mmi.jpg",
     "fingerprintSha1": "4ed768d01b6d271306772560721bcdbf3607f454"
+  },
+  {
+    "earthquakeAt": "2026-01-14T14:39:22.000Z",
+    "latitude": -9.15,
+    "longitude": 122.48,
+    "magnitude": 4.9,
+    "depthInKm": 49,
+    "locationInIndonesian": "Pusat gempa berada di laut 66 km tenggara Maumere",
+    "feltOnStations": "III Maumere",
+    "bmkgEarthquakeId": "20260114213922",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260114213922.mmi.jpg",
+    "fingerprintSha1": "4c3b5bb90ac0fec6713a98ce63bce981c87b226a"
   }
 ]
