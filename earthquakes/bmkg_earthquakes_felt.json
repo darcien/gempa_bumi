@@ -32770,5 +32770,29 @@
     "bmkgEarthquakeId": "20260114002826",
     "shakeMapUrl": "https://static.bmkg.go.id/20260114002826.mmi.jpg",
     "fingerprintSha1": "5aec3f40433643bf30f2e8ddee2eb7ec51335faa"
+  },
+  {
+    "earthquakeAt": "2026-01-14T00:36:47.000Z",
+    "latitude": 0.78,
+    "longitude": 122.45,
+    "magnitude": 3.9,
+    "depthInKm": 55,
+    "locationInIndonesian": "Pusat gempa berada di darat 31 km timur laut Boalema",
+    "feltOnStations": "II-III Gorontalo",
+    "bmkgEarthquakeId": "20260114073647",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260114073647.mmi.jpg",
+    "fingerprintSha1": "adecf2439282d4e539d47a15ae5336e976e78fea"
+  },
+  {
+    "earthquakeAt": "2026-01-13T23:48:12.000Z",
+    "latitude": -3.7,
+    "longitude": 133.59,
+    "magnitude": 3.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 61 km barat daya Kaimana",
+    "feltOnStations": "II-III Kaimana",
+    "bmkgEarthquakeId": "20260114064812",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260114064812.mmi.jpg",
+    "fingerprintSha1": "4ed768d01b6d271306772560721bcdbf3607f454"
   }
 ]
