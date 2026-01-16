@@ -32842,5 +32842,29 @@
     "bmkgEarthquakeId": "20260115214928",
     "shakeMapUrl": "https://static.bmkg.go.id/20260115214928.mmi.jpg",
     "fingerprintSha1": "b191f44f90d0f31c90414e118b864ebf3ed0fe54"
+  },
+  {
+    "earthquakeAt": "2026-01-16T00:42:56.000Z",
+    "latitude": -3.75,
+    "longitude": 133.6,
+    "magnitude": 3.1,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 64 km barat daya Kaimana",
+    "feltOnStations": "II-III Kaimana",
+    "bmkgEarthquakeId": "20260116074256",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260116074256.mmi.jpg",
+    "fingerprintSha1": "58bf472be1de859ba7f8d79cbc9ba2a273c14571"
+  },
+  {
+    "earthquakeAt": "2026-01-15T21:09:27.000Z",
+    "latitude": -4.03,
+    "longitude": 121.76,
+    "magnitude": 2.8,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 18 km barat Kolaka Timur",
+    "feltOnStations": "III Kolaka Timur",
+    "bmkgEarthquakeId": "20260116040927",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260116040927.mmi.jpg",
+    "fingerprintSha1": "34ff9f5e8498f1d5f9698632f7bf7e145dd5af6d"
   }
 ]
