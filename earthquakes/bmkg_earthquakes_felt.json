@@ -32866,5 +32866,17 @@
     "bmkgEarthquakeId": "20260116040927",
     "shakeMapUrl": "https://static.bmkg.go.id/20260116040927.mmi.jpg",
     "fingerprintSha1": "34ff9f5e8498f1d5f9698632f7bf7e145dd5af6d"
+  },
+  {
+    "earthquakeAt": "2026-01-16T05:33:14.000Z",
+    "latitude": -8.28,
+    "longitude": 116.65,
+    "magnitude": 2.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 34 km barat laut PulauPanjang",
+    "feltOnStations": "II Lombok Timur",
+    "bmkgEarthquakeId": "20260116123314",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260116123314.mmi.jpg",
+    "fingerprintSha1": "ff6468e0518d3d38200317b89bac69ab293c6287"
   }
 ]
