@@ -32902,5 +32902,17 @@
     "bmkgEarthquakeId": "20260116225813",
     "shakeMapUrl": "https://static.bmkg.go.id/20260116225813.mmi.jpg",
     "fingerprintSha1": "fe0bb0fa01b9bcfefa277e966b49b57295497406"
+  },
+  {
+    "earthquakeAt": "2026-01-16T23:50:44.000Z",
+    "latitude": -3.35,
+    "longitude": 128.64,
+    "magnitude": 5.5,
+    "depthInKm": 56,
+    "locationInIndonesian": "Pusat gempa berada di darat 35 km baratdaya Maluku Tengah",
+    "feltOnStations": "III-IV Liang, III-IV Amahai, III-IV Kairatu, II-III Ambon, II-III Seram Utara, II-III Sorong",
+    "bmkgEarthquakeId": "20260117065044",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260117065044.mmi.jpg",
+    "fingerprintSha1": "31296a1718e4cc8370a9c894661543e843fba1d2"
   }
 ]
