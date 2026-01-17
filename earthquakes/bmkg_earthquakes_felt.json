@@ -32926,5 +32926,17 @@
     "bmkgEarthquakeId": "20260117160441",
     "shakeMapUrl": "https://static.bmkg.go.id/20260117160441.mmi.jpg",
     "fingerprintSha1": "01b0f4cb86f2cd0ac6db1efc5383fdce2c60e117"
+  },
+  {
+    "earthquakeAt": "2026-01-17T20:23:41.000Z",
+    "latitude": 4.09,
+    "longitude": 97.55,
+    "magnitude": 2.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 26 km timur laut Gayo Lues",
+    "feltOnStations": "III-IV Gayo Lues , II Langsa",
+    "bmkgEarthquakeId": "20260118032341",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260118032341.mmi.jpg",
+    "fingerprintSha1": "10934743e7d9c937e633683deef8de5b01dd41cc"
   }
 ]
