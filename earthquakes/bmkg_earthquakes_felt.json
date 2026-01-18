@@ -32938,5 +32938,17 @@
     "bmkgEarthquakeId": "20260118032341",
     "shakeMapUrl": "https://static.bmkg.go.id/20260118032341.mmi.jpg",
     "fingerprintSha1": "10934743e7d9c937e633683deef8de5b01dd41cc"
+  },
+  {
+    "earthquakeAt": "2026-01-18T04:16:48.000Z",
+    "latitude": 0.56,
+    "longitude": 125.34,
+    "magnitude": 5.2,
+    "depthInKm": 67,
+    "locationInIndonesian": "Pusat gempa berada di laut 81 km Tenggara Ratahan",
+    "feltOnStations": "II-III Minahasa, II Kotamobagu",
+    "bmkgEarthquakeId": "20260118111648",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260118111648.mmi.jpg",
+    "fingerprintSha1": "201b80bebe0a226aeec939da7053cba32c9d3800"
   }
 ]
