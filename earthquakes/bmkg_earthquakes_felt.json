@@ -32974,5 +32974,17 @@
     "bmkgEarthquakeId": "20260119164027",
     "shakeMapUrl": "https://static.bmkg.go.id/20260119164027.mmi.jpg",
     "fingerprintSha1": "d988c6b0f06cd372397d540f479934621234e3f5"
+  },
+  {
+    "earthquakeAt": "2026-01-19T11:02:49.000Z",
+    "latitude": -2.59,
+    "longitude": 102.23,
+    "magnitude": 5.1,
+    "depthInKm": 162,
+    "locationInIndonesian": "Pusat gempa berada didarat 53 km Tenggara MERANGIN",
+    "feltOnStations": "II Kota Bengkulu, II Bengkulu Utara",
+    "bmkgEarthquakeId": "20260119180249",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260119180249.mmi.jpg",
+    "fingerprintSha1": "69b094793f9824e5284479a29d2db08ea2ab3a5b"
   }
 ]
