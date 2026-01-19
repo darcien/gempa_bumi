@@ -32986,5 +32986,17 @@
     "bmkgEarthquakeId": "20260119180249",
     "shakeMapUrl": "https://static.bmkg.go.id/20260119180249.mmi.jpg",
     "fingerprintSha1": "69b094793f9824e5284479a29d2db08ea2ab3a5b"
+  },
+  {
+    "earthquakeAt": "2026-01-19T21:37:07.000Z",
+    "latitude": -1.25,
+    "longitude": 120.61,
+    "magnitude": 3.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 21 km barat laut Poso",
+    "feltOnStations": "II-III Poso",
+    "bmkgEarthquakeId": "20260120043707",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260120043707.mmi.jpg",
+    "fingerprintSha1": "7a979032a6560016e7772087f8b56059bd8bb5e3"
   }
 ]
