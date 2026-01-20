@@ -33010,5 +33010,17 @@
     "bmkgEarthquakeId": "20260120163105",
     "shakeMapUrl": "https://static.bmkg.go.id/20260120163105.mmi.jpg",
     "fingerprintSha1": "626fc9856d891391801463f97d1327af2c189e36"
+  },
+  {
+    "earthquakeAt": "2026-01-20T18:41:48.000Z",
+    "latitude": 2.37,
+    "longitude": 125.34,
+    "magnitude": 4.2,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di laut 42 km selatan Ondong, Kepulauan Sitaro",
+    "feltOnStations": "II-III Tagulandang",
+    "bmkgEarthquakeId": "20260121014148",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260121014148.mmi.jpg",
+    "fingerprintSha1": "2ab6a518674df406c7738cec5846b138459b275a"
   }
 ]
