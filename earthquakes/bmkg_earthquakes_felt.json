@@ -33058,5 +33058,17 @@
     "bmkgEarthquakeId": "20260121124936",
     "shakeMapUrl": "https://static.bmkg.go.id/20260121124936.mmi.jpg",
     "fingerprintSha1": "d1530bc8dab91a3a601e695195784c8eb2c020dd"
+  },
+  {
+    "earthquakeAt": "2026-01-21T22:44:45.000Z",
+    "latitude": -0.31,
+    "longitude": 122.63,
+    "magnitude": 5.4,
+    "depthInKm": 64,
+    "locationInIndonesian": "Pusat gempa berada di laut 21 km TimurLaut PULAUPUAH",
+    "feltOnStations": "II-III Kota Gorontalo, II-III Kab. Gorontalo, II-III Kab. Gorontalo Utara, II-III Bone Bolango, II - III Kab Pohuwato, II - III Kab Boalemo",
+    "bmkgEarthquakeId": "20260122054445",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260122054445.mmi.jpg",
+    "fingerprintSha1": "a993d7e5255d0fda8a7e8d9354b519c25229c498"
   }
 ]
