@@ -33022,5 +33022,17 @@
     "bmkgEarthquakeId": "20260121014148",
     "shakeMapUrl": "https://static.bmkg.go.id/20260121014148.mmi.jpg",
     "fingerprintSha1": "2ab6a518674df406c7738cec5846b138459b275a"
+  },
+  {
+    "earthquakeAt": "2026-01-21T05:18:12.000Z",
+    "latitude": -3.08,
+    "longitude": 101.32,
+    "magnitude": 3.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 61 km Selatan Mukomuko",
+    "feltOnStations": "II-III Mukomuko",
+    "bmkgEarthquakeId": "20260121121812",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260121121812.mmi.jpg",
+    "fingerprintSha1": "ed49089fa9bf67fb519b47c5a49065f3446e809f"
   }
 ]
