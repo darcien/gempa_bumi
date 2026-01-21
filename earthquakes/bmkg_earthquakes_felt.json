@@ -33034,5 +33034,29 @@
     "bmkgEarthquakeId": "20260121121812",
     "shakeMapUrl": "https://static.bmkg.go.id/20260121121812.mmi.jpg",
     "fingerprintSha1": "ed49089fa9bf67fb519b47c5a49065f3446e809f"
+  },
+  {
+    "earthquakeAt": "2026-01-21T06:11:07.000Z",
+    "latitude": 4.18,
+    "longitude": 97.52,
+    "magnitude": 4.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 28 km timur laut Kab. Gayo Lues",
+    "feltOnStations": "III-IV Gayo Lues, II-III Blangkejeren",
+    "bmkgEarthquakeId": "20260121131107",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260121131107.mmi.jpg",
+    "fingerprintSha1": "60622a6670e385f79d54cbc5390e45a1fdd54e6c"
+  },
+  {
+    "earthquakeAt": "2026-01-21T05:49:36.000Z",
+    "latitude": -7.04,
+    "longitude": 129.73,
+    "magnitude": 5.7,
+    "depthInKm": 167,
+    "locationInIndonesian": "Pusat gempa berada di laut 203 km barat laut Tanimbar",
+    "feltOnStations": "II Saumlaki",
+    "bmkgEarthquakeId": "20260121124936",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260121124936.mmi.jpg",
+    "fingerprintSha1": "d1530bc8dab91a3a601e695195784c8eb2c020dd"
   }
 ]
