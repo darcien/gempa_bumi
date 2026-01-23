@@ -33106,5 +33106,17 @@
     "bmkgEarthquakeId": "20260123144756",
     "shakeMapUrl": "https://static.bmkg.go.id/20260123144756.mmi.jpg",
     "fingerprintSha1": "5006be107bf070a9409a153fdd97135ba8eebb60"
+  },
+  {
+    "earthquakeAt": "2026-01-23T11:01:40.000Z",
+    "latitude": 2.54,
+    "longitude": 117,
+    "magnitude": 3.1,
+    "depthInKm": 45,
+    "locationInIndonesian": "Pusat gempa berada di darat 41 km selatan Bulungan",
+    "feltOnStations": "II-III Tanjung Selor",
+    "bmkgEarthquakeId": "20260123180140",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260123180140.mmi.jpg",
+    "fingerprintSha1": "f415d707c6f48e0709bb233f8157e64b9fcf1206"
   }
 ]
