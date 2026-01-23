@@ -33094,5 +33094,17 @@
     "bmkgEarthquakeId": "20260123023212",
     "shakeMapUrl": "https://static.bmkg.go.id/20260123023212.mmi.jpg",
     "fingerprintSha1": "8b64d559ac9b92f35cf2ad1cabad9b38af305f7b"
+  },
+  {
+    "earthquakeAt": "2026-01-23T07:47:56.000Z",
+    "latitude": 0.1,
+    "longitude": 111.78,
+    "magnitude": 4.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 89 km timur Sekadau",
+    "feltOnStations": "III-IV Sekadau, III-IV Sintang",
+    "bmkgEarthquakeId": "20260123144756",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260123144756.mmi.jpg",
+    "fingerprintSha1": "5006be107bf070a9409a153fdd97135ba8eebb60"
   }
 ]
