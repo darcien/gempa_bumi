@@ -33118,5 +33118,17 @@
     "bmkgEarthquakeId": "20260123180140",
     "shakeMapUrl": "https://static.bmkg.go.id/20260123180140.mmi.jpg",
     "fingerprintSha1": "f415d707c6f48e0709bb233f8157e64b9fcf1206"
+  },
+  {
+    "earthquakeAt": "2026-01-24T09:46:57.000Z",
+    "latitude": -0.71,
+    "longitude": 119.82,
+    "magnitude": 4.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 10 km tenggara Donggala",
+    "feltOnStations": "III-IV Donggala, III Palu, III Parigi",
+    "bmkgEarthquakeId": "20260124164657",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260124164657.mmi.jpg",
+    "fingerprintSha1": "a749bbb6c617069aeaf24e80f4bd0a02f9196f49"
   }
 ]
