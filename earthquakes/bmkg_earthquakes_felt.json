@@ -33154,5 +33154,17 @@
     "bmkgEarthquakeId": "20260125064137",
     "shakeMapUrl": "https://static.bmkg.go.id/20260125064137.mmi.jpg",
     "fingerprintSha1": "596e9c5a1d36fd3042c67e647cdb66c2ffedaa8e"
+  },
+  {
+    "earthquakeAt": "2026-01-25T06:22:36.000Z",
+    "latitude": -5.91,
+    "longitude": 130.68,
+    "magnitude": 5.3,
+    "depthInKm": 134,
+    "locationInIndonesian": "Pusat gempa berada di laut 229 km barat daya Maluku Tenggara",
+    "feltOnStations": "II Saumlaki",
+    "bmkgEarthquakeId": "20260125132236",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260125132236.mmi.jpg",
+    "fingerprintSha1": "5d65c5ff900a4c137af678c5c4a41b575a65675f"
   }
 ]
