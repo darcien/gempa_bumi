@@ -33166,5 +33166,17 @@
     "bmkgEarthquakeId": "20260125132236",
     "shakeMapUrl": "https://static.bmkg.go.id/20260125132236.mmi.jpg",
     "fingerprintSha1": "5d65c5ff900a4c137af678c5c4a41b575a65675f"
+  },
+  {
+    "earthquakeAt": "2026-01-25T08:51:24.000Z",
+    "latitude": -8.88,
+    "longitude": 110.24,
+    "magnitude": 4.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 106 km barat daya Gunungkidul",
+    "feltOnStations": "II-III Bantul, II-III Yogyakarta, II-III Gunungkidul, II-III Pacitan, II Sleman, II Kulon Progo, II Wonogiri",
+    "bmkgEarthquakeId": "20260125155124",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260125155124.mmi.jpg",
+    "fingerprintSha1": "2f81a60a88f6386c03df9d620f2efe40fa467896"
   }
 ]
