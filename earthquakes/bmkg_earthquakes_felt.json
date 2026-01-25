@@ -33130,5 +33130,29 @@
     "bmkgEarthquakeId": "20260124164657",
     "shakeMapUrl": "https://static.bmkg.go.id/20260124164657.mmi.jpg",
     "fingerprintSha1": "a749bbb6c617069aeaf24e80f4bd0a02f9196f49"
+  },
+  {
+    "earthquakeAt": "2026-01-24T23:42:37.000Z",
+    "latitude": 0.88,
+    "longitude": 127.66,
+    "magnitude": 4.5,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km utara Sofifi",
+    "feltOnStations": "III Halmahera Utara, II Ternate, II Tidore",
+    "bmkgEarthquakeId": "20260125064237",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260125064237.mmi.jpg",
+    "fingerprintSha1": "c389413b5e61d3267e48c4db2e6682a90f789b37"
+  },
+  {
+    "earthquakeAt": "2026-01-24T23:41:37.000Z",
+    "latitude": 1.48,
+    "longitude": 127.88,
+    "magnitude": 4.4,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 3 km barat daya Halmahera Utara",
+    "feltOnStations": "III Tobelo",
+    "bmkgEarthquakeId": "20260125064137",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260125064137.mmi.jpg",
+    "fingerprintSha1": "596e9c5a1d36fd3042c67e647cdb66c2ffedaa8e"
   }
 ]
