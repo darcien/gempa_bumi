@@ -33202,5 +33202,29 @@
     "bmkgEarthquakeId": "20260126012532",
     "shakeMapUrl": "https://static.bmkg.go.id/20260126012532.mmi.jpg",
     "fingerprintSha1": "8cd9c333a2b400293cda3789957eafc02b52a582"
+  },
+  {
+    "earthquakeAt": "2026-01-26T01:29:19.000Z",
+    "latitude": -6.38,
+    "longitude": 107.17,
+    "magnitude": 2.7,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 2 km Selatan Kabupaten Bekasi",
+    "feltOnStations": "II-III Cikarang, II-III Karawang",
+    "bmkgEarthquakeId": "20260126082919",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260126082919.mmi.jpg",
+    "fingerprintSha1": "a257bb601fad96dcc8de1f45cf40c625d44ea25c"
+  },
+  {
+    "earthquakeAt": "2026-01-26T00:50:55.000Z",
+    "latitude": 0.65,
+    "longitude": 99.73,
+    "magnitude": 2.6,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 31 km Tenggara Mandailing Natal",
+    "feltOnStations": "II-III Mandailing Natal",
+    "bmkgEarthquakeId": "20260126075055",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260126075055.mmi.jpg",
+    "fingerprintSha1": "6e5462d0a44c97218386aaed557c787bedb3dfac"
   }
 ]
