@@ -33238,5 +33238,17 @@
     "bmkgEarthquakeId": "20260126064709",
     "shakeMapUrl": "https://static.bmkg.go.id/20260126064709.mmi.jpg",
     "fingerprintSha1": "cb63b958d0a2423a8394b197647c47a86e684a59"
+  },
+  {
+    "earthquakeAt": "2026-01-27T01:20:44.000Z",
+    "latitude": -8.14,
+    "longitude": 111.33,
+    "magnitude": 5.5,
+    "depthInKm": 105,
+    "locationInIndonesian": "Pusat gempa berada di darat 25 km timur laut Pacitan",
+    "feltOnStations": "III-IV Pacitan, III-IV Karangkates, III-IV Tulungagung, III Malang, III Nganjuk, III Ponorogo, III Blitar, II-III Madiun, II-III Denpasar, II-III Kuta, II-III Karangasem, II-III Jember, II-III Mojokerto, II Yogyakarta, II Bantul, II Sleman, II Kulon Progo, II Purworejo, II Pasuruan, II Semarang, II Mataram",
+    "bmkgEarthquakeId": "20260127082044",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260127082044.mmi.jpg",
+    "fingerprintSha1": "08bffdc14d3569230e81c50e21eafa0777eb6c19"
   }
 ]
