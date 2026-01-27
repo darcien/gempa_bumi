@@ -33286,5 +33286,17 @@
     "bmkgEarthquakeId": "20260127151831",
     "shakeMapUrl": "https://static.bmkg.go.id/20260127151831.mmi.jpg",
     "fingerprintSha1": "af444069c9523c78ce3a52d3163c8e2680fc1580"
+  },
+  {
+    "earthquakeAt": "2026-01-27T14:20:05.000Z",
+    "latitude": -4.56,
+    "longitude": 101.03,
+    "magnitude": 4.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 163 km barat laut Enggano",
+    "feltOnStations": "I-II Muko-Muko, I-II Bengkulu, I-II Kota Manna",
+    "bmkgEarthquakeId": "20260127212005",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260127212005.mmi.jpg",
+    "fingerprintSha1": "6302f2ce22875f8aa780a4e60f142ac015cacb0d"
   }
 ]
