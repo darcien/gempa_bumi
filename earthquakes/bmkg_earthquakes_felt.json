@@ -33250,5 +33250,29 @@
     "bmkgEarthquakeId": "20260127082044",
     "shakeMapUrl": "https://static.bmkg.go.id/20260127082044.mmi.jpg",
     "fingerprintSha1": "08bffdc14d3569230e81c50e21eafa0777eb6c19"
+  },
+  {
+    "earthquakeAt": "2026-01-27T06:15:32.000Z",
+    "latitude": -7.87,
+    "longitude": 110.49,
+    "magnitude": 4.5,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km timur Bantul",
+    "feltOnStations": "III Sleman, III Kulon Progo, III Gunungkidul, III Magelang, II Pacitan, II Solo, II Trenggalek, II Purworejo, II Wonogiri",
+    "bmkgEarthquakeId": "20260127131532",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260127131532.mmi.jpg",
+    "fingerprintSha1": "39e2627d71a3b96bf6055cc1cb06afeafb9ffa22"
+  },
+  {
+    "earthquakeAt": "2026-01-27T05:50:48.000Z",
+    "latitude": 4.75,
+    "longitude": 96.76,
+    "magnitude": 2.5,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 km barat Bener Meriah",
+    "feltOnStations": "II-III Bener Meriah",
+    "bmkgEarthquakeId": "20260127125048",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260127125048.mmi.jpg",
+    "fingerprintSha1": "65ddce52bffca030ba98b0c2383345faf875443b"
   }
 ]
