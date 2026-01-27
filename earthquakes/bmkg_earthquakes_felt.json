@@ -33274,5 +33274,17 @@
     "bmkgEarthquakeId": "20260127125048",
     "shakeMapUrl": "https://static.bmkg.go.id/20260127125048.mmi.jpg",
     "fingerprintSha1": "65ddce52bffca030ba98b0c2383345faf875443b"
+  },
+  {
+    "earthquakeAt": "2026-01-27T08:18:31.000Z",
+    "latitude": -8.27,
+    "longitude": 109.09,
+    "magnitude": 4.2,
+    "depthInKm": 34,
+    "locationInIndonesian": "Pusat gempa berada di laut 61 km selatan Cilacap",
+    "feltOnStations": "II-III Cilacap",
+    "bmkgEarthquakeId": "20260127151831",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260127151831.mmi.jpg",
+    "fingerprintSha1": "af444069c9523c78ce3a52d3163c8e2680fc1580"
   }
 ]
