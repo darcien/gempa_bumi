@@ -33298,5 +33298,17 @@
     "bmkgEarthquakeId": "20260127212005",
     "shakeMapUrl": "https://static.bmkg.go.id/20260127212005.mmi.jpg",
     "fingerprintSha1": "6302f2ce22875f8aa780a4e60f142ac015cacb0d"
+  },
+  {
+    "earthquakeAt": "2026-01-28T18:30:16.000Z",
+    "latitude": -8.75,
+    "longitude": 118.43,
+    "magnitude": 4.6,
+    "depthInKm": 128,
+    "locationInIndonesian": "Pusat gempa berada di darat 45 km tenggara Bima",
+    "feltOnStations": "III Bima, II - III Sumbawa",
+    "bmkgEarthquakeId": "20260129013016",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260129013016.mmi.jpg",
+    "fingerprintSha1": "552be97b64eb832495657affda9691173c35480c"
   }
 ]
