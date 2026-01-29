@@ -33310,5 +33310,17 @@
     "bmkgEarthquakeId": "20260129013016",
     "shakeMapUrl": "https://static.bmkg.go.id/20260129013016.mmi.jpg",
     "fingerprintSha1": "552be97b64eb832495657affda9691173c35480c"
+  },
+  {
+    "earthquakeAt": "2026-01-29T05:04:45.000Z",
+    "latitude": -7.71,
+    "longitude": 103.98,
+    "magnitude": 3.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 212 km Barat Daya Sumur",
+    "feltOnStations": "II-III Cilegon",
+    "bmkgEarthquakeId": "20260129120445",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260129120445.mmi.jpg",
+    "fingerprintSha1": "b5cf91269f87b6f1a83152eb193b530b5796867e"
   }
 ]
