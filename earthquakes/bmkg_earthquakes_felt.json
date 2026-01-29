@@ -33334,5 +33334,17 @@
     "bmkgEarthquakeId": "20260129214329",
     "shakeMapUrl": "https://static.bmkg.go.id/20260129214329.mmi.jpg",
     "fingerprintSha1": "4fc3808988f771f741eaebf62d53d3b0fec8660a"
+  },
+  {
+    "earthquakeAt": "2026-01-29T22:13:54.000Z",
+    "latitude": -6.87,
+    "longitude": 107.75,
+    "magnitude": 2.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km timur Kota Bandung",
+    "feltOnStations": "II - III Sukasari, II - III Tanjungsari , II - III Cileunyi , II - III Cilengkrang, II - III Cimenyan",
+    "bmkgEarthquakeId": "20260130051354",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260130051354.mmi.jpg",
+    "fingerprintSha1": "d69c1e93a75e93efc8eb5c562c34cd680dafcc35"
   }
 ]
