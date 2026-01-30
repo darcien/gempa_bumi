@@ -33346,5 +33346,17 @@
     "bmkgEarthquakeId": "20260130051354",
     "shakeMapUrl": "https://static.bmkg.go.id/20260130051354.mmi.jpg",
     "fingerprintSha1": "d69c1e93a75e93efc8eb5c562c34cd680dafcc35"
+  },
+  {
+    "earthquakeAt": "2026-01-30T01:15:29.000Z",
+    "latitude": -0.39,
+    "longitude": 124.63,
+    "magnitude": 5.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 110 km tenggara Bolaang Uki-BolSel",
+    "feltOnStations": "II-III Minahasa Tenggara, II Gorontalo Utara",
+    "bmkgEarthquakeId": "20260130081529",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260130081529.mmi.jpg",
+    "fingerprintSha1": "c6f7dfd78a7a2caa9df64ec34fd5a09d7200b835"
   }
 ]
