@@ -33358,5 +33358,17 @@
     "bmkgEarthquakeId": "20260130081529",
     "shakeMapUrl": "https://static.bmkg.go.id/20260130081529.mmi.jpg",
     "fingerprintSha1": "c6f7dfd78a7a2caa9df64ec34fd5a09d7200b835"
+  },
+  {
+    "earthquakeAt": "2026-01-30T03:01:48.000Z",
+    "latitude": -4.29,
+    "longitude": 122.51,
+    "magnitude": 2.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 35 km timur Konawe Selatan",
+    "feltOnStations": "II - III Wolasi, Konawes Selatan",
+    "bmkgEarthquakeId": "20260130100148",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260130100148.mmi.jpg",
+    "fingerprintSha1": "1fc21faed71e543a6644ada37fc24c26da6f8a59"
   }
 ]
