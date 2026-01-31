@@ -33370,5 +33370,29 @@
     "bmkgEarthquakeId": "20260130100148",
     "shakeMapUrl": "https://static.bmkg.go.id/20260130100148.mmi.jpg",
     "fingerprintSha1": "1fc21faed71e543a6644ada37fc24c26da6f8a59"
+  },
+  {
+    "earthquakeAt": "2026-01-31T07:11:13.000Z",
+    "latitude": 4.13,
+    "longitude": 97.36,
+    "magnitude": 3.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km utara Gayo Lues",
+    "feltOnStations": "III Gayo Lues",
+    "bmkgEarthquakeId": "20260131141113",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260131141113.mmi.jpg",
+    "fingerprintSha1": "f4ad4c87f9729e12622917cc0194dec437c2ffe7"
+  },
+  {
+    "earthquakeAt": "2026-01-31T06:50:57.000Z",
+    "latitude": 0.09,
+    "longitude": 111.76,
+    "magnitude": 3.9,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di darat 87 km timur Sekadau",
+    "feltOnStations": "II-III Sintang",
+    "bmkgEarthquakeId": "20260131135057",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260131135057.mmi.jpg",
+    "fingerprintSha1": "986add80d36cbb82f3da481221f29b991a11c198"
   }
 ]
