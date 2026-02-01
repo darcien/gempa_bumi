@@ -33406,5 +33406,17 @@
     "bmkgEarthquakeId": "20260201202911",
     "shakeMapUrl": "https://static.bmkg.go.id/20260201202911.mmi.jpg",
     "fingerprintSha1": "0194efbc124c89ed8ddf46bc41475af597b4aa58"
+  },
+  {
+    "earthquakeAt": "2026-02-01T22:20:41.000Z",
+    "latitude": -1.17,
+    "longitude": 99.69,
+    "magnitude": 4.4,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di laut 77 km Barat Daya Pariaman",
+    "feltOnStations": "II-III kota Padang, II-III Kota Pariaman, II-III Lubuk Basung, II-III Kep. Mentawai",
+    "bmkgEarthquakeId": "20260202052041",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260202052041.mmi.jpg",
+    "fingerprintSha1": "ce96d05ac5f51d0cf492be2345a88f1490520cd2"
   }
 ]
