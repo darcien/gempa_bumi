@@ -33478,5 +33478,17 @@
     "bmkgEarthquakeId": "20260203155412",
     "shakeMapUrl": "https://static.bmkg.go.id/20260203155412.mmi.jpg",
     "fingerprintSha1": "8f5b17a842564e99e0b1d53e87a9b9df3528e7fd"
+  },
+  {
+    "earthquakeAt": "2026-02-03T23:26:14.000Z",
+    "latitude": -5.75,
+    "longitude": 104.52,
+    "magnitude": 4.5,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 34 km barat daya Tanggamus",
+    "feltOnStations": "II Pringsewu, II-III Tanggamus",
+    "bmkgEarthquakeId": "20260204062614",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260204062614.mmi.jpg",
+    "fingerprintSha1": "0a90526763bfb57833b7a4ac3097f80376cd5196"
   }
 ]
