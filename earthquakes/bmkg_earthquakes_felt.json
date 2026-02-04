@@ -33490,5 +33490,20 @@
     "bmkgEarthquakeId": "20260204062614",
     "shakeMapUrl": "https://static.bmkg.go.id/20260204062614.mmi.jpg",
     "fingerprintSha1": "0a90526763bfb57833b7a4ac3097f80376cd5196"
+  },
+  {
+    "earthquakeAt": "2026-02-05T21:52:54.000Z",
+    "latitude": -0.06,
+    "longitude": 100.18,
+    "magnitude": 3.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km barat daya Bonjol, Pasaman",
+    "feltOnStations": "II-III Agam, II-III Sikaping, I-II Padang Panjang, I-II Bukittinggi",
+    "bmkgEarthquakeId": "20260206045254",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260206045254.mmi.jpg",
+    "fingerprintSha1": "771cbdb06781d0bcd13cf188fcf482e91a079639",
+    "meta": {
+      "erroneousDataReason": "FUTURE_EARTHQUAKE"
+    }
   }
 ]
