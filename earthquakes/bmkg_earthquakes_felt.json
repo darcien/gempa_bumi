@@ -33541,5 +33541,17 @@
     "bmkgEarthquakeId": "20260205165435",
     "shakeMapUrl": "https://static.bmkg.go.id/20260205165435.mmi.jpg",
     "fingerprintSha1": "3e7111d77f5a202032adaf62d0ad4cbdb65c6456"
+  },
+  {
+    "earthquakeAt": "2026-02-05T15:02:04.000Z",
+    "latitude": -4.09,
+    "longitude": 121.87,
+    "magnitude": 2.2,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 km barat daya Kolaka Timur",
+    "feltOnStations": "II-III Tirawuta",
+    "bmkgEarthquakeId": "20260205220204",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260205220204.mmi.jpg",
+    "fingerprintSha1": "5c17e029dd900b02b2535dcf52460a26f2d8fc0b"
   }
 ]
