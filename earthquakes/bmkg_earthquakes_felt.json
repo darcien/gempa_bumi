@@ -33553,5 +33553,17 @@
     "bmkgEarthquakeId": "20260205220204",
     "shakeMapUrl": "https://static.bmkg.go.id/20260205220204.mmi.jpg",
     "fingerprintSha1": "5c17e029dd900b02b2535dcf52460a26f2d8fc0b"
+  },
+  {
+    "earthquakeAt": "2026-02-05T18:06:10.000Z",
+    "latitude": -8.99,
+    "longitude": 111.18,
+    "magnitude": 6.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 90 km Tenggara Pacitan",
+    "feltOnStations": "IV Pacitan, IV Bantul, IV Sleman, III Kulon Progo, III Trenggalek, III Wonogiri, III Malang, III Cirebon, III Blitar, II Surakarta, III Karanganyar, III Magelang, III Jombang, III Tulungagung, II Tuban, II Jepara, III Ponorogo, III Magetan, III Lumajang, III Bondowoso, III Nganjuk, III Wonosobo, III Banjarnegara, III Temanggung, III Madiun, II Denpasar",
+    "bmkgEarthquakeId": "20260206010610",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260206010610.mmi.jpg",
+    "fingerprintSha1": "0c8436d52b4f56be88f23a981becd32959c1c97a"
   }
 ]
