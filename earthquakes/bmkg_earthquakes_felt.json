@@ -33529,5 +33529,17 @@
     "bmkgEarthquakeId": "20260205045254",
     "shakeMapUrl": "https://static.bmkg.go.id/20260205045254.mmi.jpg",
     "fingerprintSha1": "b808c5fb550612694eed9da9f70d0f769c7e1adc"
+  },
+  {
+    "earthquakeAt": "2026-02-05T09:54:35.000Z",
+    "latitude": -6.69,
+    "longitude": 107.74,
+    "magnitude": 2.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 13 km Selatan Kabupaten Subang",
+    "feltOnStations": "II Ciater, II Kasomalang",
+    "bmkgEarthquakeId": "20260205165435",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260205165435.mmi.jpg",
+    "fingerprintSha1": "3e7111d77f5a202032adaf62d0ad4cbdb65c6456"
   }
 ]
