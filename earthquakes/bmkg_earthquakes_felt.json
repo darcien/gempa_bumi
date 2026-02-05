@@ -33505,5 +33505,29 @@
     "meta": {
       "erroneousDataReason": "FUTURE_EARTHQUAKE"
     }
+  },
+  {
+    "earthquakeAt": "2026-02-05T01:01:14.000Z",
+    "latitude": -1.95,
+    "longitude": 120.6,
+    "magnitude": 3.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 65 km selatan Poso",
+    "feltOnStations": "III Pendolo",
+    "bmkgEarthquakeId": "20260205080114",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260205080114.mmi.jpg",
+    "fingerprintSha1": "6c851bb6c705d1c074d0a570f75e611754750972"
+  },
+  {
+    "earthquakeAt": "2026-02-04T21:52:54.000Z",
+    "latitude": -0.06,
+    "longitude": 100.18,
+    "magnitude": 3.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km barat daya Bonjol Pasaman",
+    "feltOnStations": "I-II Padang Panjang, II-III Lubuk Sikaping, II-III Agam, I-II Bukittinggi",
+    "bmkgEarthquakeId": "20260205045254",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260205045254.mmi.jpg",
+    "fingerprintSha1": "b808c5fb550612694eed9da9f70d0f769c7e1adc"
   }
 ]
