@@ -33577,5 +33577,17 @@
     "bmkgEarthquakeId": "20260206134531",
     "shakeMapUrl": "https://static.bmkg.go.id/20260206134531.mmi.jpg",
     "fingerprintSha1": "5664f7cf39e49ea4ac40f38535a8c5032ef1dace"
+  },
+  {
+    "earthquakeAt": "2026-02-06T08:51:49.000Z",
+    "latitude": -2.87,
+    "longitude": 99.97,
+    "magnitude": 4.2,
+    "depthInKm": 16,
+    "locationInIndonesian": "Pusat gempa berada di laut 22 km Barat Daya Pulau Pagai Utara, Kep. Mentawai",
+    "feltOnStations": "II-III Kepulauan Mentawai",
+    "bmkgEarthquakeId": "20260206155149",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260206155149.mmi.jpg",
+    "fingerprintSha1": "8fb85827e48dd0bf332b2c409ad68f7042552fb1"
   }
 ]
