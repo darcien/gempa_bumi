@@ -33565,5 +33565,17 @@
     "bmkgEarthquakeId": "20260206010610",
     "shakeMapUrl": "https://static.bmkg.go.id/20260206010610.mmi.jpg",
     "fingerprintSha1": "0c8436d52b4f56be88f23a981becd32959c1c97a"
+  },
+  {
+    "earthquakeAt": "2026-02-06T06:45:31.000Z",
+    "latitude": -6.87,
+    "longitude": 107.74,
+    "magnitude": 3,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di 20 km Timur Kota Cimahi",
+    "feltOnStations": "II-III Jatinangor, II-III Ciater, II-III Kasomalang, II-III Cileunyi",
+    "bmkgEarthquakeId": "20260206134531",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260206134531.mmi.jpg",
+    "fingerprintSha1": "5664f7cf39e49ea4ac40f38535a8c5032ef1dace"
   }
 ]
