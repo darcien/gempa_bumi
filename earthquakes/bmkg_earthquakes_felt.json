@@ -33601,5 +33601,17 @@
     "bmkgEarthquakeId": "20260207042016",
     "shakeMapUrl": "https://static.bmkg.go.id/20260207042016.mmi.jpg",
     "fingerprintSha1": "9eacc30a2f6bbce9bc9dd9134a5cd0f4a376969d"
+  },
+  {
+    "earthquakeAt": "2026-02-09T07:27:27.000Z",
+    "latitude": -2.62,
+    "longitude": 121.26,
+    "magnitude": 3.3,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km Tenggara Luwu Timur",
+    "feltOnStations": "III Wasponda",
+    "bmkgEarthquakeId": "20260209142727",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260209142727.mmi.jpg",
+    "fingerprintSha1": "1703d40a7cc2a9c40c5a8f6365f2e096dac82ce3"
   }
 ]
