@@ -33673,5 +33673,17 @@
     "bmkgEarthquakeId": "20260211100713",
     "shakeMapUrl": "https://static.bmkg.go.id/20260211100713.mmi.jpg",
     "fingerprintSha1": "d81736b741ead62e3cf2cc83113dd4f17e5191c2"
+  },
+  {
+    "earthquakeAt": "2026-02-11T11:42:16.000Z",
+    "latitude": -4.6,
+    "longitude": 120.34,
+    "magnitude": 2.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 34 km Timur Laut Bone",
+    "feltOnStations": "II Bone",
+    "bmkgEarthquakeId": "20260211184216",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260211184216.mmi.jpg",
+    "fingerprintSha1": "e8d3b5c6631ff5c1961793f0c212e3bd258bc34a"
   }
 ]
