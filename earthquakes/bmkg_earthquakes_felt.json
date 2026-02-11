@@ -33661,5 +33661,17 @@
     "bmkgEarthquakeId": "20260211090553",
     "shakeMapUrl": "https://static.bmkg.go.id/20260211090553.mmi.jpg",
     "fingerprintSha1": "a144230aed8c7a77bcce3f0aefb3a7ee5edb4d40"
+  },
+  {
+    "earthquakeAt": "2026-02-11T03:07:13.000Z",
+    "latitude": -2.3,
+    "longitude": 140.05,
+    "magnitude": 4.1,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di laut 35 km Barat Laut Genyem Jayapura",
+    "feltOnStations": "III Kabupaten Jayapura",
+    "bmkgEarthquakeId": "20260211100713",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260211100713.mmi.jpg",
+    "fingerprintSha1": "d81736b741ead62e3cf2cc83113dd4f17e5191c2"
   }
 ]
