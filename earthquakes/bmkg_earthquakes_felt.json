@@ -33649,5 +33649,17 @@
     "bmkgEarthquakeId": "20260210053710",
     "shakeMapUrl": "https://static.bmkg.go.id/20260210053710.mmi.jpg",
     "fingerprintSha1": "01345e51bed9f55dc2f7c4a2938c1884c28d544d"
+  },
+  {
+    "earthquakeAt": "2026-02-11T02:05:53.000Z",
+    "latitude": -1.45,
+    "longitude": 134.24,
+    "magnitude": 3.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 10 km timur laut Ransiki",
+    "feltOnStations": "III Ransiki",
+    "bmkgEarthquakeId": "20260211090553",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260211090553.mmi.jpg",
+    "fingerprintSha1": "a144230aed8c7a77bcce3f0aefb3a7ee5edb4d40"
   }
 ]
