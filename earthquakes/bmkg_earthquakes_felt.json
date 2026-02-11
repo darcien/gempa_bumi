@@ -33689,13 +33689,13 @@
   {
     "earthquakeAt": "2026-02-11T21:41:40.000Z",
     "latitude": -4.08,
-    "longitude": 121,
+    "longitude": 121.87,
     "magnitude": 3,
     "depthInKm": 2,
     "locationInIndonesian": "Pusat gempa berada di darat 11 km Barat Daya Kolaka Timur",
     "feltOnStations": "III Kolaka TImur",
     "bmkgEarthquakeId": "20260212044140",
     "shakeMapUrl": "https://static.bmkg.go.id/20260212044140.mmi.jpg",
-    "fingerprintSha1": "cac274f57d83972b0ba68a3741bf47def24b7834"
+    "fingerprintSha1": "03ef2cf679a92ca423f5001a079f008dd1cac13c"
   }
 ]
