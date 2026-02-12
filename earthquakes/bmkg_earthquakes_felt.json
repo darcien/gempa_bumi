@@ -33692,10 +33692,22 @@
     "longitude": 121.87,
     "magnitude": 3,
     "depthInKm": 2,
-    "locationInIndonesian": "Pusat gempa berada di darat 11 km Barat Daya Kolaka Timur",
-    "feltOnStations": "III Kolaka TImur",
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km BaratDaya Kolaka Timur",
+    "feltOnStations": "III Kolaka Timur",
     "bmkgEarthquakeId": "20260212044140",
     "shakeMapUrl": "https://static.bmkg.go.id/20260212044140.mmi.jpg",
     "fingerprintSha1": "03ef2cf679a92ca423f5001a079f008dd1cac13c"
+  },
+  {
+    "earthquakeAt": "2026-02-12T01:21:16.000Z",
+    "latitude": -7.89,
+    "longitude": 110.51,
+    "magnitude": 3.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km Barat Laut Gunung Kidul",
+    "feltOnStations": "II Bantul",
+    "bmkgEarthquakeId": "20260212082116",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260212082116.mmi.jpg",
+    "fingerprintSha1": "ea5cc52659d4a38762e3e3440169bfc9344c858d"
   }
 ]
