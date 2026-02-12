@@ -33709,5 +33709,29 @@
     "bmkgEarthquakeId": "20260212082116",
     "shakeMapUrl": "https://static.bmkg.go.id/20260212082116.mmi.jpg",
     "fingerprintSha1": "ea5cc52659d4a38762e3e3440169bfc9344c858d"
+  },
+  {
+    "earthquakeAt": "2026-02-12T13:14:15.000Z",
+    "latitude": 4.29,
+    "longitude": 95.83,
+    "magnitude": 4.7,
+    "depthInKm": 19,
+    "locationInIndonesian": "Pusat gempa berada di laut 37km Barat Laut Meulaboh-Aceh Barat",
+    "feltOnStations": "III Meulaboh, III Nagan Raya, II-III Aceh Jaya, II Aceh Barat Daya",
+    "bmkgEarthquakeId": "20260212201415",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260212201415.mmi.jpg",
+    "fingerprintSha1": "3437ea8dd595bdc93bbd9b323f2d3d49ea8753a0"
+  },
+  {
+    "earthquakeAt": "2026-02-12T12:47:08.000Z",
+    "latitude": 4.71,
+    "longitude": 96.91,
+    "magnitude": 2.7,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km Tenggara Bener Meriah",
+    "feltOnStations": "II-III Bener Meriah",
+    "bmkgEarthquakeId": "20260212194708",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260212194708.mmi.jpg",
+    "fingerprintSha1": "6da0d94c96896410195810d48925d840181d7dfd"
   }
 ]
