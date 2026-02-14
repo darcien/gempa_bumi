@@ -33793,5 +33793,17 @@
     "bmkgEarthquakeId": "20260214165045",
     "shakeMapUrl": "https://static.bmkg.go.id/20260214165045.mmi.jpg",
     "fingerprintSha1": "c36c045c3fd6b535aa49df8275064aa0f1c82257"
+  },
+  {
+    "earthquakeAt": "2026-02-14T13:36:03.000Z",
+    "latitude": -5.55,
+    "longitude": 103.62,
+    "magnitude": 4,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di laut 53 km barat daya Pesisir Barat",
+    "feltOnStations": "III Bengkunat",
+    "bmkgEarthquakeId": "20260214203603",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260214203603.mmi.jpg",
+    "fingerprintSha1": "365a440e61f10c6b074aeb3bd1ff59d898ce09f2"
   }
 ]
