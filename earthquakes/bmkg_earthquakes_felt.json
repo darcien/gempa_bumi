@@ -33765,9 +33765,21 @@
     "magnitude": 3.2,
     "depthInKm": 2,
     "locationInIndonesian": "Pusat gempa berada di darat 17 km barat laut Tanggamus",
-    "feltOnStations": "II Ulu Belu",
+    "feltOnStations": "II Ulu Belu, II Kotaagung",
     "bmkgEarthquakeId": "20260214013742",
     "shakeMapUrl": "https://static.bmkg.go.id/20260214013742.mmi.jpg",
     "fingerprintSha1": "6af59645a284842e61b54df5f0c48e840eabf6ba"
+  },
+  {
+    "earthquakeAt": "2026-02-14T03:09:45.000Z",
+    "latitude": -2.81,
+    "longitude": 128.01,
+    "magnitude": 4.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 35 Km baratlaut Seram Bagian Barat",
+    "feltOnStations": "II-III Piru",
+    "bmkgEarthquakeId": "20260214100945",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260214100945.mmi.jpg",
+    "fingerprintSha1": "de80f459da3b263e18d6dec53da2c0a4e2cea4f2"
   }
 ]
