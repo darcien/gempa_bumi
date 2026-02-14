@@ -33805,5 +33805,17 @@
     "bmkgEarthquakeId": "20260214203603",
     "shakeMapUrl": "https://static.bmkg.go.id/20260214203603.mmi.jpg",
     "fingerprintSha1": "365a440e61f10c6b074aeb3bd1ff59d898ce09f2"
+  },
+  {
+    "earthquakeAt": "2026-02-14T14:21:51.000Z",
+    "latitude": -2.72,
+    "longitude": 128.14,
+    "magnitude": 4.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 38 km utara Piru-Seram Bagian Barat",
+    "feltOnStations": "III Piru, III Huamual",
+    "bmkgEarthquakeId": "20260214212151",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260214212151.mmi.jpg",
+    "fingerprintSha1": "2a59bddd1dc6111fa407618935d9904662cea29c"
   }
 ]
