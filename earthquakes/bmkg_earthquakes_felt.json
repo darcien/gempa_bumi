@@ -33829,5 +33829,17 @@
     "bmkgEarthquakeId": "20260215131443",
     "shakeMapUrl": "https://static.bmkg.go.id/20260215131443.mmi.jpg",
     "fingerprintSha1": "d8426272bad0de4129d1d8245ba1da7d0cc953c7"
+  },
+  {
+    "earthquakeAt": "2026-02-15T12:46:04.000Z",
+    "latitude": -2.57,
+    "longitude": 140.62,
+    "magnitude": 4.2,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km Tenggara Kota Jayapura",
+    "feltOnStations": "III-IV Kota Jayapura, III Kab. Jayapura, II Keerom",
+    "bmkgEarthquakeId": "20260215194604",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260215194604.mmi.jpg",
+    "fingerprintSha1": "ace4198f3445a6b06368a827bf4beabf7528b4d5"
   }
 ]
