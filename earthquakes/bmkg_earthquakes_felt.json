@@ -33817,5 +33817,17 @@
     "bmkgEarthquakeId": "20260214212151",
     "shakeMapUrl": "https://static.bmkg.go.id/20260214212151.mmi.jpg",
     "fingerprintSha1": "2a59bddd1dc6111fa407618935d9904662cea29c"
+  },
+  {
+    "earthquakeAt": "2026-02-15T06:14:43.000Z",
+    "latitude": -4.28,
+    "longitude": 102.39,
+    "magnitude": 4.8,
+    "depthInKm": 39,
+    "locationInIndonesian": "Pusat gempa berada di laut 30 km barat daya Seluma",
+    "feltOnStations": "III Kota Bengkulu, III Bengkulu Tengah, II-III Kepahiang, II Argamakmur",
+    "bmkgEarthquakeId": "20260215131443",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260215131443.mmi.jpg",
+    "fingerprintSha1": "d8426272bad0de4129d1d8245ba1da7d0cc953c7"
   }
 ]
