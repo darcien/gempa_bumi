@@ -33877,5 +33877,17 @@
     "bmkgEarthquakeId": "20260216224748",
     "shakeMapUrl": "https://static.bmkg.go.id/20260216224748.mmi.jpg",
     "fingerprintSha1": "64062a75882d521646b1bdb6bc59a089babb88fa"
+  },
+  {
+    "earthquakeAt": "2026-02-16T19:23:32.000Z",
+    "latitude": -9.32,
+    "longitude": 114.71,
+    "magnitude": 4.3,
+    "depthInKm": 37,
+    "locationInIndonesian": "Pusat gempa berada di laut 81 Km Barat Daya Kuta Selatan",
+    "feltOnStations": "II Kuta, II Kuta Selatan",
+    "bmkgEarthquakeId": "20260217022332",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260217022332.mmi.jpg",
+    "fingerprintSha1": "e5056b266bdfc50d6b58b2858ad03126d09943e7"
   }
 ]
