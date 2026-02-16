@@ -33853,5 +33853,17 @@
     "bmkgEarthquakeId": "20260216130041",
     "shakeMapUrl": "https://static.bmkg.go.id/20260216130041.mmi.jpg",
     "fingerprintSha1": "c0b20f74255696189ddf3ff094426a83ce8d03b6"
+  },
+  {
+    "earthquakeAt": "2026-02-16T11:42:16.000Z",
+    "latitude": -8.6,
+    "longitude": 118.41,
+    "magnitude": 3.6,
+    "depthInKm": 114,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km barat daya Dompu",
+    "feltOnStations": "III Sumbawa Besar, II Kota Bima",
+    "bmkgEarthquakeId": "20260216184216",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260216184216.mmi.jpg",
+    "fingerprintSha1": "5ec42af038b3173673f313bdd4a6e830d5a74293"
   }
 ]
