@@ -33865,5 +33865,17 @@
     "bmkgEarthquakeId": "20260216184216",
     "shakeMapUrl": "https://static.bmkg.go.id/20260216184216.mmi.jpg",
     "fingerprintSha1": "5ec42af038b3173673f313bdd4a6e830d5a74293"
+  },
+  {
+    "earthquakeAt": "2026-02-16T15:47:48.000Z",
+    "latitude": -0.65,
+    "longitude": 127.55,
+    "magnitude": 2.8,
+    "depthInKm": 1,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km Timur Labuha",
+    "feltOnStations": "III Labuha",
+    "bmkgEarthquakeId": "20260216224748",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260216224748.mmi.jpg",
+    "fingerprintSha1": "64062a75882d521646b1bdb6bc59a089babb88fa"
   }
 ]
