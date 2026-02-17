@@ -33901,5 +33901,17 @@
     "bmkgEarthquakeId": "20260217202546",
     "shakeMapUrl": "https://static.bmkg.go.id/20260217202546.mmi.jpg",
     "fingerprintSha1": "283acf2b20d0d49f9eb08bcf17820b47382ad7fa"
+  },
+  {
+    "earthquakeAt": "2026-02-17T17:30:49.000Z",
+    "latitude": 0.51,
+    "longitude": 121.6,
+    "magnitude": 4.2,
+    "depthInKm": 89,
+    "locationInIndonesian": "Pusat gempa berada di laut 40 km barat Pohuwato",
+    "feltOnStations": "II Pohuwato",
+    "bmkgEarthquakeId": "20260218003049",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260218003049.mmi.jpg",
+    "fingerprintSha1": "0054938398fa89408217adf34d25dddfe09831ae"
   }
 ]
