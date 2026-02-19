@@ -33949,5 +33949,17 @@
     "bmkgEarthquakeId": "20260219072615",
     "shakeMapUrl": "https://static.bmkg.go.id/20260219072615.mmi.jpg",
     "fingerprintSha1": "756100deced635d61dd9b0bdfa1ea711a700ca14"
+  },
+  {
+    "earthquakeAt": "2026-02-19T07:02:20.000Z",
+    "latitude": -5.6,
+    "longitude": 133.78,
+    "magnitude": 5.1,
+    "depthInKm": 67,
+    "locationInIndonesian": "Pusat gempa berada di laut 52 km barat laut Kepulauan Aru",
+    "feltOnStations": "II Dobo",
+    "bmkgEarthquakeId": "20260219140220",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260219140220.mmi.jpg",
+    "fingerprintSha1": "ac8ac6c902ce7ec18bae2ad0d0cf100291baa534"
   }
 ]
