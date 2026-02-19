@@ -33937,5 +33937,17 @@
     "bmkgEarthquakeId": "20260218022311",
     "shakeMapUrl": "https://static.bmkg.go.id/20260218022311.mmi.jpg",
     "fingerprintSha1": "ce986dbb648bf15dc6d9ab5b4aedaad0b7299039"
+  },
+  {
+    "earthquakeAt": "2026-02-19T00:26:15.000Z",
+    "latitude": 1.54,
+    "longitude": 122.17,
+    "magnitude": 5.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 110 Km Timur Laut Buol",
+    "feltOnStations": "III-IV Buol, III Gorontalo Utara, II-III Gorontalo, II-III Boalemo, II-III Bone Bolango, II Manado",
+    "bmkgEarthquakeId": "20260219072615",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260219072615.mmi.jpg",
+    "fingerprintSha1": "756100deced635d61dd9b0bdfa1ea711a700ca14"
   }
 ]
