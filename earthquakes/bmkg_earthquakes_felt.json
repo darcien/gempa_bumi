@@ -34009,5 +34009,17 @@
     "bmkgEarthquakeId": "20260222235746",
     "shakeMapUrl": "https://static.bmkg.go.id/20260222235746.mmi.jpg",
     "fingerprintSha1": "8c9fc05f6bd75e1621d5907dbbd1ca5d1436d873"
+  },
+  {
+    "earthquakeAt": "2026-02-22T22:59:17.000Z",
+    "latitude": -6.7,
+    "longitude": 107.34,
+    "magnitude": 2.6,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di darat 19 km barat daya Kab. Purwakarta",
+    "feltOnStations": "II Cirata, II Cipendeuy",
+    "bmkgEarthquakeId": "20260223055917",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260223055917.mmi.jpg",
+    "fingerprintSha1": "394e0ea473abcca22a5a07079d4f18d66c293341"
   }
 ]
