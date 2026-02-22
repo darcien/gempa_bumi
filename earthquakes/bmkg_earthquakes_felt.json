@@ -33997,5 +33997,17 @@
     "bmkgEarthquakeId": "20260222225507",
     "shakeMapUrl": "https://static.bmkg.go.id/20260222225507.mmi.jpg",
     "fingerprintSha1": "492c64e5490cefcd19d85450f135daee4b6c2baa"
+  },
+  {
+    "earthquakeAt": "2026-02-22T16:57:46.000Z",
+    "latitude": 6.94,
+    "longitude": 116.26,
+    "magnitude": 7.2,
+    "depthInKm": 628,
+    "locationInIndonesian": "Pusat gempa berada di laut 109 km Timur Laut Kota Kinabalu",
+    "feltOnStations": "II Tanjung Selor, II Malinau, II Tarakan, II Tenggarong, II Samarinda",
+    "bmkgEarthquakeId": "20260222235746",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260222235746.mmi.jpg",
+    "fingerprintSha1": "8c9fc05f6bd75e1621d5907dbbd1ca5d1436d873"
   }
 ]
