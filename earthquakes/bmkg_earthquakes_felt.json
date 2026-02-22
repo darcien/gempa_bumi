@@ -33973,5 +33973,17 @@
     "bmkgEarthquakeId": "20260222040510",
     "shakeMapUrl": "https://static.bmkg.go.id/20260222040510.mmi.jpg",
     "fingerprintSha1": "e294fbad49c600092f0fb7a7b95fdab93778fcb5"
+  },
+  {
+    "earthquakeAt": "2026-02-22T15:35:41.000Z",
+    "latitude": -0.74,
+    "longitude": 99.14,
+    "magnitude": 5.2,
+    "depthInKm": 29,
+    "locationInIndonesian": "Pusat gempa berada di laut 110 km BaratDaya AGAM",
+    "feltOnStations": "III Kepulauan Mentawai, III Pasaman Barat, III Agam, II Pariaman, II Padang, II Padang Pariaman, II Padang Panjang, II Bukittinggi",
+    "bmkgEarthquakeId": "20260222223541",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260222223541.mmi.jpg",
+    "fingerprintSha1": "c2fa50d88a7636ab933f2283037af5a36a60c8da"
   }
 ]
