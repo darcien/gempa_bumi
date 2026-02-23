@@ -34021,5 +34021,17 @@
     "bmkgEarthquakeId": "20260223055917",
     "shakeMapUrl": "https://static.bmkg.go.id/20260223055917.mmi.jpg",
     "fingerprintSha1": "394e0ea473abcca22a5a07079d4f18d66c293341"
+  },
+  {
+    "earthquakeAt": "2026-02-22T23:39:26.000Z",
+    "latitude": -5.42,
+    "longitude": 122.92,
+    "magnitude": 2.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 Km Timur Buton",
+    "feltOnStations": "II-III Pasarwajo",
+    "bmkgEarthquakeId": "20260223063926",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260223063926.mmi.jpg",
+    "fingerprintSha1": "1da7614fa8391c29aa2080e0e5d1a7c906db7a93"
   }
 ]
