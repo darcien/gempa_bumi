@@ -34033,5 +34033,17 @@
     "bmkgEarthquakeId": "20260223063926",
     "shakeMapUrl": "https://static.bmkg.go.id/20260223063926.mmi.jpg",
     "fingerprintSha1": "1da7614fa8391c29aa2080e0e5d1a7c906db7a93"
+  },
+  {
+    "earthquakeAt": "2026-02-23T11:36:05.000Z",
+    "latitude": -9.26,
+    "longitude": 115.65,
+    "magnitude": 4,
+    "depthInKm": 44,
+    "locationInIndonesian": "Pusat gempa berada di laut 70 km tenggara Kuta Selatan",
+    "feltOnStations": "II Kuta, II Kuta Selatan, II Klungkung, II Lombok Barat, II Lombok Tengah",
+    "bmkgEarthquakeId": "20260223183605",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260223183605.mmi.jpg",
+    "fingerprintSha1": "a0924bf11886eed060f76e87288fada9bea9a104"
   }
 ]
