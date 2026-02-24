@@ -34081,5 +34081,17 @@
     "bmkgEarthquakeId": "20260224144650",
     "shakeMapUrl": "https://static.bmkg.go.id/20260224144650.mmi.jpg",
     "fingerprintSha1": "e423dc576e2f1194e96dd5d8875118b3d1e4b295"
+  },
+  {
+    "earthquakeAt": "2026-02-24T15:20:46.000Z",
+    "latitude": 4.6,
+    "longitude": 96.94,
+    "magnitude": 2.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km Timur Takengon",
+    "feltOnStations": "II Takengon",
+    "bmkgEarthquakeId": "20260224222046",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260224222046.mmi.jpg",
+    "fingerprintSha1": "42693032c0977ae8c0cfd73a94129c3c1533251f"
   }
 ]
