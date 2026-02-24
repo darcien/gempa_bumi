@@ -34069,5 +34069,17 @@
     "bmkgEarthquakeId": "20260224100839",
     "shakeMapUrl": "https://static.bmkg.go.id/20260224100839.mmi.jpg",
     "fingerprintSha1": "ca8079475f30325a540aa6d9ad7bef6900c7152d"
+  },
+  {
+    "earthquakeAt": "2026-02-24T07:46:50.000Z",
+    "latitude": -1.96,
+    "longitude": 138.95,
+    "magnitude": 5.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 23 km tenggara Sarmi",
+    "feltOnStations": "II-III Kota Jayapura, V Sarmi",
+    "bmkgEarthquakeId": "20260224144650",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260224144650.mmi.jpg",
+    "fingerprintSha1": "e423dc576e2f1194e96dd5d8875118b3d1e4b295"
   }
 ]
