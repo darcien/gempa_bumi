@@ -34057,5 +34057,17 @@
     "bmkgEarthquakeId": "20260223204834",
     "shakeMapUrl": "https://static.bmkg.go.id/20260223204834.mmi.jpg",
     "fingerprintSha1": "caf52eef58e70063b842d8a772835457e14c6ecc"
+  },
+  {
+    "earthquakeAt": "2026-02-24T03:08:39.000Z",
+    "latitude": -6.73,
+    "longitude": 106.54,
+    "magnitude": 3.1,
+    "depthInKm": 16,
+    "locationInIndonesian": "Pusat gempa berada di darat 29 km utara Kab. Sukabumi",
+    "feltOnStations": "III Kalapanunggal, III Kabandungan, II-III Leuwiliang",
+    "bmkgEarthquakeId": "20260224100839",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260224100839.mmi.jpg",
+    "fingerprintSha1": "ca8079475f30325a540aa6d9ad7bef6900c7152d"
   }
 ]
