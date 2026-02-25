@@ -34093,5 +34093,17 @@
     "bmkgEarthquakeId": "20260224222046",
     "shakeMapUrl": "https://static.bmkg.go.id/20260224222046.mmi.jpg",
     "fingerprintSha1": "42693032c0977ae8c0cfd73a94129c3c1533251f"
+  },
+  {
+    "earthquakeAt": "2026-02-25T03:18:54.000Z",
+    "latitude": 4.79,
+    "longitude": 95.6,
+    "magnitude": 4.2,
+    "depthInKm": 53,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km Utara Calang, Aceh Jaya",
+    "feltOnStations": "II-III Lamno Aceh Jaya",
+    "bmkgEarthquakeId": "20260225101854",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260225101854.mmi.jpg",
+    "fingerprintSha1": "aaaa5f8ab414e614bbe6f1ae04c594862e6948cf"
   }
 ]
