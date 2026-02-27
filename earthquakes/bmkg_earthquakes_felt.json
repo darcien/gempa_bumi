@@ -34105,5 +34105,17 @@
     "bmkgEarthquakeId": "20260225101854",
     "shakeMapUrl": "https://static.bmkg.go.id/20260225101854.mmi.jpg",
     "fingerprintSha1": "aaaa5f8ab414e614bbe6f1ae04c594862e6948cf"
+  },
+  {
+    "earthquakeAt": "2026-02-27T06:06:06.000Z",
+    "latitude": 1.47,
+    "longitude": 118.81,
+    "magnitude": 4.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 173 km timur Berau",
+    "feltOnStations": "III Maratua, II Karangan",
+    "bmkgEarthquakeId": "20260227130606",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260227130606.mmi.jpg",
+    "fingerprintSha1": "ae3e7bc1fa75ebe1c93c4bb02d123bafe4806f82"
   }
 ]
