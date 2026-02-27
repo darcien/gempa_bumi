@@ -34117,5 +34117,17 @@
     "bmkgEarthquakeId": "20260227130606",
     "shakeMapUrl": "https://static.bmkg.go.id/20260227130606.mmi.jpg",
     "fingerprintSha1": "ae3e7bc1fa75ebe1c93c4bb02d123bafe4806f82"
+  },
+  {
+    "earthquakeAt": "2026-02-27T19:21:28.000Z",
+    "latitude": -7.79,
+    "longitude": 117.35,
+    "magnitude": 4.7,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di laut 78 km utara Sumbawa",
+    "feltOnStations": "II Sumbawa Barat, II Sumbawa, II Bima, II Lombok Timur",
+    "bmkgEarthquakeId": "20260228022128",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260228022128.mmi.jpg",
+    "fingerprintSha1": "e00f4b73842c20c5a663c0271044abb9fd582e09"
   }
 ]
