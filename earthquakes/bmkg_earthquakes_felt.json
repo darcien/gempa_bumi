@@ -34144,14 +34144,14 @@
   },
   {
     "earthquakeAt": "2026-02-28T06:52:07.000Z",
-    "latitude": 1.24,
-    "longitude": 120.95,
+    "latitude": 1.28,
+    "longitude": 120.97,
     "magnitude": 5.6,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 46 km Timur Laut Toli-Toli Sulawesi Tengah",
     "feltOnStations": "IV Tolitoli, IV Buol, II-III Pohuwato",
     "bmkgEarthquakeId": "20260228135207",
     "shakeMapUrl": "https://static.bmkg.go.id/20260228135207.mmi.jpg",
-    "fingerprintSha1": "6ee2e89cb887da0e91d0e71d0c6b6b8ce4268669"
+    "fingerprintSha1": "76342839c75fb231b95d07a0da7bf72dbe68bad1"
   }
 ]
