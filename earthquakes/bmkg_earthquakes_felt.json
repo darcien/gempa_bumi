@@ -34165,5 +34165,17 @@
     "bmkgEarthquakeId": "20260228171207",
     "shakeMapUrl": "https://static.bmkg.go.id/20260228171207.mmi.jpg",
     "fingerprintSha1": "366ed229abb889457923acf1808a1d5dc5e65eae"
+  },
+  {
+    "earthquakeAt": "2026-02-28T12:39:55.000Z",
+    "latitude": -4.08,
+    "longitude": 133.58,
+    "magnitude": 4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 53 km barat daya Kaimana",
+    "feltOnStations": "III Kaimana",
+    "bmkgEarthquakeId": "20260228193955",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260228193955.mmi.jpg",
+    "fingerprintSha1": "66a13196807f92911e2f09b5b5716420ad3986be"
   }
 ]
