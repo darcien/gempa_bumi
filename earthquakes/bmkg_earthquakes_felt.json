@@ -34201,5 +34201,17 @@
     "bmkgEarthquakeId": "20260301032900",
     "shakeMapUrl": "https://static.bmkg.go.id/20260301032900.mmi.jpg",
     "fingerprintSha1": "1ff13ed701ee8ce75d5c6bf025f467ff5b04e101"
+  },
+  {
+    "earthquakeAt": "2026-03-01T00:25:43.000Z",
+    "latitude": -9.89,
+    "longitude": 120.01,
+    "magnitude": 4.4,
+    "depthInKm": 32,
+    "locationInIndonesian": "Pusat gempa berada di darat 26 km tenggara Lewa, Sumba Timur",
+    "feltOnStations": "III-IV Kab. Sumba Timur",
+    "bmkgEarthquakeId": "20260301072543",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260301072543.mmi.jpg",
+    "fingerprintSha1": "1bd024b4b99b2b6f67018dc26e7027fa0acbab5b"
   }
 ]
