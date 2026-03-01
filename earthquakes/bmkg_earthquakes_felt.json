@@ -34237,5 +34237,17 @@
     "bmkgEarthquakeId": "20260301101912",
     "shakeMapUrl": "https://static.bmkg.go.id/20260301101912.mmi.jpg",
     "fingerprintSha1": "1371ae5068817d1bb52630fdf46d43063012ec49"
+  },
+  {
+    "earthquakeAt": "2026-03-01T07:53:51.000Z",
+    "latitude": 1.21,
+    "longitude": 120.91,
+    "magnitude": 3.4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km Timur Galumpang",
+    "feltOnStations": "II-III Toli-toli",
+    "bmkgEarthquakeId": "20260301145351",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260301145351.mmi.jpg",
+    "fingerprintSha1": "5f6ee170e3e09c05c844988e0069b6103d9ffb5d"
   }
 ]
