@@ -34273,5 +34273,17 @@
     "bmkgEarthquakeId": "20260302164602",
     "shakeMapUrl": "https://static.bmkg.go.id/20260302164602.mmi.jpg",
     "fingerprintSha1": "94b151f19ccbae08e2d3640bf971ce561b261990"
+  },
+  {
+    "earthquakeAt": "2026-03-03T04:56:45.000Z",
+    "latitude": 1.93,
+    "longitude": 96.48,
+    "magnitude": 6.4,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 61 km tenggara Sinabang",
+    "feltOnStations": "IV Aceh Singkil, IV Simeulue, IV Aceh Barat Daya, III-IV Nias, III Aceh Selatan, III Meulaboh, II-III Aceh Tengah, II Bener Meriah, III-IV Pinagsori, III Blang Pidie, III Nias Utara, III Medan, III Tarutung, III Aek Godang, III Subulussalam, II-III Gung Sitoli, II-III Aceh Jaya, II-III Gayo Lues, II Banda Aceh, II Aceh Besar",
+    "bmkgEarthquakeId": "20260303115645",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260303115645.mmi.jpg",
+    "fingerprintSha1": "7a88855a0d867437a18ab51d107ea716ce51ee6c"
   }
 ]
