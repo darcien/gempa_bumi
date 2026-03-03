@@ -34285,5 +34285,17 @@
     "bmkgEarthquakeId": "20260303115645",
     "shakeMapUrl": "https://static.bmkg.go.id/20260303115645.mmi.jpg",
     "fingerprintSha1": "7a88855a0d867437a18ab51d107ea716ce51ee6c"
+  },
+  {
+    "earthquakeAt": "2026-03-03T19:10:29.000Z",
+    "latitude": -2.35,
+    "longitude": 120.86,
+    "magnitude": 4.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 41 km Barat Laut Luwu Timur",
+    "feltOnStations": "II-III Pamona Selatan, II-III Bone-Bone",
+    "bmkgEarthquakeId": "20260304021029",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260304021029.mmi.jpg",
+    "fingerprintSha1": "4a02022408070a683c9ea44e53d8c7a8e7e2242f"
   }
 ]
