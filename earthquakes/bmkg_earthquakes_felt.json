@@ -34309,5 +34309,17 @@
     "bmkgEarthquakeId": "20260304192201",
     "shakeMapUrl": "https://static.bmkg.go.id/20260304192201.mmi.jpg",
     "fingerprintSha1": "48a889a88ee61026ce6d89bb3cc53c2d681cfc60"
+  },
+  {
+    "earthquakeAt": "2026-03-04T13:36:57.000Z",
+    "latitude": -7.2,
+    "longitude": 109.84,
+    "magnitude": 2.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 19 km barat laut Wonosobo",
+    "feltOnStations": "II Dieng",
+    "bmkgEarthquakeId": "20260304203657",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260304203657.mmi.jpg",
+    "fingerprintSha1": "d62eec59599562d7410896497460d4a4e19e5314"
   }
 ]
