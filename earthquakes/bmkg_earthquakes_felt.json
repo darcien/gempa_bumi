@@ -34381,5 +34381,17 @@
     "bmkgEarthquakeId": "20260306222750",
     "shakeMapUrl": "https://static.bmkg.go.id/20260306222750.mmi.jpg",
     "fingerprintSha1": "0bd7619dc27781cb8f44c34aa09816c209997c85"
+  },
+  {
+    "earthquakeAt": "2026-03-06T17:55:54.000Z",
+    "latitude": 1.57,
+    "longitude": 128.81,
+    "magnitude": 5.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 46 km TimurLaut HALMAHERATIMUR",
+    "feltOnStations": "III - IV Halmahera Utara",
+    "bmkgEarthquakeId": "20260307005554",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260307005554.mmi.jpg",
+    "fingerprintSha1": "82b811cd8184a5dd8a97c1b5aa299bc9d5c9afb2"
   }
 ]
