@@ -34393,5 +34393,17 @@
     "bmkgEarthquakeId": "20260307005554",
     "shakeMapUrl": "https://static.bmkg.go.id/20260307005554.mmi.jpg",
     "fingerprintSha1": "82b811cd8184a5dd8a97c1b5aa299bc9d5c9afb2"
+  },
+  {
+    "earthquakeAt": "2026-03-06T20:51:26.000Z",
+    "latitude": -9.1,
+    "longitude": 120.15,
+    "magnitude": 4.7,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 63 km barat daya Borong",
+    "feltOnStations": "II-III Sumba Timur",
+    "bmkgEarthquakeId": "20260307035126",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260307035126.mmi.jpg",
+    "fingerprintSha1": "ac5b02c010400d217ed0cc3cc2c68993696b98ec"
   }
 ]
