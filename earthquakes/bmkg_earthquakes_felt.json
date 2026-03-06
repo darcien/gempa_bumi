@@ -34369,5 +34369,17 @@
     "bmkgEarthquakeId": "20260306151106",
     "shakeMapUrl": "https://static.bmkg.go.id/20260306151106.mmi.jpg",
     "fingerprintSha1": "2b4d0ea27d4097f68d5a88f876247942e2f27744"
+  },
+  {
+    "earthquakeAt": "2026-03-06T15:27:50.000Z",
+    "latitude": -2.84,
+    "longitude": 130.17,
+    "magnitude": 4.8,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di laut 46 km Barat Laut SERAM BAGIAN TIMUR",
+    "feltOnStations": "II-III Seram Utara Timur Seti",
+    "bmkgEarthquakeId": "20260306222750",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260306222750.mmi.jpg",
+    "fingerprintSha1": "0bd7619dc27781cb8f44c34aa09816c209997c85"
   }
 ]
