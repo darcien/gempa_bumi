@@ -34405,5 +34405,17 @@
     "bmkgEarthquakeId": "20260307035126",
     "shakeMapUrl": "https://static.bmkg.go.id/20260307035126.mmi.jpg",
     "fingerprintSha1": "ac5b02c010400d217ed0cc3cc2c68993696b98ec"
+  },
+  {
+    "earthquakeAt": "2026-03-06T21:23:46.000Z",
+    "latitude": -8.01,
+    "longitude": 111.25,
+    "magnitude": 3.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 25 km timur laut Pacitan",
+    "feltOnStations": "II Pacitan",
+    "bmkgEarthquakeId": "20260307042346",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260307042346.mmi.jpg",
+    "fingerprintSha1": "d4246ef27b4df3a19d1312a37c69c3c0786351a2"
   }
 ]
