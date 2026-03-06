@@ -34357,5 +34357,17 @@
     "bmkgEarthquakeId": "20260305205910",
     "shakeMapUrl": "https://static.bmkg.go.id/20260305205910.mmi.jpg",
     "fingerprintSha1": "1d1e3e25ca3d88ff2b73290dfcba308e9cd394a5"
+  },
+  {
+    "earthquakeAt": "2026-03-06T08:11:06.000Z",
+    "latitude": 0.52,
+    "longitude": 122.49,
+    "magnitude": 2.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km Timur BOALEMO",
+    "feltOnStations": "II Kab. Gorontalo Utara",
+    "bmkgEarthquakeId": "20260306151106",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260306151106.mmi.jpg",
+    "fingerprintSha1": "2b4d0ea27d4097f68d5a88f876247942e2f27744"
   }
 ]
