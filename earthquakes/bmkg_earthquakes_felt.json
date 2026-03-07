@@ -34465,5 +34465,17 @@
     "bmkgEarthquakeId": "20260307134203",
     "shakeMapUrl": "https://static.bmkg.go.id/20260307134203.mmi.jpg",
     "fingerprintSha1": "b06539b6e995b0294a14691502f1f0fb0a6b66d8"
+  },
+  {
+    "earthquakeAt": "2026-03-07T16:58:45.000Z",
+    "latitude": -2.99,
+    "longitude": 101.63,
+    "magnitude": 5.7,
+    "depthInKm": 47,
+    "locationInIndonesian": "Pusat gempa berada di darat 64 km Barat Lebong",
+    "feltOnStations": "III Kepahiang, III Arma Jaya, III Bengkulu Tengah, III Mukomuko",
+    "bmkgEarthquakeId": "20260307235845",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260307235845.mmi.jpg",
+    "fingerprintSha1": "b512331efbe55c93854b0e28ced211bf6f3e1989"
   }
 ]
