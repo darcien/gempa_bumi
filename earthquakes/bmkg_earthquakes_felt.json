@@ -34453,5 +34453,17 @@
     "bmkgEarthquakeId": "20260307124546",
     "shakeMapUrl": "https://static.bmkg.go.id/20260307124546.mmi.jpg",
     "fingerprintSha1": "95ff39a0f2a65c010bb7747ae20f91997fe7cb39"
+  },
+  {
+    "earthquakeAt": "2026-03-07T06:42:03.000Z",
+    "latitude": -5.25,
+    "longitude": 104.28,
+    "magnitude": 4,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 35 km tenggara Lampung Barat",
+    "feltOnStations": "II Bengkunat",
+    "bmkgEarthquakeId": "20260307134203",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260307134203.mmi.jpg",
+    "fingerprintSha1": "b06539b6e995b0294a14691502f1f0fb0a6b66d8"
   }
 ]
