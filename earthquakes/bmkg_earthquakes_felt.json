@@ -34417,5 +34417,17 @@
     "bmkgEarthquakeId": "20260307042346",
     "shakeMapUrl": "https://static.bmkg.go.id/20260307042346.mmi.jpg",
     "fingerprintSha1": "d4246ef27b4df3a19d1312a37c69c3c0786351a2"
+  },
+  {
+    "earthquakeAt": "2026-03-07T00:51:21.000Z",
+    "latitude": 2.73,
+    "longitude": 117.56,
+    "magnitude": 3.8,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 65 km Timur Bulungan",
+    "feltOnStations": "III Tanjung Selor, II Tarakan",
+    "bmkgEarthquakeId": "20260307075121",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260307075121.mmi.jpg",
+    "fingerprintSha1": "d39ddcce0fc3d08780fee50c502591b5f8d47725"
   }
 ]
