@@ -34429,5 +34429,17 @@
     "bmkgEarthquakeId": "20260307075121",
     "shakeMapUrl": "https://static.bmkg.go.id/20260307075121.mmi.jpg",
     "fingerprintSha1": "d39ddcce0fc3d08780fee50c502591b5f8d47725"
+  },
+  {
+    "earthquakeAt": "2026-03-07T04:15:39.000Z",
+    "latitude": -1.52,
+    "longitude": 119.46,
+    "magnitude": 4.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 40 km selatan Pasangkayu",
+    "feltOnStations": "II-III Pasangkayu, II Sigi",
+    "bmkgEarthquakeId": "20260307111539",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260307111539.mmi.jpg",
+    "fingerprintSha1": "d51398f6dbc152ba52ce1a4b089d0456d8ab9625"
   }
 ]
