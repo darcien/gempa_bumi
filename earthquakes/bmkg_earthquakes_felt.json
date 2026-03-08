@@ -34525,5 +34525,17 @@
     "bmkgEarthquakeId": "20260308130505",
     "shakeMapUrl": "https://static.bmkg.go.id/20260308130505.mmi.jpg",
     "fingerprintSha1": "e5427963a8f0859cdfe1961ad03ef8db1c6a4d25"
+  },
+  {
+    "earthquakeAt": "2026-03-08T23:25:11.000Z",
+    "latitude": -2.91,
+    "longitude": 132.27,
+    "magnitude": 4.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km BaratLaut Fakfak",
+    "feltOnStations": "III-IV Fak-fak",
+    "bmkgEarthquakeId": "20260309062511",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260309062511.mmi.jpg",
+    "fingerprintSha1": "f02320c82a706a803dd899e56efe36d17045ed54"
   }
 ]
