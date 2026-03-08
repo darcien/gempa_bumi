@@ -34513,5 +34513,17 @@
     "bmkgEarthquakeId": "20260308122426",
     "shakeMapUrl": "https://static.bmkg.go.id/20260308122426.mmi.jpg",
     "fingerprintSha1": "b83cccd29d543016693650740e90460eac7aaa35"
+  },
+  {
+    "earthquakeAt": "2026-03-08T06:05:05.000Z",
+    "latitude": 1.9,
+    "longitude": 96.4,
+    "magnitude": 5.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 63 km Tenggara Sinabang",
+    "feltOnStations": "III Simeulue, II Aceh Selatan, II Subulussalam",
+    "bmkgEarthquakeId": "20260308130505",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260308130505.mmi.jpg",
+    "fingerprintSha1": "e5427963a8f0859cdfe1961ad03ef8db1c6a4d25"
   }
 ]
