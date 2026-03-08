@@ -34501,5 +34501,17 @@
     "bmkgEarthquakeId": "20260308075041",
     "shakeMapUrl": "https://static.bmkg.go.id/20260308075041.mmi.jpg",
     "fingerprintSha1": "ac9c6d76735bf06253da4fd1d5c2d3f6023f43b9"
+  },
+  {
+    "earthquakeAt": "2026-03-08T05:24:26.000Z",
+    "latitude": -5.32,
+    "longitude": 123.26,
+    "magnitude": 4.1,
+    "depthInKm": 19,
+    "locationInIndonesian": "Pusat gempa berada di laut 31 km barat Wakatobi",
+    "feltOnStations": "III Buton",
+    "bmkgEarthquakeId": "20260308122426",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260308122426.mmi.jpg",
+    "fingerprintSha1": "b83cccd29d543016693650740e90460eac7aaa35"
   }
 ]
