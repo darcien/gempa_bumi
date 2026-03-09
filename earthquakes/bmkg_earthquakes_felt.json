@@ -34537,5 +34537,17 @@
     "bmkgEarthquakeId": "20260309062511",
     "shakeMapUrl": "https://static.bmkg.go.id/20260309062511.mmi.jpg",
     "fingerprintSha1": "f02320c82a706a803dd899e56efe36d17045ed54"
+  },
+  {
+    "earthquakeAt": "2026-03-09T12:02:54.000Z",
+    "latitude": 2.48,
+    "longitude": 95.98,
+    "magnitude": 4.1,
+    "depthInKm": 58,
+    "locationInIndonesian": "Pusat gempa berada di laut 43 km barat Sinabang",
+    "feltOnStations": "II-III Simeulue",
+    "bmkgEarthquakeId": "20260309190254",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260309190254.mmi.jpg",
+    "fingerprintSha1": "233c0538ec713b21fe1e1272e428171c2fc54941"
   }
 ]
