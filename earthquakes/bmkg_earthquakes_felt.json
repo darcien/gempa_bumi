@@ -34549,5 +34549,17 @@
     "bmkgEarthquakeId": "20260309190254",
     "shakeMapUrl": "https://static.bmkg.go.id/20260309190254.mmi.jpg",
     "fingerprintSha1": "233c0538ec713b21fe1e1272e428171c2fc54941"
+  },
+  {
+    "earthquakeAt": "2026-03-10T21:45:37.000Z",
+    "latitude": -9.61,
+    "longitude": 120.55,
+    "magnitude": 4.8,
+    "depthInKm": 37,
+    "locationInIndonesian": "Pusat gempa berada di laut 33 km timur Waingapu",
+    "feltOnStations": "III-IV Waingapu",
+    "bmkgEarthquakeId": "20260311044537",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260311044537.mmi.jpg",
+    "fingerprintSha1": "ac8b0734f0a7b481e488cfaa96f2a80eb47a7063"
   }
 ]
