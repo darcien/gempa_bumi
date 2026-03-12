@@ -34585,5 +34585,29 @@
     "bmkgEarthquakeId": "20260311075647",
     "shakeMapUrl": "https://static.bmkg.go.id/20260311075647.mmi.jpg",
     "fingerprintSha1": "dbb6ff6160628b47feb122f88c8ea0f8f1d2d354"
+  },
+  {
+    "earthquakeAt": "2026-03-12T09:54:24.000Z",
+    "latitude": 4.91,
+    "longitude": 96.8,
+    "magnitude": 2.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km Utara Kab. Bener Meriah",
+    "feltOnStations": "II Bener Meriah",
+    "bmkgEarthquakeId": "20260312165424",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260312165424.mmi.jpg",
+    "fingerprintSha1": "6815e4728dbbcf00d6ce227e5ec52502f7c9c146"
+  },
+  {
+    "earthquakeAt": "2026-03-12T09:44:59.000Z",
+    "latitude": 4.97,
+    "longitude": 96.72,
+    "magnitude": 3.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 27 km Selatan Kab. Bireuen",
+    "feltOnStations": "II-III Bener Meriah",
+    "bmkgEarthquakeId": "20260312164459",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260312164459.mmi.jpg",
+    "fingerprintSha1": "1378781331b6373dbed4b83bc913a3a5e35e35ac"
   }
 ]
