@@ -34621,5 +34621,17 @@
     "bmkgEarthquakeId": "20260313021820",
     "shakeMapUrl": "https://static.bmkg.go.id/20260313021820.mmi.jpg",
     "fingerprintSha1": "913eba2d9eb91c8cf03ecccfeeaa013e0f7b8356"
+  },
+  {
+    "earthquakeAt": "2026-03-12T20:04:04.000Z",
+    "latitude": -0.01,
+    "longitude": 111.9,
+    "magnitude": 5.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 81 km utara Melawi",
+    "feltOnStations": "III Sintang, III Sanggau, II Katingan, II Melawi",
+    "bmkgEarthquakeId": "20260313030404",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260313030404.mmi.jpg",
+    "fingerprintSha1": "dd2cc693e6754b321b92930c394995cfabe06a89"
   }
 ]
