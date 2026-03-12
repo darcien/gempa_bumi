@@ -34609,5 +34609,17 @@
     "bmkgEarthquakeId": "20260312164459",
     "shakeMapUrl": "https://static.bmkg.go.id/20260312164459.mmi.jpg",
     "fingerprintSha1": "1378781331b6373dbed4b83bc913a3a5e35e35ac"
+  },
+  {
+    "earthquakeAt": "2026-03-12T19:18:20.000Z",
+    "latitude": -7.96,
+    "longitude": 106.92,
+    "magnitude": 5.4,
+    "depthInKm": 43,
+    "locationInIndonesian": "Pusat gempa berada di laut 115 km BaratDaya Kota Sukabumi",
+    "feltOnStations": "IV Cidolog, IV Ciracap, III-IV Garut, III-IV Tasikmalaya, III-IV Cidahu, III-IV Cimanggu, III-IV Jampang Tengah, III-IV Kadupandak, III-IV Tegal Buleud, III Bayah, III Kabupaten Bandung, III Klapanunggal, II-III Pangandaran, II-III Ciamis, III-IV Cijati, III Campaka",
+    "bmkgEarthquakeId": "20260313021820",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260313021820.mmi.jpg",
+    "fingerprintSha1": "913eba2d9eb91c8cf03ecccfeeaa013e0f7b8356"
   }
 ]
