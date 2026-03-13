@@ -34645,5 +34645,17 @@
     "bmkgEarthquakeId": "20260313064859",
     "shakeMapUrl": "https://static.bmkg.go.id/20260313064859.mmi.jpg",
     "fingerprintSha1": "05edbb3db6dec1af748d3c920c78f25ecb873bdf"
+  },
+  {
+    "earthquakeAt": "2026-03-13T03:55:25.000Z",
+    "latitude": -5.66,
+    "longitude": 122.82,
+    "magnitude": 3.2,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 17 km Selatan Buton",
+    "feltOnStations": "II-III Wabula",
+    "bmkgEarthquakeId": "20260313105525",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260313105525.mmi.jpg",
+    "fingerprintSha1": "02df762d2aec013d71dc3b9ffc72d7a23dfe2488"
   }
 ]
