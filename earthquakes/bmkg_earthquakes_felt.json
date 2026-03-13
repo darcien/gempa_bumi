@@ -34633,5 +34633,17 @@
     "bmkgEarthquakeId": "20260313030404",
     "shakeMapUrl": "https://static.bmkg.go.id/20260313030404.mmi.jpg",
     "fingerprintSha1": "dd2cc693e6754b321b92930c394995cfabe06a89"
+  },
+  {
+    "earthquakeAt": "2026-03-12T23:48:59.000Z",
+    "latitude": -4.07,
+    "longitude": 121.85,
+    "magnitude": 3.2,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km selatan Kolaka Timur",
+    "feltOnStations": "III Kolaka Timur, II - III Kolaka",
+    "bmkgEarthquakeId": "20260313064859",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260313064859.mmi.jpg",
+    "fingerprintSha1": "05edbb3db6dec1af748d3c920c78f25ecb873bdf"
   }
 ]
