@@ -34657,5 +34657,29 @@
     "bmkgEarthquakeId": "20260313105525",
     "shakeMapUrl": "https://static.bmkg.go.id/20260313105525.mmi.jpg",
     "fingerprintSha1": "02df762d2aec013d71dc3b9ffc72d7a23dfe2488"
+  },
+  {
+    "earthquakeAt": "2026-03-14T18:15:29.000Z",
+    "latitude": -4.13,
+    "longitude": 122.71,
+    "magnitude": 3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 29 km tenggara Kendari",
+    "feltOnStations": "II-III Moramo",
+    "bmkgEarthquakeId": "20260315011529",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260315011529.mmi.jpg",
+    "fingerprintSha1": "460e433f2bd677ffa1fcc62a7758241029419a11"
+  },
+  {
+    "earthquakeAt": "2026-03-14T17:36:13.000Z",
+    "latitude": -6.97,
+    "longitude": 106.98,
+    "magnitude": 4.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km tenggara Kota Sukabumi",
+    "feltOnStations": "IV Nyalindung, III-IV Sukabumi, III-IV Kabandungan, III-IV Tugubandung, III-IV Cipeuteuy, III-IV Cihamerang, III-IV Mekarjaya, III-IV Cianaga, II-III Cianjur Kota, II-III Cipanas, II-III Kalapanunggal, II Palabuhan Ratu, II Cimahi, II Lembang",
+    "bmkgEarthquakeId": "20260315003613",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260315003613.mmi.jpg",
+    "fingerprintSha1": "d9ab6e97f89aa37b51e1f0f863c6c007b47f88c0"
   }
 ]
