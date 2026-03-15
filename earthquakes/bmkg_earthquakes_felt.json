@@ -34681,5 +34681,17 @@
     "bmkgEarthquakeId": "20260315003613",
     "shakeMapUrl": "https://static.bmkg.go.id/20260315003613.mmi.jpg",
     "fingerprintSha1": "d9ab6e97f89aa37b51e1f0f863c6c007b47f88c0"
+  },
+  {
+    "earthquakeAt": "2026-03-15T22:28:20.000Z",
+    "latitude": -4.1,
+    "longitude": 121.87,
+    "magnitude": 3,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km Selatan Kolaka Timur",
+    "feltOnStations": "III Kolaka Timur, II-III Konawe",
+    "bmkgEarthquakeId": "20260316052820",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260316052820.mmi.jpg",
+    "fingerprintSha1": "1cb5a31f096bb2223c3c358850a722842e9a4cad"
   }
 ]
