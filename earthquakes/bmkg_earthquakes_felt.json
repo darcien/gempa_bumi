@@ -34693,5 +34693,29 @@
     "bmkgEarthquakeId": "20260316052820",
     "shakeMapUrl": "https://static.bmkg.go.id/20260316052820.mmi.jpg",
     "fingerprintSha1": "1cb5a31f096bb2223c3c358850a722842e9a4cad"
+  },
+  {
+    "earthquakeAt": "2026-03-16T11:53:26.000Z",
+    "latitude": -2.13,
+    "longitude": 139.05,
+    "magnitude": 4.7,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 43 km tenggara Sarmi",
+    "feltOnStations": "II-III Sarmi",
+    "bmkgEarthquakeId": "20260316185326",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260316185326.mmi.jpg",
+    "fingerprintSha1": "f2716b32736b0649d9d70f49142fdb357c4c5589"
+  },
+  {
+    "earthquakeAt": "2026-03-16T11:41:59.000Z",
+    "latitude": -9.41,
+    "longitude": 118.18,
+    "magnitude": 5,
+    "depthInKm": 37,
+    "locationInIndonesian": "Pusat gempa berada di laut 91 km baratlaut Kodi, Sumbawa Barat Daya",
+    "feltOnStations": "III Sumbawa, III Bima, III Kab. Bima",
+    "bmkgEarthquakeId": "20260316184159",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260316184159.mmi.jpg",
+    "fingerprintSha1": "536b96874d308cb1cc4b5b6a95747b196decec07"
   }
 ]
