@@ -34760,10 +34760,22 @@
     "longitude": 120.86,
     "magnitude": 3.8,
     "depthInKm": 10,
-    "locationInIndonesian": "Pusat gempa berada di laut 43 km utara Toli-Toli",
+    "locationInIndonesian": "Pusat gempa berada di darat 43 km utara Toli-Toli",
     "feltOnStations": "III Toli-Toli",
     "bmkgEarthquakeId": "20260317211100",
     "shakeMapUrl": "https://static.bmkg.go.id/20260317211100.mmi.jpg",
     "fingerprintSha1": "879268c7e5b7a0a62d1bb75690f4c36b8240e5a0"
+  },
+  {
+    "earthquakeAt": "2026-03-17T14:12:58.000Z",
+    "latitude": 1.41,
+    "longitude": 120.85,
+    "magnitude": 4.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 60 km utara Toli-Toli",
+    "feltOnStations": "III Toli-Toli",
+    "bmkgEarthquakeId": "20260317211258",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260317211258.mmi.jpg",
+    "fingerprintSha1": "54dabf311adbede3fcf37ecf2abe13d0b98c4224"
   }
 ]
