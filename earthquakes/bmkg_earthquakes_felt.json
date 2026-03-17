@@ -34717,5 +34717,29 @@
     "bmkgEarthquakeId": "20260316184159",
     "shakeMapUrl": "https://static.bmkg.go.id/20260316184159.mmi.jpg",
     "fingerprintSha1": "536b96874d308cb1cc4b5b6a95747b196decec07"
+  },
+  {
+    "earthquakeAt": "2026-03-17T01:05:15.000Z",
+    "latitude": -4.1,
+    "longitude": 121.88,
+    "magnitude": 2.7,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km selatan Kolaka Timur",
+    "feltOnStations": "II Tirawuta",
+    "bmkgEarthquakeId": "20260317080515",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260317080515.mmi.jpg",
+    "fingerprintSha1": "9988d985a7376b7ac780019a7b9a8eb15a45e8b9"
+  },
+  {
+    "earthquakeAt": "2026-03-16T23:44:22.000Z",
+    "latitude": -6.74,
+    "longitude": 107.9,
+    "magnitude": 3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 13 km barat laut Kab. Sumedang",
+    "feltOnStations": "II-III Tanjungkerta, II-III Buahdua, II-III Cipadung, II-III Tanjung Medar",
+    "bmkgEarthquakeId": "20260317064422",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260317064422.mmi.jpg",
+    "fingerprintSha1": "858901dafa727750ac23ce872151716ede215611"
   }
 ]
