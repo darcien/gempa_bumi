@@ -34789,5 +34789,17 @@
     "bmkgEarthquakeId": "20260318091327",
     "shakeMapUrl": "https://static.bmkg.go.id/20260318091327.mmi.jpg",
     "fingerprintSha1": "813b6990961eaa88ed562c015ec51d54edc228ed"
+  },
+  {
+    "earthquakeAt": "2026-03-18T03:42:33.000Z",
+    "latitude": -6.76,
+    "longitude": 107.67,
+    "magnitude": 1.8,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di darat 23 km barat daya Subang",
+    "feltOnStations": "II - III Subang",
+    "bmkgEarthquakeId": "20260318104233",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260318104233.mmi.jpg",
+    "fingerprintSha1": "882e85aee579023558841dd7c77567382fb06480"
   }
 ]
