@@ -34801,5 +34801,17 @@
     "bmkgEarthquakeId": "20260318104233",
     "shakeMapUrl": "https://static.bmkg.go.id/20260318104233.mmi.jpg",
     "fingerprintSha1": "882e85aee579023558841dd7c77567382fb06480"
+  },
+  {
+    "earthquakeAt": "2026-03-18T14:24:03.000Z",
+    "latitude": -4.47,
+    "longitude": 122.69,
+    "magnitude": 3.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 36 km utara Muna",
+    "feltOnStations": "II-III Muna",
+    "bmkgEarthquakeId": "20260318212403",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260318212403.mmi.jpg",
+    "fingerprintSha1": "cf4f1cb9421818406a389c6ccf26c82a9eb425ea"
   }
 ]
