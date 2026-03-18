@@ -34813,5 +34813,17 @@
     "bmkgEarthquakeId": "20260318212403",
     "shakeMapUrl": "https://static.bmkg.go.id/20260318212403.mmi.jpg",
     "fingerprintSha1": "cf4f1cb9421818406a389c6ccf26c82a9eb425ea"
+  },
+  {
+    "earthquakeAt": "2026-03-18T17:03:39.000Z",
+    "latitude": 4.46,
+    "longitude": 96.51,
+    "magnitude": 3.5,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 33 km timur laut Kabupaten Nagan Raya",
+    "feltOnStations": "II-III Aceh Tengah",
+    "bmkgEarthquakeId": "20260319000339",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260319000339.mmi.jpg",
+    "fingerprintSha1": "25dbecb8852ceed6c3b161a5adeee5cde313d878"
   }
 ]
