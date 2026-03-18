@@ -34777,5 +34777,17 @@
     "bmkgEarthquakeId": "20260317211258",
     "shakeMapUrl": "https://static.bmkg.go.id/20260317211258.mmi.jpg",
     "fingerprintSha1": "54dabf311adbede3fcf37ecf2abe13d0b98c4224"
+  },
+  {
+    "earthquakeAt": "2026-03-18T02:13:27.000Z",
+    "latitude": 4.02,
+    "longitude": 117.66,
+    "magnitude": 2.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 74 km Utara Tarakan",
+    "feltOnStations": "III Nunukan",
+    "bmkgEarthquakeId": "20260318091327",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260318091327.mmi.jpg",
+    "fingerprintSha1": "813b6990961eaa88ed562c015ec51d54edc228ed"
   }
 ]
