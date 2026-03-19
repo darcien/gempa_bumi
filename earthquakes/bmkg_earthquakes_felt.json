@@ -34833,9 +34833,21 @@
     "magnitude": 4.2,
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di darat 21 km timur laut Kab. Gayo Lues",
-    "feltOnStations": "IV Gayo Lues",
+    "feltOnStations": "IV Gayo Lues, III Aceh Tamiang, III-IV Aceh Timur, III-IV Lhokseumawe",
     "bmkgEarthquakeId": "20260319140744",
     "shakeMapUrl": "https://static.bmkg.go.id/20260319140744.mmi.jpg",
     "fingerprintSha1": "9f3b1d1da70ffeac62dcc5e5aefd73c92a5a10ab"
+  },
+  {
+    "earthquakeAt": "2026-03-19T07:08:20.000Z",
+    "latitude": 4.21,
+    "longitude": 97.49,
+    "magnitude": 3.6,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 29 km Timur laut Kabupaten Gayo Lues",
+    "feltOnStations": "III Gayo Lues",
+    "bmkgEarthquakeId": "20260319140820",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260319140820.mmi.jpg",
+    "fingerprintSha1": "fd0c8c324b7c8eb99838011cde95f899d882bba7"
   }
 ]
