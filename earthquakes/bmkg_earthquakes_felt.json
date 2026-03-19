@@ -34849,5 +34849,17 @@
     "bmkgEarthquakeId": "20260319140820",
     "shakeMapUrl": "https://static.bmkg.go.id/20260319140820.mmi.jpg",
     "fingerprintSha1": "fd0c8c324b7c8eb99838011cde95f899d882bba7"
+  },
+  {
+    "earthquakeAt": "2026-03-19T15:01:57.000Z",
+    "latitude": 0.13,
+    "longitude": 111.81,
+    "magnitude": 3.1,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di darat 92 km utara Melawi",
+    "feltOnStations": "II Kayan Hilir",
+    "bmkgEarthquakeId": "20260319220157",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260319220157.mmi.jpg",
+    "fingerprintSha1": "f4488d09c599ba66fee1974fe958d25146d2264c"
   }
 ]
