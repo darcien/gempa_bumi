@@ -34873,5 +34873,17 @@
     "bmkgEarthquakeId": "20260320192809",
     "shakeMapUrl": "https://static.bmkg.go.id/20260320192809.mmi.jpg",
     "fingerprintSha1": "eeb11dbc767bd7a78d3f2af855cec9baf27433c5"
+  },
+  {
+    "earthquakeAt": "2026-03-20T19:33:03.000Z",
+    "latitude": -1.52,
+    "longitude": 119.49,
+    "magnitude": 4.3,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 41 km Selatan Pasangkayu",
+    "feltOnStations": "III Pasangkayu",
+    "bmkgEarthquakeId": "20260321023303",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260321023303.mmi.jpg",
+    "fingerprintSha1": "314ac2fd5a285ef9151d38a856ef0838133c7c1e"
   }
 ]
