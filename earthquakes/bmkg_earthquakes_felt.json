@@ -34897,5 +34897,17 @@
     "bmkgEarthquakeId": "20260323111945",
     "shakeMapUrl": "https://static.bmkg.go.id/20260323111945.mmi.jpg",
     "fingerprintSha1": "de6354329bf61488a09b2421ba6e837808ab37ed"
+  },
+  {
+    "earthquakeAt": "2026-03-23T15:37:22.000Z",
+    "latitude": -3.28,
+    "longitude": 129.15,
+    "magnitude": 4.1,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 26 km Timur Masohi",
+    "feltOnStations": "III-IV Negeri Sepa",
+    "bmkgEarthquakeId": "20260323223722",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260323223722.mmi.jpg",
+    "fingerprintSha1": "727c8ffb22702a2cae056b9fa4604563358efe8d"
   }
 ]
