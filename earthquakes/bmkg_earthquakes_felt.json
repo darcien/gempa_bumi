@@ -34945,5 +34945,17 @@
     "bmkgEarthquakeId": "20260326141448",
     "shakeMapUrl": "https://static.bmkg.go.id/20260326141448.mmi.jpg",
     "fingerprintSha1": "bbb2532813c9eef26a570008d9c0554da2e36ccd"
+  },
+  {
+    "earthquakeAt": "2026-03-26T22:51:02.000Z",
+    "latitude": -3.08,
+    "longitude": 139.47,
+    "magnitude": 6.2,
+    "depthInKm": 71,
+    "locationInIndonesian": "Pusat gempa berada di darat 78 km timur laut Yalimo",
+    "feltOnStations": "II - III Wamena, III Kota Jayapura, III Kab. Jayapura, II - III Kab. Sarmi",
+    "bmkgEarthquakeId": "20260327055102",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260327055102.mmi.jpg",
+    "fingerprintSha1": "1c4ac624e6e70e3ee58cc1e9eeac1b6b739437dd"
   }
 ]
