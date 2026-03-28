@@ -34957,5 +34957,17 @@
     "bmkgEarthquakeId": "20260327055102",
     "shakeMapUrl": "https://static.bmkg.go.id/20260327055102.mmi.jpg",
     "fingerprintSha1": "1c4ac624e6e70e3ee58cc1e9eeac1b6b739437dd"
+  },
+  {
+    "earthquakeAt": "2026-03-28T07:35:47.000Z",
+    "latitude": -3.5,
+    "longitude": 140.48,
+    "magnitude": 5.1,
+    "depthInKm": 64,
+    "locationInIndonesian": "Pusat gempa berada di darat 33 km BaratDaya SENGGIKEEROM",
+    "feltOnStations": "III Keerom, III Jayapura",
+    "bmkgEarthquakeId": "20260328143547",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260328143547.mmi.jpg",
+    "fingerprintSha1": "e96e766b1241226edb33009a483322be9066b2b8"
   }
 ]
