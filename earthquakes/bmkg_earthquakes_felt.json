@@ -34981,5 +34981,17 @@
     "bmkgEarthquakeId": "20260328235600",
     "shakeMapUrl": "https://static.bmkg.go.id/20260328235600.mmi.jpg",
     "fingerprintSha1": "6b61f3143ed904ab6edbcbe3846d295910e39015"
+  },
+  {
+    "earthquakeAt": "2026-03-28T18:38:32.000Z",
+    "latitude": -7.73,
+    "longitude": 127.89,
+    "magnitude": 6.5,
+    "depthInKm": 141,
+    "locationInIndonesian": "Pusat gempa berada di laut 48 km utara Maluku Barat Daya",
+    "feltOnStations": "IV-V Tiakur",
+    "bmkgEarthquakeId": "20260329013832",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260329013832.mmi.jpg",
+    "fingerprintSha1": "681d202ac163b0c636e2445a9987493db8629ea1"
   }
 ]
