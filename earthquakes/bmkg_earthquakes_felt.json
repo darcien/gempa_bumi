@@ -34969,5 +34969,17 @@
     "bmkgEarthquakeId": "20260328143547",
     "shakeMapUrl": "https://static.bmkg.go.id/20260328143547.mmi.jpg",
     "fingerprintSha1": "e96e766b1241226edb33009a483322be9066b2b8"
+  },
+  {
+    "earthquakeAt": "2026-03-28T16:56:00.000Z",
+    "latitude": -4.01,
+    "longitude": 121.56,
+    "magnitude": 2.6,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km Barat Laut Kolaka",
+    "feltOnStations": "II-III Latambaga, II-III Kolaka",
+    "bmkgEarthquakeId": "20260328235600",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260328235600.mmi.jpg",
+    "fingerprintSha1": "6b61f3143ed904ab6edbcbe3846d295910e39015"
   }
 ]
