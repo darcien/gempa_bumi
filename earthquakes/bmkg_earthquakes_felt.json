@@ -34993,5 +34993,17 @@
     "bmkgEarthquakeId": "20260329013832",
     "shakeMapUrl": "https://static.bmkg.go.id/20260329013832.mmi.jpg",
     "fingerprintSha1": "681d202ac163b0c636e2445a9987493db8629ea1"
+  },
+  {
+    "earthquakeAt": "2026-03-29T14:29:44.000Z",
+    "latitude": -3.72,
+    "longitude": 122.13,
+    "magnitude": 4,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 18 km Timur Laut Konawe",
+    "feltOnStations": "III-IV Konawe Utara, III Konawe",
+    "bmkgEarthquakeId": "20260329212944",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260329212944.mmi.jpg",
+    "fingerprintSha1": "28724e7f7da55b445d7bfd20a3b75ad0cf05b19f"
   }
 ]
