@@ -35005,5 +35005,17 @@
     "bmkgEarthquakeId": "20260329212944",
     "shakeMapUrl": "https://static.bmkg.go.id/20260329212944.mmi.jpg",
     "fingerprintSha1": "28724e7f7da55b445d7bfd20a3b75ad0cf05b19f"
+  },
+  {
+    "earthquakeAt": "2026-03-30T19:03:15.000Z",
+    "latitude": -5.41,
+    "longitude": 104.65,
+    "magnitude": 2.1,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km utara Tanggamus",
+    "feltOnStations": "II Kotaagung, II Sumberejo",
+    "bmkgEarthquakeId": "20260331020315",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260331020315.mmi.jpg",
+    "fingerprintSha1": "2d558fa709bb4a9beb8e1421bf778f8bf33d36f7"
   }
 ]
