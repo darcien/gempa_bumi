@@ -35017,5 +35017,17 @@
     "bmkgEarthquakeId": "20260331020315",
     "shakeMapUrl": "https://static.bmkg.go.id/20260331020315.mmi.jpg",
     "fingerprintSha1": "2d558fa709bb4a9beb8e1421bf778f8bf33d36f7"
+  },
+  {
+    "earthquakeAt": "2026-03-30T22:35:28.000Z",
+    "latitude": -2.7,
+    "longitude": 134.54,
+    "magnitude": 4.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km TimurLaut Teluk Wondama",
+    "feltOnStations": "III-IV Teluk Wondama",
+    "bmkgEarthquakeId": "20260331053528",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260331053528.mmi.jpg",
+    "fingerprintSha1": "69315416d41980845b481f5aef288f9a72028d88"
   }
 ]
