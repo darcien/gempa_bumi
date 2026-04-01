@@ -35077,5 +35077,17 @@
     "bmkgEarthquakeId": "20260401160729",
     "shakeMapUrl": "https://static.bmkg.go.id/20260401160729.mmi.jpg",
     "fingerprintSha1": "e2b3adff133d6117d31821b4b59fa04e4e76a4da"
+  },
+  {
+    "earthquakeAt": "2026-04-01T12:14:01.000Z",
+    "latitude": -0.32,
+    "longitude": 129.76,
+    "magnitude": 5.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 119 km barat laut Raja Ampat",
+    "feltOnStations": "III-IV Pulau Gag, III Pulau Gebe, II Kab. Sorong",
+    "bmkgEarthquakeId": "20260401191401",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260401191401.mmi.jpg",
+    "fingerprintSha1": "36b01a11f170f61cfcf7561708937026b01c045a"
   }
 ]
