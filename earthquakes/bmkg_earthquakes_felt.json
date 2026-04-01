@@ -35053,5 +35053,17 @@
     "bmkgEarthquakeId": "20260401045441",
     "shakeMapUrl": "https://static.bmkg.go.id/20260401045441.mmi.jpg",
     "fingerprintSha1": "e0989e405a759210dc7f233ccedb95193b8f1c93"
+  },
+  {
+    "earthquakeAt": "2026-04-01T00:10:03.000Z",
+    "latitude": -4.06,
+    "longitude": 122.46,
+    "magnitude": 2.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km Barat Daya Kendari",
+    "feltOnStations": "II-III Konawe Selatan",
+    "bmkgEarthquakeId": "20260401071003",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260401071003.mmi.jpg",
+    "fingerprintSha1": "1963355ea96782890414c9e3f1a4f0bfdaabcd06"
   }
 ]
