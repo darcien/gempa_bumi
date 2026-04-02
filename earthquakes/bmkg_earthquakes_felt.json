@@ -35137,5 +35137,17 @@
     "bmkgEarthquakeId": "20260402101749",
     "shakeMapUrl": "https://static.bmkg.go.id/20260402101749.mmi.jpg",
     "fingerprintSha1": "608ac9861d5fbd99cb2265da2cef46f4cdf825b5"
+  },
+  {
+    "earthquakeAt": "2026-04-02T06:42:46.000Z",
+    "latitude": -7.64,
+    "longitude": 106.43,
+    "magnitude": 4.5,
+    "depthInKm": 25,
+    "locationInIndonesian": "Pusat gempa berada di laut 73 km barat daya Kab. Sukabumi",
+    "feltOnStations": "III Ciracap, III Surade, III Kabandungan, II-III Cidolog",
+    "bmkgEarthquakeId": "20260402134246",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260402134246.mmi.jpg",
+    "fingerprintSha1": "a0bd2004c188fd3ec0f4ac39d1e090978caeb167"
   }
 ]
