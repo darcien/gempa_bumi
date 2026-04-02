@@ -35257,5 +35257,29 @@
     "bmkgEarthquakeId": "20260402233355",
     "shakeMapUrl": "https://static.bmkg.go.id/20260402233355.mmi.jpg",
     "fingerprintSha1": "57a3cb1ba34e2701d726a6321ee211eb9c9c9b01"
+  },
+  {
+    "earthquakeAt": "2026-04-02T19:08:00.000Z",
+    "latitude": 1.2,
+    "longitude": 126.23,
+    "magnitude": 4.4,
+    "depthInKm": 16,
+    "locationInIndonesian": "Pusat gempa berada di laut 126 km timur Bitung",
+    "feltOnStations": "II-III Batang Dua",
+    "bmkgEarthquakeId": "20260403020800",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260403020800.mmi.jpg",
+    "fingerprintSha1": "d79418e9dc3df2db8b0e7526d09e62403e6231cc"
+  },
+  {
+    "earthquakeAt": "2026-04-02T18:46:10.000Z",
+    "latitude": 1.27,
+    "longitude": 126.27,
+    "magnitude": 4.2,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di laut 129 km timur Bitung",
+    "feltOnStations": "II-III Batang Dua",
+    "bmkgEarthquakeId": "20260403014610",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260403014610.mmi.jpg",
+    "fingerprintSha1": "6cc121f63c287ae9c97061f70815315858f8cab4"
   }
 ]
