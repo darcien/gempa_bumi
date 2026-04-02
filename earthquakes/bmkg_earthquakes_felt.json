@@ -35173,5 +35173,41 @@
     "bmkgEarthquakeId": "20260402195125",
     "shakeMapUrl": "https://static.bmkg.go.id/20260402195125.mmi.jpg",
     "fingerprintSha1": "5dd7f0c610bb0d2474970d4164d33e94a1a7c589"
+  },
+  {
+    "earthquakeAt": "2026-04-02T14:34:55.000Z",
+    "latitude": 1.36,
+    "longitude": 126.45,
+    "magnitude": 5.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 117 km barat laut Jailolo",
+    "feltOnStations": "III-IV Ternate",
+    "bmkgEarthquakeId": "20260402213455",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260402213455.mmi.jpg",
+    "fingerprintSha1": "038da9237426a370fae4651d957139b9832f7f9c"
+  },
+  {
+    "earthquakeAt": "2026-04-02T14:13:47.000Z",
+    "latitude": 1.39,
+    "longitude": 126.56,
+    "magnitude": 5.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 107 km barat laut Jailolo",
+    "feltOnStations": "II-III Manado, II-III Tondano, II-III MInahasa Utara",
+    "bmkgEarthquakeId": "20260402211347",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260402211347.mmi.jpg",
+    "fingerprintSha1": "69a857eaea958ca01f44a7abef5feae0437bf1ee"
+  },
+  {
+    "earthquakeAt": "2026-04-02T13:42:59.000Z",
+    "latitude": -3.81,
+    "longitude": 122.45,
+    "magnitude": 3.1,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 19 km utara Kendari",
+    "feltOnStations": "",
+    "bmkgEarthquakeId": "20260402204259",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260402204259.mmi.jpg",
+    "fingerprintSha1": "0bcf978099da25afaa3ccd684afa7894a9aa4d38"
   }
 ]
