@@ -35149,5 +35149,17 @@
     "bmkgEarthquakeId": "20260402134246",
     "shakeMapUrl": "https://static.bmkg.go.id/20260402134246.mmi.jpg",
     "fingerprintSha1": "a0bd2004c188fd3ec0f4ac39d1e090978caeb167"
+  },
+  {
+    "earthquakeAt": "2026-04-02T08:38:58.000Z",
+    "latitude": 1.18,
+    "longitude": 126.26,
+    "magnitude": 4.6,
+    "depthInKm": 25,
+    "locationInIndonesian": "Pusat gempa berada di laut 130 km timur Bitung",
+    "feltOnStations": "III Manado",
+    "bmkgEarthquakeId": "20260402153858",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260402153858.mmi.jpg",
+    "fingerprintSha1": "476ecc24139e9ca7bf6b6f63795d6b91659796d6"
   }
 ]
