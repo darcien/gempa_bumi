@@ -35113,5 +35113,29 @@
     "bmkgEarthquakeId": "20260402054814",
     "shakeMapUrl": "https://static.bmkg.go.id/20260402054814.mmi.jpg",
     "fingerprintSha1": "3987cd02bde7bbbd29e4505bc13bef817ac8e269"
+  },
+  {
+    "earthquakeAt": "2026-04-02T03:23:51.000Z",
+    "latitude": 1.23,
+    "longitude": 126.57,
+    "magnitude": 5.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 102 km Barat Jailolo",
+    "feltOnStations": "IV-V Batang Dua, IV Ternate, II-III Manado, II-III Minahasa, II-III Minahasa Tenggara, II-III MInahasa Utara",
+    "bmkgEarthquakeId": "20260402102351",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260402102351.mmi.jpg",
+    "fingerprintSha1": "bb387fcc521b401b3fb4841397e8d7e4f7269bf9"
+  },
+  {
+    "earthquakeAt": "2026-04-02T03:17:49.000Z",
+    "latitude": 1.28,
+    "longitude": 126.44,
+    "magnitude": 5.6,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di laut 116 km Barat Jailolo",
+    "feltOnStations": "IV-V Batang Dua, IV Ternate, II-III Manado",
+    "bmkgEarthquakeId": "20260402101749",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260402101749.mmi.jpg",
+    "fingerprintSha1": "608ac9861d5fbd99cb2265da2cef46f4cdf825b5"
   }
 ]
