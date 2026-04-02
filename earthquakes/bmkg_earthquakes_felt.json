@@ -35089,5 +35089,29 @@
     "bmkgEarthquakeId": "20260401191401",
     "shakeMapUrl": "https://static.bmkg.go.id/20260401191401.mmi.jpg",
     "fingerprintSha1": "36b01a11f170f61cfcf7561708937026b01c045a"
+  },
+  {
+    "earthquakeAt": "2026-04-02T02:45:15.000Z",
+    "latitude": 0.57,
+    "longitude": 120.63,
+    "magnitude": 3.8,
+    "depthInKm": 30,
+    "locationInIndonesian": "Pusat gempa berada di darat 19 km Barat Parigimoutong",
+    "feltOnStations": "II-III Tolitoli",
+    "bmkgEarthquakeId": "20260402094515",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260402094515.mmi.jpg",
+    "fingerprintSha1": "737cc329dfb86e5ed661b6ade378d5755fd7a5bd"
+  },
+  {
+    "earthquakeAt": "2026-04-01T22:48:14.000Z",
+    "latitude": 1.21,
+    "longitude": 126.25,
+    "magnitude": 7.3,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di laut 127 km Tenggara Bitung",
+    "feltOnStations": "V-VI Ternate, V Kec. Ibu, IV-V Manado, III Bone Bolango, III Gorontalo Utara, II-III Kabupaten Boalemo, II-III Pohuwato",
+    "bmkgEarthquakeId": "20260402054814",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260402054814.mmi.jpg",
+    "fingerprintSha1": "3987cd02bde7bbbd29e4505bc13bef817ac8e269"
   }
 ]
