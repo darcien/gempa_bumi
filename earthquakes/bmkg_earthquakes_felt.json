@@ -35209,5 +35209,41 @@
     "bmkgEarthquakeId": "20260402204259",
     "shakeMapUrl": "https://static.bmkg.go.id/20260402204259.mmi.jpg",
     "fingerprintSha1": "0bcf978099da25afaa3ccd684afa7894a9aa4d38"
+  },
+  {
+    "earthquakeAt": "2026-04-02T16:10:26.000Z",
+    "latitude": 1.25,
+    "longitude": 126.24,
+    "magnitude": 5.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 126 km Tenggara Bitung",
+    "feltOnStations": "III Batang Dua",
+    "bmkgEarthquakeId": "20260402231026",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260402231026.mmi.jpg",
+    "fingerprintSha1": "9efc693d9f15190364f432d00eb285f093cb3e0d"
+  },
+  {
+    "earthquakeAt": "2026-04-02T15:36:35.000Z",
+    "latitude": -3.57,
+    "longitude": 134.93,
+    "magnitude": 5.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 68 km Barat Daya Nabire",
+    "feltOnStations": "III Nabire",
+    "bmkgEarthquakeId": "20260402223635",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260402223635.mmi.jpg",
+    "fingerprintSha1": "069dc61eaf6cf6d0b2174e798bf7761cb32412a8"
+  },
+  {
+    "earthquakeAt": "2026-04-02T15:34:24.000Z",
+    "latitude": 1.32,
+    "longitude": 126.56,
+    "magnitude": 4.7,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 105 km Barat Laut Jailolo",
+    "feltOnStations": "III Batang Dua",
+    "bmkgEarthquakeId": "20260402223424",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260402223424.mmi.jpg",
+    "fingerprintSha1": "5c8efa08c7a949d48be3361190c8c5dd39a5b4e7"
   }
 ]
