@@ -35329,5 +35329,29 @@
     "bmkgEarthquakeId": "20260403061625",
     "shakeMapUrl": "https://static.bmkg.go.id/20260403061625.mmi.jpg",
     "fingerprintSha1": "a48821df7ea6cf51bbcc45f9f09e8fc9ce6bcad0"
+  },
+  {
+    "earthquakeAt": "2026-04-03T00:32:55.000Z",
+    "latitude": 1.23,
+    "longitude": 126.83,
+    "magnitude": 5.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 94 km barat Jailolo",
+    "feltOnStations": "",
+    "bmkgEarthquakeId": "20260403073255",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260403073255.mmi.jpg",
+    "fingerprintSha1": "fa2dd437b80f551ced3e69bc0adfa03eba890509"
+  },
+  {
+    "earthquakeAt": "2026-04-03T00:22:18.000Z",
+    "latitude": 1.27,
+    "longitude": 126.62,
+    "magnitude": 5.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 96 km barat laut Jailolo",
+    "feltOnStations": "III-IV Kota Ternate",
+    "bmkgEarthquakeId": "20260403072218",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260403072218.mmi.jpg",
+    "fingerprintSha1": "c22bc79147a52f0d9292edab07cbbdde54120a89"
   }
 ]
