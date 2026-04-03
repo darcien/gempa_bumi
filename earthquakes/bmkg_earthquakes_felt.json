@@ -35401,5 +35401,17 @@
     "bmkgEarthquakeId": "20260403162407",
     "shakeMapUrl": "https://static.bmkg.go.id/20260403162407.mmi.jpg",
     "fingerprintSha1": "611e16294c8e3273aa1132e58cc6b123928b4ad2"
+  },
+  {
+    "earthquakeAt": "2026-04-03T10:59:05.000Z",
+    "latitude": 1.46,
+    "longitude": 126.37,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 129 km baratlaut Jailolo",
+    "feltOnStations": "II-III Bitung",
+    "bmkgEarthquakeId": "20260403175905",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260403175905.mmi.jpg",
+    "fingerprintSha1": "2a7c27aaa94e32913257d51389af2d248369f9ab"
   }
 ]
