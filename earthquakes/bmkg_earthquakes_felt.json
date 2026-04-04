@@ -35425,5 +35425,29 @@
     "bmkgEarthquakeId": "20260404041904",
     "shakeMapUrl": "https://static.bmkg.go.id/20260404041904.mmi.jpg",
     "fingerprintSha1": "aba7b252c2b36a958f660f81e820eaa7c1b3732d"
+  },
+  {
+    "earthquakeAt": "2026-04-04T01:35:01.000Z",
+    "latitude": 1.18,
+    "longitude": 126.18,
+    "magnitude": 5.8,
+    "depthInKm": 29,
+    "locationInIndonesian": "Pusat gempa berada di laut 121 km Tenggara Bitung",
+    "feltOnStations": "IV Manado, IV Bitung, III Tondano",
+    "bmkgEarthquakeId": "20260404083501",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260404083501.mmi.jpg",
+    "fingerprintSha1": "bc2f3225bcb10a63389306881038adc4d5e874cc"
+  },
+  {
+    "earthquakeAt": "2026-04-04T01:14:32.000Z",
+    "latitude": 0.24,
+    "longitude": 97.76,
+    "magnitude": 4.5,
+    "depthInKm": 27,
+    "locationInIndonesian": "Pusat gempa berada di laut 38 km Selatan Nias Selatan",
+    "feltOnStations": "II-III Teluk Dalam",
+    "bmkgEarthquakeId": "20260404081432",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260404081432.mmi.jpg",
+    "fingerprintSha1": "fe5b8f0286cd22a5bcac4f68b288ac26fc668b99"
   }
 ]
