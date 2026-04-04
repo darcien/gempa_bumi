@@ -35461,5 +35461,17 @@
     "bmkgEarthquakeId": "20260404122118",
     "shakeMapUrl": "https://static.bmkg.go.id/20260404122118.mmi.jpg",
     "fingerprintSha1": "f5eb4ece5864968964a59bc0f1c8a10568e22765"
+  },
+  {
+    "earthquakeAt": "2026-04-04T10:34:30.000Z",
+    "latitude": 4.9,
+    "longitude": 126.29,
+    "magnitude": 6.2,
+    "depthInKm": 31,
+    "locationInIndonesian": "Pusat gempa berada di laut 89 km barat laut Pulau Karatung",
+    "feltOnStations": "III-IV Kepulauan Talaud, III-IV Naha, II-III Manado",
+    "bmkgEarthquakeId": "20260404173430",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260404173430.mmi.jpg",
+    "fingerprintSha1": "d76a4e0d148d4104fead4c72676063191ecb3a9b"
   }
 ]
