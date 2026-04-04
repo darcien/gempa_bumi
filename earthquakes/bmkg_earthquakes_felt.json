@@ -35473,5 +35473,17 @@
     "bmkgEarthquakeId": "20260404173430",
     "shakeMapUrl": "https://static.bmkg.go.id/20260404173430.mmi.jpg",
     "fingerprintSha1": "d76a4e0d148d4104fead4c72676063191ecb3a9b"
+  },
+  {
+    "earthquakeAt": "2026-04-04T11:21:11.000Z",
+    "latitude": -2.05,
+    "longitude": 100.05,
+    "magnitude": 5.7,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 51 km tenggara Tuapejat",
+    "feltOnStations": "III-IV Padang, III-IV Kabupaten Padang Pariaman, III-IV Kota Pariaman, II-III Kabupaten Solok, II-III Kota Solok, II Bukittinggi, II Kota Padang Panjang",
+    "bmkgEarthquakeId": "20260404182111",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260404182111.mmi.jpg",
+    "fingerprintSha1": "f48fb7f777e89a7f937d557ba82d2c455ae16114"
   }
 ]
