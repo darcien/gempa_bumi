@@ -35449,5 +35449,17 @@
     "bmkgEarthquakeId": "20260404081432",
     "shakeMapUrl": "https://static.bmkg.go.id/20260404081432.mmi.jpg",
     "fingerprintSha1": "fe5b8f0286cd22a5bcac4f68b288ac26fc668b99"
+  },
+  {
+    "earthquakeAt": "2026-04-04T05:21:18.000Z",
+    "latitude": -6.03,
+    "longitude": 104.24,
+    "magnitude": 4.5,
+    "depthInKm": 26,
+    "locationInIndonesian": "Pusat gempa berada di laut 78 km barat daya Tanggamus",
+    "feltOnStations": "III Bengkunat",
+    "bmkgEarthquakeId": "20260404122118",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260404122118.mmi.jpg",
+    "fingerprintSha1": "f5eb4ece5864968964a59bc0f1c8a10568e22765"
   }
 ]
