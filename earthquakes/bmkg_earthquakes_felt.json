@@ -35485,5 +35485,17 @@
     "bmkgEarthquakeId": "20260404182111",
     "shakeMapUrl": "https://static.bmkg.go.id/20260404182111.mmi.jpg",
     "fingerprintSha1": "f48fb7f777e89a7f937d557ba82d2c455ae16114"
+  },
+  {
+    "earthquakeAt": "2026-04-05T02:26:12.000Z",
+    "latitude": -6.89,
+    "longitude": 107.08,
+    "magnitude": 2.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km baratdaya Kab Cianjur",
+    "feltOnStations": "II Cugenang",
+    "bmkgEarthquakeId": "20260405092612",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260405092612.mmi.jpg",
+    "fingerprintSha1": "beadf5e86cb68cb6e95d2330b9922c977fac0885"
   }
 ]
