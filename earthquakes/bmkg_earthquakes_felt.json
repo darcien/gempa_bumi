@@ -35545,5 +35545,17 @@
     "bmkgEarthquakeId": "20260406071824",
     "shakeMapUrl": "https://static.bmkg.go.id/20260406071824.mmi.jpg",
     "fingerprintSha1": "56b6ca656b2ade818087cbf9b08557ebdbc47008"
+  },
+  {
+    "earthquakeAt": "2026-04-07T03:43:09.000Z",
+    "latitude": 1.19,
+    "longitude": 126.19,
+    "magnitude": 4,
+    "depthInKm": 36,
+    "locationInIndonesian": "Pusat gempa berada di laut 122 km Timur Bitung",
+    "feltOnStations": "II-III Ternate, IV-V Batang Dua",
+    "bmkgEarthquakeId": "20260407104309",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260407104309.mmi.jpg",
+    "fingerprintSha1": "0edfcd938bbc4aabc311fc081c8debcb6cfca642"
   }
 ]
