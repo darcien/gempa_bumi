@@ -35569,5 +35569,17 @@
     "bmkgEarthquakeId": "20260407134418",
     "shakeMapUrl": "https://static.bmkg.go.id/20260407134418.mmi.jpg",
     "fingerprintSha1": "d3f99402c862370d97e39fefd9726ea7b4bc6ad9"
+  },
+  {
+    "earthquakeAt": "2026-04-07T13:40:17.000Z",
+    "latitude": -6.2,
+    "longitude": 103.73,
+    "magnitude": 4.8,
+    "depthInKm": 27,
+    "locationInIndonesian": "Pusat gempa berada di laut 114 km BaratDaya Pesisir Barat",
+    "feltOnStations": "II-III Liwa, II Bengkunat, II Pringsewu, II Semaka",
+    "bmkgEarthquakeId": "20260407204017",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260407204017.mmi.jpg",
+    "fingerprintSha1": "876bb511d11a063bbd0d4b608e5bfb59b11efe28"
   }
 ]
