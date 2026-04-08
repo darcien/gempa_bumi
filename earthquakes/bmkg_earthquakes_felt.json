@@ -35593,5 +35593,17 @@
     "bmkgEarthquakeId": "20260408231747",
     "shakeMapUrl": "https://static.bmkg.go.id/20260408231747.mmi.jpg",
     "fingerprintSha1": "c57892b190fd06ddc103c67ad4d1b413a0f4e93d"
+  },
+  {
+    "earthquakeAt": "2026-04-08T21:54:48.000Z",
+    "latitude": -8.44,
+    "longitude": 123.14,
+    "magnitude": 3.8,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 24 km tenggara Larantuka",
+    "feltOnStations": "II-III Flotim",
+    "bmkgEarthquakeId": "20260409045448",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260409045448.mmi.jpg",
+    "fingerprintSha1": "ea36c2a951500ab6a64e991e8bdd89fe98cef3c1"
   }
 ]
