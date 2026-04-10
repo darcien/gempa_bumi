@@ -35653,5 +35653,29 @@
     "bmkgEarthquakeId": "20260410123002",
     "shakeMapUrl": "https://static.bmkg.go.id/20260410123002.mmi.jpg",
     "fingerprintSha1": "cf8264511a287209c64430fb6b89794d2a1317e4"
+  },
+  {
+    "earthquakeAt": "2026-04-10T05:52:24.000Z",
+    "latitude": 1.36,
+    "longitude": 126.47,
+    "magnitude": 4.2,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di laut 115 km barat Jailolo",
+    "feltOnStations": "II-III Batang Dua",
+    "bmkgEarthquakeId": "20260410125224",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260410125224.mmi.jpg",
+    "fingerprintSha1": "4f44bcba4ac089a6cc93f862601d4526eea2f036"
+  },
+  {
+    "earthquakeAt": "2026-04-10T05:39:16.000Z",
+    "latitude": -8.36,
+    "longitude": 123.13,
+    "magnitude": 3.8,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 19 km timur Larantuka",
+    "feltOnStations": "II-III Kabupaten Flores Timur",
+    "bmkgEarthquakeId": "20260410123916",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260410123916.mmi.jpg",
+    "fingerprintSha1": "5922e1de23ac04d18f803c89568b52e5673dc364"
   }
 ]
