@@ -35725,5 +35725,20 @@
     "bmkgEarthquakeId": "20260410205028",
     "shakeMapUrl": "https://static.bmkg.go.id/20260410205028.mmi.jpg",
     "fingerprintSha1": "3032975618eef5d375e8cda96136e9efb7f59886"
+  },
+  {
+    "earthquakeAt": "2026-06-10T17:35:22.000Z",
+    "latitude": -3.1,
+    "longitude": 128.16,
+    "magnitude": 3.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 6 km Barat Daya Seram Bagian Barat",
+    "feltOnStations": "III-IV Piru",
+    "bmkgEarthquakeId": "20260611003522",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260611003522.mmi.jpg",
+    "fingerprintSha1": "8f3e7b830b8dacc3614377873a8bd80454ec53f6",
+    "meta": {
+      "erroneousDataReason": "FUTURE_EARTHQUAKE"
+    }
   }
 ]
