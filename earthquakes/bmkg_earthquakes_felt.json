@@ -35740,5 +35740,29 @@
     "meta": {
       "erroneousDataReason": "FUTURE_EARTHQUAKE"
     }
+  },
+  {
+    "earthquakeAt": "2026-04-10T20:40:56.000Z",
+    "latitude": -1.32,
+    "longitude": 134.14,
+    "magnitude": 4.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km Utara Ransiki",
+    "feltOnStations": "II Ransiki",
+    "bmkgEarthquakeId": "20260411034056",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260411034056.mmi.jpg",
+    "fingerprintSha1": "07cc81d06dc494d6ca5d7aa4956c1676eeb4084a"
+  },
+  {
+    "earthquakeAt": "2026-04-10T17:35:22.000Z",
+    "latitude": -3.1,
+    "longitude": 128.16,
+    "magnitude": 3.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 6 km Barat Daya Seram Bagian Barat",
+    "feltOnStations": "III-IV Piru",
+    "bmkgEarthquakeId": "20260411003522",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260411003522.mmi.jpg",
+    "fingerprintSha1": "7e4aaf1e6c6165ae6e986f46a032e4f026328194"
   }
 ]
