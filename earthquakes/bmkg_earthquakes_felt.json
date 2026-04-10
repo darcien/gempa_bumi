@@ -35701,5 +35701,29 @@
     "bmkgEarthquakeId": "20260410202448",
     "shakeMapUrl": "https://static.bmkg.go.id/20260410202448.mmi.jpg",
     "fingerprintSha1": "eb7dd4a357f9eb58a4686ffc67200ff7c46fea32"
+  },
+  {
+    "earthquakeAt": "2026-04-10T13:56:45.000Z",
+    "latitude": -2.52,
+    "longitude": 121,
+    "magnitude": 3.6,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km Barat Laut Luwu Timur",
+    "feltOnStations": "III Mangkutana",
+    "bmkgEarthquakeId": "20260410205645",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260410205645.mmi.jpg",
+    "fingerprintSha1": "7c88dd26370f1f760b5d12ee2f846b270361a724"
+  },
+  {
+    "earthquakeAt": "2026-04-10T13:50:28.000Z",
+    "latitude": 1.31,
+    "longitude": 126.46,
+    "magnitude": 4.1,
+    "depthInKm": 1,
+    "locationInIndonesian": "Pusat gempa berada di laut 115 km Barat Jailolo",
+    "feltOnStations": "III Batang Dua",
+    "bmkgEarthquakeId": "20260410205028",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260410205028.mmi.jpg",
+    "fingerprintSha1": "3032975618eef5d375e8cda96136e9efb7f59886"
   }
 ]
