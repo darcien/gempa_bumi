@@ -35776,5 +35776,17 @@
     "bmkgEarthquakeId": "20260411043016",
     "shakeMapUrl": "https://static.bmkg.go.id/20260411043016.mmi.jpg",
     "fingerprintSha1": "5c3eb7afb58fade3d9c4caf6a7bdea6d7392c485"
+  },
+  {
+    "earthquakeAt": "2026-04-11T05:19:00.000Z",
+    "latitude": -8.45,
+    "longitude": 123.17,
+    "magnitude": 2.5,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di laut 28 km Tenggara Larantuka",
+    "feltOnStations": "II-III Kab. Flores Timur",
+    "bmkgEarthquakeId": "20260411121900",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260411121900.mmi.jpg",
+    "fingerprintSha1": "c357c431502dfe9f1dcecb7211a2c5a69152425d"
   }
 ]
