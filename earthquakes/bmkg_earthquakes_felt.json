@@ -35788,5 +35788,17 @@
     "bmkgEarthquakeId": "20260411121900",
     "shakeMapUrl": "https://static.bmkg.go.id/20260411121900.mmi.jpg",
     "fingerprintSha1": "c357c431502dfe9f1dcecb7211a2c5a69152425d"
+  },
+  {
+    "earthquakeAt": "2026-04-11T13:49:25.000Z",
+    "latitude": 4.21,
+    "longitude": 97.61,
+    "magnitude": 4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 39 km Timur Laut Kab. Gayo Lues",
+    "feltOnStations": "III Gayo Lues",
+    "bmkgEarthquakeId": "20260411204925",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260411204925.mmi.jpg",
+    "fingerprintSha1": "83005f1a3f143f5e85cfa76e0e6cd1795d7a90e4"
   }
 ]
