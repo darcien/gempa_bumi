@@ -35812,5 +35812,17 @@
     "bmkgEarthquakeId": "20260412020313",
     "shakeMapUrl": "https://static.bmkg.go.id/20260412020313.mmi.jpg",
     "fingerprintSha1": "4695148a899ce92bfeb47b52e477b5098f1eb1e4"
+  },
+  {
+    "earthquakeAt": "2026-04-12T02:40:36.000Z",
+    "latitude": 1.93,
+    "longitude": 94.63,
+    "magnitude": 5.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada dilaut 202 km barat daya Sinabang",
+    "feltOnStations": "II Nias Utara",
+    "bmkgEarthquakeId": "20260412094036",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260412094036.mmi.jpg",
+    "fingerprintSha1": "789538025f9f74e940fb53a1099ea7a1165d5bcd"
   }
 ]
