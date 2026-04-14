@@ -35848,5 +35848,17 @@
     "bmkgEarthquakeId": "20260413223905",
     "shakeMapUrl": "https://static.bmkg.go.id/20260413223905.mmi.jpg",
     "fingerprintSha1": "3c51324930fc3a8f0bfbec4697d107127505ddb7"
+  },
+  {
+    "earthquakeAt": "2026-04-14T03:52:57.000Z",
+    "latitude": -4.6,
+    "longitude": 120.44,
+    "magnitude": 2.5,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di laut 16 Km Tenggara Bone Sulawesi Selatan",
+    "feltOnStations": "II-III Palakka",
+    "bmkgEarthquakeId": "20260414105257",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260414105257.mmi.jpg",
+    "fingerprintSha1": "bf9adc22fac828a68b02a2d5249892dde660698f"
   }
 ]
