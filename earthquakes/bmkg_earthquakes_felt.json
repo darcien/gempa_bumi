@@ -35896,5 +35896,17 @@
     "bmkgEarthquakeId": "20260415060055",
     "shakeMapUrl": "https://static.bmkg.go.id/20260415060055.mmi.jpg",
     "fingerprintSha1": "2f4f771dbba269bc369a47d68c1a93e41534745a"
+  },
+  {
+    "earthquakeAt": "2026-04-15T02:10:43.000Z",
+    "latitude": -7.32,
+    "longitude": 117.14,
+    "magnitude": 5,
+    "depthInKm": 469,
+    "locationInIndonesian": "Pusat gempa berada di laut 122 km Timur Laut Pulau Saringi",
+    "feltOnStations": "II Badung",
+    "bmkgEarthquakeId": "20260415091043",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260415091043.mmi.jpg",
+    "fingerprintSha1": "367aa78828b88d55faf78fb36f9d23b65b113005"
   }
 ]
