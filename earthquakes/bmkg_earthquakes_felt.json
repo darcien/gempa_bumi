@@ -35908,5 +35908,17 @@
     "bmkgEarthquakeId": "20260415091043",
     "shakeMapUrl": "https://static.bmkg.go.id/20260415091043.mmi.jpg",
     "fingerprintSha1": "367aa78828b88d55faf78fb36f9d23b65b113005"
+  },
+  {
+    "earthquakeAt": "2026-04-16T04:21:48.000Z",
+    "latitude": -4.56,
+    "longitude": 122.8,
+    "magnitude": 3.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 29 km utara Muna",
+    "feltOnStations": "III Maligano, III Raha",
+    "bmkgEarthquakeId": "20260416112148",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260416112148.mmi.jpg",
+    "fingerprintSha1": "b661e0089f54b1dbc603a5c33d4adecbf7054952"
   }
 ]
