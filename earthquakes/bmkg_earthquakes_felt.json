@@ -35944,5 +35944,41 @@
     "bmkgEarthquakeId": "20260418041300",
     "shakeMapUrl": "https://static.bmkg.go.id/20260418041300.mmi.jpg",
     "fingerprintSha1": "84609f251ea657c5962af171f1e87940602892da"
+  },
+  {
+    "earthquakeAt": "2026-04-17T23:29:36.000Z",
+    "latitude": 1.29,
+    "longitude": 126.37,
+    "magnitude": 4.5,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di laut 124 km barat Jailolo",
+    "feltOnStations": "",
+    "bmkgEarthquakeId": "20260418062936",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260418062936.mmi.jpg",
+    "fingerprintSha1": "4be008f502613ebf61a0a77a83dda30a564aad24"
+  },
+  {
+    "earthquakeAt": "2026-04-17T23:27:32.000Z",
+    "latitude": 1.29,
+    "longitude": 126.33,
+    "magnitude": 4.2,
+    "depthInKm": 22,
+    "locationInIndonesian": "Pusat gempa berada di laut 129 km barat Jailolo",
+    "feltOnStations": "II-III Batang Dua",
+    "bmkgEarthquakeId": "20260418062732",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260418062732.mmi.jpg",
+    "fingerprintSha1": "e21485de7e6dee7d95cb172d6ffbd2f5f887cf33"
+  },
+  {
+    "earthquakeAt": "2026-04-17T23:21:27.000Z",
+    "latitude": -0.1,
+    "longitude": 123.9,
+    "magnitude": 5.8,
+    "depthInKm": 102,
+    "locationInIndonesian": "Pusat gempa berada di laut 53 km barat daya Bolaanguki-BOLSEL",
+    "feltOnStations": "II-III Kab. Gorontalo, II Minahasa Tenggara, III Kota Gorontalo, III Bone Bolango, II-III Bolaang Mongondow Timur, II-III Bolaang Mongondow Selatan",
+    "bmkgEarthquakeId": "20260418062127",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260418062127.mmi.jpg",
+    "fingerprintSha1": "72f0a9c3e0519a263addb17e6f7c7c827fa515c7"
   }
 ]
