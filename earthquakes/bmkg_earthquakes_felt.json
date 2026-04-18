@@ -35952,7 +35952,7 @@
     "magnitude": 4.5,
     "depthInKm": 23,
     "locationInIndonesian": "Pusat gempa berada di laut 124 km barat Jailolo",
-    "feltOnStations": "",
+    "feltOnStations": "II-III Batang Dua",
     "bmkgEarthquakeId": "20260418062936",
     "shakeMapUrl": "https://static.bmkg.go.id/20260418062936.mmi.jpg",
     "fingerprintSha1": "4be008f502613ebf61a0a77a83dda30a564aad24"
@@ -35980,5 +35980,17 @@
     "bmkgEarthquakeId": "20260418062127",
     "shakeMapUrl": "https://static.bmkg.go.id/20260418062127.mmi.jpg",
     "fingerprintSha1": "72f0a9c3e0519a263addb17e6f7c7c827fa515c7"
+  },
+  {
+    "earthquakeAt": "2026-04-18T02:14:32.000Z",
+    "latitude": 1.27,
+    "longitude": 126.33,
+    "magnitude": 4.3,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di laut 128 km barat laut Ternate",
+    "feltOnStations": "II-III Batang Dua",
+    "bmkgEarthquakeId": "20260418091432",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260418091432.mmi.jpg",
+    "fingerprintSha1": "9e6fdf2617ae43de9e1d50474812ec4d9566dd03"
   }
 ]
