@@ -35992,5 +35992,17 @@
     "bmkgEarthquakeId": "20260418091432",
     "shakeMapUrl": "https://static.bmkg.go.id/20260418091432.mmi.jpg",
     "fingerprintSha1": "9e6fdf2617ae43de9e1d50474812ec4d9566dd03"
+  },
+  {
+    "earthquakeAt": "2026-04-18T20:06:49.000Z",
+    "latitude": 1.14,
+    "longitude": 97.04,
+    "magnitude": 5.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 48km barat daya Nias Utara",
+    "feltOnStations": "V Gunung Sitoli, IV Nias Barat, IV Nias Utara, IV Tapanuli Tengah",
+    "bmkgEarthquakeId": "20260419030649",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260419030649.mmi.jpg",
+    "fingerprintSha1": "b196f8ce529cf26d12757004a93e4d7cedf76db5"
   }
 ]
