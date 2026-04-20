@@ -36028,5 +36028,17 @@
     "bmkgEarthquakeId": "20260420180938",
     "shakeMapUrl": "https://static.bmkg.go.id/20260420180938.mmi.jpg",
     "fingerprintSha1": "2ab5325a866046cb843b01727425ea905636499b"
+  },
+  {
+    "earthquakeAt": "2026-04-20T12:11:29.000Z",
+    "latitude": -7.28,
+    "longitude": 106.36,
+    "magnitude": 3.4,
+    "depthInKm": 34,
+    "locationInIndonesian": "Pusat gempa berada di laut 39 km baratdaya Kab. Sukabumi",
+    "feltOnStations": "II Cidolog",
+    "bmkgEarthquakeId": "20260420191129",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260420191129.mmi.jpg",
+    "fingerprintSha1": "6572bf553950d0aa9cab91af98102873f15427e0"
   }
 ]
