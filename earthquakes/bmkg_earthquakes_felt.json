@@ -36040,5 +36040,17 @@
     "bmkgEarthquakeId": "20260420191129",
     "shakeMapUrl": "https://static.bmkg.go.id/20260420191129.mmi.jpg",
     "fingerprintSha1": "6572bf553950d0aa9cab91af98102873f15427e0"
+  },
+  {
+    "earthquakeAt": "2026-04-20T13:36:27.000Z",
+    "latitude": -8.47,
+    "longitude": 123.15,
+    "magnitude": 3.1,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di laut 27 km tenggara Larantuka",
+    "feltOnStations": "III-IV Solor Timur",
+    "bmkgEarthquakeId": "20260420203627",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260420203627.mmi.jpg",
+    "fingerprintSha1": "6f3ca47a13cb15875e5f744272635f61da1563b7"
   }
 ]
