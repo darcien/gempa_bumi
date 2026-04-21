@@ -36064,5 +36064,29 @@
     "bmkgEarthquakeId": "20260421014706",
     "shakeMapUrl": "https://static.bmkg.go.id/20260421014706.mmi.jpg",
     "fingerprintSha1": "748642aaef0f32e865b9517f7ea07f045b7a8b13"
+  },
+  {
+    "earthquakeAt": "2026-04-21T03:17:08.000Z",
+    "latitude": -8.99,
+    "longitude": 124.2,
+    "magnitude": 6,
+    "depthInKm": 31,
+    "locationInIndonesian": "Pusat gempa berada di laut 67 Km barat laut Timor Tengah Utara",
+    "feltOnStations": "III-IV Atambua, III Maumere, II-III Kota Kupang, II-III Kabupaten Kupang, II-III Kefamenanu, II-III Malaka, II-III Soe, II-III Lembata, II-III Larantuka, II-III Alor, II-III Ende, II Rote",
+    "bmkgEarthquakeId": "20260421101708",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260421101708.mmi.jpg",
+    "fingerprintSha1": "267daba04b6bee28d52b1914fd8e584e0e169189"
+  },
+  {
+    "earthquakeAt": "2026-04-21T00:14:37.000Z",
+    "latitude": -3.6,
+    "longitude": 126.1,
+    "magnitude": 4.2,
+    "depthInKm": 66,
+    "locationInIndonesian": "Pusat gempa berada di laut 117 km barat Buru",
+    "feltOnStations": "I-II Namlea, I-II Namrole",
+    "bmkgEarthquakeId": "20260421071437",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260421071437.mmi.jpg",
+    "fingerprintSha1": "6db74f4cda9242f2f723cdc41b752b2bd4de8517"
   }
 ]
