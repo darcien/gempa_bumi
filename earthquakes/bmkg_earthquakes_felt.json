@@ -36100,5 +36100,17 @@
     "bmkgEarthquakeId": "20260421111830",
     "shakeMapUrl": "https://static.bmkg.go.id/20260421111830.mmi.jpg",
     "fingerprintSha1": "82a140134eced9cb46f0d00e64bdf9b212ca2e91"
+  },
+  {
+    "earthquakeAt": "2026-04-22T05:17:58.000Z",
+    "latitude": -4.65,
+    "longitude": 102.17,
+    "magnitude": 4.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 78 km utara Enggano",
+    "feltOnStations": "II Kota Bengkulu",
+    "bmkgEarthquakeId": "20260422121758",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260422121758.mmi.jpg",
+    "fingerprintSha1": "89576ab92596fd2e083f2fb56a6c2d192453fecc"
   }
 ]
