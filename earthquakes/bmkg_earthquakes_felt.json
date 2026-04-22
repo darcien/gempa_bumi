@@ -36112,5 +36112,17 @@
     "bmkgEarthquakeId": "20260422121758",
     "shakeMapUrl": "https://static.bmkg.go.id/20260422121758.mmi.jpg",
     "fingerprintSha1": "89576ab92596fd2e083f2fb56a6c2d192453fecc"
+  },
+  {
+    "earthquakeAt": "2026-04-22T21:34:44.000Z",
+    "latitude": -8.21,
+    "longitude": 115.02,
+    "magnitude": 3.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 13 km barat daya Buleleng",
+    "feltOnStations": "III Kab. Buleleng",
+    "bmkgEarthquakeId": "20260423043444",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260423043444.mmi.jpg",
+    "fingerprintSha1": "eeb85031383a0d8d872ea494eac5c79e67682901"
   }
 ]
