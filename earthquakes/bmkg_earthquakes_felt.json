@@ -36148,5 +36148,17 @@
     "bmkgEarthquakeId": "20260423221523",
     "shakeMapUrl": "https://static.bmkg.go.id/20260423221523.mmi.jpg",
     "fingerprintSha1": "e6a131c5b3f7f37835dd2164bb761e738a863890"
+  },
+  {
+    "earthquakeAt": "2026-04-24T04:45:19.000Z",
+    "latitude": 1.18,
+    "longitude": 126.42,
+    "magnitude": 5,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 114 km barat laut Ternate",
+    "feltOnStations": "II-III Ternate, III-IV Batang Dua",
+    "bmkgEarthquakeId": "20260424114519",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260424114519.mmi.jpg",
+    "fingerprintSha1": "fbe270a479364dfce4542dfec015a493477b858c"
   }
 ]
