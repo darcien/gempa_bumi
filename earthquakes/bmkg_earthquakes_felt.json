@@ -36196,5 +36196,17 @@
     "bmkgEarthquakeId": "20260425104240",
     "shakeMapUrl": "https://static.bmkg.go.id/20260425104240.mmi.jpg",
     "fingerprintSha1": "ad43014aad21c55300dd5f0dca427e394492ebac"
+  },
+  {
+    "earthquakeAt": "2026-04-25T23:01:03.000Z",
+    "latitude": -5.44,
+    "longitude": 103.59,
+    "magnitude": 4.7,
+    "depthInKm": 32,
+    "locationInIndonesian": "Pusat gempa berada di laut 47 km baratdaya Pesisir Barat",
+    "feltOnStations": "III Liwa, III Pesisir Barat",
+    "bmkgEarthquakeId": "20260426060103",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260426060103.mmi.jpg",
+    "fingerprintSha1": "151d16ad2dd2849570332985cb90218e064f6cd1"
   }
 ]
