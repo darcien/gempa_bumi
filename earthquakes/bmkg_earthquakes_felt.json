@@ -36172,5 +36172,29 @@
     "bmkgEarthquakeId": "20260424154137",
     "shakeMapUrl": "https://static.bmkg.go.id/20260424154137.mmi.jpg",
     "fingerprintSha1": "14687705bd6332cc3a3acb94d8c0e7d263d10f5e"
+  },
+  {
+    "earthquakeAt": "2026-04-25T03:48:48.000Z",
+    "latitude": -4.5,
+    "longitude": 129.82,
+    "magnitude": 2.9,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada dilaut 129 km Selatan Tehoru",
+    "feltOnStations": "II-III Banda",
+    "bmkgEarthquakeId": "20260425104848",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260425104848.mmi.jpg",
+    "fingerprintSha1": "d56933124c668b7098fc504d6e77c39d40af05e4"
+  },
+  {
+    "earthquakeAt": "2026-04-25T03:42:40.000Z",
+    "latitude": -4.49,
+    "longitude": 129.9,
+    "magnitude": 3.1,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di laut 167 km barat daya Seram Bagian Timur",
+    "feltOnStations": "II-III Banda",
+    "bmkgEarthquakeId": "20260425104240",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260425104240.mmi.jpg",
+    "fingerprintSha1": "ad43014aad21c55300dd5f0dca427e394492ebac"
   }
 ]
