@@ -36232,5 +36232,17 @@
     "bmkgEarthquakeId": "20260427215353",
     "shakeMapUrl": "https://static.bmkg.go.id/20260427215353.mmi.jpg",
     "fingerprintSha1": "4e11d2ab7788cd985197789037b1f6a17634f062"
+  },
+  {
+    "earthquakeAt": "2026-04-27T18:45:39.000Z",
+    "latitude": -8.09,
+    "longitude": 107.74,
+    "magnitude": 4,
+    "depthInKm": 19,
+    "locationInIndonesian": "Pusat gempa berada di laut 90 km barat daya Kab. Tasikmalaya",
+    "feltOnStations": "II-III Cipatujah, Kab. Tasikmalaya, II-III Cigalontang, Kab. Tasikmalaya, II-III Singajaya, Kab. Garut, II Sukasari, Kab. Bandung Barat , II-III Pakenjeng, Kab. Garut, II-III Kab. Ciamis, II-III Pangandaran",
+    "bmkgEarthquakeId": "20260428014539",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260428014539.mmi.jpg",
+    "fingerprintSha1": "79a5467a36150908d9cba7b78b8be7280c36ab82"
   }
 ]
