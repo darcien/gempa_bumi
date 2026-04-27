@@ -36208,5 +36208,17 @@
     "bmkgEarthquakeId": "20260426060103",
     "shakeMapUrl": "https://static.bmkg.go.id/20260426060103.mmi.jpg",
     "fingerprintSha1": "151d16ad2dd2849570332985cb90218e064f6cd1"
+  },
+  {
+    "earthquakeAt": "2026-04-27T01:56:15.000Z",
+    "latitude": -7.07,
+    "longitude": 110.28,
+    "magnitude": 2.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 14 km barat laut Kabupaten Semarang",
+    "feltOnStations": "II Boja, Kendal",
+    "bmkgEarthquakeId": "20260427085615",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260427085615.mmi.jpg",
+    "fingerprintSha1": "ee53ec5ba802c7e3620fd1becab1cbb06b1b4e90"
   }
 ]
