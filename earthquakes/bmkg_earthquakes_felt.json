@@ -36244,5 +36244,17 @@
     "bmkgEarthquakeId": "20260428014539",
     "shakeMapUrl": "https://static.bmkg.go.id/20260428014539.mmi.jpg",
     "fingerprintSha1": "79a5467a36150908d9cba7b78b8be7280c36ab82"
+  },
+  {
+    "earthquakeAt": "2026-04-28T10:47:45.000Z",
+    "latitude": 0.8,
+    "longitude": 127.4,
+    "magnitude": 2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 4 Km Timur Laut Ternate",
+    "feltOnStations": "II Ternate Utara",
+    "bmkgEarthquakeId": "20260428174745",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260428174745.mmi.jpg",
+    "fingerprintSha1": "26c3f0cc0a7d4b83aef15f5731a4861a18b69960"
   }
 ]
