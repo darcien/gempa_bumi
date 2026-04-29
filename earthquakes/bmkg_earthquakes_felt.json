@@ -36280,5 +36280,17 @@
     "bmkgEarthquakeId": "20260429170904",
     "shakeMapUrl": "https://static.bmkg.go.id/20260429170904.mmi.jpg",
     "fingerprintSha1": "4c3d01c0052a4156a68dd63460526c95efb98aa5"
+  },
+  {
+    "earthquakeAt": "2026-04-29T16:33:06.000Z",
+    "latitude": -2.19,
+    "longitude": 100.59,
+    "magnitude": 4.2,
+    "depthInKm": 25,
+    "locationInIndonesian": "Pusat gempa berada di laut 72 km barat laut Mukomuko",
+    "feltOnStations": "II-III Pulau Pagai, II-III Pesisir Selatan, II-III Kerinci, I-II Muko-Muko, I-II Teluk Bayur",
+    "bmkgEarthquakeId": "20260429233306",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260429233306.mmi.jpg",
+    "fingerprintSha1": "c7a9c2f5f7eea679359ef5925f8aa6b3e266b578"
   }
 ]
