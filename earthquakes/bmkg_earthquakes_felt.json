@@ -36256,5 +36256,17 @@
     "bmkgEarthquakeId": "20260428174745",
     "shakeMapUrl": "https://static.bmkg.go.id/20260428174745.mmi.jpg",
     "fingerprintSha1": "26c3f0cc0a7d4b83aef15f5731a4861a18b69960"
+  },
+  {
+    "earthquakeAt": "2026-04-29T08:14:16.000Z",
+    "latitude": -9.22,
+    "longitude": 118.13,
+    "magnitude": 4.4,
+    "depthInKm": 56,
+    "locationInIndonesian": "Pusat gempa berada di laut 84 km barat daya Dompu",
+    "feltOnStations": "II Kab.Sumbawa, II Kab.Sumbawa Barat, II Kab. Bima",
+    "bmkgEarthquakeId": "20260429151416",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260429151416.mmi.jpg",
+    "fingerprintSha1": "4236ebf2c16ee51d14de4f867f67f646d24c7512"
   }
 ]
