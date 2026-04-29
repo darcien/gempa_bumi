@@ -36268,5 +36268,17 @@
     "bmkgEarthquakeId": "20260429151416",
     "shakeMapUrl": "https://static.bmkg.go.id/20260429151416.mmi.jpg",
     "fingerprintSha1": "4236ebf2c16ee51d14de4f867f67f646d24c7512"
+  },
+  {
+    "earthquakeAt": "2026-04-29T10:09:04.000Z",
+    "latitude": -2.54,
+    "longitude": 121.06,
+    "magnitude": 4.3,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km Barat Laut Luwu Timur",
+    "feltOnStations": "III Malili, III Sorowako",
+    "bmkgEarthquakeId": "20260429170904",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260429170904.mmi.jpg",
+    "fingerprintSha1": "4c3d01c0052a4156a68dd63460526c95efb98aa5"
   }
 ]
