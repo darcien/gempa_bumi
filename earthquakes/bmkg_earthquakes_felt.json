@@ -36292,5 +36292,17 @@
     "bmkgEarthquakeId": "20260429233306",
     "shakeMapUrl": "https://static.bmkg.go.id/20260429233306.mmi.jpg",
     "fingerprintSha1": "c7a9c2f5f7eea679359ef5925f8aa6b3e266b578"
+  },
+  {
+    "earthquakeAt": "2026-04-30T18:36:35.000Z",
+    "latitude": -0.49,
+    "longitude": 134.32,
+    "magnitude": 4.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 54 km timurlaut Manokwari",
+    "feltOnStations": "III Manokwari",
+    "bmkgEarthquakeId": "20260501013635",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260501013635.mmi.jpg",
+    "fingerprintSha1": "72503e208e0529b4787b12ba286a47343afa575a"
   }
 ]
