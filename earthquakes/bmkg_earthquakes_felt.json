@@ -36304,5 +36304,17 @@
     "bmkgEarthquakeId": "20260501013635",
     "shakeMapUrl": "https://static.bmkg.go.id/20260501013635.mmi.jpg",
     "fingerprintSha1": "72503e208e0529b4787b12ba286a47343afa575a"
+  },
+  {
+    "earthquakeAt": "2026-05-01T09:24:24.000Z",
+    "latitude": -1.31,
+    "longitude": 134.4,
+    "magnitude": 5.1,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 33 km Timur Laut Ransiki",
+    "feltOnStations": "III Ransiki, II-III Manokwari",
+    "bmkgEarthquakeId": "20260501162424",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260501162424.mmi.jpg",
+    "fingerprintSha1": "d4c408a5d2ed5fa31981796cacc4ee32eb3e5419"
   }
 ]
