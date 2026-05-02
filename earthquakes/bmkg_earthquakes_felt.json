@@ -36328,5 +36328,17 @@
     "bmkgEarthquakeId": "20260502144233",
     "shakeMapUrl": "https://static.bmkg.go.id/20260502144233.mmi.jpg",
     "fingerprintSha1": "6933d90db6ce24c15ab8f381d89dd5c7f309359c"
+  },
+  {
+    "earthquakeAt": "2026-05-02T11:04:12.000Z",
+    "latitude": -7.76,
+    "longitude": 107.25,
+    "magnitude": 4.1,
+    "depthInKm": 28,
+    "locationInIndonesian": "Pusat gempa berada di laut 87 km Barat Daya Kab Bandung",
+    "feltOnStations": "II Cikeket, II Kertasari, II Pangalengan, II Tasik Selatan",
+    "bmkgEarthquakeId": "20260502180412",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260502180412.mmi.jpg",
+    "fingerprintSha1": "0f7f0d3a6c687917812f0a36f3caf550123d099e"
   }
 ]
