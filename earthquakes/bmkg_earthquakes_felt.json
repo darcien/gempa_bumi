@@ -36316,5 +36316,17 @@
     "bmkgEarthquakeId": "20260501162424",
     "shakeMapUrl": "https://static.bmkg.go.id/20260501162424.mmi.jpg",
     "fingerprintSha1": "d4c408a5d2ed5fa31981796cacc4ee32eb3e5419"
+  },
+  {
+    "earthquakeAt": "2026-05-02T07:42:33.000Z",
+    "latitude": -7.79,
+    "longitude": 107.27,
+    "magnitude": 4,
+    "depthInKm": 28,
+    "locationInIndonesian": "Pusat gempa berada di laut 90 km barat daya Kab. Bandung",
+    "feltOnStations": "II Cidolog",
+    "bmkgEarthquakeId": "20260502144233",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260502144233.mmi.jpg",
+    "fingerprintSha1": "6933d90db6ce24c15ab8f381d89dd5c7f309359c"
   }
 ]
