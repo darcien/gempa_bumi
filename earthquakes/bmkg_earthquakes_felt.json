@@ -36352,5 +36352,17 @@
     "bmkgEarthquakeId": "20260503235156",
     "shakeMapUrl": "https://static.bmkg.go.id/20260503235156.mmi.jpg",
     "fingerprintSha1": "09824251e7d6b9d9746fd3bb121d21c7e25d42c2"
+  },
+  {
+    "earthquakeAt": "2026-05-03T19:06:13.000Z",
+    "latitude": -8.25,
+    "longitude": 108.27,
+    "magnitude": 4,
+    "depthInKm": 29,
+    "locationInIndonesian": "Pusat gempa berada di laut 66 km selatan Kab. Pangandaran",
+    "feltOnStations": "II-III Banjarwangi, II-III Manonjaya, II-III Singaparna, II-III Cikatomas, II-III Sukaramet, II-III Cimaragas, II-III Banjaranyar, II-III Banjarsari, II-III Pangandaran",
+    "bmkgEarthquakeId": "20260504020613",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260504020613.mmi.jpg",
+    "fingerprintSha1": "c02704000f3771f978d941257350bf7a00359bdb"
   }
 ]
