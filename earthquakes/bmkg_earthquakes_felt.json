@@ -36364,5 +36364,29 @@
     "bmkgEarthquakeId": "20260504020613",
     "shakeMapUrl": "https://static.bmkg.go.id/20260504020613.mmi.jpg",
     "fingerprintSha1": "c02704000f3771f978d941257350bf7a00359bdb"
+  },
+  {
+    "earthquakeAt": "2026-05-04T03:37:09.000Z",
+    "latitude": 3.13,
+    "longitude": 126.54,
+    "magnitude": 4.4,
+    "depthInKm": 67,
+    "locationInIndonesian": "Pusat gempa berada di laut 98 km selatan Melonguane",
+    "feltOnStations": "II-III Naha",
+    "bmkgEarthquakeId": "20260504103709",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260504103709.mmi.jpg",
+    "fingerprintSha1": "2d14e70bce67bb6db5e8fd62c393035662779e99"
+  },
+  {
+    "earthquakeAt": "2026-05-04T00:56:54.000Z",
+    "latitude": -7.17,
+    "longitude": 107.83,
+    "magnitude": 2.8,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km barat laut Kab. Garut",
+    "feltOnStations": "II-III Kamojang, II-III Leles, II-III Tarogong, II-III Bayongbong, II-III Banyuresmi, II-III Samarang, II-III Kadungora, II-III Sukaresmi, II-III Nagrek",
+    "bmkgEarthquakeId": "20260504075654",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260504075654.mmi.jpg",
+    "fingerprintSha1": "645cce97b69225837088cbd7e3e8d5a9388cd0b2"
   }
 ]
