@@ -36420,7 +36420,7 @@
     "magnitude": 4.2,
     "depthInKm": 14,
     "locationInIndonesian": "Pusat gempa berada di laut 76 km barat daya Kabupaten Pangandaran",
-    "feltOnStations": "III Cipatujah, Tasikmalaya, III Langkaplancar, Pangandaran, II-III Kota Tasikmalaya Banjar, II-III Cikoneng, Ciamis",
+    "feltOnStations": "III Cipatujah, III Langkaplancar, II-III Kota Tasikmalaya, II-III Cikoneng, Ciamis, III Pangandaran, II-III Puspahiang, II-III Kota Banjar",
     "bmkgEarthquakeId": "20260505051439",
     "shakeMapUrl": "https://static.bmkg.go.id/20260505051439.mmi.jpg",
     "fingerprintSha1": "83f8330230389b307b8b18c4fb2bd20d87d387f8"
