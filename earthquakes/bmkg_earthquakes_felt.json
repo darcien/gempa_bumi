@@ -36436,5 +36436,17 @@
     "bmkgEarthquakeId": "20260505134450",
     "shakeMapUrl": "https://static.bmkg.go.id/20260505134450.mmi.jpg",
     "fingerprintSha1": "86c3f2e8f09c401d8c664e296e3d988f7a6a532e"
+  },
+  {
+    "earthquakeAt": "2026-05-05T13:17:30.000Z",
+    "latitude": -5.44,
+    "longitude": 104.65,
+    "magnitude": 2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km barat laut Tanggamus",
+    "feltOnStations": "II Gisting",
+    "bmkgEarthquakeId": "20260505201730",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260505201730.mmi.jpg",
+    "fingerprintSha1": "81ab50933b89d449d5c8a47a15c034c1234276ce"
   }
 ]
