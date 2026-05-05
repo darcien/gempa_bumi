@@ -36424,5 +36424,17 @@
     "bmkgEarthquakeId": "20260505051439",
     "shakeMapUrl": "https://static.bmkg.go.id/20260505051439.mmi.jpg",
     "fingerprintSha1": "83f8330230389b307b8b18c4fb2bd20d87d387f8"
+  },
+  {
+    "earthquakeAt": "2026-05-05T06:44:50.000Z",
+    "latitude": -10.11,
+    "longitude": 119.3,
+    "magnitude": 6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 37 km Barat Daya Wanokaka",
+    "feltOnStations": "IV Waingapu",
+    "bmkgEarthquakeId": "20260505134450",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260505134450.mmi.jpg",
+    "fingerprintSha1": "86c3f2e8f09c401d8c664e296e3d988f7a6a532e"
   }
 ]
