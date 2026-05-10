@@ -36472,5 +36472,17 @@
     "bmkgEarthquakeId": "20260509071029",
     "shakeMapUrl": "https://static.bmkg.go.id/20260509071029.mmi.jpg",
     "fingerprintSha1": "5d42f0449cdea20a557b189158bf424e5a81734e"
+  },
+  {
+    "earthquakeAt": "2026-05-10T06:24:55.000Z",
+    "latitude": 3.57,
+    "longitude": 98.74,
+    "magnitude": 3,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km barat Deli Serdang",
+    "feltOnStations": "II Medan",
+    "bmkgEarthquakeId": "20260510132455",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260510132455.mmi.jpg",
+    "fingerprintSha1": "b1e892cd7efcfe9918e746016c1b0936a0f0b013"
   }
 ]
