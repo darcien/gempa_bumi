@@ -36484,5 +36484,17 @@
     "bmkgEarthquakeId": "20260510132455",
     "shakeMapUrl": "https://static.bmkg.go.id/20260510132455.mmi.jpg",
     "fingerprintSha1": "b1e892cd7efcfe9918e746016c1b0936a0f0b013"
+  },
+  {
+    "earthquakeAt": "2026-05-10T12:24:33.000Z",
+    "latitude": 1.2,
+    "longitude": 120.33,
+    "magnitude": 4.8,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di laut 60 km barat laut Toli-Toli",
+    "feltOnStations": "II-III Tolitoli, II-III Buol",
+    "bmkgEarthquakeId": "20260510192433",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260510192433.mmi.jpg",
+    "fingerprintSha1": "218f9686803de8787938839475ad0406a98b939f"
   }
 ]
