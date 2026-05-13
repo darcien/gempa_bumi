@@ -36520,5 +36520,17 @@
     "bmkgEarthquakeId": "20260512040620",
     "shakeMapUrl": "https://static.bmkg.go.id/20260512040620.mmi.jpg",
     "fingerprintSha1": "b973f2aba6b6b328dd7964013bf91a6ee2d97dfd"
+  },
+  {
+    "earthquakeAt": "2026-05-13T06:37:38.000Z",
+    "latitude": -4.66,
+    "longitude": 122.06,
+    "magnitude": 2.3,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di laut 10 km timur laut Bombana",
+    "feltOnStations": "II-III Bombana",
+    "bmkgEarthquakeId": "20260513133738",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260513133738.mmi.jpg",
+    "fingerprintSha1": "59cebe3a646c44f8a6bf439404dea3c7c314ff80"
   }
 ]
