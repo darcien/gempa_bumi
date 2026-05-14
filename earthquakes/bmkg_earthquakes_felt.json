@@ -36532,5 +36532,17 @@
     "bmkgEarthquakeId": "20260513133738",
     "shakeMapUrl": "https://static.bmkg.go.id/20260513133738.mmi.jpg",
     "fingerprintSha1": "59cebe3a646c44f8a6bf439404dea3c7c314ff80"
+  },
+  {
+    "earthquakeAt": "2026-05-14T06:27:35.000Z",
+    "latitude": -2.15,
+    "longitude": 100.01,
+    "magnitude": 4,
+    "depthInKm": 45,
+    "locationInIndonesian": "Pusat gempa berada di laut 49 km timur Tuapejat",
+    "feltOnStations": "I-II Pagai, I-II Sipora",
+    "bmkgEarthquakeId": "20260514132735",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260514132735.mmi.jpg",
+    "fingerprintSha1": "4191535e661528b0923692d848e927e85568f2a7"
   }
 ]
