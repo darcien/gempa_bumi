@@ -36544,5 +36544,17 @@
     "bmkgEarthquakeId": "20260514132735",
     "shakeMapUrl": "https://static.bmkg.go.id/20260514132735.mmi.jpg",
     "fingerprintSha1": "4191535e661528b0923692d848e927e85568f2a7"
+  },
+  {
+    "earthquakeAt": "2026-05-14T17:53:15.000Z",
+    "latitude": -6.09,
+    "longitude": 130.56,
+    "magnitude": 6.7,
+    "depthInKm": 163,
+    "locationInIndonesian": "Pusat gempa berada di laut 225 km utara Tanimbar",
+    "feltOnStations": "II-III Saumlaki, II-III Banda, II-III Tual",
+    "bmkgEarthquakeId": "20260515005315",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260515005315.mmi.jpg",
+    "fingerprintSha1": "476f0bb638899cfb059ecfd92e3a0069ab494d78"
   }
 ]
