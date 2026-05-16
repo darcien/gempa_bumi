@@ -36580,5 +36580,17 @@
     "bmkgEarthquakeId": "20260516153438",
     "shakeMapUrl": "https://static.bmkg.go.id/20260516153438.mmi.jpg",
     "fingerprintSha1": "63e9183edab77c01dbf253d8795dfe0d15016f39"
+  },
+  {
+    "earthquakeAt": "2026-05-16T16:06:05.000Z",
+    "latitude": -8.86,
+    "longitude": 111.63,
+    "magnitude": 4.3,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di laut 87 km Selatan Trenggalek",
+    "feltOnStations": "III Trenggalek, II Pacitan, II Bantul",
+    "bmkgEarthquakeId": "20260516230605",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260516230605.mmi.jpg",
+    "fingerprintSha1": "5f708709da11d3bab21362ba3aa754f2879e044c"
   }
 ]
