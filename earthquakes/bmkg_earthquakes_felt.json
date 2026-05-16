@@ -36576,7 +36576,7 @@
     "magnitude": 4.8,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 21 km utara Sigi",
-    "feltOnStations": "III Palu, III Sigi",
+    "feltOnStations": "III Palu, IV Sigi",
     "bmkgEarthquakeId": "20260516153438",
     "shakeMapUrl": "https://static.bmkg.go.id/20260516153438.mmi.jpg",
     "fingerprintSha1": "63e9183edab77c01dbf253d8795dfe0d15016f39"
