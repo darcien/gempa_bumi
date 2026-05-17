@@ -36616,5 +36616,29 @@
     "bmkgEarthquakeId": "20260517142319",
     "shakeMapUrl": "https://static.bmkg.go.id/20260517142319.mmi.jpg",
     "fingerprintSha1": "48b847d6dbeb1fb9b4b4a9fc58ff64d9fe24c79c"
+  },
+  {
+    "earthquakeAt": "2026-05-17T15:38:03.000Z",
+    "latitude": -3.82,
+    "longitude": 128.44,
+    "magnitude": 3.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 78 km Timur Buru Selatan",
+    "feltOnStations": "II-III Ambon",
+    "bmkgEarthquakeId": "20260517223803",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260517223803.mmi.jpg",
+    "fingerprintSha1": "a72115bd05f96949723c85bf1fd123c9fe363402"
+  },
+  {
+    "earthquakeAt": "2026-05-17T15:15:01.000Z",
+    "latitude": -7.53,
+    "longitude": 106.69,
+    "magnitude": 4.5,
+    "depthInKm": 25,
+    "locationInIndonesian": "Pusat gempa berada di laut 63 km Selatan Kab Sukabumi",
+    "feltOnStations": "II Palabuhan Ratu, II Cisolok, II Cibadak, II Cisaat, II Cidahu, II Cicantayan, II Nagrak, II Ciwidey, II Nyalindung, II Lengkong, II Parungkuda, II Caringin, II Sukabumi, II Cianjur, III Cidolog, III Cidadap, III Pabuaran, III Surade, III Ciracap, III Ciemas, III Jampang Kulon",
+    "bmkgEarthquakeId": "20260517221501",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260517221501.mmi.jpg",
+    "fingerprintSha1": "4ae13963a8115ab4b86b5fc470fbebd57f844d7d"
   }
 ]
