@@ -36640,5 +36640,17 @@
     "bmkgEarthquakeId": "20260517221501",
     "shakeMapUrl": "https://static.bmkg.go.id/20260517221501.mmi.jpg",
     "fingerprintSha1": "4ae13963a8115ab4b86b5fc470fbebd57f844d7d"
+  },
+  {
+    "earthquakeAt": "2026-05-17T17:58:34.000Z",
+    "latitude": -3.93,
+    "longitude": 128.38,
+    "magnitude": 4.8,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di laut 72 km timur Buru Selatan",
+    "feltOnStations": "III Ambon",
+    "bmkgEarthquakeId": "20260518005834",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260518005834.mmi.jpg",
+    "fingerprintSha1": "becad407b85d860d55ad57abc0cf56c6e3de0634"
   }
 ]
