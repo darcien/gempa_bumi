@@ -36604,5 +36604,17 @@
     "bmkgEarthquakeId": "20260517073008",
     "shakeMapUrl": "https://static.bmkg.go.id/20260517073008.mmi.jpg",
     "fingerprintSha1": "556176dcbee0dc03ed6ab3cf2212bf54332d06ea"
+  },
+  {
+    "earthquakeAt": "2026-05-17T07:23:19.000Z",
+    "latitude": -3.47,
+    "longitude": 135.51,
+    "magnitude": 3.6,
+    "depthInKm": 43,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 km tenggara Nabire",
+    "feltOnStations": "II Nabire",
+    "bmkgEarthquakeId": "20260517142319",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260517142319.mmi.jpg",
+    "fingerprintSha1": "48b847d6dbeb1fb9b4b4a9fc58ff64d9fe24c79c"
   }
 ]
