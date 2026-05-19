@@ -36676,5 +36676,17 @@
     "bmkgEarthquakeId": "20260519134726",
     "shakeMapUrl": "https://static.bmkg.go.id/20260519134726.mmi.jpg",
     "fingerprintSha1": "882dcad129e2a552423ccab8adc059617844cc99"
+  },
+  {
+    "earthquakeAt": "2026-05-19T10:50:27.000Z",
+    "latitude": -6.88,
+    "longitude": 106.81,
+    "magnitude": 2.6,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di darat 13 km barat laut Sukabumi",
+    "feltOnStations": "II-III Nagrak",
+    "bmkgEarthquakeId": "20260519175027",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260519175027.mmi.jpg",
+    "fingerprintSha1": "4055026a1d3bfb0472ef16235751c77c1166ced7"
   }
 ]
