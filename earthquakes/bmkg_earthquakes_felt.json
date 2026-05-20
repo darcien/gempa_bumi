@@ -36724,5 +36724,29 @@
     "bmkgEarthquakeId": "20260520172850",
     "shakeMapUrl": "https://static.bmkg.go.id/20260520172850.mmi.jpg",
     "fingerprintSha1": "756d4dcb27ae7340f85da27019b76c7e04d05afd"
+  },
+  {
+    "earthquakeAt": "2026-05-20T15:25:22.000Z",
+    "latitude": -5.33,
+    "longitude": 104.63,
+    "magnitude": 2.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km BaratLaut Tanggamus",
+    "feltOnStations": "II-III Ulu Belu",
+    "bmkgEarthquakeId": "20260520222522",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260520222522.mmi.jpg",
+    "fingerprintSha1": "ce1c4b520a3e525f57eddbe69b210bb2760d7a3c"
+  },
+  {
+    "earthquakeAt": "2026-05-20T13:50:40.000Z",
+    "latitude": -2.44,
+    "longitude": 120.98,
+    "magnitude": 4.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 25 km Barat Laut Luwu Timur",
+    "feltOnStations": "III Luwu Timur",
+    "bmkgEarthquakeId": "20260520205040",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260520205040.mmi.jpg",
+    "fingerprintSha1": "490f91f9a135fb2e4811951396af041097cd7136"
   }
 ]
