@@ -36748,5 +36748,17 @@
     "bmkgEarthquakeId": "20260520205040",
     "shakeMapUrl": "https://static.bmkg.go.id/20260520205040.mmi.jpg",
     "fingerprintSha1": "490f91f9a135fb2e4811951396af041097cd7136"
+  },
+  {
+    "earthquakeAt": "2026-05-20T21:04:56.000Z",
+    "latitude": -8.34,
+    "longitude": 108.25,
+    "magnitude": 4.6,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di laut 76 km selatan Pangandaran",
+    "feltOnStations": "III Tasikmalaya, III Garut, II-III Ciamis",
+    "bmkgEarthquakeId": "20260521040456",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260521040456.mmi.jpg",
+    "fingerprintSha1": "20a1fc2a11c34aa84f5b557fbc36998825370126"
   }
 ]
