@@ -36760,5 +36760,17 @@
     "bmkgEarthquakeId": "20260521040456",
     "shakeMapUrl": "https://static.bmkg.go.id/20260521040456.mmi.jpg",
     "fingerprintSha1": "20a1fc2a11c34aa84f5b557fbc36998825370126"
+  },
+  {
+    "earthquakeAt": "2026-05-21T04:56:40.000Z",
+    "latitude": -6.87,
+    "longitude": 106.79,
+    "magnitude": 2.9,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km Barat Laut Kota Sukabumi",
+    "feltOnStations": "II-III Ciambar, III Cibadak",
+    "bmkgEarthquakeId": "20260521115640",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260521115640.mmi.jpg",
+    "fingerprintSha1": "5aacccd005ee6c5c8782f45af4a03a4b19651a32"
   }
 ]
