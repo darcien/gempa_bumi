@@ -36796,5 +36796,17 @@
     "bmkgEarthquakeId": "20260522071031",
     "shakeMapUrl": "https://static.bmkg.go.id/20260522071031.mmi.jpg",
     "fingerprintSha1": "83b697d904408e4d8d54b1661ef28dea8222fd46"
+  },
+  {
+    "earthquakeAt": "2026-05-22T06:28:00.000Z",
+    "latitude": 4.19,
+    "longitude": 97.55,
+    "magnitude": 4.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 31 km Timur Laut Kabupaten Gayolues",
+    "feltOnStations": "III Gayo Lues, III Sentang Blangkejeren",
+    "bmkgEarthquakeId": "20260522132800",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260522132800.mmi.jpg",
+    "fingerprintSha1": "6317e920d20cf166039d9d8a7b73952e2dd18ce1"
   }
 ]
