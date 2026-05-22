@@ -36808,5 +36808,29 @@
     "bmkgEarthquakeId": "20260522132800",
     "shakeMapUrl": "https://static.bmkg.go.id/20260522132800.mmi.jpg",
     "fingerprintSha1": "6317e920d20cf166039d9d8a7b73952e2dd18ce1"
+  },
+  {
+    "earthquakeAt": "2026-05-22T13:39:23.000Z",
+    "latitude": -4.71,
+    "longitude": 103.1,
+    "magnitude": 3.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 29 km Barat Laut Kaur",
+    "feltOnStations": "III Kaur, III Muara Sahung, II Muara Dua, II Oku Selatan, II Lemong, II Pesisir Barat",
+    "bmkgEarthquakeId": "20260522203923",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260522203923.mmi.jpg",
+    "fingerprintSha1": "da040008bb0a3393e43227a403e7c33ceca711e2"
+  },
+  {
+    "earthquakeAt": "2026-05-22T13:13:17.000Z",
+    "latitude": -4.61,
+    "longitude": 122.45,
+    "magnitude": 3.4,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di laut 21 km Utara Muna Barat",
+    "feltOnStations": "II-III Muna Barat",
+    "bmkgEarthquakeId": "20260522201317",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260522201317.mmi.jpg",
+    "fingerprintSha1": "196b19a761cd06a124252724642fac5e19f99824"
   }
 ]
