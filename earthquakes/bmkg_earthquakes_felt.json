@@ -36832,5 +36832,17 @@
     "bmkgEarthquakeId": "20260522201317",
     "shakeMapUrl": "https://static.bmkg.go.id/20260522201317.mmi.jpg",
     "fingerprintSha1": "196b19a761cd06a124252724642fac5e19f99824"
+  },
+  {
+    "earthquakeAt": "2026-05-22T17:05:37.000Z",
+    "latitude": -2.29,
+    "longitude": 140.49,
+    "magnitude": 3.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 34 km Timur Laut Kab. Jayapura",
+    "feltOnStations": "II Kab. Jayapura",
+    "bmkgEarthquakeId": "20260523000537",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260523000537.mmi.jpg",
+    "fingerprintSha1": "5b450e66eac5086e800fc7ad4e1d529e43d5241d"
   }
 ]
