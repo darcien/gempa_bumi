@@ -36772,5 +36772,29 @@
     "bmkgEarthquakeId": "20260521115640",
     "shakeMapUrl": "https://static.bmkg.go.id/20260521115640.mmi.jpg",
     "fingerprintSha1": "5aacccd005ee6c5c8782f45af4a03a4b19651a32"
+  },
+  {
+    "earthquakeAt": "2026-05-22T01:05:09.000Z",
+    "latitude": 1.07,
+    "longitude": 126.18,
+    "magnitude": 5.8,
+    "depthInKm": 26,
+    "locationInIndonesian": "Pusat gempa berada di laut 124 km tenggara Bitung",
+    "feltOnStations": "III-IV Batang Dua, II-III Sofifi, II-III Halmahera Barat, II-III Tidore, II-III Manado, III Ternate, III MInahasa Utara",
+    "bmkgEarthquakeId": "20260522080509",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260522080509.mmi.jpg",
+    "fingerprintSha1": "57ca2b45567a86d4f7aeb3609f8a12ce589bddb4"
+  },
+  {
+    "earthquakeAt": "2026-05-22T00:10:31.000Z",
+    "latitude": -2.32,
+    "longitude": 140.5,
+    "magnitude": 3.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 31 km timur laut Kabupaten Jayapura",
+    "feltOnStations": "II Kota Jayapura, II Kabupaten Jayapura",
+    "bmkgEarthquakeId": "20260522071031",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260522071031.mmi.jpg",
+    "fingerprintSha1": "83b697d904408e4d8d54b1661ef28dea8222fd46"
   }
 ]
