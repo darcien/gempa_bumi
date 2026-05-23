@@ -36844,5 +36844,17 @@
     "bmkgEarthquakeId": "20260523000537",
     "shakeMapUrl": "https://static.bmkg.go.id/20260523000537.mmi.jpg",
     "fingerprintSha1": "5b450e66eac5086e800fc7ad4e1d529e43d5241d"
+  },
+  {
+    "earthquakeAt": "2026-05-23T12:40:26.000Z",
+    "latitude": -4.67,
+    "longitude": 102.57,
+    "magnitude": 5.3,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di laut 45 km barat daya Bengkulu Selatan",
+    "feltOnStations": "III-IV Bengkulu Selatan, III-IV Kaur, III-IV Seluma Kota Bengkulu, III Kepahiang, III Rejang Lebong, III Musi Rawas",
+    "bmkgEarthquakeId": "20260523194026",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260523194026.mmi.jpg",
+    "fingerprintSha1": "1253c79fe7f7e62e7d9a06a355bb0e49e3334867"
   }
 ]
