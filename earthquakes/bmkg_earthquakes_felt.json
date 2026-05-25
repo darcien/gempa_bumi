@@ -36864,9 +36864,21 @@
     "magnitude": 4.8,
     "depthInKm": 22,
     "locationInIndonesian": "Pusat gempa berada di laut 125 km Tenggara Bitung",
-    "feltOnStations": "II-III Manado, II-III Bitung, II-III MInahasa Utara",
+    "feltOnStations": "II-III Manado, II-III Bitung, II-III MInahasa Utara, II-III Minahasa Tenggara",
     "bmkgEarthquakeId": "20260524223311",
     "shakeMapUrl": "https://static.bmkg.go.id/20260524223311.mmi.jpg",
     "fingerprintSha1": "219f5269a3c32c240a32e72915cba149ad0efe30"
+  },
+  {
+    "earthquakeAt": "2026-05-25T20:39:21.000Z",
+    "latitude": 1.06,
+    "longitude": 126.19,
+    "magnitude": 5.7,
+    "depthInKm": 22,
+    "locationInIndonesian": "Pusat gempa berada didilaut 125 Tenggara Bitung",
+    "feltOnStations": "III Ternate, III Manado, III Tondano",
+    "bmkgEarthquakeId": "20260526033921",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260526033921.mmi.jpg",
+    "fingerprintSha1": "6e15beb68d2eb12c84e455162256129b79f67e99"
   }
 ]
