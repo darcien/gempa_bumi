@@ -36875,10 +36875,34 @@
     "longitude": 126.19,
     "magnitude": 5.7,
     "depthInKm": 22,
-    "locationInIndonesian": "Pusat gempa berada didilaut 125 Tenggara Bitung",
-    "feltOnStations": "III Ternate, III Manado, III Tondano",
+    "locationInIndonesian": "Pusat gempa berada dilaut 125 Tenggara Bitung",
+    "feltOnStations": "III Ternate, III Manado, III Tondano, III Bolaang Mongondow Timur, III Tomohon, III Bitung",
     "bmkgEarthquakeId": "20260526033921",
     "shakeMapUrl": "https://static.bmkg.go.id/20260526033921.mmi.jpg",
     "fingerprintSha1": "6e15beb68d2eb12c84e455162256129b79f67e99"
+  },
+  {
+    "earthquakeAt": "2026-05-26T09:30:12.000Z",
+    "latitude": -3.22,
+    "longitude": 129.01,
+    "magnitude": 3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km Timur Laut Maluku Tengah",
+    "feltOnStations": "I-II Amahai",
+    "bmkgEarthquakeId": "20260526163012",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260526163012.mmi.jpg",
+    "fingerprintSha1": "2130e4732cf90761a0925b3462ec8e1a0949624c"
+  },
+  {
+    "earthquakeAt": "2026-05-26T08:39:10.000Z",
+    "latitude": -9.01,
+    "longitude": 113.84,
+    "magnitude": 5.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 93 km tenggara Jember",
+    "feltOnStations": "IV Jember, III Bondowoso, III Malang, II Blitar, III-IV Banyuwangi, II-III Denpasar, II Trenggalek, III Kuta, III Kuta Selatan",
+    "bmkgEarthquakeId": "20260526153910",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260526153910.mmi.jpg",
+    "fingerprintSha1": "59763e827503e98d81686bdf9a4bab7e581602c8"
   }
 ]
