@@ -36904,5 +36904,17 @@
     "bmkgEarthquakeId": "20260526153910",
     "shakeMapUrl": "https://static.bmkg.go.id/20260526153910.mmi.jpg",
     "fingerprintSha1": "59763e827503e98d81686bdf9a4bab7e581602c8"
+  },
+  {
+    "earthquakeAt": "2026-05-26T19:49:05.000Z",
+    "latitude": 4.12,
+    "longitude": 97.48,
+    "magnitude": 4.4,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 20 km timur laut Gayolues",
+    "feltOnStations": "III Aceh Tamiang, II Langsa, II Aceh Tengah",
+    "bmkgEarthquakeId": "20260527024905",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260527024905.mmi.jpg",
+    "fingerprintSha1": "a1175cc1160a08fea35f5059fd9db47f1ba9f7ea"
   }
 ]
