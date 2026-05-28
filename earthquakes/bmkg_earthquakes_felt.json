@@ -36916,5 +36916,17 @@
     "bmkgEarthquakeId": "20260527024905",
     "shakeMapUrl": "https://static.bmkg.go.id/20260527024905.mmi.jpg",
     "fingerprintSha1": "a1175cc1160a08fea35f5059fd9db47f1ba9f7ea"
+  },
+  {
+    "earthquakeAt": "2026-05-28T20:03:25.000Z",
+    "latitude": -8.53,
+    "longitude": 116.08,
+    "magnitude": 3.7,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 18 km utara Lombok Barat",
+    "feltOnStations": "III Kota Mataram , III Kab. Lombok Utara, III Kab. Lombok Barat, II Kab. Lombok Tengah",
+    "bmkgEarthquakeId": "20260529030325",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260529030325.mmi.jpg",
+    "fingerprintSha1": "9525bd8af5a6afcbb182fce253b07cc34beccbdf"
   }
 ]
