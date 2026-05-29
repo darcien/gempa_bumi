@@ -37000,5 +37000,17 @@
     "bmkgEarthquakeId": "20260529213443",
     "shakeMapUrl": "https://static.bmkg.go.id/20260529213443.mmi.jpg",
     "fingerprintSha1": "d47064211c0026f2a3e64540d8c51f0854116b12"
+  },
+  {
+    "earthquakeAt": "2026-05-29T15:37:35.000Z",
+    "latitude": -6.87,
+    "longitude": 108.46,
+    "magnitude": 2.4,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 Km utara Kuningan",
+    "feltOnStations": "II Kuningan",
+    "bmkgEarthquakeId": "20260529223735",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260529223735.mmi.jpg",
+    "fingerprintSha1": "c70b190ac2063f33cfac85d276b52f75b72e627e"
   }
 ]
