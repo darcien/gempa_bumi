@@ -36964,5 +36964,17 @@
     "bmkgEarthquakeId": "20260529062001",
     "shakeMapUrl": "https://static.bmkg.go.id/20260529062001.mmi.jpg",
     "fingerprintSha1": "5ff6e289ea26adeaa8327d25c3592f9ae7ef5122"
+  },
+  {
+    "earthquakeAt": "2026-05-29T06:25:21.000Z",
+    "latitude": 2.56,
+    "longitude": 98.64,
+    "magnitude": 3.2,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km Barat Daya Samosir",
+    "feltOnStations": "II Samosir",
+    "bmkgEarthquakeId": "20260529132521",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260529132521.mmi.jpg",
+    "fingerprintSha1": "81ddddd5db7c7952aed6882a7a54d1b8d91bc276"
   }
 ]
