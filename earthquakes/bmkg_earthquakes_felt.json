@@ -36976,5 +36976,29 @@
     "bmkgEarthquakeId": "20260529132521",
     "shakeMapUrl": "https://static.bmkg.go.id/20260529132521.mmi.jpg",
     "fingerprintSha1": "81ddddd5db7c7952aed6882a7a54d1b8d91bc276"
+  },
+  {
+    "earthquakeAt": "2026-05-29T14:50:23.000Z",
+    "latitude": -5.33,
+    "longitude": 104.62,
+    "magnitude": 3,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 18 Km barat laut Tanggamus",
+    "feltOnStations": "I-II Ulu Belu Tanggamus",
+    "bmkgEarthquakeId": "20260529215023",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260529215023.mmi.jpg",
+    "fingerprintSha1": "e39bba0160d1e037832c3b2de2e13133b70cfd17"
+  },
+  {
+    "earthquakeAt": "2026-05-29T14:34:43.000Z",
+    "latitude": -3.56,
+    "longitude": 122.3,
+    "magnitude": 4.6,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 22 km timur Konawe Utara",
+    "feltOnStations": "III-IV Konawe Utara, III-IV Kendari, III Konawe Selatan, III Konawe",
+    "bmkgEarthquakeId": "20260529213443",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260529213443.mmi.jpg",
+    "fingerprintSha1": "d47064211c0026f2a3e64540d8c51f0854116b12"
   }
 ]
