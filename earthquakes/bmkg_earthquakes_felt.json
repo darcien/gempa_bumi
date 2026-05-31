@@ -37024,5 +37024,29 @@
     "bmkgEarthquakeId": "20260530044649",
     "shakeMapUrl": "https://static.bmkg.go.id/20260530044649.mmi.jpg",
     "fingerprintSha1": "7cf32840a2c9f00ab7617171ed82110d97d63ceb"
+  },
+  {
+    "earthquakeAt": "2026-05-31T21:30:07.000Z",
+    "latitude": -8.89,
+    "longitude": 117.64,
+    "magnitude": 3.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 50 km tenggara Sumbawa",
+    "feltOnStations": "III Kab. Sumbawa, III Kab. Sumbawa Barat",
+    "bmkgEarthquakeId": "20260601043007",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260601043007.mmi.jpg",
+    "fingerprintSha1": "8b966dac33b65d81969e337409749497ee66feb2"
+  },
+  {
+    "earthquakeAt": "2026-05-31T21:28:19.000Z",
+    "latitude": -2.01,
+    "longitude": 140.27,
+    "magnitude": 4.4,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di laut 65 km utara Sentani",
+    "feltOnStations": "II Kota Jayapura, II Kab. Jayapura",
+    "bmkgEarthquakeId": "20260601042819",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260601042819.mmi.jpg",
+    "fingerprintSha1": "78b6c7c02ced70e0c7768dddb57a667c2fefd2b7"
   }
 ]
