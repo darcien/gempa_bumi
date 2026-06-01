@@ -37048,5 +37048,17 @@
     "bmkgEarthquakeId": "20260601042819",
     "shakeMapUrl": "https://static.bmkg.go.id/20260601042819.mmi.jpg",
     "fingerprintSha1": "78b6c7c02ced70e0c7768dddb57a667c2fefd2b7"
+  },
+  {
+    "earthquakeAt": "2026-06-01T10:32:23.000Z",
+    "latitude": -5.32,
+    "longitude": 104.6,
+    "magnitude": 2.8,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 20 km barat laut Tanggamus",
+    "feltOnStations": "II-III Tanggamus, II-III Ulu Belu",
+    "bmkgEarthquakeId": "20260601173223",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260601173223.mmi.jpg",
+    "fingerprintSha1": "ebd9b57e2729cb44d911f8d84ce01737798fe082"
   }
 ]
