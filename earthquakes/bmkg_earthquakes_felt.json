@@ -37072,5 +37072,17 @@
     "bmkgEarthquakeId": "20260602060117",
     "shakeMapUrl": "https://static.bmkg.go.id/20260602060117.mmi.jpg",
     "fingerprintSha1": "79035d6bea6757eacaccdef7c34b8ea4c094d2b7"
+  },
+  {
+    "earthquakeAt": "2026-06-01T23:01:16.000Z",
+    "latitude": -1.94,
+    "longitude": 138.95,
+    "magnitude": 5.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 22 km tenggara Sarmi",
+    "feltOnStations": "IV Sarmi",
+    "bmkgEarthquakeId": "20260602060116",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260602060116.mmi.jpg",
+    "fingerprintSha1": "d366b0017ded1f634b50f1faa8d85b4470b629c5"
   }
 ]
