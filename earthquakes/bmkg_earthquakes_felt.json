@@ -37180,5 +37180,17 @@
     "bmkgEarthquakeId": "20260603171823",
     "shakeMapUrl": "https://static.bmkg.go.id/20260603171823.mmi.jpg",
     "fingerprintSha1": "34e6d12ef0d056cb126d064d769fd57b5fcc59bc"
+  },
+  {
+    "earthquakeAt": "2026-06-03T16:55:38.000Z",
+    "latitude": -8.24,
+    "longitude": 120.14,
+    "magnitude": 5.3,
+    "depthInKm": 164,
+    "locationInIndonesian": "Pusat gempa berada di laut 39 km TimurLaut LABUANBAJO",
+    "feltOnStations": "III Waingapu",
+    "bmkgEarthquakeId": "20260603235538",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260603235538.mmi.jpg",
+    "fingerprintSha1": "f5998138ffc96e17db04f527201d99cfda5acdac"
   }
 ]
