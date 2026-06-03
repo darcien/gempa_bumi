@@ -37192,5 +37192,17 @@
     "bmkgEarthquakeId": "20260603235538",
     "shakeMapUrl": "https://static.bmkg.go.id/20260603235538.mmi.jpg",
     "fingerprintSha1": "f5998138ffc96e17db04f527201d99cfda5acdac"
+  },
+  {
+    "earthquakeAt": "2026-06-03T22:58:46.000Z",
+    "latitude": -3.92,
+    "longitude": 122.59,
+    "magnitude": 3.2,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km timur laut Kendari",
+    "feltOnStations": "III Kendari",
+    "bmkgEarthquakeId": "20260604055846",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260604055846.mmi.jpg",
+    "fingerprintSha1": "bb185f54794ff1a5e8f6b483503a2ca753882464"
   }
 ]
