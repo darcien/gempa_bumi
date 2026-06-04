@@ -37204,5 +37204,17 @@
     "bmkgEarthquakeId": "20260604055846",
     "shakeMapUrl": "https://static.bmkg.go.id/20260604055846.mmi.jpg",
     "fingerprintSha1": "bb185f54794ff1a5e8f6b483503a2ca753882464"
+  },
+  {
+    "earthquakeAt": "2026-06-04T04:37:30.000Z",
+    "latitude": -0.8,
+    "longitude": 133.32,
+    "magnitude": 4.8,
+    "depthInKm": 19,
+    "locationInIndonesian": "Pusat gempa berada di darat 30 km timur laut Kebar-Manokwari",
+    "feltOnStations": "II-III Kab. Manokwari",
+    "bmkgEarthquakeId": "20260604113730",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260604113730.mmi.jpg",
+    "fingerprintSha1": "6f0c85054c7b012ea6de0e4a2b6284888be0b59c"
   }
 ]
