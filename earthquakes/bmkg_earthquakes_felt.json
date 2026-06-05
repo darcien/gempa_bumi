@@ -37252,5 +37252,17 @@
     "bmkgEarthquakeId": "20260605225707",
     "shakeMapUrl": "https://static.bmkg.go.id/20260605225707.mmi.jpg",
     "fingerprintSha1": "daf9b282653ac97f24ff906b5d142a1cb48de779"
+  },
+  {
+    "earthquakeAt": "2026-06-05T21:35:38.000Z",
+    "latitude": 0.54,
+    "longitude": 99.56,
+    "magnitude": 3.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada didarat 37km Selatan Mandailing Natal",
+    "feltOnStations": "III Mandailing Natal",
+    "bmkgEarthquakeId": "20260606043538",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260606043538.mmi.jpg",
+    "fingerprintSha1": "ed335bc9035550cc8cb92e7e9a861409895a987f"
   }
 ]
