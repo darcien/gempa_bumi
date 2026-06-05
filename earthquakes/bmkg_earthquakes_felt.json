@@ -37216,5 +37216,17 @@
     "bmkgEarthquakeId": "20260604113730",
     "shakeMapUrl": "https://static.bmkg.go.id/20260604113730.mmi.jpg",
     "fingerprintSha1": "6f0c85054c7b012ea6de0e4a2b6284888be0b59c"
+  },
+  {
+    "earthquakeAt": "2026-06-04T23:28:33.000Z",
+    "latitude": -0.18,
+    "longitude": 123.13,
+    "magnitude": 5.6,
+    "depthInKm": 91,
+    "locationInIndonesian": "Pusat gempa berada di laut 70 km timur laut Pulau Puah",
+    "feltOnStations": "III-IV Luwuk, III Gorontalo, II Taliabu, III-IV Bone Bolango, II-III Pohuwatu, II-III Boalemo, II-III Gorontalo Utara",
+    "bmkgEarthquakeId": "20260605062833",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260605062833.mmi.jpg",
+    "fingerprintSha1": "7ae26a8176c278f465a7751b47279764960e2938"
   }
 ]
