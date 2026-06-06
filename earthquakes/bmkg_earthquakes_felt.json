@@ -37264,5 +37264,17 @@
     "bmkgEarthquakeId": "20260606043538",
     "shakeMapUrl": "https://static.bmkg.go.id/20260606043538.mmi.jpg",
     "fingerprintSha1": "ed335bc9035550cc8cb92e7e9a861409895a987f"
+  },
+  {
+    "earthquakeAt": "2026-06-06T10:18:30.000Z",
+    "latitude": -5.34,
+    "longitude": 104.73,
+    "magnitude": 2.8,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km utara Tanggamus",
+    "feltOnStations": "II-III Tanggamus",
+    "bmkgEarthquakeId": "20260606171830",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260606171830.mmi.jpg",
+    "fingerprintSha1": "3a8d1ee65162ee3c4c655d17c7c3cb0faf66b1d4"
   }
 ]
