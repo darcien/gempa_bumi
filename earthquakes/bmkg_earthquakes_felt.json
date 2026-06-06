@@ -37276,5 +37276,17 @@
     "bmkgEarthquakeId": "20260606171830",
     "shakeMapUrl": "https://static.bmkg.go.id/20260606171830.mmi.jpg",
     "fingerprintSha1": "3a8d1ee65162ee3c4c655d17c7c3cb0faf66b1d4"
+  },
+  {
+    "earthquakeAt": "2026-06-06T12:57:14.000Z",
+    "latitude": -6.92,
+    "longitude": 107.12,
+    "magnitude": 3.5,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km barat daya Kab. Cianjur",
+    "feltOnStations": "II-III Cianjur, II-III Cibeber, II-III Cilaku, II-III Warungkondang, II-III Cugenang, II-III Campaka, II Sukabumi",
+    "bmkgEarthquakeId": "20260606195714",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260606195714.mmi.jpg",
+    "fingerprintSha1": "cbb9dad2836c9f211da4bddaa336cba592e6355d"
   }
 ]
