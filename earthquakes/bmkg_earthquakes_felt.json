@@ -37336,5 +37336,17 @@
     "bmkgEarthquakeId": "20260607093535",
     "shakeMapUrl": "https://static.bmkg.go.id/20260607093535.mmi.jpg",
     "fingerprintSha1": "efb84ee4741831acfdb2ce44be7483c8bca3bd70"
+  },
+  {
+    "earthquakeAt": "2026-06-07T06:13:31.000Z",
+    "latitude": 4.68,
+    "longitude": 96.79,
+    "magnitude": 2.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km barat laut Takengon",
+    "feltOnStations": "II-III Bener Meriah",
+    "bmkgEarthquakeId": "20260607131331",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260607131331.mmi.jpg",
+    "fingerprintSha1": "2477c4db13bee21dc7bfeca32d39989938881b40"
   }
 ]
