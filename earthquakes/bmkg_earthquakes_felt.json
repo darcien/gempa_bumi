@@ -37288,5 +37288,53 @@
     "bmkgEarthquakeId": "20260606195714",
     "shakeMapUrl": "https://static.bmkg.go.id/20260606195714.mmi.jpg",
     "fingerprintSha1": "cbb9dad2836c9f211da4bddaa336cba592e6355d"
+  },
+  {
+    "earthquakeAt": "2026-06-07T06:01:18.000Z",
+    "latitude": 4.67,
+    "longitude": 96.83,
+    "magnitude": 2.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km utara Takengon",
+    "feltOnStations": "II-III Bener Meriah",
+    "bmkgEarthquakeId": "20260607130118",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260607130118.mmi.jpg",
+    "fingerprintSha1": "1ca8b51ffdbca43d499715935844aa73cdc5b0a2"
+  },
+  {
+    "earthquakeAt": "2026-06-07T05:53:04.000Z",
+    "latitude": 4.77,
+    "longitude": 96.77,
+    "magnitude": 2.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km barat laut Kab. Bener Meriah",
+    "feltOnStations": "II-III Bener Meriah",
+    "bmkgEarthquakeId": "20260607125304",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260607125304.mmi.jpg",
+    "fingerprintSha1": "5bc868ebf234a2382b176d9e74fb1232151eb2b2"
+  },
+  {
+    "earthquakeAt": "2026-06-07T05:32:24.000Z",
+    "latitude": 4.74,
+    "longitude": 96.75,
+    "magnitude": 4.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 km barat Kab. Bener Meriah",
+    "feltOnStations": "III-IV Bener Meriah, III-IV Takengon",
+    "bmkgEarthquakeId": "20260607123224",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260607123224.mmi.jpg",
+    "fingerprintSha1": "70e3fd9e119a9ae695ea13a297b7793bc530fb0d"
+  },
+  {
+    "earthquakeAt": "2026-06-07T02:35:35.000Z",
+    "latitude": -8.12,
+    "longitude": 107.89,
+    "magnitude": 3.9,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di laut 81 km barat daya Kab. Pangandaran",
+    "feltOnStations": "II Parigi",
+    "bmkgEarthquakeId": "20260607093535",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260607093535.mmi.jpg",
+    "fingerprintSha1": "efb84ee4741831acfdb2ce44be7483c8bca3bd70"
   }
 ]
