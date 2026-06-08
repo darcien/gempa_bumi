@@ -37384,5 +37384,41 @@
     "bmkgEarthquakeId": "20260608063742",
     "shakeMapUrl": "https://static.bmkg.go.id/20260608063742.mmi.jpg",
     "fingerprintSha1": "8707b2d007d8c01c65ecc37c266ec72f8dbed069"
+  },
+  {
+    "earthquakeAt": "2026-06-08T06:39:24.000Z",
+    "latitude": -0.88,
+    "longitude": 100.25,
+    "magnitude": 4.5,
+    "depthInKm": 68,
+    "locationInIndonesian": "Pusat gempa berada di laut 28 km selatan Padang Pariaman",
+    "feltOnStations": "III Padang Pariaman, III Kota Padang",
+    "bmkgEarthquakeId": "20260608133924",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260608133924.mmi.jpg",
+    "fingerprintSha1": "0ce40a7b070ef7e507028ae1116cb0f100e76e0c"
+  },
+  {
+    "earthquakeAt": "2026-06-08T06:28:14.000Z",
+    "latitude": -1.99,
+    "longitude": 124.41,
+    "magnitude": 3.8,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di laut 5 km tenggara Bobong",
+    "feltOnStations": "II Taliabu",
+    "bmkgEarthquakeId": "20260608132814",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260608132814.mmi.jpg",
+    "fingerprintSha1": "7140fcd08770d1a5b4b4f133606271969a0e2a1a"
+  },
+  {
+    "earthquakeAt": "2026-06-08T05:49:13.000Z",
+    "latitude": 4.75,
+    "longitude": 96.81,
+    "magnitude": 3,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km barat laut Kabupaten Bener Meriah",
+    "feltOnStations": "II - III Bener Meriah",
+    "bmkgEarthquakeId": "20260608124913",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260608124913.mmi.jpg",
+    "fingerprintSha1": "ac2a40228dc2e2022bb0188fa4672513a3f313a0"
   }
 ]
