@@ -37360,5 +37360,29 @@
     "bmkgEarthquakeId": "20260607200608",
     "shakeMapUrl": "https://static.bmkg.go.id/20260607200608.mmi.jpg",
     "fingerprintSha1": "250141d1afb49d9f3a88336cb1a46e01e557bb0d"
+  },
+  {
+    "earthquakeAt": "2026-06-08T00:55:10.000Z",
+    "latitude": 5.41,
+    "longitude": 125.29,
+    "magnitude": 6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 201 km baratlaut Tahuna, Kepulauan Sangihe",
+    "feltOnStations": "III Kab. Gorontalo, II-III Manado, II MInahasa Utara, II Kota Gorontalo",
+    "bmkgEarthquakeId": "20260608075510",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260608075510.mmi.jpg",
+    "fingerprintSha1": "a047d2dd518dc7683a93652a5e019b76b5d3f932"
+  },
+  {
+    "earthquakeAt": "2026-06-07T23:37:42.000Z",
+    "latitude": 5.69,
+    "longitude": 125.05,
+    "magnitude": 7.7,
+    "depthInKm": 105,
+    "locationInIndonesian": "Pusat gempa berada di laut 244 km barat laut Pulau Karatung",
+    "feltOnStations": "IV Morotai, IV Halmahera Utara, IV Toli-Toli, III-IV Kab. Gorontalo Utara, III Batang Dua, III Ternate, III Halmahera Barat, III Gorontalo, III Halmahera Selatan, III Halmahera Timur, III Parigi Moutong, III Manado, III Minahasa, III Palu, III Bitung, III Bolaang Mongondow Timur, III Halmahera Tengah",
+    "bmkgEarthquakeId": "20260608063742",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260608063742.mmi.jpg",
+    "fingerprintSha1": "8707b2d007d8c01c65ecc37c266ec72f8dbed069"
   }
 ]
