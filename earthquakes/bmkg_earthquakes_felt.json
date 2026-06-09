@@ -37492,5 +37492,17 @@
     "bmkgEarthquakeId": "20260609131514",
     "shakeMapUrl": "https://static.bmkg.go.id/20260609131514.mmi.jpg",
     "fingerprintSha1": "b5982863b331eeabc799e4660ece27f4ea4652b8"
+  },
+  {
+    "earthquakeAt": "2026-06-09T17:40:18.000Z",
+    "latitude": 1.29,
+    "longitude": 126.42,
+    "magnitude": 3.7,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di darat 120 km Barat Jailolo",
+    "feltOnStations": "II-III Pulau Batang Dua",
+    "bmkgEarthquakeId": "20260610004018",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260610004018.mmi.jpg",
+    "fingerprintSha1": "423705248cdc544aa5c62b31de2706e71f3d8af6"
   }
 ]
