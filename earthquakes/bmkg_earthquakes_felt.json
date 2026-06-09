@@ -37468,5 +37468,29 @@
     "bmkgEarthquakeId": "20260609113345",
     "shakeMapUrl": "https://static.bmkg.go.id/20260609113345.mmi.jpg",
     "fingerprintSha1": "ec96c9ef7fef5d6c2405971705c3d3151b7baf55"
+  },
+  {
+    "earthquakeAt": "2026-06-09T07:00:55.000Z",
+    "latitude": -3.59,
+    "longitude": 122.32,
+    "magnitude": 3.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 25 km Timur Konawe Utara",
+    "feltOnStations": "III Konawe Utara",
+    "bmkgEarthquakeId": "20260609140055",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260609140055.mmi.jpg",
+    "fingerprintSha1": "77bcde8c43832de46b58d650250f5a39073c6566"
+  },
+  {
+    "earthquakeAt": "2026-06-09T06:15:14.000Z",
+    "latitude": 5.27,
+    "longitude": 125.32,
+    "magnitude": 5.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 185 km barat laut Tahuna",
+    "feltOnStations": "II Kep. Sangihe",
+    "bmkgEarthquakeId": "20260609131514",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260609131514.mmi.jpg",
+    "fingerprintSha1": "b5982863b331eeabc799e4660ece27f4ea4652b8"
   }
 ]
