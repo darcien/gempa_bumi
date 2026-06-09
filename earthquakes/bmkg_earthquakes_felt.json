@@ -37456,5 +37456,17 @@
     "bmkgEarthquakeId": "20260609045559",
     "shakeMapUrl": "https://static.bmkg.go.id/20260609045559.mmi.jpg",
     "fingerprintSha1": "94f8b908e9b507e48e6ddda1d3275028db389826"
+  },
+  {
+    "earthquakeAt": "2026-06-09T04:33:45.000Z",
+    "latitude": -6.7,
+    "longitude": 107.59,
+    "magnitude": 2.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 18 km timur laut Kabupaten Bandung",
+    "feltOnStations": "II-III Ciater, II-III Sagalaherang, II-III Serangpanjang",
+    "bmkgEarthquakeId": "20260609113345",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260609113345.mmi.jpg",
+    "fingerprintSha1": "ec96c9ef7fef5d6c2405971705c3d3151b7baf55"
   }
 ]
