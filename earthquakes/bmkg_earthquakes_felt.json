@@ -37528,5 +37528,17 @@
     "bmkgEarthquakeId": "20260610200844",
     "shakeMapUrl": "https://static.bmkg.go.id/20260610200844.mmi.jpg",
     "fingerprintSha1": "5c27c6761f9a047cc88f20b427f60b2b74dd4c78"
+  },
+  {
+    "earthquakeAt": "2026-06-10T14:45:26.000Z",
+    "latitude": 1.03,
+    "longitude": 96.98,
+    "magnitude": 4.4,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di laut 53 km barat Kabupaten Nias Barat",
+    "feltOnStations": "IV Lahewa, Kab. Nias Utara, IV Sirombu, Kab. Nias Barat, III Gunung Sitoli",
+    "bmkgEarthquakeId": "20260610214526",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260610214526.mmi.jpg",
+    "fingerprintSha1": "991155361295d5891adf30dce7ff559e9b3eaa3b"
   }
 ]
