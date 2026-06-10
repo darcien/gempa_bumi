@@ -37504,5 +37504,17 @@
     "bmkgEarthquakeId": "20260610004018",
     "shakeMapUrl": "https://static.bmkg.go.id/20260610004018.mmi.jpg",
     "fingerprintSha1": "423705248cdc544aa5c62b31de2706e71f3d8af6"
+  },
+  {
+    "earthquakeAt": "2026-06-10T04:01:53.000Z",
+    "latitude": 1.25,
+    "longitude": 117.86,
+    "magnitude": 3.3,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 103 km timur Kutai Timur",
+    "feltOnStations": "II-III Sangkulirang",
+    "bmkgEarthquakeId": "20260610110153",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260610110153.mmi.jpg",
+    "fingerprintSha1": "fca9c7683055e33c63dfe14b49fdd90c626070f2"
   }
 ]
