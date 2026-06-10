@@ -37516,5 +37516,17 @@
     "bmkgEarthquakeId": "20260610110153",
     "shakeMapUrl": "https://static.bmkg.go.id/20260610110153.mmi.jpg",
     "fingerprintSha1": "fca9c7683055e33c63dfe14b49fdd90c626070f2"
+  },
+  {
+    "earthquakeAt": "2026-06-10T13:08:44.000Z",
+    "latitude": 1.23,
+    "longitude": 96.6,
+    "magnitude": 4.8,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di laut 88 km barat Nias Utara",
+    "feltOnStations": "II-III Sirombu",
+    "bmkgEarthquakeId": "20260610200844",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260610200844.mmi.jpg",
+    "fingerprintSha1": "5c27c6761f9a047cc88f20b427f60b2b74dd4c78"
   }
 ]
