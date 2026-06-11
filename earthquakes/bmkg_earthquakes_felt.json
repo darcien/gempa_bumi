@@ -37564,5 +37564,17 @@
     "bmkgEarthquakeId": "20260611085612",
     "shakeMapUrl": "https://static.bmkg.go.id/20260611085612.mmi.jpg",
     "fingerprintSha1": "309e3bef6f13ebdbc7d90b6e29f99c56b7d1b626"
+  },
+  {
+    "earthquakeAt": "2026-06-11T07:33:16.000Z",
+    "latitude": 4.87,
+    "longitude": 125.35,
+    "magnitude": 5.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 140 km barat laut Tahuna-Kep. Sangihe",
+    "feltOnStations": "III Kep. Sangihe",
+    "bmkgEarthquakeId": "20260611143316",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260611143316.mmi.jpg",
+    "fingerprintSha1": "15a5289d8c41a134bd3d497ab23fa73b30c8f43a"
   }
 ]
