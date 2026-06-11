@@ -37540,5 +37540,29 @@
     "bmkgEarthquakeId": "20260610214526",
     "shakeMapUrl": "https://static.bmkg.go.id/20260610214526.mmi.jpg",
     "fingerprintSha1": "991155361295d5891adf30dce7ff559e9b3eaa3b"
+  },
+  {
+    "earthquakeAt": "2026-06-11T01:57:04.000Z",
+    "latitude": -9.31,
+    "longitude": 118.46,
+    "magnitude": 4.2,
+    "depthInKm": 43,
+    "locationInIndonesian": "Pusat gempa berada di laut 66 km barat laut Kodi, Sumba Barat Daya",
+    "feltOnStations": "II Kab. Bima, II Kab. Sumbawa",
+    "bmkgEarthquakeId": "20260611085704",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260611085704.mmi.jpg",
+    "fingerprintSha1": "487250e892d79a19a320edd4d1d246db07138633"
+  },
+  {
+    "earthquakeAt": "2026-06-11T01:56:12.000Z",
+    "latitude": 4.89,
+    "longitude": 125.5,
+    "magnitude": 5.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 142 km timur laut Tahuna, Kep. Sangihe",
+    "feltOnStations": "II-III Kep. Sangihe",
+    "bmkgEarthquakeId": "20260611085612",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260611085612.mmi.jpg",
+    "fingerprintSha1": "309e3bef6f13ebdbc7d90b6e29f99c56b7d1b626"
   }
 ]
