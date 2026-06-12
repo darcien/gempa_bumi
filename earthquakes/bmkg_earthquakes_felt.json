@@ -37588,5 +37588,17 @@
     "bmkgEarthquakeId": "20260612164827",
     "shakeMapUrl": "https://static.bmkg.go.id/20260612164827.mmi.jpg",
     "fingerprintSha1": "ec92531ff783a092edb383fa466b4c298f01a975"
+  },
+  {
+    "earthquakeAt": "2026-06-12T13:18:20.000Z",
+    "latitude": -0.9,
+    "longitude": 121.44,
+    "magnitude": 3.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 25 km Barat Laut Tojo Una-Una",
+    "feltOnStations": "II-III Ampana",
+    "bmkgEarthquakeId": "20260612201820",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260612201820.mmi.jpg",
+    "fingerprintSha1": "d88ef4f0272bab0a2f6c57a502063291f18accb9"
   }
 ]
