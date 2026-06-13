@@ -37612,5 +37612,17 @@
     "bmkgEarthquakeId": "20260613190535",
     "shakeMapUrl": "https://static.bmkg.go.id/20260613190535.mmi.jpg",
     "fingerprintSha1": "a0dd2346398c53dbe45c0da8581a4b5892554d89"
+  },
+  {
+    "earthquakeAt": "2026-06-13T22:13:05.000Z",
+    "latitude": -6.98,
+    "longitude": 107.16,
+    "magnitude": 2.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 18 km selatan Cianjur",
+    "feltOnStations": "II-III Sukabumi, II-III Cibeber, II-III Sukaluyu",
+    "bmkgEarthquakeId": "20260614051305",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260614051305.mmi.jpg",
+    "fingerprintSha1": "77314f9eeed3b6e8e730c9fc7c77a1023a6a2928"
   }
 ]
