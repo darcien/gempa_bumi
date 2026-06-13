@@ -37600,5 +37600,17 @@
     "bmkgEarthquakeId": "20260612201820",
     "shakeMapUrl": "https://static.bmkg.go.id/20260612201820.mmi.jpg",
     "fingerprintSha1": "d88ef4f0272bab0a2f6c57a502063291f18accb9"
+  },
+  {
+    "earthquakeAt": "2026-06-13T12:05:35.000Z",
+    "latitude": 1.1,
+    "longitude": 126.2,
+    "magnitude": 5.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 125 km Tenggara BITUNG",
+    "feltOnStations": "III Manado, III Ternate, III Bitung, II Minahasa, II-III Tomohon",
+    "bmkgEarthquakeId": "20260613190535",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260613190535.mmi.jpg",
+    "fingerprintSha1": "a0dd2346398c53dbe45c0da8581a4b5892554d89"
   }
 ]
