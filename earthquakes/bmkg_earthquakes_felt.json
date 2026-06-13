@@ -37620,7 +37620,7 @@
     "magnitude": 2.6,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di darat 18 km selatan Cianjur",
-    "feltOnStations": "II-III Sukabumi, II-III Cibeber, II-III Sukaluyu",
+    "feltOnStations": "II-III Sukabumi, II-III Cibeber, II-III Sukaluyu, II-III Campaka, II-III Cianjur",
     "bmkgEarthquakeId": "20260614051305",
     "shakeMapUrl": "https://static.bmkg.go.id/20260614051305.mmi.jpg",
     "fingerprintSha1": "77314f9eeed3b6e8e730c9fc7c77a1023a6a2928"
