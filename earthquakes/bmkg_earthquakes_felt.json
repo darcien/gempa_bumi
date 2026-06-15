@@ -37648,5 +37648,17 @@
     "bmkgEarthquakeId": "20260615161840",
     "shakeMapUrl": "https://static.bmkg.go.id/20260615161840.mmi.jpg",
     "fingerprintSha1": "13a22174a73e8ed2be19e551ba102f8bfd02ef74"
+  },
+  {
+    "earthquakeAt": "2026-06-15T15:30:22.000Z",
+    "latitude": 5.6,
+    "longitude": 125.39,
+    "magnitude": 5.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada didarat 209 BaratLaut Pulau Karatung",
+    "feltOnStations": "II-III Naha",
+    "bmkgEarthquakeId": "20260615223022",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260615223022.mmi.jpg",
+    "fingerprintSha1": "96f15da1e83ae72735896e2df6a3e6929e149f28"
   }
 ]
