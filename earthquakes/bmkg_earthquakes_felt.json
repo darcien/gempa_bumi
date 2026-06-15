@@ -37636,5 +37636,17 @@
     "bmkgEarthquakeId": "20260614171439",
     "shakeMapUrl": "https://static.bmkg.go.id/20260614171439.mmi.jpg",
     "fingerprintSha1": "714ddce147a6bf64f40c97b37235f1cabf3640a3"
+  },
+  {
+    "earthquakeAt": "2026-06-15T09:18:40.000Z",
+    "latitude": 5.99,
+    "longitude": 126.83,
+    "magnitude": 6.2,
+    "depthInKm": 93,
+    "locationInIndonesian": "Pusat gempa berada di laut 139 km BaratLaut Pulau Karatung",
+    "feltOnStations": "III Rainis, III Miangas , III Naha, III Tahuna, III Melonguane, III Beo",
+    "bmkgEarthquakeId": "20260615161840",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260615161840.mmi.jpg",
+    "fingerprintSha1": "13a22174a73e8ed2be19e551ba102f8bfd02ef74"
   }
 ]
