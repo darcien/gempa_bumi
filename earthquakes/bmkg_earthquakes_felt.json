@@ -37816,5 +37816,17 @@
     "bmkgEarthquakeId": "20260616172351",
     "shakeMapUrl": "https://static.bmkg.go.id/20260616172351.mmi.jpg",
     "fingerprintSha1": "692c2a9afdeaa14378e68925c2c28e15fc2a4644"
+  },
+  {
+    "earthquakeAt": "2026-06-16T18:29:38.000Z",
+    "latitude": -1.14,
+    "longitude": 120.33,
+    "magnitude": 5.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 54 km barat laut Poso",
+    "feltOnStations": "III-IV Palu, III-IV Sigi",
+    "bmkgEarthquakeId": "20260617012938",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260617012938.mmi.jpg",
+    "fingerprintSha1": "376d2295f6796adbd7dd7ec20765f4ffb63fcf26"
   }
 ]
