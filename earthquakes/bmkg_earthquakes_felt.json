@@ -37744,5 +37744,53 @@
     "bmkgEarthquakeId": "20260616102744",
     "shakeMapUrl": "https://static.bmkg.go.id/20260616102744.mmi.jpg",
     "fingerprintSha1": "93242e37af5878e0bb89f8468e755467e56cace8"
+  },
+  {
+    "earthquakeAt": "2026-06-16T08:04:42.000Z",
+    "latitude": -1.06,
+    "longitude": 120.18,
+    "magnitude": 4.7,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di darat 49 km timur laut Sigi",
+    "feltOnStations": "III-IV Sigi, III Palu",
+    "bmkgEarthquakeId": "20260616150442",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260616150442.mmi.jpg",
+    "fingerprintSha1": "fcbb5c57587d7a08f862b6afcea0c92b6d9f0eaf"
+  },
+  {
+    "earthquakeAt": "2026-06-16T07:49:01.000Z",
+    "latitude": 4.76,
+    "longitude": 96.79,
+    "magnitude": 2,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km barat laut Kab. Bener Meriah",
+    "feltOnStations": "II Bener Meriah",
+    "bmkgEarthquakeId": "20260616144901",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260616144901.mmi.jpg",
+    "fingerprintSha1": "422aacc38699081603c8b1924c609eca7b49d942"
+  },
+  {
+    "earthquakeAt": "2026-06-16T05:14:13.000Z",
+    "latitude": 1.28,
+    "longitude": 126.45,
+    "magnitude": 4.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 116 km barat Jailolo",
+    "feltOnStations": "II-III Batang Dua",
+    "bmkgEarthquakeId": "20260616121413",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260616121413.mmi.jpg",
+    "fingerprintSha1": "e56bd7f4c3dc027c0f0efdddde7e01c153b5112a"
+  },
+  {
+    "earthquakeAt": "2026-06-16T05:07:05.000Z",
+    "latitude": -1.07,
+    "longitude": 120.06,
+    "magnitude": 3.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 40 km timur laut Sigi",
+    "feltOnStations": "II-III Sigi",
+    "bmkgEarthquakeId": "20260616120705",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260616120705.mmi.jpg",
+    "fingerprintSha1": "7d4ad718493935f6b628a80d2917631d089e5c7e"
   }
 ]
