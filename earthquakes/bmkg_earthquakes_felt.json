@@ -37660,5 +37660,89 @@
     "bmkgEarthquakeId": "20260615223022",
     "shakeMapUrl": "https://static.bmkg.go.id/20260615223022.mmi.jpg",
     "fingerprintSha1": "96f15da1e83ae72735896e2df6a3e6929e149f28"
+  },
+  {
+    "earthquakeAt": "2026-06-16T04:14:00.000Z",
+    "latitude": -1.05,
+    "longitude": 120.1,
+    "magnitude": 5.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 29 km tenggara Palu",
+    "feltOnStations": "III-IV Sigi, III-IV Palu",
+    "bmkgEarthquakeId": "20260616111400",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260616111400.mmi.jpg",
+    "fingerprintSha1": "bbb1a0d8ee9a412e36925d420181236292cb7733"
+  },
+  {
+    "earthquakeAt": "2026-06-16T03:48:05.000Z",
+    "latitude": -1.18,
+    "longitude": 120.11,
+    "magnitude": 3.8,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di darat 34 km timur laut Sigi",
+    "feltOnStations": "III Sigi, II Palu",
+    "bmkgEarthquakeId": "20260616104805",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260616104805.mmi.jpg",
+    "fingerprintSha1": "78bd22aad87c002b2a618de304236906a6650ae5"
+  },
+  {
+    "earthquakeAt": "2026-06-16T03:41:32.000Z",
+    "latitude": -1.17,
+    "longitude": 120.08,
+    "magnitude": 4,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 32 km timur laut Sigi",
+    "feltOnStations": "III Sigi, II Palu",
+    "bmkgEarthquakeId": "20260616104132",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260616104132.mmi.jpg",
+    "fingerprintSha1": "dcf87f664516e0d1973f3fa586b4ae6f8143f189"
+  },
+  {
+    "earthquakeAt": "2026-06-16T03:38:36.000Z",
+    "latitude": -1.17,
+    "longitude": 120.23,
+    "magnitude": 4.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 45 km timur laut Sigi",
+    "feltOnStations": "III-IV Sigi, II-III Palu",
+    "bmkgEarthquakeId": "20260616103836",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260616103836.mmi.jpg",
+    "fingerprintSha1": "4410d454a570c3b0107162ded9cacaa3dd2a522c"
+  },
+  {
+    "earthquakeAt": "2026-06-16T03:35:12.000Z",
+    "latitude": -1.2,
+    "longitude": 120.11,
+    "magnitude": 4.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 33 km timur laut Sigi",
+    "feltOnStations": "III Sigi, II Palu",
+    "bmkgEarthquakeId": "20260616103512",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260616103512.mmi.jpg",
+    "fingerprintSha1": "a062d68c1989c74cc4d4b43fbcba09f02639e31b"
+  },
+  {
+    "earthquakeAt": "2026-06-16T03:32:16.000Z",
+    "latitude": -1.13,
+    "longitude": 120.04,
+    "magnitude": 4.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 33 km timur laut Sigi",
+    "feltOnStations": "III-IV Sigi, II-III Palu",
+    "bmkgEarthquakeId": "20260616103216",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260616103216.mmi.jpg",
+    "fingerprintSha1": "b03f50c3ee63442404667c6f4a73c8d0cf2331fe"
+  },
+  {
+    "earthquakeAt": "2026-06-16T03:27:44.000Z",
+    "latitude": -1.04,
+    "longitude": 120.23,
+    "magnitude": 6.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 42 km tenggara Palu",
+    "feltOnStations": "VI-VII Palu, V-VI Sigi, III Polewali Mandar, III Mamasa, III Mamuju, II-III Pinrang, II-III Pare-pare, II-III Pohuwato, II-III Boalemo, III Pasangkayu, II Wajo, II-III Gorontalo Utara, II-III Majene, II-III Kab. Gorontalo, II-III Kota Gorontalo, II-III Luwu Utara, II-III Balikpapan, II-III Samarinda, II-III Pulau Laut - Kotabaru",
+    "bmkgEarthquakeId": "20260616102744",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260616102744.mmi.jpg",
+    "fingerprintSha1": "93242e37af5878e0bb89f8468e755467e56cace8"
   }
 ]
