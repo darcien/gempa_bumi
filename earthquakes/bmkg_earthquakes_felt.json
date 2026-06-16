@@ -37792,5 +37792,29 @@
     "bmkgEarthquakeId": "20260616120705",
     "shakeMapUrl": "https://static.bmkg.go.id/20260616120705.mmi.jpg",
     "fingerprintSha1": "7d4ad718493935f6b628a80d2917631d089e5c7e"
+  },
+  {
+    "earthquakeAt": "2026-06-16T11:03:51.000Z",
+    "latitude": -1.29,
+    "longitude": 120.31,
+    "magnitude": 4.7,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 48 km timur Sigi",
+    "feltOnStations": "III-IV Sigi, III-IV Palu",
+    "bmkgEarthquakeId": "20260616180351",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260616180351.mmi.jpg",
+    "fingerprintSha1": "06422757c2bec0cb606d0270f3c5b357dcd8efb0"
+  },
+  {
+    "earthquakeAt": "2026-06-16T10:23:51.000Z",
+    "latitude": 0.53,
+    "longitude": 126.59,
+    "magnitude": 4,
+    "depthInKm": 22,
+    "locationInIndonesian": "Pusat gempa berada di laut 90 km barat Ternate",
+    "feltOnStations": "II-III Kota Ternate, II-III Batang Dua",
+    "bmkgEarthquakeId": "20260616172351",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260616172351.mmi.jpg",
+    "fingerprintSha1": "692c2a9afdeaa14378e68925c2c28e15fc2a4644"
   }
 ]
