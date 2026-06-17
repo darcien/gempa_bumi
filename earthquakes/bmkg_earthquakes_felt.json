@@ -37828,5 +37828,29 @@
     "bmkgEarthquakeId": "20260617012938",
     "shakeMapUrl": "https://static.bmkg.go.id/20260617012938.mmi.jpg",
     "fingerprintSha1": "376d2295f6796adbd7dd7ec20765f4ffb63fcf26"
+  },
+  {
+    "earthquakeAt": "2026-06-17T03:44:16.000Z",
+    "latitude": -9.57,
+    "longitude": 119.44,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km timur laut Waikabubak",
+    "feltOnStations": "III Sumba Barat Daya, III Sumba Timur, III-IV Sumba Barat",
+    "bmkgEarthquakeId": "20260617104416",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260617104416.mmi.jpg",
+    "fingerprintSha1": "684f1a2b8fca398721aaac5f9861184af4c28ddd"
+  },
+  {
+    "earthquakeAt": "2026-06-17T01:08:01.000Z",
+    "latitude": -9.66,
+    "longitude": 119.47,
+    "magnitude": 3.6,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km timur Waikabubak",
+    "feltOnStations": "IV Sumba Barat, II-III Sumba Barat Daya",
+    "bmkgEarthquakeId": "20260617080801",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260617080801.mmi.jpg",
+    "fingerprintSha1": "5935e2a6395fc06dc46d83f4d81a8c2cb78bdc31"
   }
 ]
