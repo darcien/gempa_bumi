@@ -37984,5 +37984,29 @@
     "bmkgEarthquakeId": "20260618235034",
     "shakeMapUrl": "https://static.bmkg.go.id/20260618235034.mmi.jpg",
     "fingerprintSha1": "27dafd693902054a12256ecc00ab170e169a5f21"
+  },
+  {
+    "earthquakeAt": "2026-06-18T20:29:27.000Z",
+    "latitude": -1.07,
+    "longitude": 120.11,
+    "magnitude": 4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 43 km timur laut Sigi",
+    "feltOnStations": "III Palu, III Sigi",
+    "bmkgEarthquakeId": "20260619032927",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260619032927.mmi.jpg",
+    "fingerprintSha1": "73d5aaca3ead8dcb5ce3496c54fefaa253d20a4f"
+  },
+  {
+    "earthquakeAt": "2026-06-18T20:26:45.000Z",
+    "latitude": -1.03,
+    "longitude": 120.07,
+    "magnitude": 4.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 44 km timur laut Sigi",
+    "feltOnStations": "II-III Palu, II-III Sigi",
+    "bmkgEarthquakeId": "20260619032645",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260619032645.mmi.jpg",
+    "fingerprintSha1": "89120888c39f330d43a1597d9c4b7fbb477b4bf7"
   }
 ]
