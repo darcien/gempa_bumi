@@ -37924,5 +37924,29 @@
     "bmkgEarthquakeId": "20260618115342",
     "shakeMapUrl": "https://static.bmkg.go.id/20260618115342.mmi.jpg",
     "fingerprintSha1": "8948cfd3bcac133a6299b98bd13b411804a1ef52"
+  },
+  {
+    "earthquakeAt": "2026-06-18T12:17:00.000Z",
+    "latitude": 5.56,
+    "longitude": 125.32,
+    "magnitude": 3.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 214 km barat laut Pulau Karatung",
+    "feltOnStations": "III Marore",
+    "bmkgEarthquakeId": "20260618191700",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260618191700.mmi.jpg",
+    "fingerprintSha1": "fe3816a72bdb23973abf4c95b72a7a4a135390ac"
+  },
+  {
+    "earthquakeAt": "2026-06-18T10:08:13.000Z",
+    "latitude": 4.75,
+    "longitude": 96.76,
+    "magnitude": 2.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km barat Kabupaten Bener Meriah",
+    "feltOnStations": "II-III Bener Meriah",
+    "bmkgEarthquakeId": "20260618170813",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260618170813.mmi.jpg",
+    "fingerprintSha1": "419af999f1590b03c1986f6a26e952a2e7d1d995"
   }
 ]
