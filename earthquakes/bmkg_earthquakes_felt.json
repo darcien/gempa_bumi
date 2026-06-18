@@ -37948,5 +37948,29 @@
     "bmkgEarthquakeId": "20260618170813",
     "shakeMapUrl": "https://static.bmkg.go.id/20260618170813.mmi.jpg",
     "fingerprintSha1": "419af999f1590b03c1986f6a26e952a2e7d1d995"
+  },
+  {
+    "earthquakeAt": "2026-06-18T13:45:08.000Z",
+    "latitude": 1.35,
+    "longitude": 121.32,
+    "magnitude": 4.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 42 Km utara Buol",
+    "feltOnStations": "III-IV Tolitoli",
+    "bmkgEarthquakeId": "20260618204508",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260618204508.mmi.jpg",
+    "fingerprintSha1": "0e1ed957d5ec2099da9ef07b452a0e5ee488308c"
+  },
+  {
+    "earthquakeAt": "2026-06-18T13:39:04.000Z",
+    "latitude": -1.14,
+    "longitude": 120.22,
+    "magnitude": 4.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 46 Km timur laut Sigi",
+    "feltOnStations": "III Palu, III Sigi",
+    "bmkgEarthquakeId": "20260618203904",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260618203904.mmi.jpg",
+    "fingerprintSha1": "410ab0c198d2a0f7d0e5cce9e88df9eb456290d6"
   }
 ]
