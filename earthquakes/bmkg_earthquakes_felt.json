@@ -38044,5 +38044,17 @@
     "bmkgEarthquakeId": "20260619085320",
     "shakeMapUrl": "https://static.bmkg.go.id/20260619085320.mmi.jpg",
     "fingerprintSha1": "fa44e95fe7e7df1ced99d99fc9fb56b692189ae3"
+  },
+  {
+    "earthquakeAt": "2026-06-19T11:48:28.000Z",
+    "latitude": 4.74,
+    "longitude": 125.53,
+    "magnitude": 3.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 126 km utara Tahuna-Kep. Sangihe",
+    "feltOnStations": "III Mamore",
+    "bmkgEarthquakeId": "20260619184828",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260619184828.mmi.jpg",
+    "fingerprintSha1": "ab1f6cc142f0267b628924e105658e72d049eea1"
   }
 ]
