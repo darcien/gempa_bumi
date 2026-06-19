@@ -38056,5 +38056,29 @@
     "bmkgEarthquakeId": "20260619184828",
     "shakeMapUrl": "https://static.bmkg.go.id/20260619184828.mmi.jpg",
     "fingerprintSha1": "ab1f6cc142f0267b628924e105658e72d049eea1"
+  },
+  {
+    "earthquakeAt": "2026-06-19T22:33:17.000Z",
+    "latitude": -1.15,
+    "longitude": 120.02,
+    "magnitude": 4.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 31 km Timur Laut Sigi",
+    "feltOnStations": "II-III Sigi, II-III Palu, II-III Parigi Moutong",
+    "bmkgEarthquakeId": "20260620053317",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260620053317.mmi.jpg",
+    "fingerprintSha1": "11a9abeeb9589ed616e5df2387048015f5798946"
+  },
+  {
+    "earthquakeAt": "2026-06-19T21:56:18.000Z",
+    "latitude": 5.09,
+    "longitude": 125.07,
+    "magnitude": 4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 171 km Utara Tahuna Kep. Sangihe",
+    "feltOnStations": "II Marore",
+    "bmkgEarthquakeId": "20260620045618",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260620045618.mmi.jpg",
+    "fingerprintSha1": "4f55eefd6cc60375597dce72dd0192757e5b4d07"
   }
 ]
