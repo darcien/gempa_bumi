@@ -38080,5 +38080,41 @@
     "bmkgEarthquakeId": "20260620045618",
     "shakeMapUrl": "https://static.bmkg.go.id/20260620045618.mmi.jpg",
     "fingerprintSha1": "4f55eefd6cc60375597dce72dd0192757e5b4d07"
+  },
+  {
+    "earthquakeAt": "2026-06-20T03:25:59.000Z",
+    "latitude": -1.26,
+    "longitude": 99.81,
+    "magnitude": 4.3,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di laut 79 km barat daya Pariaman",
+    "feltOnStations": "II-III Padang, II-III Padang Pariaman",
+    "bmkgEarthquakeId": "20260620102559",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260620102559.mmi.jpg",
+    "fingerprintSha1": "6b5dc8dfc4dfeb6573a6913ad9f6f7e70777b0ff"
+  },
+  {
+    "earthquakeAt": "2026-06-20T03:03:59.000Z",
+    "latitude": -1.13,
+    "longitude": 120,
+    "magnitude": 2.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 31 km timur laut Sigi",
+    "feltOnStations": "II-III Sigi",
+    "bmkgEarthquakeId": "20260620100359",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260620100359.mmi.jpg",
+    "fingerprintSha1": "12722baf25f3edf7863fda24630e0ae7f064c3f6"
+  },
+  {
+    "earthquakeAt": "2026-06-20T01:40:08.000Z",
+    "latitude": -4.95,
+    "longitude": 102.95,
+    "magnitude": 5,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di laut 47 km barat daya Kaur",
+    "feltOnStations": "III Kaur, III Bengkulu Selatan, III Seluma, II-III Argamakmur, II-III Kota Bengkulu, II Rejang Lebong, II Kepahiang",
+    "bmkgEarthquakeId": "20260620084008",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260620084008.mmi.jpg",
+    "fingerprintSha1": "d3591851d9d63d1afd2931e9c7826e7406d097c3"
   }
 ]
