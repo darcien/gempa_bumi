@@ -38128,5 +38128,17 @@
     "bmkgEarthquakeId": "20260620161046",
     "shakeMapUrl": "https://static.bmkg.go.id/20260620161046.mmi.jpg",
     "fingerprintSha1": "54eaf8b2f434a5cdf8cc5ea7f020129502c077f6"
+  },
+  {
+    "earthquakeAt": "2026-06-21T02:33:29.000Z",
+    "latitude": -1.25,
+    "longitude": 99.8,
+    "magnitude": 4.7,
+    "depthInKm": 24,
+    "locationInIndonesian": "Pusat gempa berada di laut 71 km barat daya Padang",
+    "feltOnStations": "II Padang Panjang, II Bukittinggi, II Solok, II Muko-Muko, II Pasaman Barat, III Padang, III Pariaman, III Mentawai",
+    "bmkgEarthquakeId": "20260621093329",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260621093329.mmi.jpg",
+    "fingerprintSha1": "c6f00a1b1f6c280d473f17035f4a3b405757e7fa"
   }
 ]
