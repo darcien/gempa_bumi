@@ -38140,5 +38140,29 @@
     "bmkgEarthquakeId": "20260621093329",
     "shakeMapUrl": "https://static.bmkg.go.id/20260621093329.mmi.jpg",
     "fingerprintSha1": "c6f00a1b1f6c280d473f17035f4a3b405757e7fa"
+  },
+  {
+    "earthquakeAt": "2026-06-21T07:41:00.000Z",
+    "latitude": -1.08,
+    "longitude": 120.01,
+    "magnitude": 4.1,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 37 km utara Sigi",
+    "feltOnStations": "II-III Sigi",
+    "bmkgEarthquakeId": "20260621144100",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260621144100.mmi.jpg",
+    "fingerprintSha1": "0d98bf6ee8973bf1e644765c2618ff162f6d1684"
+  },
+  {
+    "earthquakeAt": "2026-06-21T05:52:47.000Z",
+    "latitude": -1.18,
+    "longitude": 120.15,
+    "magnitude": 3.8,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 38 km timur laut Sigi",
+    "feltOnStations": "II-III Sigi",
+    "bmkgEarthquakeId": "20260621125247",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260621125247.mmi.jpg",
+    "fingerprintSha1": "69c48a99fcb00488a1978aa871d35693bbf0c72a"
   }
 ]
