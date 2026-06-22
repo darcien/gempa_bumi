@@ -38164,5 +38164,17 @@
     "bmkgEarthquakeId": "20260621125247",
     "shakeMapUrl": "https://static.bmkg.go.id/20260621125247.mmi.jpg",
     "fingerprintSha1": "69c48a99fcb00488a1978aa871d35693bbf0c72a"
+  },
+  {
+    "earthquakeAt": "2026-06-22T18:03:48.000Z",
+    "latitude": -4.68,
+    "longitude": 102.74,
+    "magnitude": 4.9,
+    "depthInKm": 38,
+    "locationInIndonesian": "Pusat gempa berada di laut 31 km barat daya Bengkulu Selatan",
+    "feltOnStations": "III - IV Bengkulu Selatan, III Seluma, III Kaur, III P. Enggano, II - III Kota Bengkulu, II - III Bengkulu Utara, II - III Kepahiang",
+    "bmkgEarthquakeId": "20260623010348",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260623010348.mmi.jpg",
+    "fingerprintSha1": "429673ee46752d0c43e221120cd09745d21d40be"
   }
 ]
