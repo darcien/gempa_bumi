@@ -38188,5 +38188,17 @@
     "bmkgEarthquakeId": "20260623231510",
     "shakeMapUrl": "https://static.bmkg.go.id/20260623231510.mmi.jpg",
     "fingerprintSha1": "ce3894153c290a00900aa661bb1b003889643ff2"
+  },
+  {
+    "earthquakeAt": "2026-06-23T20:47:49.000Z",
+    "latitude": -6.84,
+    "longitude": 107.08,
+    "magnitude": 3.2,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km barat Kab. Cianjur",
+    "feltOnStations": "III Cilaku, III Cugenang",
+    "bmkgEarthquakeId": "20260624034749",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260624034749.mmi.jpg",
+    "fingerprintSha1": "e2ddb04660e64177299cd02d3e14ed53395f51df"
   }
 ]
