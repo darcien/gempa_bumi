@@ -38212,5 +38212,29 @@
     "bmkgEarthquakeId": "20260624040850",
     "shakeMapUrl": "https://static.bmkg.go.id/20260624040850.mmi.jpg",
     "fingerprintSha1": "d6980acf98f42a0798eb71bd05fa1bee501b9f23"
+  },
+  {
+    "earthquakeAt": "2026-06-24T09:00:32.000Z",
+    "latitude": -1.13,
+    "longitude": 120.12,
+    "magnitude": 4.4,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 39 km Timur Laut Sigi",
+    "feltOnStations": "II-III Sigi, II-III Palu",
+    "bmkgEarthquakeId": "20260624160032",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260624160032.mmi.jpg",
+    "fingerprintSha1": "d6a2c19e31982acfb0a45d2a8d17fce3efa1fb78"
+  },
+  {
+    "earthquakeAt": "2026-06-24T06:18:15.000Z",
+    "latitude": -5.02,
+    "longitude": 123.03,
+    "magnitude": 3.4,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di laut 32 km barat daya Buton Utara",
+    "feltOnStations": "III Buton Utara, III Buton",
+    "bmkgEarthquakeId": "20260624131815",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260624131815.mmi.jpg",
+    "fingerprintSha1": "18d458f2d891e03aa47c3279f35463790b2e30cf"
   }
 ]
