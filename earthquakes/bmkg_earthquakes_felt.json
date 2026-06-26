@@ -38260,5 +38260,29 @@
     "bmkgEarthquakeId": "20260624224205",
     "shakeMapUrl": "https://static.bmkg.go.id/20260624224205.mmi.jpg",
     "fingerprintSha1": "05d13dfe9faf54c7d2db295c3547d10d8d6e1eac"
+  },
+  {
+    "earthquakeAt": "2026-06-26T11:34:39.000Z",
+    "latitude": 5.33,
+    "longitude": 125.08,
+    "magnitude": 6.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 196 km barat laut Tahuna-Kep.Sangihe",
+    "feltOnStations": "III Kab. Kep. Talaud, II-III Kab. Gorontalo, II-III Kab. Toli-Toli, II-III Buol, II Tondano",
+    "bmkgEarthquakeId": "20260626183439",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260626183439.mmi.jpg",
+    "fingerprintSha1": "4b91b9d8f3faf38773d10f6e85c75688a493bd3c"
+  },
+  {
+    "earthquakeAt": "2026-06-26T11:27:47.000Z",
+    "latitude": -2.74,
+    "longitude": 134.49,
+    "magnitude": 3.6,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di laut 3 km barat daya Teluk Wondama",
+    "feltOnStations": "II-III Teluk Wondama",
+    "bmkgEarthquakeId": "20260626182747",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260626182747.mmi.jpg",
+    "fingerprintSha1": "123ee39fb182fdd4e20180eef1a6a0891fbd8437"
   }
 ]
