@@ -38344,5 +38344,17 @@
     "bmkgEarthquakeId": "20260627221301",
     "shakeMapUrl": "https://static.bmkg.go.id/20260627221301.mmi.jpg",
     "fingerprintSha1": "bcf53494f53f0a6ea53b5b5b4dcd09b0be15c6b4"
+  },
+  {
+    "earthquakeAt": "2026-06-27T21:10:33.000Z",
+    "latitude": -6.24,
+    "longitude": 104.74,
+    "magnitude": 4.9,
+    "depthInKm": 25,
+    "locationInIndonesian": "Pusat gempa berada di laut 82 km selatan Tanggamus",
+    "feltOnStations": "III Kota Agung , III Tanggamus, II Bandar Lampung",
+    "bmkgEarthquakeId": "20260628041033",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260628041033.mmi.jpg",
+    "fingerprintSha1": "38b79254135066d8315fea33bd645706f094deab"
   }
 ]
