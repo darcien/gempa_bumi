@@ -38332,5 +38332,17 @@
     "bmkgEarthquakeId": "20260627144721",
     "shakeMapUrl": "https://static.bmkg.go.id/20260627144721.mmi.jpg",
     "fingerprintSha1": "56d24a5baa7f6443e3466c2bed624c34d7fb6a5a"
+  },
+  {
+    "earthquakeAt": "2026-06-27T15:13:01.000Z",
+    "latitude": -9.62,
+    "longitude": 119.44,
+    "magnitude": 3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km Timur Laut Waikabubak",
+    "feltOnStations": "II Sumba Tengah, II Sumba Barat",
+    "bmkgEarthquakeId": "20260627221301",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260627221301.mmi.jpg",
+    "fingerprintSha1": "bcf53494f53f0a6ea53b5b5b4dcd09b0be15c6b4"
   }
 ]
