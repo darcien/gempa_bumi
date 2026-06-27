@@ -38320,5 +38320,17 @@
     "bmkgEarthquakeId": "20260627110148",
     "shakeMapUrl": "https://static.bmkg.go.id/20260627110148.mmi.jpg",
     "fingerprintSha1": "d58f327398693eba1f20b25c6262731512280816"
+  },
+  {
+    "earthquakeAt": "2026-06-27T07:47:21.000Z",
+    "latitude": -8.96,
+    "longitude": 111.16,
+    "magnitude": 5.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 86 km tenggara Pacitan",
+    "feltOnStations": "III Pacitan, III Wonogiri, III Blitar, III Tulungagung, II Kulon Progo, II Bantul, II Sleman, II Yogyakarta, II Trenggalek, II Malang, II Nganjuk, II Magetan, II Klaten, II Ponorogo, II Jember",
+    "bmkgEarthquakeId": "20260627144721",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260627144721.mmi.jpg",
+    "fingerprintSha1": "56d24a5baa7f6443e3466c2bed624c34d7fb6a5a"
   }
 ]
