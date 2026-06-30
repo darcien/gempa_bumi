@@ -38380,5 +38380,29 @@
     "bmkgEarthquakeId": "20260701000530",
     "shakeMapUrl": "https://static.bmkg.go.id/20260701000530.mmi.jpg",
     "fingerprintSha1": "52d7514546d52652db6180b092eb82275e7adc3a"
+  },
+  {
+    "earthquakeAt": "2026-06-30T19:53:22.000Z",
+    "latitude": -1.08,
+    "longitude": 120.1,
+    "magnitude": 4,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 42 km Timur Laut Sigi",
+    "feltOnStations": "III Palu",
+    "bmkgEarthquakeId": "20260701025322",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260701025322.mmi.jpg",
+    "fingerprintSha1": "457d665ccd0b41f29e8bb70ab62f311d18aac3c1"
+  },
+  {
+    "earthquakeAt": "2026-06-30T18:25:40.000Z",
+    "latitude": -3.73,
+    "longitude": 123.4,
+    "magnitude": 4.5,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di laut 54 km Timur Laut Konawe Kepulauan",
+    "feltOnStations": "II-III Kendari, II-III Konawe",
+    "bmkgEarthquakeId": "20260701012540",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260701012540.mmi.jpg",
+    "fingerprintSha1": "95eda2737e5e4c3d1e9c6d96a936b113c1d52f79"
   }
 ]
