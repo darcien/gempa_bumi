@@ -38356,5 +38356,17 @@
     "bmkgEarthquakeId": "20260628041033",
     "shakeMapUrl": "https://static.bmkg.go.id/20260628041033.mmi.jpg",
     "fingerprintSha1": "38b79254135066d8315fea33bd645706f094deab"
+  },
+  {
+    "earthquakeAt": "2026-06-30T04:46:45.000Z",
+    "latitude": 1.05,
+    "longitude": 128.01,
+    "magnitude": 3.5,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 51 km Barat Laut Maba",
+    "feltOnStations": "II-III Kab. Halmahera Timur",
+    "bmkgEarthquakeId": "20260630114645",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260630114645.mmi.jpg",
+    "fingerprintSha1": "e057f9242336ca56b6f01e14fffb1ceabc8774a1"
   }
 ]
