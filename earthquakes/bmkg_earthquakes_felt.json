@@ -38404,5 +38404,29 @@
     "bmkgEarthquakeId": "20260701012540",
     "shakeMapUrl": "https://static.bmkg.go.id/20260701012540.mmi.jpg",
     "fingerprintSha1": "95eda2737e5e4c3d1e9c6d96a936b113c1d52f79"
+  },
+  {
+    "earthquakeAt": "2026-07-01T00:31:36.000Z",
+    "latitude": -3.93,
+    "longitude": 122.43,
+    "magnitude": 2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km barat laut Kendari",
+    "feltOnStations": "II Kendari",
+    "bmkgEarthquakeId": "20260701073136",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260701073136.mmi.jpg",
+    "fingerprintSha1": "ac1daa469c59ace63a6a3c73ffba507d1b7dd61e"
+  },
+  {
+    "earthquakeAt": "2026-06-30T20:57:52.000Z",
+    "latitude": -7.41,
+    "longitude": 106.71,
+    "magnitude": 3.2,
+    "depthInKm": 26,
+    "locationInIndonesian": "Pusat gempa berada di darat 50 km selatan Kab. Sukabumi",
+    "feltOnStations": "II Simpenan, Sukabumi",
+    "bmkgEarthquakeId": "20260701035752",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260701035752.mmi.jpg",
+    "fingerprintSha1": "5a306e7d729852949ab383debdee95e20bb15d6c"
   }
 ]
