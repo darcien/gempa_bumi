@@ -38428,5 +38428,17 @@
     "bmkgEarthquakeId": "20260701035752",
     "shakeMapUrl": "https://static.bmkg.go.id/20260701035752.mmi.jpg",
     "fingerprintSha1": "5a306e7d729852949ab383debdee95e20bb15d6c"
+  },
+  {
+    "earthquakeAt": "2026-07-02T01:21:12.000Z",
+    "latitude": -2.84,
+    "longitude": 140.07,
+    "magnitude": 4.4,
+    "depthInKm": 29,
+    "locationInIndonesian": "Pusat gempa berada di darat 30 km Selatan Genyem Jayapura",
+    "feltOnStations": "II Jayapura",
+    "bmkgEarthquakeId": "20260702082112",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260702082112.mmi.jpg",
+    "fingerprintSha1": "95904fc8d73cd4930ace37f8662d41da88c26f2d"
   }
 ]
