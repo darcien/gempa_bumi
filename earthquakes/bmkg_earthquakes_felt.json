@@ -38464,5 +38464,17 @@
     "bmkgEarthquakeId": "20260703093129",
     "shakeMapUrl": "https://static.bmkg.go.id/20260703093129.mmi.jpg",
     "fingerprintSha1": "4fbf7f210dc45580e40b421052d9c25f44ecaa38"
+  },
+  {
+    "earthquakeAt": "2026-07-03T05:19:32.000Z",
+    "latitude": 2.04,
+    "longitude": 98.99,
+    "magnitude": 2.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km Timur laut Tapanuli Utara",
+    "feltOnStations": "II Tarutung",
+    "bmkgEarthquakeId": "20260703121932",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260703121932.mmi.jpg",
+    "fingerprintSha1": "025c2af0e25ea04eeca099b4909a3bc1f8d44404"
   }
 ]
