@@ -38440,5 +38440,29 @@
     "bmkgEarthquakeId": "20260702082112",
     "shakeMapUrl": "https://static.bmkg.go.id/20260702082112.mmi.jpg",
     "fingerprintSha1": "95904fc8d73cd4930ace37f8662d41da88c26f2d"
+  },
+  {
+    "earthquakeAt": "2026-07-03T04:05:35.000Z",
+    "latitude": -8.4,
+    "longitude": 116.2,
+    "magnitude": 3.3,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km tenggara Lombok Utara",
+    "feltOnStations": "III Kab. Lombok Utara",
+    "bmkgEarthquakeId": "20260703110535",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260703110535.mmi.jpg",
+    "fingerprintSha1": "f8558865babdced13e58fdf376cd8a44e00099ef"
+  },
+  {
+    "earthquakeAt": "2026-07-03T02:31:29.000Z",
+    "latitude": 1.93,
+    "longitude": 127.39,
+    "magnitude": 6.2,
+    "depthInKm": 100,
+    "locationInIndonesian": "Pusat gempa berada di laut 58 km barat daya Pulau Doi",
+    "feltOnStations": "III-IV Halmahera Utara, III Ternate, III Tidore, III Sanana, III Morotai, III Bolaang Mongondow Timur, II-III Gorontalo Utara, II-III Bone Bolango, II-III Kota Gorontalo",
+    "bmkgEarthquakeId": "20260703093129",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260703093129.mmi.jpg",
+    "fingerprintSha1": "4fbf7f210dc45580e40b421052d9c25f44ecaa38"
   }
 ]
