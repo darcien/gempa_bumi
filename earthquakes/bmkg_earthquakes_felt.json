@@ -38512,5 +38512,17 @@
     "bmkgEarthquakeId": "20260704155552",
     "shakeMapUrl": "https://static.bmkg.go.id/20260704155552.mmi.jpg",
     "fingerprintSha1": "e8bd485064ec65198915b61017e75ce08656f23d"
+  },
+  {
+    "earthquakeAt": "2026-07-04T20:54:52.000Z",
+    "latitude": -7.53,
+    "longitude": 106.73,
+    "magnitude": 3.7,
+    "depthInKm": 30,
+    "locationInIndonesian": "Pusat gempa berada di laut 63 km tenggara Kabupaten Sukabumi",
+    "feltOnStations": "II-III Kecamatan Cimanggu, II-III Simpenan, Sukabumi, II-III Jampang Barat, II-III Cigaru",
+    "bmkgEarthquakeId": "20260705035452",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260705035452.mmi.jpg",
+    "fingerprintSha1": "eaf7cbac61d90e54096ba353162345f10a753901"
   }
 ]
