@@ -38500,5 +38500,17 @@
     "bmkgEarthquakeId": "20260704001449",
     "shakeMapUrl": "https://static.bmkg.go.id/20260704001449.mmi.jpg",
     "fingerprintSha1": "f20be92b8b726cbf2925342be92559638ed44a6c"
+  },
+  {
+    "earthquakeAt": "2026-07-04T08:55:52.000Z",
+    "latitude": -2.33,
+    "longitude": 138.28,
+    "magnitude": 4.9,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di darat 25 km timur laut Burmeso",
+    "feltOnStations": "II Sarmi",
+    "bmkgEarthquakeId": "20260704155552",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260704155552.mmi.jpg",
+    "fingerprintSha1": "e8bd485064ec65198915b61017e75ce08656f23d"
   }
 ]
