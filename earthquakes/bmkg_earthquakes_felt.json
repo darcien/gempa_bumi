@@ -38536,5 +38536,29 @@
     "bmkgEarthquakeId": "20260706072337",
     "shakeMapUrl": "https://static.bmkg.go.id/20260706072337.mmi.jpg",
     "fingerprintSha1": "9e569cb3621deadbd10b8abba7c8a17d26c7df0d"
+  },
+  {
+    "earthquakeAt": "2026-07-06T10:51:28.000Z",
+    "latitude": -0.66,
+    "longitude": 131.57,
+    "magnitude": 3.8,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di laut 34 km Timur Laut Kota Sorong",
+    "feltOnStations": "II-III Sorong",
+    "bmkgEarthquakeId": "20260706175128",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260706175128.mmi.jpg",
+    "fingerprintSha1": "99b71c90c6e2c8c1c7b85e8491ecf0ad6dfdbf45"
+  },
+  {
+    "earthquakeAt": "2026-07-06T10:32:55.000Z",
+    "latitude": -0.87,
+    "longitude": 127.48,
+    "magnitude": 3.5,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut, 25 km Selatan Labuha",
+    "feltOnStations": "II Labuha",
+    "bmkgEarthquakeId": "20260706173255",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260706173255.mmi.jpg",
+    "fingerprintSha1": "cf4168c52c788553ae4c165bdf3fa43e090eda73"
   }
 ]
