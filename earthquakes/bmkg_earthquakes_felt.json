@@ -38560,5 +38560,17 @@
     "bmkgEarthquakeId": "20260706173255",
     "shakeMapUrl": "https://static.bmkg.go.id/20260706173255.mmi.jpg",
     "fingerprintSha1": "cf4168c52c788553ae4c165bdf3fa43e090eda73"
+  },
+  {
+    "earthquakeAt": "2026-07-06T18:47:27.000Z",
+    "latitude": -2.16,
+    "longitude": 120.61,
+    "magnitude": 4.3,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 52 km Timur Laut Luwu Utara",
+    "feltOnStations": "III Poso",
+    "bmkgEarthquakeId": "20260707014727",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260707014727.mmi.jpg",
+    "fingerprintSha1": "91c72b98c5925d705c0546f8bb6b8fb69ac8ca3c"
   }
 ]
