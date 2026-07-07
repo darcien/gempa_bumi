@@ -38596,5 +38596,29 @@
     "bmkgEarthquakeId": "20260707141627",
     "shakeMapUrl": "https://static.bmkg.go.id/20260707141627.mmi.jpg",
     "fingerprintSha1": "8bcf80437c672175eccbdc84a57f87739042972e"
+  },
+  {
+    "earthquakeAt": "2026-07-07T16:57:28.000Z",
+    "latitude": 4.76,
+    "longitude": 96.77,
+    "magnitude": 2.1,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 Km barat Kab. Bener Meriah",
+    "feltOnStations": "II Bener Meriah",
+    "bmkgEarthquakeId": "20260707235728",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260707235728.mmi.jpg",
+    "fingerprintSha1": "d46e03357fdea8b71748490d2f9986fe485834b1"
+  },
+  {
+    "earthquakeAt": "2026-07-07T15:36:08.000Z",
+    "latitude": 2.86,
+    "longitude": 97.66,
+    "magnitude": 4.4,
+    "depthInKm": 44,
+    "locationInIndonesian": "Pusat gempa berada di darat 47 Km barat laut Kota Subulussalam",
+    "feltOnStations": "II - III Subulussalam, II-III Aceh Singkil",
+    "bmkgEarthquakeId": "20260707223608",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260707223608.mmi.jpg",
+    "fingerprintSha1": "a9816fa7ec646970f64450119263c0b704e7fd5a"
   }
 ]
