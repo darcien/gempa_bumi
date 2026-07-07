@@ -38572,5 +38572,17 @@
     "bmkgEarthquakeId": "20260707014727",
     "shakeMapUrl": "https://static.bmkg.go.id/20260707014727.mmi.jpg",
     "fingerprintSha1": "91c72b98c5925d705c0546f8bb6b8fb69ac8ca3c"
+  },
+  {
+    "earthquakeAt": "2026-07-07T01:23:53.000Z",
+    "latitude": -0.66,
+    "longitude": 131.5,
+    "magnitude": 4.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 34 km timur laut Kota Sorong",
+    "feltOnStations": "IV Kota Sorong",
+    "bmkgEarthquakeId": "20260707082353",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260707082353.mmi.jpg",
+    "fingerprintSha1": "f0809cdedd060fee95bf9f0871a766f3bab4985d"
   }
 ]
