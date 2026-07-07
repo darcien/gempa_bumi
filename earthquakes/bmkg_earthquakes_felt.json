@@ -38620,5 +38620,17 @@
     "bmkgEarthquakeId": "20260707223608",
     "shakeMapUrl": "https://static.bmkg.go.id/20260707223608.mmi.jpg",
     "fingerprintSha1": "a9816fa7ec646970f64450119263c0b704e7fd5a"
+  },
+  {
+    "earthquakeAt": "2026-07-07T19:44:53.000Z",
+    "latitude": -6.79,
+    "longitude": 105.12,
+    "magnitude": 5.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 52 km Baratdaya Sumur",
+    "feltOnStations": "II-III Kecamatan Simpenan , II-III Kabupaten Bogor",
+    "bmkgEarthquakeId": "20260708024453",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260708024453.mmi.jpg",
+    "fingerprintSha1": "e2ba72f452e68b170964cb33caa63aadb17ebe18"
   }
 ]
