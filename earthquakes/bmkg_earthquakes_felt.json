@@ -38584,5 +38584,17 @@
     "bmkgEarthquakeId": "20260707082353",
     "shakeMapUrl": "https://static.bmkg.go.id/20260707082353.mmi.jpg",
     "fingerprintSha1": "f0809cdedd060fee95bf9f0871a766f3bab4985d"
+  },
+  {
+    "earthquakeAt": "2026-07-07T07:16:27.000Z",
+    "latitude": 3.14,
+    "longitude": 127.44,
+    "magnitude": 5.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 101 km barat laut Pulau Doi",
+    "feltOnStations": "II-III Naha",
+    "bmkgEarthquakeId": "20260707141627",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260707141627.mmi.jpg",
+    "fingerprintSha1": "8bcf80437c672175eccbdc84a57f87739042972e"
   }
 ]
