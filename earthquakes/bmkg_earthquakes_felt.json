@@ -38656,5 +38656,17 @@
     "bmkgEarthquakeId": "20260709080936",
     "shakeMapUrl": "https://static.bmkg.go.id/20260709080936.mmi.jpg",
     "fingerprintSha1": "d54668b321187474795d1c70e2cec1e15b2b925a"
+  },
+  {
+    "earthquakeAt": "2026-07-09T05:10:59.000Z",
+    "latitude": -6.8,
+    "longitude": 107.68,
+    "magnitude": 2.6,
+    "depthInKm": 25,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km Timur Laut Kota Cimahi",
+    "feltOnStations": "II-III Lembang, II-III Parongpong",
+    "bmkgEarthquakeId": "20260709121059",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260709121059.mmi.jpg",
+    "fingerprintSha1": "77bf1f59e9f36dd5320b02ae3d4b347b828040f2"
   }
 ]
