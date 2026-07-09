@@ -38632,5 +38632,29 @@
     "bmkgEarthquakeId": "20260708024453",
     "shakeMapUrl": "https://static.bmkg.go.id/20260708024453.mmi.jpg",
     "fingerprintSha1": "e2ba72f452e68b170964cb33caa63aadb17ebe18"
+  },
+  {
+    "earthquakeAt": "2026-07-09T03:26:42.000Z",
+    "latitude": -2.39,
+    "longitude": 140.53,
+    "magnitude": 4.4,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di laut 25 km TimurLaut Jayapura",
+    "feltOnStations": "III-IV Jayapura",
+    "bmkgEarthquakeId": "20260709102642",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260709102642.mmi.jpg",
+    "fingerprintSha1": "5d90027b0f0656a87a74da2cc856eec008208a01"
+  },
+  {
+    "earthquakeAt": "2026-07-09T01:09:36.000Z",
+    "latitude": -3.76,
+    "longitude": 119.02,
+    "magnitude": 4.7,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 50 km Selatan Polewali Mandar",
+    "feltOnStations": "III-IV Majene, III-IV Polewali Mandar, III-IV Pare-pare, II-III Sidrap, II-III Mamuju, II-III Makassar, II-III Pangkep, II-III Gowa, III-IV Pinrang",
+    "bmkgEarthquakeId": "20260709080936",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260709080936.mmi.jpg",
+    "fingerprintSha1": "d54668b321187474795d1c70e2cec1e15b2b925a"
   }
 ]
