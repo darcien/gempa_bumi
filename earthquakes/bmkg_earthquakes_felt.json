@@ -38692,5 +38692,17 @@
     "bmkgEarthquakeId": "20260711004833",
     "shakeMapUrl": "https://static.bmkg.go.id/20260711004833.mmi.jpg",
     "fingerprintSha1": "acae0efce581a25573e447be3bf6e0a39fb24628"
+  },
+  {
+    "earthquakeAt": "2026-07-11T12:47:31.000Z",
+    "latitude": -7.66,
+    "longitude": 107,
+    "magnitude": 4.3,
+    "depthInKm": 22,
+    "locationInIndonesian": "Pusat gempa berada di laut 82 km tenggara Kota Sukabumi",
+    "feltOnStations": "III Kab. Sukabumi, III Kab. Cianjur, II-III Kab. Bandung, II-III Kab. Bandung Barat, II-III Kab. Garut, II-III Kab. Tasikmalaya",
+    "bmkgEarthquakeId": "20260711194731",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260711194731.mmi.jpg",
+    "fingerprintSha1": "abef86d86c3c23cf65e1c2034532a1c5d6bf955e"
   }
 ]
