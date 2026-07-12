@@ -38716,5 +38716,29 @@
     "bmkgEarthquakeId": "20260712183841",
     "shakeMapUrl": "https://static.bmkg.go.id/20260712183841.mmi.jpg",
     "fingerprintSha1": "5470509604bfbe8718d791775a502ee641c1ecc3"
+  },
+  {
+    "earthquakeAt": "2026-07-12T13:46:35.000Z",
+    "latitude": 1.31,
+    "longitude": 121.38,
+    "magnitude": 5.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 37 km Timur Laut Buol",
+    "feltOnStations": "IV Tolitoli, IV Buol, II-III Pohuwato, II-III Gorontalo Utara",
+    "bmkgEarthquakeId": "20260712204635",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260712204635.mmi.jpg",
+    "fingerprintSha1": "43142eaba776382b27ebaaddcfb74d1f0b831f38"
+  },
+  {
+    "earthquakeAt": "2026-07-12T13:20:25.000Z",
+    "latitude": -9.65,
+    "longitude": 119.37,
+    "magnitude": 5.3,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 2 km Barat Daya Waikabubak",
+    "feltOnStations": "III-IV Sumba Barat Daya, III-IV Sumba Barat, III-IV Sumba Tengah, III-IV Sumba Timur, III Manggarai Barat",
+    "bmkgEarthquakeId": "20260712202025",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260712202025.mmi.jpg",
+    "fingerprintSha1": "1950874120bbc8d789152c9da2ebcb3f24c5dc3d"
   }
 ]
