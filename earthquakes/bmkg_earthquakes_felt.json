@@ -38740,5 +38740,17 @@
     "bmkgEarthquakeId": "20260712202025",
     "shakeMapUrl": "https://static.bmkg.go.id/20260712202025.mmi.jpg",
     "fingerprintSha1": "1950874120bbc8d789152c9da2ebcb3f24c5dc3d"
+  },
+  {
+    "earthquakeAt": "2026-07-12T16:40:27.000Z",
+    "latitude": 4.13,
+    "longitude": 97.44,
+    "magnitude": 4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 18 km timur laut Kab. Gayo Lues",
+    "feltOnStations": "II-III Bener Meriah",
+    "bmkgEarthquakeId": "20260712234027",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260712234027.mmi.jpg",
+    "fingerprintSha1": "cfb0e99d214737251208e735611ec4a37d3f2f43"
   }
 ]
