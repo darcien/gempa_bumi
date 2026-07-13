@@ -38764,5 +38764,17 @@
     "bmkgEarthquakeId": "20260713160712",
     "shakeMapUrl": "https://static.bmkg.go.id/20260713160712.mmi.jpg",
     "fingerprintSha1": "c18b92e3c53bdc7071b05e8a75b70edc4b079cf8"
+  },
+  {
+    "earthquakeAt": "2026-07-13T12:06:26.000Z",
+    "latitude": -8.16,
+    "longitude": 114.77,
+    "magnitude": 4.1,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 28 km Timur Laut Jembrana",
+    "feltOnStations": "III Buleleng, III Jembrana, II-III Banyuwangi",
+    "bmkgEarthquakeId": "20260713190626",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260713190626.mmi.jpg",
+    "fingerprintSha1": "db7008b803a53cdcf7960649f48a84d1fe43edfe"
   }
 ]
