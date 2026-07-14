@@ -38788,5 +38788,17 @@
     "bmkgEarthquakeId": "20260714165232",
     "shakeMapUrl": "https://static.bmkg.go.id/20260714165232.mmi.jpg",
     "fingerprintSha1": "f2bd02c2bae18468d59f9832be9ff632acfde850"
+  },
+  {
+    "earthquakeAt": "2026-07-14T15:49:37.000Z",
+    "latitude": 5.34,
+    "longitude": 125.06,
+    "magnitude": 6.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 198 km BaratLaut TAHUNA-KEP.SANGIHE",
+    "feltOnStations": "II-III Manado, III-IV Kep. Sangihe, II-III Minahasa Selatan, II-III Minahasa",
+    "bmkgEarthquakeId": "20260714224937",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260714224937.mmi.jpg",
+    "fingerprintSha1": "d535937d69c91c21e91f23cda2e8af9feb9000d7"
   }
 ]
