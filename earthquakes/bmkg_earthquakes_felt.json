@@ -38800,5 +38800,17 @@
     "bmkgEarthquakeId": "20260714224937",
     "shakeMapUrl": "https://static.bmkg.go.id/20260714224937.mmi.jpg",
     "fingerprintSha1": "d535937d69c91c21e91f23cda2e8af9feb9000d7"
+  },
+  {
+    "earthquakeAt": "2026-07-15T17:37:36.000Z",
+    "latitude": 1.64,
+    "longitude": 118.08,
+    "magnitude": 3.4,
+    "depthInKm": 21,
+    "locationInIndonesian": "Pusat gempa berada di darat 91 km tenggara Berau",
+    "feltOnStations": "II-III Berau",
+    "bmkgEarthquakeId": "20260716003736",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260716003736.mmi.jpg",
+    "fingerprintSha1": "75d6b1159ec985e076c557c40b41cf81e1a6bfcd"
   }
 ]
