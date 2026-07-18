@@ -38872,5 +38872,17 @@
     "bmkgEarthquakeId": "20260718075004",
     "shakeMapUrl": "https://static.bmkg.go.id/20260718075004.mmi.jpg",
     "fingerprintSha1": "279d12eec8edacc0453d5cd2518d95c080c7c9ce"
+  },
+  {
+    "earthquakeAt": "2026-07-18T04:58:50.000Z",
+    "latitude": -0.24,
+    "longitude": 100.35,
+    "magnitude": 3.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km barat laut Bukittinggi",
+    "feltOnStations": "II Bukittinggi",
+    "bmkgEarthquakeId": "20260718115850",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260718115850.mmi.jpg",
+    "fingerprintSha1": "40f2c4663d1e41dbca08ed1e648f209c2fd26948"
   }
 ]
