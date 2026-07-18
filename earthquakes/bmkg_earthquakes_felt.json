@@ -38908,5 +38908,17 @@
     "bmkgEarthquakeId": "20260718195438",
     "shakeMapUrl": "https://static.bmkg.go.id/20260718195438.mmi.jpg",
     "fingerprintSha1": "d3658cb5b443ac14141ba4424263302967e08e08"
+  },
+  {
+    "earthquakeAt": "2026-07-18T19:55:40.000Z",
+    "latitude": -8.95,
+    "longitude": 115.62,
+    "magnitude": 3.8,
+    "depthInKm": 82,
+    "locationInIndonesian": "Pusat gempa berada di laut 47 km timur Kuta Selatan",
+    "feltOnStations": "II Badung, II Gianyar",
+    "bmkgEarthquakeId": "20260719025540",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260719025540.mmi.jpg",
+    "fingerprintSha1": "4e86ed0f653ee52489ca69989c403c8a6af65e5b"
   }
 ]
