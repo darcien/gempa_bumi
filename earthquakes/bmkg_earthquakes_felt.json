@@ -38920,5 +38920,17 @@
     "bmkgEarthquakeId": "20260719025540",
     "shakeMapUrl": "https://static.bmkg.go.id/20260719025540.mmi.jpg",
     "fingerprintSha1": "4e86ed0f653ee52489ca69989c403c8a6af65e5b"
+  },
+  {
+    "earthquakeAt": "2026-07-19T08:11:09.000Z",
+    "latitude": -7.74,
+    "longitude": 106.44,
+    "magnitude": 5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 79 km barat daya Sukabumi",
+    "feltOnStations": "III Cikotok, III KelapaNunggal, III Cidolog, III Cisaat, III Simpenan, III Kota Sukabumi, III Nagrak, II-III Bayah, II-III Panggarangan, II-III Cimahi, II-III Banjaran, II-III Lembang",
+    "bmkgEarthquakeId": "20260719151109",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260719151109.mmi.jpg",
+    "fingerprintSha1": "7508cd3c8d0f7ad5d1704265dc5e70672824a465"
   }
 ]
