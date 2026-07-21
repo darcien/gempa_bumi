@@ -38932,5 +38932,17 @@
     "bmkgEarthquakeId": "20260719151109",
     "shakeMapUrl": "https://static.bmkg.go.id/20260719151109.mmi.jpg",
     "fingerprintSha1": "7508cd3c8d0f7ad5d1704265dc5e70672824a465"
+  },
+  {
+    "earthquakeAt": "2026-07-21T12:10:00.000Z",
+    "latitude": -0.94,
+    "longitude": 134.13,
+    "magnitude": 3.8,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di laut 11 km Tenggara Manokwari",
+    "feltOnStations": "II-III Manokwari",
+    "bmkgEarthquakeId": "20260721191000",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260721191000.mmi.jpg",
+    "fingerprintSha1": "9960edb12356156fd4671a743daa711d0f398539"
   }
 ]
