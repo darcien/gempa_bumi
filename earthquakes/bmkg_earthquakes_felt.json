@@ -39016,5 +39016,17 @@
     "bmkgEarthquakeId": "20260722111559",
     "shakeMapUrl": "https://static.bmkg.go.id/20260722111559.mmi.jpg",
     "fingerprintSha1": "f04a62b06bfabfcf8156912b53ccce8ac70bd69e"
+  },
+  {
+    "earthquakeAt": "2026-07-22T14:22:12.000Z",
+    "latitude": -8.16,
+    "longitude": 117.75,
+    "magnitude": 3.9,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada didarat 51Km Timur Laut Sumbawa",
+    "feltOnStations": "III Kabupaten Bima, III Kabupaten Dompu",
+    "bmkgEarthquakeId": "20260722212212",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260722212212.mmi.jpg",
+    "fingerprintSha1": "17e072cd7911dd7a4d3117e421f6216da3218bf7"
   }
 ]
