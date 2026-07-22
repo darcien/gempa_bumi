@@ -38956,5 +38956,65 @@
     "bmkgEarthquakeId": "20260722004929",
     "shakeMapUrl": "https://static.bmkg.go.id/20260722004929.mmi.jpg",
     "fingerprintSha1": "63ae4f505c703ace12c169b9b6a046a79a1a4130"
+  },
+  {
+    "earthquakeAt": "2026-07-22T04:41:09.000Z",
+    "latitude": 4.19,
+    "longitude": 97.46,
+    "magnitude": 4.3,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 26 km timur laut Kab. Gayo Lues",
+    "feltOnStations": "IV Gayo Lues, III Bener Meriah, II-III Lhokseumawe, II-III Aceh Utara, II Bireuen, II Aceh Tamiang, II Aceh Timur",
+    "bmkgEarthquakeId": "20260722114109",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260722114109.mmi.jpg",
+    "fingerprintSha1": "dc03ad874beeaec1148e7914f72a71463a3a0a16"
+  },
+  {
+    "earthquakeAt": "2026-07-22T04:29:22.000Z",
+    "latitude": 4.16,
+    "longitude": 97.46,
+    "magnitude": 3,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 22 km timur laut Kab. Gayo Lues",
+    "feltOnStations": "IV Gayo Lues, II Bireuen, II Aceh Utara, II Lhokseumawe",
+    "bmkgEarthquakeId": "20260722112922",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260722112922.mmi.jpg",
+    "fingerprintSha1": "559bd4b90124bfa17fdd7a684b3af2732c8c104b"
+  },
+  {
+    "earthquakeAt": "2026-07-22T04:26:51.000Z",
+    "latitude": 4.17,
+    "longitude": 97.42,
+    "magnitude": 3.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 22 km timur laut Kab. Gayo Lues",
+    "feltOnStations": "III Gayo Lues",
+    "bmkgEarthquakeId": "20260722112651",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260722112651.mmi.jpg",
+    "fingerprintSha1": "ef68043f249236e2a633e8d38210e68456644e91"
+  },
+  {
+    "earthquakeAt": "2026-07-22T04:18:23.000Z",
+    "latitude": 4.25,
+    "longitude": 97.62,
+    "magnitude": 5.6,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 41 km timur laut Kab. Gayo Lues",
+    "feltOnStations": "V Gayo Lues, III Medan, III Aceh Selatan, III-IV Aceh Barat Daya, III Sibolga, III Deli Serdang, III-IV Lhokseumawe, II Langsa, IV Aceh Tenggara, III-IV Aceh Utara, III-IV Aceh Timur, III-IV Bener Meriah, III-IV Aceh Tengah, III Aceh Tamiang, II Pidie, II Pidie Jaya",
+    "bmkgEarthquakeId": "20260722111823",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260722111823.mmi.jpg",
+    "fingerprintSha1": "0d3abd1532c8b145b203019ee4899459062e9d0d"
+  },
+  {
+    "earthquakeAt": "2026-07-22T04:15:59.000Z",
+    "latitude": 4.23,
+    "longitude": 97.48,
+    "magnitude": 3.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 30 km timur laut Kab. Gayo Lues",
+    "feltOnStations": "IV Gayo Lues",
+    "bmkgEarthquakeId": "20260722111559",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260722111559.mmi.jpg",
+    "fingerprintSha1": "f04a62b06bfabfcf8156912b53ccce8ac70bd69e"
   }
 ]
