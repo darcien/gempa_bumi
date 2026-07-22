@@ -39036,9 +39036,21 @@
     "magnitude": 4.4,
     "depthInKm": 5,
     "locationInIndonesian": "Pusat gempa berada di darat 43 km Timur Laut Kab. Gayo Lues",
-    "feltOnStations": "III Blangkejeren, II Kuta Cane, II Bener Meriah, II Aceh Tengah",
+    "feltOnStations": "III Blangkejeren, II Kuta Cane, II Bener Meriah, II Aceh Tengah, II Aceh Timur, II Langsa",
     "bmkgEarthquakeId": "20260723003641",
     "shakeMapUrl": "https://static.bmkg.go.id/20260723003641.mmi.jpg",
     "fingerprintSha1": "e47fe11e34520258e5514ff4c156d0a8fea48adc"
+  },
+  {
+    "earthquakeAt": "2026-07-22T19:37:14.000Z",
+    "latitude": -8.16,
+    "longitude": 117.75,
+    "magnitude": 4.3,
+    "depthInKm": 19,
+    "locationInIndonesian": "Pusat gempa berada didarat 51 Km Timur Laut Sumbawa",
+    "feltOnStations": "III Kab.Bima, III Kab.Dompu, III Kab.Sumbawa",
+    "bmkgEarthquakeId": "20260723023714",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260723023714.mmi.jpg",
+    "fingerprintSha1": "44274e976fdfb0136b5bb9dfef426f526109e692"
   }
 ]
