@@ -38944,5 +38944,17 @@
     "bmkgEarthquakeId": "20260721191000",
     "shakeMapUrl": "https://static.bmkg.go.id/20260721191000.mmi.jpg",
     "fingerprintSha1": "9960edb12356156fd4671a743daa711d0f398539"
+  },
+  {
+    "earthquakeAt": "2026-07-21T17:49:29.000Z",
+    "latitude": -10.46,
+    "longitude": 121.77,
+    "magnitude": 3.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 10 km Barat laut Sabu Raijua",
+    "feltOnStations": "II - III Sabu Raijua",
+    "bmkgEarthquakeId": "20260722004929",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260722004929.mmi.jpg",
+    "fingerprintSha1": "63ae4f505c703ace12c169b9b6a046a79a1a4130"
   }
 ]
