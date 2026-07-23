@@ -39076,5 +39076,17 @@
     "bmkgEarthquakeId": "20260722032009",
     "shakeMapUrl": "https://static.bmkg.go.id/20260722032009.mmi.jpg",
     "fingerprintSha1": "614cd6c92d5c5c2c3d8b3e388ef7509b10dfb460"
+  },
+  {
+    "earthquakeAt": "2026-07-23T22:58:34.000Z",
+    "latitude": 0.72,
+    "longitude": 126.31,
+    "magnitude": 5.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 117 km baratdaya Ternate",
+    "feltOnStations": "III Minahasa Tenggara, III Ternate, III Halmahera Barat, II-III Sofifi, II-III Manado, III Pulau Makian, III Pulau Tifure",
+    "bmkgEarthquakeId": "20260724055834",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260724055834.mmi.jpg",
+    "fingerprintSha1": "7380ab75059b62c280f460411ded857e0034ba09"
   }
 ]
