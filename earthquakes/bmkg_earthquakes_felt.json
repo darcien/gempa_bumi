@@ -39136,5 +39136,17 @@
     "bmkgEarthquakeId": "20260725022203",
     "shakeMapUrl": "https://static.bmkg.go.id/20260725022203.mmi.jpg",
     "fingerprintSha1": "ec2a8625f34c0746a48715edeb194fc889ee358d"
+  },
+  {
+    "earthquakeAt": "2026-07-24T22:27:51.000Z",
+    "latitude": 0.53,
+    "longitude": 99.56,
+    "magnitude": 3.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 38 km Selatan Mandailing Natal",
+    "feltOnStations": "III Kotanopan, Mandailing Natal",
+    "bmkgEarthquakeId": "20260725052751",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260725052751.mmi.jpg",
+    "fingerprintSha1": "39b13bd201770d70bf368f35b15d50f3e5fedd73"
   }
 ]
