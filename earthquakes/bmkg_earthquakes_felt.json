@@ -39112,5 +39112,17 @@
     "bmkgEarthquakeId": "20260724080307",
     "shakeMapUrl": "https://static.bmkg.go.id/20260724080307.mmi.jpg",
     "fingerprintSha1": "b39b9873d14908a726994dbfc16b29c16b2a0622"
+  },
+  {
+    "earthquakeAt": "2026-07-24T17:28:06.000Z",
+    "latitude": -5.72,
+    "longitude": 103.9,
+    "magnitude": 4.7,
+    "depthInKm": 31,
+    "locationInIndonesian": "Pusat gempa berada di laut 59 km selatan Pesisir Barat",
+    "feltOnStations": "II Kota Agung, II Tanggamus, III Pesisir Barat",
+    "bmkgEarthquakeId": "20260725002806",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260725002806.mmi.jpg",
+    "fingerprintSha1": "36de55b69921a20f2c7a0803a0f8583bc5ef9652"
   }
 ]
