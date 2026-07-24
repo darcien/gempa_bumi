@@ -39124,5 +39124,17 @@
     "bmkgEarthquakeId": "20260725002806",
     "shakeMapUrl": "https://static.bmkg.go.id/20260725002806.mmi.jpg",
     "fingerprintSha1": "36de55b69921a20f2c7a0803a0f8583bc5ef9652"
+  },
+  {
+    "earthquakeAt": "2026-07-24T19:22:03.000Z",
+    "latitude": 4.77,
+    "longitude": 96.78,
+    "magnitude": 2,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km barat laut Kab. Bener Meriah",
+    "feltOnStations": "II-III Kab. Bener Meriah",
+    "bmkgEarthquakeId": "20260725022203",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260725022203.mmi.jpg",
+    "fingerprintSha1": "ec2a8625f34c0746a48715edeb194fc889ee358d"
   }
 ]
