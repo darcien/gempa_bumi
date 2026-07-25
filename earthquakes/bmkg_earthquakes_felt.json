@@ -39148,5 +39148,17 @@
     "bmkgEarthquakeId": "20260725052751",
     "shakeMapUrl": "https://static.bmkg.go.id/20260725052751.mmi.jpg",
     "fingerprintSha1": "39b13bd201770d70bf368f35b15d50f3e5fedd73"
+  },
+  {
+    "earthquakeAt": "2026-07-25T10:53:06.000Z",
+    "latitude": 1.69,
+    "longitude": 119.01,
+    "magnitude": 4.3,
+    "depthInKm": 26,
+    "locationInIndonesian": "Pusat gempa berada di laut 187 km timur Berau",
+    "feltOnStations": "II Biduk-Biduk",
+    "bmkgEarthquakeId": "20260725175306",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260725175306.mmi.jpg",
+    "fingerprintSha1": "89253aacb6740a6fcf27f64c73fa6b8852471fc6"
   }
 ]
