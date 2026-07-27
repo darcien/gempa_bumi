@@ -39172,5 +39172,17 @@
     "bmkgEarthquakeId": "20260726175743",
     "shakeMapUrl": "https://static.bmkg.go.id/20260726175743.mmi.jpg",
     "fingerprintSha1": "f297b75e54ad3c66b8970e0f50a674e02eb93a86"
+  },
+  {
+    "earthquakeAt": "2026-07-27T00:50:52.000Z",
+    "latitude": 1.82,
+    "longitude": 99.13,
+    "magnitude": 4.2,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 28 km Tenggara Tapanuli Utara",
+    "feltOnStations": "III Sibolga, III Tarutung",
+    "bmkgEarthquakeId": "20260727075052",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260727075052.mmi.jpg",
+    "fingerprintSha1": "ce6ec9404ece3dafd93806d94e4a5c38aa05747d"
   }
 ]
