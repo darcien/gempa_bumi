@@ -39232,5 +39232,17 @@
     "bmkgEarthquakeId": "20260730181713",
     "shakeMapUrl": "https://static.bmkg.go.id/20260730181713.mmi.jpg",
     "fingerprintSha1": "1cd9e89126b1cd428ab1bc975d5ca1dcee317ce7"
+  },
+  {
+    "earthquakeAt": "2026-07-30T20:06:25.000Z",
+    "latitude": -6.85,
+    "longitude": 107.09,
+    "magnitude": 1.9,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km baratdaya Kab. Cianjur",
+    "feltOnStations": "I-II Cianjur",
+    "bmkgEarthquakeId": "20260731030625",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260731030625.mmi.jpg",
+    "fingerprintSha1": "56af84a293a34b349e7472c1d9a98fb6bccc3468"
   }
 ]
