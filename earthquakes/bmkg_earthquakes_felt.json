@@ -39220,5 +39220,17 @@
     "bmkgEarthquakeId": "20260728202946",
     "shakeMapUrl": "https://static.bmkg.go.id/20260728202946.mmi.jpg",
     "fingerprintSha1": "d537ba0a988dca5ae0dd714cad9b6e3b798cbd7e"
+  },
+  {
+    "earthquakeAt": "2026-07-30T11:17:13.000Z",
+    "latitude": -7.73,
+    "longitude": 106.33,
+    "magnitude": 4.1,
+    "depthInKm": 39,
+    "locationInIndonesian": "Pusat gempa berada di laut 86 km baratdaya Kab. Sukabumi",
+    "feltOnStations": "II-III Ciracap, II Pelabuhan Ratu",
+    "bmkgEarthquakeId": "20260730181713",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260730181713.mmi.jpg",
+    "fingerprintSha1": "1cd9e89126b1cd428ab1bc975d5ca1dcee317ce7"
   }
 ]
