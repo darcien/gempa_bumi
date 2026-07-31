@@ -39244,5 +39244,17 @@
     "bmkgEarthquakeId": "20260731030625",
     "shakeMapUrl": "https://static.bmkg.go.id/20260731030625.mmi.jpg",
     "fingerprintSha1": "56af84a293a34b349e7472c1d9a98fb6bccc3468"
+  },
+  {
+    "earthquakeAt": "2026-07-31T12:12:41.000Z",
+    "latitude": -5.45,
+    "longitude": 104.68,
+    "magnitude": 2.8,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km utara Tanggamus",
+    "feltOnStations": "II Gisting, II Sumberejo",
+    "bmkgEarthquakeId": "20260731191241",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260731191241.mmi.jpg",
+    "fingerprintSha1": "4e88dcabdb746f48a75f5473af7d8b8f4b246230"
   }
 ]
