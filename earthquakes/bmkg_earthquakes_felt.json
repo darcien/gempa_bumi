@@ -39256,5 +39256,17 @@
     "bmkgEarthquakeId": "20260731191241",
     "shakeMapUrl": "https://static.bmkg.go.id/20260731191241.mmi.jpg",
     "fingerprintSha1": "4e88dcabdb746f48a75f5473af7d8b8f4b246230"
+  },
+  {
+    "earthquakeAt": "2026-07-31T22:47:22.000Z",
+    "latitude": 1.28,
+    "longitude": 126.38,
+    "magnitude": 3.9,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 123 km Barat JAILOLO",
+    "feltOnStations": "",
+    "bmkgEarthquakeId": "20260801054722",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260801054722.mmi.jpg",
+    "fingerprintSha1": "3c3c71632102bc00acea4ed2f214fe7defd799e8"
   }
 ]
