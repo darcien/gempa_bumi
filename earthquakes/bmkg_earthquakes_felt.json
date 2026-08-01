@@ -39268,5 +39268,17 @@
     "bmkgEarthquakeId": "20260801054722",
     "shakeMapUrl": "https://static.bmkg.go.id/20260801054722.mmi.jpg",
     "fingerprintSha1": "3c3c71632102bc00acea4ed2f214fe7defd799e8"
+  },
+  {
+    "earthquakeAt": "2026-08-01T02:11:12.000Z",
+    "latitude": 2.8,
+    "longitude": 125.26,
+    "magnitude": 3.7,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di laut 13 km baratlaut Ondong-Kep. Sitaro",
+    "feltOnStations": "II-III Ondong",
+    "bmkgEarthquakeId": "20260801091112",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260801091112.mmi.jpg",
+    "fingerprintSha1": "b64b091a0d39aed3d3538cf1e86bbc238e50a659"
   }
 ]
