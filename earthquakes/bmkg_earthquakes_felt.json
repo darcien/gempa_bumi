@@ -39292,5 +39292,17 @@
     "bmkgEarthquakeId": "20260801142922",
     "shakeMapUrl": "https://static.bmkg.go.id/20260801142922.mmi.jpg",
     "fingerprintSha1": "c19a1b2ded16c0e060f7aa8cd2995691efd77c60"
+  },
+  {
+    "earthquakeAt": "2026-08-02T14:17:38.000Z",
+    "latitude": -8.36,
+    "longitude": 121.34,
+    "magnitude": 4.6,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 35 km utara Mbay Nagekeo",
+    "feltOnStations": "III Ende, III Ngada",
+    "bmkgEarthquakeId": "20260802211738",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260802211738.mmi.jpg",
+    "fingerprintSha1": "f172cbedd3f12a6c2142b56bd28ea0ecd540aa58"
   }
 ]
