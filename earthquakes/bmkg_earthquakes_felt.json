@@ -39340,5 +39340,17 @@
     "bmkgEarthquakeId": "20260804131110",
     "shakeMapUrl": "https://static.bmkg.go.id/20260804131110.mmi.jpg",
     "fingerprintSha1": "2f06103c146377c5ab144823acce64a50a640a49"
+  },
+  {
+    "earthquakeAt": "2026-08-04T20:16:38.000Z",
+    "latitude": 1.6,
+    "longitude": 126.59,
+    "magnitude": 5.6,
+    "depthInKm": 25,
+    "locationInIndonesian": "Pusat gempa berada di laut 114 km BaratLaut HALMAHERABARAT-MALUT",
+    "feltOnStations": "III Ternate, IV Manado, IV Minahasa Utara, IV Bitung",
+    "bmkgEarthquakeId": "20260805031638",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260805031638.mmi.jpg",
+    "fingerprintSha1": "29d9ac476c4120623b5d64ffb28dbbbc865a1b92"
   }
 ]
