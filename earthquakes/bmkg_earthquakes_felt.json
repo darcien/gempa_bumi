@@ -39316,5 +39316,29 @@
     "bmkgEarthquakeId": "20260803201331",
     "shakeMapUrl": "https://static.bmkg.go.id/20260803201331.mmi.jpg",
     "fingerprintSha1": "8fc3445c1780df3f260ac5342bc2a630ea418dea"
+  },
+  {
+    "earthquakeAt": "2026-08-04T08:55:24.000Z",
+    "latitude": -7.79,
+    "longitude": 107.25,
+    "magnitude": 4.1,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di laut 90 km Barat Daya Kabupaten Bandung",
+    "feltOnStations": "II-III Pelabuhan Ratu, II-III Pangalengan",
+    "bmkgEarthquakeId": "20260804155524",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260804155524.mmi.jpg",
+    "fingerprintSha1": "dc69fd79a9fc4707fb46a7c229252ed597d2805f"
+  },
+  {
+    "earthquakeAt": "2026-08-04T06:11:10.000Z",
+    "latitude": 0.95,
+    "longitude": 121.74,
+    "magnitude": 3.5,
+    "depthInKm": 28,
+    "locationInIndonesian": "Pusat gempa berada di darat 43 km timur Buol",
+    "feltOnStations": "II-III Buol",
+    "bmkgEarthquakeId": "20260804131110",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260804131110.mmi.jpg",
+    "fingerprintSha1": "2f06103c146377c5ab144823acce64a50a640a49"
   }
 ]
