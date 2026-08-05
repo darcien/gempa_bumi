@@ -39364,5 +39364,17 @@
     "bmkgEarthquakeId": "20260805111404",
     "shakeMapUrl": "https://static.bmkg.go.id/20260805111404.mmi.jpg",
     "fingerprintSha1": "8791b4e13a9e69e5f741af8d4dc64a17ca360839"
+  },
+  {
+    "earthquakeAt": "2026-08-05T14:55:41.000Z",
+    "latitude": -8.12,
+    "longitude": 107.91,
+    "magnitude": 5.3,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di laut 79 km barat daya Kab. Pangandaran",
+    "feltOnStations": "III Nagrak, III Cilacap, III Kalapanunggal, III Kertasari, III Baleendah, III Dayeuhkolot, III Majalaya, III Arjasari, III Solokanjeruk, II - III Soreang, II - III Kab. Sukabumi, II - III Kota Sukabumi, II - III Ciwidey, II - III Pangalengan, II Sumedang, II Ngamprah, II Parongpong, II Cihanjuang, II Pelabuhan Ratu, II Lembang",
+    "bmkgEarthquakeId": "20260805215541",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260805215541.mmi.jpg",
+    "fingerprintSha1": "b64a46cd5734586e45ea09ff3757f20f7d8c1101"
   }
 ]
