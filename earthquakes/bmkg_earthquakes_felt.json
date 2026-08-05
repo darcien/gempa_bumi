@@ -39388,5 +39388,17 @@
     "bmkgEarthquakeId": "20260805235018",
     "shakeMapUrl": "https://static.bmkg.go.id/20260805235018.mmi.jpg",
     "fingerprintSha1": "6623a371f1862febdb99f5af217493051320b695"
+  },
+  {
+    "earthquakeAt": "2026-08-05T22:42:56.000Z",
+    "latitude": -2.83,
+    "longitude": 122.25,
+    "magnitude": 3.9,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di laut 41 km timur Morowali",
+    "feltOnStations": "II-III Morowali",
+    "bmkgEarthquakeId": "20260806054256",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260806054256.mmi.jpg",
+    "fingerprintSha1": "34b256d42423dac67602cfa8f388fdf246c22cba"
   }
 ]
