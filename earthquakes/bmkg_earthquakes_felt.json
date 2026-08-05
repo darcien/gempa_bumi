@@ -39352,5 +39352,17 @@
     "bmkgEarthquakeId": "20260805031638",
     "shakeMapUrl": "https://static.bmkg.go.id/20260805031638.mmi.jpg",
     "fingerprintSha1": "29d9ac476c4120623b5d64ffb28dbbbc865a1b92"
+  },
+  {
+    "earthquakeAt": "2026-08-05T04:14:04.000Z",
+    "latitude": 5.6,
+    "longitude": 125.27,
+    "magnitude": 6.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 221 km barat laut Pulau Karatung",
+    "feltOnStations": "III-IV Sangihe, II Manado",
+    "bmkgEarthquakeId": "20260805111404",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260805111404.mmi.jpg",
+    "fingerprintSha1": "8791b4e13a9e69e5f741af8d4dc64a17ca360839"
   }
 ]
