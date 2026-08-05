@@ -39376,5 +39376,17 @@
     "bmkgEarthquakeId": "20260805215541",
     "shakeMapUrl": "https://static.bmkg.go.id/20260805215541.mmi.jpg",
     "fingerprintSha1": "b64a46cd5734586e45ea09ff3757f20f7d8c1101"
+  },
+  {
+    "earthquakeAt": "2026-08-05T16:50:18.000Z",
+    "latitude": 1.9,
+    "longitude": 127.37,
+    "magnitude": 5.9,
+    "depthInKm": 110,
+    "locationInIndonesian": "Pusat gempa berada di laut 62 km barat daya Pulau Doi",
+    "feltOnStations": "II Manado, II Minahasa, II Minahasa Utara, II Tomohon",
+    "bmkgEarthquakeId": "20260805235018",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260805235018.mmi.jpg",
+    "fingerprintSha1": "6623a371f1862febdb99f5af217493051320b695"
   }
 ]
