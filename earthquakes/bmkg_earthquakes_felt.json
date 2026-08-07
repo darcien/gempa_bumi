@@ -39424,5 +39424,17 @@
     "bmkgEarthquakeId": "20260806083601",
     "shakeMapUrl": "https://static.bmkg.go.id/20260806083601.mmi.jpg",
     "fingerprintSha1": "3c93af84963d5e9c8d309082ccf3c05505b5d1eb"
+  },
+  {
+    "earthquakeAt": "2026-08-06T20:42:56.000Z",
+    "latitude": -6.71,
+    "longitude": 106.7,
+    "magnitude": 3.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km barat daya Kota Bogor",
+    "feltOnStations": "III Pamijahan, Kab. Bogor, III Leuwiliang, Kab. Bogor, III Ciomas, Kab. Bogor, III Cigombong, Kab. Bogor, III Cijeruk, Kab. Bogor, II-III Cicurug, Kab. Sukabumi, II-III Cipanas, Kab. Cianjur",
+    "bmkgEarthquakeId": "20260807034256",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260807034256.mmi.jpg",
+    "fingerprintSha1": "0d821bd66905cbdfc09a6021123fd3aacf8455aa"
   }
 ]
