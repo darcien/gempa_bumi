@@ -39460,5 +39460,17 @@
     "bmkgEarthquakeId": "20260808165927",
     "shakeMapUrl": "https://static.bmkg.go.id/20260808165927.mmi.jpg",
     "fingerprintSha1": "37217c63896d64c379470b22ec90590903d8f1dd"
+  },
+  {
+    "earthquakeAt": "2026-08-08T13:59:14.000Z",
+    "latitude": -3.7,
+    "longitude": 119.04,
+    "magnitude": 3.4,
+    "depthInKm": 19,
+    "locationInIndonesian": "Pusat gempa berada di laut 42 km selatan Polewali Mandar",
+    "feltOnStations": "II-III Majene",
+    "bmkgEarthquakeId": "20260808205914",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260808205914.mmi.jpg",
+    "fingerprintSha1": "d8fb153888ff3b8b45c01c7310c6f71f04e2fd40"
   }
 ]
