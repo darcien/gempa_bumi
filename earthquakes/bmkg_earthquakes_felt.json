@@ -39448,5 +39448,17 @@
     "bmkgEarthquakeId": "20260808064553",
     "shakeMapUrl": "https://static.bmkg.go.id/20260808064553.mmi.jpg",
     "fingerprintSha1": "080954c03592774df1893bb9c54f6cde51302ed2"
+  },
+  {
+    "earthquakeAt": "2026-08-08T09:59:27.000Z",
+    "latitude": -8.22,
+    "longitude": 107.89,
+    "magnitude": 4.1,
+    "depthInKm": 26,
+    "locationInIndonesian": "Pusat gempa berada di laut 88 km Barat Daya KAB-PANGANDARAN",
+    "feltOnStations": "II-III Tasikmalaya, II-III Cianjur",
+    "bmkgEarthquakeId": "20260808165927",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260808165927.mmi.jpg",
+    "fingerprintSha1": "37217c63896d64c379470b22ec90590903d8f1dd"
   }
 ]
