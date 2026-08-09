@@ -39480,9 +39480,21 @@
     "magnitude": 5.5,
     "depthInKm": 40,
     "locationInIndonesian": "Pusat gempa berada di laut 84 km tenggara Enggano",
-    "feltOnStations": "III Bengkulu Utara, II Kaur, II Kepahiang, II Enggano",
+    "feltOnStations": "III Bengkulu Utara, II Kaur, II Kepahiang, II Enggano, III Krui, II Sekincau",
     "bmkgEarthquakeId": "20260809221504",
     "shakeMapUrl": "https://static.bmkg.go.id/20260809221504.mmi.jpg",
     "fingerprintSha1": "81f5e4c5e4f689a88a70c0f60b4f9fa5cb67e65d"
+  },
+  {
+    "earthquakeAt": "2026-08-09T15:35:20.000Z",
+    "latitude": -5.9,
+    "longitude": 102.72,
+    "magnitude": 4,
+    "depthInKm": 53,
+    "locationInIndonesian": "Pusat gempa berada di laut 79 km tenggara Enggano",
+    "feltOnStations": "II-III Belalau, II-III Lampung Barat, II-III Krui, II-III Pesisir Barat",
+    "bmkgEarthquakeId": "20260809223520",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260809223520.mmi.jpg",
+    "fingerprintSha1": "e773cb74b37ea3f6fc78fa5201f657fe031e557c"
   }
 ]
