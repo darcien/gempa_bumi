@@ -39523,5 +39523,17 @@
     "bmkgEarthquakeId": "20260810033643",
     "shakeMapUrl": "https://static.bmkg.go.id/20260810033643.mmi.jpg",
     "fingerprintSha1": "d8d39ad2c66df2e3e27fc16303c4ce2033f8e1f4"
+  },
+  {
+    "earthquakeAt": "2026-08-10T16:51:51.000Z",
+    "latitude": 3.42,
+    "longitude": 97.17,
+    "magnitude": 3.6,
+    "depthInKm": 39,
+    "locationInIndonesian": "Pusat gempa berada di darat 16 km barat laut Aceh Selatan",
+    "feltOnStations": "II Aceh Selatan",
+    "bmkgEarthquakeId": "20260810235151",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260810235151.mmi.jpg",
+    "fingerprintSha1": "50d7adf4a5c897d9245efd7448dea21d316ab060"
   }
 ]
