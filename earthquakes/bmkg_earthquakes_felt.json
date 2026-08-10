@@ -39511,5 +39511,17 @@
     "meta": {
       "erroneousDataReason": "FUTURE_EARTHQUAKE"
     }
+  },
+  {
+    "earthquakeAt": "2026-08-09T20:36:43.000Z",
+    "latitude": -0.59,
+    "longitude": 130.28,
+    "magnitude": 4.3,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di laut 117 km barat Kota Sorong",
+    "feltOnStations": "II-III Kota Sorong",
+    "bmkgEarthquakeId": "20260810033643",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260810033643.mmi.jpg",
+    "fingerprintSha1": "d8d39ad2c66df2e3e27fc16303c4ce2033f8e1f4"
   }
 ]
