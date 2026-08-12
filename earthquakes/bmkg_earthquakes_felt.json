@@ -39535,5 +39535,17 @@
     "bmkgEarthquakeId": "20260810235151",
     "shakeMapUrl": "https://static.bmkg.go.id/20260810235151.mmi.jpg",
     "fingerprintSha1": "50d7adf4a5c897d9245efd7448dea21d316ab060"
+  },
+  {
+    "earthquakeAt": "2026-08-11T23:33:13.000Z",
+    "latitude": -3.96,
+    "longitude": 139.98,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 69 km tenggara Yalimo",
+    "feltOnStations": "II Wamena",
+    "bmkgEarthquakeId": "20260812063313",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260812063313.mmi.jpg",
+    "fingerprintSha1": "bbd03f23e59cbde99d3208f66b9f74608580696d"
   }
 ]
