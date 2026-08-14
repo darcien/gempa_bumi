@@ -39583,5 +39583,29 @@
     "bmkgEarthquakeId": "20260814103831",
     "shakeMapUrl": "https://static.bmkg.go.id/20260814103831.mmi.jpg",
     "fingerprintSha1": "2bc75a09007088f1e4a758757914ede280311872"
+  },
+  {
+    "earthquakeAt": "2026-08-14T22:13:53.000Z",
+    "latitude": -8.14,
+    "longitude": 120.11,
+    "magnitude": 6.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 46 km timurlaut Labuanbajo",
+    "feltOnStations": "III Ende, III Sumba Timur, II-III Lembata",
+    "bmkgEarthquakeId": "20260815051353",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260815051353.mmi.jpg",
+    "fingerprintSha1": "b77c0309248bf3c5f1146af01ff5b9255fffe5a5"
+  },
+  {
+    "earthquakeAt": "2026-08-14T21:58:23.000Z",
+    "latitude": -8.33,
+    "longitude": 121.32,
+    "magnitude": 7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 38 km timurlaut Mbay, Nagekeo",
+    "feltOnStations": "IV-V Ruteng, V Kota Bima, V Kab. Dompu, IV-V Ende, IV-V Labuan Bajo, IV-V Maumere, IV-V Sumba Timur, IV Kupang, IV Kab. Sumbawa Barat, III-IV Flores Timur, III-IV Lembata, III-IV Adonara, III Kab. Lombok Barat, III Kota Mataram, III Kab. Lombok Timur, II-III Denpasar , II-III Badung, II-III Bulukumba, II-III Jeneponto, II-III Takalar, II-III Gowa, II-III Makassar",
+    "bmkgEarthquakeId": "20260815045823",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260815045823.mmi.jpg",
+    "fingerprintSha1": "9a3e44ff1005338bd20a7e79ac500eb6353b6591"
   }
 ]
