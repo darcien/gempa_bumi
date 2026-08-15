@@ -39655,5 +39655,17 @@
     "bmkgEarthquakeId": "20260815123331",
     "shakeMapUrl": "https://static.bmkg.go.id/20260815123331.mmi.jpg",
     "fingerprintSha1": "c2ff1eeab000ab9ef6f5e8a68971c4a1773275b0"
+  },
+  {
+    "earthquakeAt": "2026-08-15T06:28:05.000Z",
+    "latitude": -7.27,
+    "longitude": 109.61,
+    "magnitude": 2.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 19 km baratlaut Banjarnegara",
+    "feltOnStations": "II-III Pandanarum, II-III Kalibening, II-III Karangkobar",
+    "bmkgEarthquakeId": "20260815132805",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260815132805.mmi.jpg",
+    "fingerprintSha1": "226d00fcc470b184d7257a7770a6b2d2842951df"
   }
 ]
