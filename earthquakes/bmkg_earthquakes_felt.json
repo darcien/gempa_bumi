@@ -39631,5 +39631,17 @@
     "bmkgEarthquakeId": "20260815050859",
     "shakeMapUrl": "https://static.bmkg.go.id/20260815050859.mmi.jpg",
     "fingerprintSha1": "d406299fc09ae3ad51ac86bdd726c251a344c920"
+  },
+  {
+    "earthquakeAt": "2026-08-15T01:47:12.000Z",
+    "latitude": -7.27,
+    "longitude": 109.64,
+    "magnitude": 2.5,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 18 km Barat Laut Banjarnegara",
+    "feltOnStations": "III Pandanaru, III Kalibening",
+    "bmkgEarthquakeId": "20260815084712",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260815084712.mmi.jpg",
+    "fingerprintSha1": "c6c94be4cc1b21e3ecc8258dea4c33c2982ea1a4"
   }
 ]
