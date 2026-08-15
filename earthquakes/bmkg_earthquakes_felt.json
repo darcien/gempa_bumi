@@ -39667,5 +39667,17 @@
     "bmkgEarthquakeId": "20260815132805",
     "shakeMapUrl": "https://static.bmkg.go.id/20260815132805.mmi.jpg",
     "fingerprintSha1": "226d00fcc470b184d7257a7770a6b2d2842951df"
+  },
+  {
+    "earthquakeAt": "2026-08-15T10:54:52.000Z",
+    "latitude": 2.97,
+    "longitude": 98.95,
+    "magnitude": 6.4,
+    "depthInKm": 163,
+    "locationInIndonesian": "Pusat gempa berada di darat 20 km Tenggara SIMALUNGUN",
+    "feltOnStations": "IV Sibolga, Aceh Selatan, III-IV Nagan Raya, III Simeulue, III Banda Aceh, III Aceh Barat, III Paadang Sidempuan, III Medan",
+    "bmkgEarthquakeId": "20260815175452",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260815175452.mmi.jpg",
+    "fingerprintSha1": "d0a98f329e267bdf807ad296f7c69d031c2915d1"
   }
 ]
