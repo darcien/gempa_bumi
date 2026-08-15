@@ -39686,8 +39686,8 @@
     "longitude": 120.22,
     "magnitude": 6.2,
     "depthInKm": 44,
-    "locationInIndonesian": "Pusat gempa berada di laut 74 km barat daya Parigimoutong",
-    "feltOnStations": "IV Tinombo, IV Palasa, III - IV Tomini, III - IV Kasimbar, III - IV Kotaraya, III Palu, III Pohuwato, III Kab. Gorontalo, III Kota Gorontalo, III Bolaang Mongodow Utara, II - III Biduk-Biduk",
+    "locationInIndonesian": "Pusat gempa berada di laut 74 km barat daya Parigi Moutong",
+    "feltOnStations": "IV Parigi Moutong, II-III Toli-Toli, III - IV Kab. Donggala, III Palu, III Pohuwato, III Kab. Gorontalo, III Kota Gorontalo, II - III Bolaang Mongodow Utara, II - III Biduk-Biduk, II - III Tanjung Selor, II - III Berau, II - III Bontang",
     "bmkgEarthquakeId": "20260815232519",
     "shakeMapUrl": "https://static.bmkg.go.id/20260815232519.mmi.jpg",
     "fingerprintSha1": "61d883575444101f26432b29cd6bfd3a81aad28a"
