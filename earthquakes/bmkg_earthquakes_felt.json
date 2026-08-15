@@ -39639,9 +39639,21 @@
     "magnitude": 2.5,
     "depthInKm": 11,
     "locationInIndonesian": "Pusat gempa berada di darat 18 km Barat Laut Banjarnegara",
-    "feltOnStations": "III Pandanaru, III Kalibening",
+    "feltOnStations": "II-III Pandanaru, II-III Kalibening, II-III Banjarmangu",
     "bmkgEarthquakeId": "20260815084712",
     "shakeMapUrl": "https://static.bmkg.go.id/20260815084712.mmi.jpg",
     "fingerprintSha1": "c6c94be4cc1b21e3ecc8258dea4c33c2982ea1a4"
+  },
+  {
+    "earthquakeAt": "2026-08-15T05:33:31.000Z",
+    "latitude": -4.53,
+    "longitude": 122.74,
+    "magnitude": 3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 30 km Muna",
+    "feltOnStations": "III Muna",
+    "bmkgEarthquakeId": "20260815123331",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260815123331.mmi.jpg",
+    "fingerprintSha1": "c2ff1eeab000ab9ef6f5e8a68971c4a1773275b0"
   }
 ]
