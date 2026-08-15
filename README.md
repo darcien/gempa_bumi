@@ -3,10 +3,10 @@
 Historical data of earthquakes scraped from
 [Indonesia's BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)](https://www.bmkg.go.id/).
 
-Check `earthquakes/` for the data. Or view it using [Flat Viewer][flatviewer].
+Check `earthquakes/` for the data. Or view it using [Datasette Lite][datasette].
 The oldest record is earthquake on 2022-12-14.
 
-[flatviewer]: https://flatgithub.com/darcien/gempa_bumi?filename=earthquakes%2Fbmkg_earthquakes_felt.json
+[datasette]: https://lite.datasette.io/?json=https://raw.githubusercontent.com/darcien/gempa_bumi/main/earthquakes/bmkg_earthquakes_felt.json#/data?sql=select+*+from+bmkg_earthquakes_felt+order+by+earthquakeAt+desc
 
 ## Data Quality
 
