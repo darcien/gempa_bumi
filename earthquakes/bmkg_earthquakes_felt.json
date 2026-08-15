@@ -39675,7 +39675,7 @@
     "magnitude": 6.4,
     "depthInKm": 163,
     "locationInIndonesian": "Pusat gempa berada di darat 20 km Tenggara SIMALUNGUN",
-    "feltOnStations": "IV Sibolga, Aceh Selatan, III-IV Nagan Raya, III Simeulue, III Banda Aceh, III Aceh Barat, III Paadang Sidempuan, III Medan",
+    "feltOnStations": "IV Sibolga, III-IV Nagan Raya, III Simeulue, III Banda Aceh, III Aceh Barat, III Paadang Sidempuan, III Medan, III Aceh Besar, III Pidie, III Pidie Jaya, III Bireun, III Lhokseumawe, III-IV Aceh Tengah, III-IV Aceh Utara, III-IV Aceh Timur, III-IV Langsa, III Deli Serdang, III Bener Meriah, III Nias Barat, II-III Nias Selatan, II-III Gunung Sitoli, II-III Nias Utara, II-III Nias, IV Aceh Selatan",
     "bmkgEarthquakeId": "20260815175452",
     "shakeMapUrl": "https://static.bmkg.go.id/20260815175452.mmi.jpg",
     "fingerprintSha1": "d0a98f329e267bdf807ad296f7c69d031c2915d1"
