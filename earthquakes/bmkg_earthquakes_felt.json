@@ -39739,5 +39739,29 @@
     "bmkgEarthquakeId": "20260816135148",
     "shakeMapUrl": "https://static.bmkg.go.id/20260816135148.mmi.jpg",
     "fingerprintSha1": "596ddb9d9265a7aa835dedd089f5df2935361af9"
+  },
+  {
+    "earthquakeAt": "2026-08-16T08:56:27.000Z",
+    "latitude": -7.85,
+    "longitude": 120.54,
+    "magnitude": 3.8,
+    "depthInKm": 24,
+    "locationInIndonesian": "Pusat gempa berada di laut 85 km utara Ruteng-Manggarai",
+    "feltOnStations": "III Kab. Manggarai, II Kab. Ende, III Kab. Nagekeo",
+    "bmkgEarthquakeId": "20260816155627",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260816155627.mmi.jpg",
+    "fingerprintSha1": "cfc2c34bf9c8756dc7b96c28123ba1a4aee5bc56"
+  },
+  {
+    "earthquakeAt": "2026-08-16T08:46:58.000Z",
+    "latitude": -7.95,
+    "longitude": 120.54,
+    "magnitude": 3.5,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di laut 74 km Ruteng-Manggarai",
+    "feltOnStations": "III Ruteng",
+    "bmkgEarthquakeId": "20260816154658",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260816154658.mmi.jpg",
+    "fingerprintSha1": "4ed8c3d79dcecc3c7ca6b01383b62028abb15461"
   }
 ]
