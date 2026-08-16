@@ -39703,5 +39703,17 @@
     "bmkgEarthquakeId": "20260816113052",
     "shakeMapUrl": "https://static.bmkg.go.id/20260816113052.mmi.jpg",
     "fingerprintSha1": "b90df621139cbc46edcf3a303876e4e472682e13"
+  },
+  {
+    "earthquakeAt": "2026-08-16T06:25:12.000Z",
+    "latitude": -7.93,
+    "longitude": 121.13,
+    "magnitude": 4.6,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 85 km utara Mbay-Nagekeo",
+    "feltOnStations": "II-III Ruteng",
+    "bmkgEarthquakeId": "20260816132512",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260816132512.mmi.jpg",
+    "fingerprintSha1": "76edac8450b01983991c15ce0b6a49d5ce4bab2b"
   }
 ]
