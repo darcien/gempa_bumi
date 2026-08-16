@@ -39763,5 +39763,17 @@
     "bmkgEarthquakeId": "20260816154658",
     "shakeMapUrl": "https://static.bmkg.go.id/20260816154658.mmi.jpg",
     "fingerprintSha1": "4ed8c3d79dcecc3c7ca6b01383b62028abb15461"
+  },
+  {
+    "earthquakeAt": "2026-08-16T10:14:37.000Z",
+    "latitude": -7.93,
+    "longitude": 120.65,
+    "magnitude": 5.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 79 km utara Ruuteng-Manggarai",
+    "feltOnStations": "IV Kab. Manggarai, III-IV Kab. Sikkka, III-IV Kab. Nagekeo",
+    "bmkgEarthquakeId": "20260816171437",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260816171437.mmi.jpg",
+    "fingerprintSha1": "94c94fc94731e77f7cff6f66a1139443af615a88"
   }
 ]
