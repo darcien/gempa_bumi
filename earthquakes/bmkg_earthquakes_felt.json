@@ -39979,5 +39979,41 @@
     "bmkgEarthquakeId": "20260817161608",
     "shakeMapUrl": "https://static.bmkg.go.id/20260817161608.mmi.jpg",
     "fingerprintSha1": "27c33c893f6f65513ae968162006ffea86c2f49c"
+  },
+  {
+    "earthquakeAt": "2026-08-17T12:51:39.000Z",
+    "latitude": -8.31,
+    "longitude": 120.56,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 35 km utara Ruteng-Manggarai",
+    "feltOnStations": "III Kab. Manggarai",
+    "bmkgEarthquakeId": "20260817195139",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260817195139.mmi.jpg",
+    "fingerprintSha1": "453725bc61a45212e42e3ebf841c3a35d20af0fc"
+  },
+  {
+    "earthquakeAt": "2026-08-17T12:51:03.000Z",
+    "latitude": -8.26,
+    "longitude": 120.55,
+    "magnitude": 4.8,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di laut 40 km utara Ruteng-Manggarai",
+    "feltOnStations": "III Kab. Manggarai",
+    "bmkgEarthquakeId": "20260817195103",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260817195103.mmi.jpg",
+    "fingerprintSha1": "df575365da7bea80c17ef085abfa0471dd62be47"
+  },
+  {
+    "earthquakeAt": "2026-08-17T12:45:50.000Z",
+    "latitude": -7.22,
+    "longitude": 107.62,
+    "magnitude": 3,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 24 km tenggara Bandung",
+    "feltOnStations": "III Kertasari, III Pangalengan, II-III Arjasari, II-III Pacet, II-III Bandung",
+    "bmkgEarthquakeId": "20260817194550",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260817194550.mmi.jpg",
+    "fingerprintSha1": "333e92f9a99b4ae9a993a0aef75a08e5141abd3c"
   }
 ]
