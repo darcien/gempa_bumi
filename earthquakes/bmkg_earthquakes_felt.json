@@ -39931,5 +39931,29 @@
     "bmkgEarthquakeId": "20260817142020",
     "shakeMapUrl": "https://static.bmkg.go.id/20260817142020.mmi.jpg",
     "fingerprintSha1": "f2656573954639946533e62cca57abc237f5ee9e"
+  },
+  {
+    "earthquakeAt": "2026-08-17T10:06:06.000Z",
+    "latitude": -7.18,
+    "longitude": 107.65,
+    "magnitude": 2.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 22 km tenggara Bandung",
+    "feltOnStations": "III Pangalengan",
+    "bmkgEarthquakeId": "20260817170606",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260817170606.mmi.jpg",
+    "fingerprintSha1": "2e236a84d6bbc2ca4c289d9bad336c7b593cb0c4"
+  },
+  {
+    "earthquakeAt": "2026-08-17T09:22:12.000Z",
+    "latitude": -4.27,
+    "longitude": 139.28,
+    "magnitude": 4.1,
+    "depthInKm": 91,
+    "locationInIndonesian": "Pusat gempa berada di darat 42 km tenggara Wamena",
+    "feltOnStations": "II Wamena",
+    "bmkgEarthquakeId": "20260817162212",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260817162212.mmi.jpg",
+    "fingerprintSha1": "e0330527d1fbcb2c56cbf39563a2a8dcc0303a63"
   }
 ]
