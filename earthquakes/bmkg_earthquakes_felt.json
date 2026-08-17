@@ -39811,5 +39811,17 @@
     "bmkgEarthquakeId": "20260817002617",
     "shakeMapUrl": "https://static.bmkg.go.id/20260817002617.mmi.jpg",
     "fingerprintSha1": "45045941999031dedf9d791bc519dc2b1d7938fb"
+  },
+  {
+    "earthquakeAt": "2026-08-17T00:46:43.000Z",
+    "latitude": -8.38,
+    "longitude": 121.52,
+    "magnitude": 5.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 40 km timur laut Nagekeo",
+    "feltOnStations": "III Sumba Timur, III-IV Ende, III-IV Kab. Nagekeo, III-IV Kab. Manggarai, III-IV Kab. Ngada, III-IV Kab. Manggarai Timur",
+    "bmkgEarthquakeId": "20260817074643",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260817074643.mmi.jpg",
+    "fingerprintSha1": "034c1a04d3abe493c3f009aa9c3de26b4731999b"
   }
 ]
