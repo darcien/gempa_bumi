@@ -39883,5 +39883,17 @@
     "bmkgEarthquakeId": "20260817120913",
     "shakeMapUrl": "https://static.bmkg.go.id/20260817120913.mmi.jpg",
     "fingerprintSha1": "f86bfa9988c0c4389049f6ee4c505377fc42ed8b"
+  },
+  {
+    "earthquakeAt": "2026-08-17T04:20:32.000Z",
+    "latitude": -8.31,
+    "longitude": 124.42,
+    "magnitude": 3,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 14 km barat Alor",
+    "feltOnStations": "II - III Alor",
+    "bmkgEarthquakeId": "20260817112032",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260817112032.mmi.jpg",
+    "fingerprintSha1": "aa4250da29191f08696683f636d0a4fada45e8b0"
   }
 ]
