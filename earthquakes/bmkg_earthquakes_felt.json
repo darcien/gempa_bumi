@@ -40039,5 +40039,29 @@
     "bmkgEarthquakeId": "20260817222752",
     "shakeMapUrl": "https://static.bmkg.go.id/20260817222752.mmi.jpg",
     "fingerprintSha1": "3f5e7f0d3c5815868eca0c73adeb0ec3bd83629e"
+  },
+  {
+    "earthquakeAt": "2026-08-18T02:42:35.000Z",
+    "latitude": -8.14,
+    "longitude": 120.23,
+    "magnitude": 4.9,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di laut 54 km Timur Laut LABUANBAJO",
+    "feltOnStations": "IV Kab. Manggarai Barat, III-IV Kab Manggarai",
+    "bmkgEarthquakeId": "20260818094235",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260818094235.mmi.jpg",
+    "fingerprintSha1": "9ba00b600ebc821c7353f4546cd21d9781ea687b"
+  },
+  {
+    "earthquakeAt": "2026-08-18T02:22:59.000Z",
+    "latitude": -4.9,
+    "longitude": 122.57,
+    "magnitude": 2.7,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di darat 14 km Tenggara MUNABARAT",
+    "feltOnStations": "II-III Muna",
+    "bmkgEarthquakeId": "20260818092259",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260818092259.mmi.jpg",
+    "fingerprintSha1": "89cb64bc33f183f92243f8c80bd8be8ff8906a4b"
   }
 ]
