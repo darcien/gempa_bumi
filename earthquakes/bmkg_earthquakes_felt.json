@@ -40135,5 +40135,17 @@
     "bmkgEarthquakeId": "20260819021411",
     "shakeMapUrl": "https://static.bmkg.go.id/20260819021411.mmi.jpg",
     "fingerprintSha1": "b520e37d750a6aa6500a0e899e2f986a63bed18a"
+  },
+  {
+    "earthquakeAt": "2026-08-18T20:15:42.000Z",
+    "latitude": -8.3,
+    "longitude": 121.31,
+    "magnitude": 4.7,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di laut 42 km utara Mbay, Nagekeo",
+    "feltOnStations": "IV Nagekeo",
+    "bmkgEarthquakeId": "20260819031542",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260819031542.mmi.jpg",
+    "fingerprintSha1": "bb2037638dcc34150b3557e6b2e8b87572c84529"
   }
 ]
