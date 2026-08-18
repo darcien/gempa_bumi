@@ -40063,5 +40063,29 @@
     "bmkgEarthquakeId": "20260818092259",
     "shakeMapUrl": "https://static.bmkg.go.id/20260818092259.mmi.jpg",
     "fingerprintSha1": "89cb64bc33f183f92243f8c80bd8be8ff8906a4b"
+  },
+  {
+    "earthquakeAt": "2026-08-18T06:43:36.000Z",
+    "latitude": -8.66,
+    "longitude": 120.45,
+    "magnitude": 2.7,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km selatan Ruteng, Manggarai",
+    "feltOnStations": "III Kab Manggarai",
+    "bmkgEarthquakeId": "20260818134336",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260818134336.mmi.jpg",
+    "fingerprintSha1": "f1179e9441ca2aa55fc366e8071b7954691b012a"
+  },
+  {
+    "earthquakeAt": "2026-08-18T06:02:23.000Z",
+    "latitude": -0.65,
+    "longitude": 98.32,
+    "magnitude": 6.1,
+    "depthInKm": 29,
+    "locationInIndonesian": "Pusat gempa berada di laut 147 km tenggara Nias Selatan",
+    "feltOnStations": "IV Tapanuli Utara, III-IV Padang, III-IV Padang Pariaman, III-IV Pariaman, III-IV Pasaman Barat, III-IV Kabupaten Agam, III Padang Sidempuan, III Subulussalam, III Nias Selatan, II-III Padang Panjang, II-III Tapanuli Tengah, II Gunung Sitoli",
+    "bmkgEarthquakeId": "20260818130223",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260818130223.mmi.jpg",
+    "fingerprintSha1": "720c8cd2604e700ce4b16d1f35e3ba2f4dc6a6df"
   }
 ]
