@@ -40255,5 +40255,17 @@
     "bmkgEarthquakeId": "20260819063547",
     "shakeMapUrl": "https://static.bmkg.go.id/20260819063547.mmi.jpg",
     "fingerprintSha1": "b17adf854c852404d311286ec19b8d5fa4d44f64"
+  },
+  {
+    "earthquakeAt": "2026-08-19T02:00:34.000Z",
+    "latitude": -7.81,
+    "longitude": 120.94,
+    "magnitude": 3.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 104 km timur laut Ruteng-Manggarai",
+    "feltOnStations": "III Kab. Ende",
+    "bmkgEarthquakeId": "20260819090034",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260819090034.mmi.jpg",
+    "fingerprintSha1": "dcc3d5ea38da6212c103655d960c62e34be58301"
   }
 ]
