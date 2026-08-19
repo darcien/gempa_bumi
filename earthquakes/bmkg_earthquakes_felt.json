@@ -40363,5 +40363,17 @@
     "bmkgEarthquakeId": "20260819213059",
     "shakeMapUrl": "https://static.bmkg.go.id/20260819213059.mmi.jpg",
     "fingerprintSha1": "72c33283bfc367d1b8e84045b3ea68c4daa61c37"
+  },
+  {
+    "earthquakeAt": "2026-08-19T15:31:40.000Z",
+    "latitude": -8.62,
+    "longitude": 121.52,
+    "magnitude": 2.2,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 24 km timur Mbay-Nagekeo",
+    "feltOnStations": "III-IV Kab. Manggarai",
+    "bmkgEarthquakeId": "20260819223140",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260819223140.mmi.jpg",
+    "fingerprintSha1": "344204abc718f010aa6e3fca7e44dcb6ee2a1306"
   }
 ]
