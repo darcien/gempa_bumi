@@ -40207,5 +40207,53 @@
     "bmkgEarthquakeId": "20260819041311",
     "shakeMapUrl": "https://static.bmkg.go.id/20260819041311.mmi.jpg",
     "fingerprintSha1": "3bb1daaa064e7c254142af7e0660f276bc8fb011"
+  },
+  {
+    "earthquakeAt": "2026-08-19T00:11:36.000Z",
+    "latitude": -8.25,
+    "longitude": 121.33,
+    "magnitude": 4.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 47 km utara Kab. Nagekeo",
+    "feltOnStations": "III Kab. Nagekeo",
+    "bmkgEarthquakeId": "20260819071136",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260819071136.mmi.jpg",
+    "fingerprintSha1": "0f44dd4c2c9cfb79dd53dabde4cdb14324438269"
+  },
+  {
+    "earthquakeAt": "2026-08-19T00:07:16.000Z",
+    "latitude": -7.28,
+    "longitude": 109.64,
+    "magnitude": 2.2,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km barat laut Banjarnegara",
+    "feltOnStations": "II Pungelan, Banjarnegara, II Pandanarum, Banjarnegara",
+    "bmkgEarthquakeId": "20260819070716",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260819070716.mmi.jpg",
+    "fingerprintSha1": "0f6cd66c72b229ed97c2c6b328a553fb0ec28e6d"
+  },
+  {
+    "earthquakeAt": "2026-08-18T23:59:14.000Z",
+    "latitude": -8.29,
+    "longitude": 121.39,
+    "magnitude": 4.4,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di laut 43 km Utara Mbay, Nagekeo",
+    "feltOnStations": "III Kab. Nagekeo",
+    "bmkgEarthquakeId": "20260819065914",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260819065914.mmi.jpg",
+    "fingerprintSha1": "9a35eb9de1543a1a2b3b0bf41e834be0d6f67f46"
+  },
+  {
+    "earthquakeAt": "2026-08-18T23:35:47.000Z",
+    "latitude": -7.23,
+    "longitude": 107.62,
+    "magnitude": 2.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 25 km tenggara Kab.Bandung",
+    "feltOnStations": "II Pangalengan",
+    "bmkgEarthquakeId": "20260819063547",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260819063547.mmi.jpg",
+    "fingerprintSha1": "b17adf854c852404d311286ec19b8d5fa4d44f64"
   }
 ]
