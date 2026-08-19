@@ -40291,5 +40291,41 @@
     "bmkgEarthquakeId": "20260819115706",
     "shakeMapUrl": "https://static.bmkg.go.id/20260819115706.mmi.jpg",
     "fingerprintSha1": "beb4973c6ffa7637c102d6eaa8b43b459b06b040"
+  },
+  {
+    "earthquakeAt": "2026-08-19T07:14:57.000Z",
+    "latitude": 2.91,
+    "longitude": 125.41,
+    "magnitude": 4.2,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 19 km utara Ondong, Kep. Sitaro",
+    "feltOnStations": "II-III Kab. Kep. Sitaro",
+    "bmkgEarthquakeId": "20260819141457",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260819141457.mmi.jpg",
+    "fingerprintSha1": "8730a795c2edb73a79ec2962ff50e65b14d912b4"
+  },
+  {
+    "earthquakeAt": "2026-08-19T07:13:25.000Z",
+    "latitude": -4.12,
+    "longitude": 136.25,
+    "magnitude": 3.8,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km barat daya Deiyai",
+    "feltOnStations": "II-III Kab. Paniai",
+    "bmkgEarthquakeId": "20260819141325",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260819141325.mmi.jpg",
+    "fingerprintSha1": "a7d2bd4a797de4ab79d156d834901a0e6fd13fc9"
+  },
+  {
+    "earthquakeAt": "2026-08-19T06:57:39.000Z",
+    "latitude": -8.18,
+    "longitude": 120.58,
+    "magnitude": 4.4,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di laut 50 km utara Ruteng, Manggarai",
+    "feltOnStations": "III-IV Kab. Manggarai, III Kab. Nagekeo",
+    "bmkgEarthquakeId": "20260819135739",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260819135739.mmi.jpg",
+    "fingerprintSha1": "b663f0db2dd5251945c53f431cf2f2a1ddaae0d5"
   }
 ]
