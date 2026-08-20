@@ -40723,5 +40723,17 @@
     "bmkgEarthquakeId": "20260821011835",
     "shakeMapUrl": "https://static.bmkg.go.id/20260821011835.mmi.jpg",
     "fingerprintSha1": "121e17123303917d1f8270c0cbd0c03b05b391bd"
+  },
+  {
+    "earthquakeAt": "2026-08-20T17:49:12.000Z",
+    "latitude": -5.31,
+    "longitude": 122.26,
+    "magnitude": 2.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 33 km Barat Buton Tengah",
+    "feltOnStations": "II-III MMI Mawasangka",
+    "bmkgEarthquakeId": "20260821004912",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260821004912.mmi.jpg",
+    "fingerprintSha1": "409762360b54b90b4a49a3963fa6d5af04090ba9"
   }
 ]
