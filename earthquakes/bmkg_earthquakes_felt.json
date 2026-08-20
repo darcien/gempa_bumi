@@ -40519,5 +40519,29 @@
     "bmkgEarthquakeId": "20260820092447",
     "shakeMapUrl": "https://static.bmkg.go.id/20260820092447.mmi.jpg",
     "fingerprintSha1": "4ae0cde9d93a8f14b5ef1dad4e47e6e4e8c55d81"
+  },
+  {
+    "earthquakeAt": "2026-08-20T02:51:38.000Z",
+    "latitude": -8.21,
+    "longitude": 120.59,
+    "magnitude": 4.1,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di darat 46 km Utara Ruteng Manggarai",
+    "feltOnStations": "II Manggarai",
+    "bmkgEarthquakeId": "20260820095138",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260820095138.mmi.jpg",
+    "fingerprintSha1": "58a1451750e68e014f74bd0fddabc2bfee9e55c2"
+  },
+  {
+    "earthquakeAt": "2026-08-20T02:47:00.000Z",
+    "latitude": -8.28,
+    "longitude": 120.6,
+    "magnitude": 5.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 39 km TimurLaut Ruteng Manggarai",
+    "feltOnStations": "V-VI Manggarai, V Nagekeo, V Ende, III-IV Manggarai Barat, III-IV Sumba Timur, III-IV Sikka, III Kota Bima, III Kab. Bima",
+    "bmkgEarthquakeId": "20260820094700",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260820094700.mmi.jpg",
+    "fingerprintSha1": "5e7fc82c09a1218cfd5ece5b4cd4d8f8e86e470f"
   }
 ]
