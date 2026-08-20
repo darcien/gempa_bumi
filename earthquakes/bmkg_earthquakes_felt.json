@@ -40699,5 +40699,17 @@
     "bmkgEarthquakeId": "20260820172057",
     "shakeMapUrl": "https://static.bmkg.go.id/20260820172057.mmi.jpg",
     "fingerprintSha1": "5acce5be1b2f0b602a1c6b6eb24bd7b8dba0d099"
+  },
+  {
+    "earthquakeAt": "2026-08-20T14:31:33.000Z",
+    "latitude": -8.09,
+    "longitude": 107.88,
+    "magnitude": 4.2,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di laut 80 km Barat Daya Kab. Pangandaran",
+    "feltOnStations": "III Pangandaran, III Kalapanunggal, III Ciamis, III Pameungpeuk",
+    "bmkgEarthquakeId": "20260820213133",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260820213133.mmi.jpg",
+    "fingerprintSha1": "682586db0a1358b6b18987b35c12f4c955bfe8e9"
   }
 ]
