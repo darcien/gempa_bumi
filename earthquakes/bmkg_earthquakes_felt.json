@@ -40711,5 +40711,17 @@
     "bmkgEarthquakeId": "20260820213133",
     "shakeMapUrl": "https://static.bmkg.go.id/20260820213133.mmi.jpg",
     "fingerprintSha1": "682586db0a1358b6b18987b35c12f4c955bfe8e9"
+  },
+  {
+    "earthquakeAt": "2026-08-20T18:18:35.000Z",
+    "latitude": -7.26,
+    "longitude": 107.6,
+    "magnitude": 3.3,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 27 km tenggara Kab. Bandung",
+    "feltOnStations": "III - IV Pangalengan, III - IV Ciwidey, III - IV Kertasari, III Pasirwangi",
+    "bmkgEarthquakeId": "20260821011835",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260821011835.mmi.jpg",
+    "fingerprintSha1": "121e17123303917d1f8270c0cbd0c03b05b391bd"
   }
 ]
