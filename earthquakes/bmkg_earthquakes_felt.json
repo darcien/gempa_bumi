@@ -40747,5 +40747,17 @@
     "bmkgEarthquakeId": "20260821081805",
     "shakeMapUrl": "https://static.bmkg.go.id/20260821081805.mmi.jpg",
     "fingerprintSha1": "66848626ee9ab11b04a7e5e400f7a4209b255afc"
+  },
+  {
+    "earthquakeAt": "2026-08-21T09:43:19.000Z",
+    "latitude": -6.98,
+    "longitude": 107.01,
+    "magnitude": 2.8,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 11 km Tenggara Kota Sukabumi",
+    "feltOnStations": "II Sukabumi, II Cireunghas",
+    "bmkgEarthquakeId": "20260821164319",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260821164319.mmi.jpg",
+    "fingerprintSha1": "2223091a2f05bc0e486abf8f4b6c77b217a77ec7"
   }
 ]
