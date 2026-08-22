@@ -40903,5 +40903,17 @@
     "bmkgEarthquakeId": "20260822205221",
     "shakeMapUrl": "https://static.bmkg.go.id/20260822205221.mmi.jpg",
     "fingerprintSha1": "e943da6767dd0abddeceedc70adafc1f4a4d85a2"
+  },
+  {
+    "earthquakeAt": "2026-08-22T19:54:08.000Z",
+    "latitude": -0.3,
+    "longitude": 123.06,
+    "magnitude": 5.4,
+    "depthInKm": 86,
+    "locationInIndonesian": "Pusat gempa berada di laut 57 km timur laut PULAUPUAH",
+    "feltOnStations": "III-IV Luwuk, II-III Kab. Gorontalo",
+    "bmkgEarthquakeId": "20260823025408",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260823025408.mmi.jpg",
+    "fingerprintSha1": "2bf5a53f26539a00382ac570f09d05462cae6cce"
   }
 ]
