@@ -40911,7 +40911,7 @@
     "magnitude": 5.4,
     "depthInKm": 86,
     "locationInIndonesian": "Pusat gempa berada di laut 57 km timur laut PULAUPUAH",
-    "feltOnStations": "III-IV Luwuk, II-III Kab. Gorontalo",
+    "feltOnStations": "III-IV Luwuk, II-III Kab. Gorontalo, II-III Kab. Bone Bolango",
     "bmkgEarthquakeId": "20260823025408",
     "shakeMapUrl": "https://static.bmkg.go.id/20260823025408.mmi.jpg",
     "fingerprintSha1": "2bf5a53f26539a00382ac570f09d05462cae6cce"
