@@ -40819,5 +40819,17 @@
     "bmkgEarthquakeId": "20260822030404",
     "shakeMapUrl": "https://static.bmkg.go.id/20260822030404.mmi.jpg",
     "fingerprintSha1": "86416d480f6eb34a4d9206c83396115b75adb6e7"
+  },
+  {
+    "earthquakeAt": "2026-08-22T01:31:00.000Z",
+    "latitude": -8.03,
+    "longitude": 120.68,
+    "magnitude": 5.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 68 km timur laut Ruteng-Manggarai",
+    "feltOnStations": "III Kab. Sikka",
+    "bmkgEarthquakeId": "20260822083100",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260822083100.mmi.jpg",
+    "fingerprintSha1": "ade072d82eff38842acf9e38a9980aecd1499614"
   }
 ]
