@@ -40831,5 +40831,29 @@
     "bmkgEarthquakeId": "20260822083100",
     "shakeMapUrl": "https://static.bmkg.go.id/20260822083100.mmi.jpg",
     "fingerprintSha1": "ade072d82eff38842acf9e38a9980aecd1499614"
+  },
+  {
+    "earthquakeAt": "2026-08-22T06:21:57.000Z",
+    "latitude": -8.31,
+    "longitude": 120.55,
+    "magnitude": 3.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 35 km utara Ruteng, Manggarai",
+    "feltOnStations": "III Kab. Manggarai",
+    "bmkgEarthquakeId": "20260822132157",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260822132157.mmi.jpg",
+    "fingerprintSha1": "190af3fb9ecb9cc09a2d979a45c2eaef8688ab45"
+  },
+  {
+    "earthquakeAt": "2026-08-22T05:55:00.000Z",
+    "latitude": 0.37,
+    "longitude": 127.37,
+    "magnitude": 2.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 34 km selatan Tidore",
+    "feltOnStations": "III Pulau Makian",
+    "bmkgEarthquakeId": "20260822125500",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260822125500.mmi.jpg",
+    "fingerprintSha1": "70fb3a4b1665ded1a47f2592d9dd5d85886eee73"
   }
 ]
