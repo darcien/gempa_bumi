@@ -40939,5 +40939,53 @@
     "bmkgEarthquakeId": "20260823104126",
     "shakeMapUrl": "https://static.bmkg.go.id/20260823104126.mmi.jpg",
     "fingerprintSha1": "0ca33c804b8a4ba32740bb7cc7f6a816e9c5cf23"
+  },
+  {
+    "earthquakeAt": "2026-08-23T13:16:08.000Z",
+    "latitude": -8.4,
+    "longitude": 123.09,
+    "magnitude": 1.9,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat, 17 km Tenggara Larantuka",
+    "feltOnStations": "II Kab. Flores Timur",
+    "bmkgEarthquakeId": "20260823201608",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260823201608.mmi.jpg",
+    "fingerprintSha1": "fd4396f0ec421ce00bf6e4ad8c0ba1daf5bef5fb"
+  },
+  {
+    "earthquakeAt": "2026-08-23T13:03:12.000Z",
+    "latitude": -8.34,
+    "longitude": 121.45,
+    "magnitude": 4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 40 km timur laut Mbay-Nagekeo",
+    "feltOnStations": "II Kab. Sikka",
+    "bmkgEarthquakeId": "20260823200312",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260823200312.mmi.jpg",
+    "fingerprintSha1": "399ec2eafc502115445be4cdd6af9a70d4577645"
+  },
+  {
+    "earthquakeAt": "2026-08-23T12:45:32.000Z",
+    "latitude": -8.4,
+    "longitude": 123.09,
+    "magnitude": 2.6,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di laut 17 km tenggara Larantuka",
+    "feltOnStations": "II-III Kab. Flores Timur",
+    "bmkgEarthquakeId": "20260823194532",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260823194532.mmi.jpg",
+    "fingerprintSha1": "7f10a8a0742c2e9dfe551cd706d0f69b3962a90e"
+  },
+  {
+    "earthquakeAt": "2026-08-23T12:43:19.000Z",
+    "latitude": -8.13,
+    "longitude": 120.53,
+    "magnitude": 3.8,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di laut 54 km utara Ruteng - Manggarai",
+    "feltOnStations": "IV Kab. Manggarai",
+    "bmkgEarthquakeId": "20260823194319",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260823194319.mmi.jpg",
+    "fingerprintSha1": "6706088ea7b8e16b2469c250239a386fcedba1b0"
   }
 ]
