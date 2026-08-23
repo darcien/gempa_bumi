@@ -40987,5 +40987,17 @@
     "bmkgEarthquakeId": "20260823194319",
     "shakeMapUrl": "https://static.bmkg.go.id/20260823194319.mmi.jpg",
     "fingerprintSha1": "6706088ea7b8e16b2469c250239a386fcedba1b0"
+  },
+  {
+    "earthquakeAt": "2026-08-23T20:35:11.000Z",
+    "latitude": -8.72,
+    "longitude": 120.53,
+    "magnitude": 3.4,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km Barat Borong",
+    "feltOnStations": "III Kab. Manggarai",
+    "bmkgEarthquakeId": "20260824033511",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260824033511.mmi.jpg",
+    "fingerprintSha1": "5654be538fa765e95e2b9a63926a38a6b3092b01"
   }
 ]
