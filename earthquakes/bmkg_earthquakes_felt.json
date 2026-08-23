@@ -40927,5 +40927,17 @@
     "bmkgEarthquakeId": "20260823080409",
     "shakeMapUrl": "https://static.bmkg.go.id/20260823080409.mmi.jpg",
     "fingerprintSha1": "8c1de18f9953ae697051da10a1dc7e4ae24fb63d"
+  },
+  {
+    "earthquakeAt": "2026-08-23T03:41:26.000Z",
+    "latitude": -8.26,
+    "longitude": 120.59,
+    "magnitude": 4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 42 km Utara Ruteng-Manggarai",
+    "feltOnStations": "III-IV Kab. Manggarai",
+    "bmkgEarthquakeId": "20260823104126",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260823104126.mmi.jpg",
+    "fingerprintSha1": "0ca33c804b8a4ba32740bb7cc7f6a816e9c5cf23"
   }
 ]
