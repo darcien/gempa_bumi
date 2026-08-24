@@ -41047,5 +41047,29 @@
     "bmkgEarthquakeId": "20260824042018",
     "shakeMapUrl": "https://static.bmkg.go.id/20260824042018.mmi.jpg",
     "fingerprintSha1": "474fd3a0e593e3effbed9dd1704a416026d7577c"
+  },
+  {
+    "earthquakeAt": "2026-08-24T01:12:59.000Z",
+    "latitude": -8.17,
+    "longitude": 120.49,
+    "magnitude": 4.6,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di laut, 49 km Utara Ruteng, Manggarai",
+    "feltOnStations": "III Kab. Manggarai",
+    "bmkgEarthquakeId": "20260824081259",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260824081259.mmi.jpg",
+    "fingerprintSha1": "484ea6b8a4d74a9169315969b9dfac5dfa4a3960"
+  },
+  {
+    "earthquakeAt": "2026-08-23T23:29:39.000Z",
+    "latitude": -8.3,
+    "longitude": 107.86,
+    "magnitude": 4.1,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 96 km Barat Daya Kab. Pangandaran",
+    "feltOnStations": "II-III Cigedug, II-III Singaparna, II-III Pangandaran, II Cimaung, II Cianjur Selatan",
+    "bmkgEarthquakeId": "20260824062939",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260824062939.mmi.jpg",
+    "fingerprintSha1": "e264fb3c9b1b9c6a56d886c3ceb8fe1a4ae2a282"
   }
 ]
