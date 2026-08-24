@@ -41071,5 +41071,29 @@
     "bmkgEarthquakeId": "20260824062939",
     "shakeMapUrl": "https://static.bmkg.go.id/20260824062939.mmi.jpg",
     "fingerprintSha1": "e264fb3c9b1b9c6a56d886c3ceb8fe1a4ae2a282"
+  },
+  {
+    "earthquakeAt": "2026-08-24T06:22:02.000Z",
+    "latitude": -8.32,
+    "longitude": 120.61,
+    "magnitude": 4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 36 km Timur Laut Ruteng - Manggarai",
+    "feltOnStations": "II Kab. Manggarai",
+    "bmkgEarthquakeId": "20260824132202",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260824132202.mmi.jpg",
+    "fingerprintSha1": "bd8619b1acaa387d3673fa75d8a281b394367170"
+  },
+  {
+    "earthquakeAt": "2026-08-24T05:34:50.000Z",
+    "latitude": -2.5,
+    "longitude": 120.92,
+    "magnitude": 4.3,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 26 km Barat Laut Luwu Timur",
+    "feltOnStations": "III-IV Malili, III-IV Towuti, III-IV Tomoni, III Kalaena",
+    "bmkgEarthquakeId": "20260824123450",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260824123450.mmi.jpg",
+    "fingerprintSha1": "b532868a3afd12d302b940738f71ef68ae17c46f"
   }
 ]
