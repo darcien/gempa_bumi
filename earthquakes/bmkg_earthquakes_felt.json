@@ -41107,5 +41107,17 @@
     "bmkgEarthquakeId": "20260824170300",
     "shakeMapUrl": "https://static.bmkg.go.id/20260824170300.mmi.jpg",
     "fingerprintSha1": "d549c66beab64689f296f6a299548b86ae22e5f5"
+  },
+  {
+    "earthquakeAt": "2026-08-24T14:10:18.000Z",
+    "latitude": -6.67,
+    "longitude": 127.45,
+    "magnitude": 6.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 168 km barat laut Maluku Barat Daya",
+    "feltOnStations": "III-IV Romang",
+    "bmkgEarthquakeId": "20260824211018",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260824211018.mmi.jpg",
+    "fingerprintSha1": "7ae4a259c66baa1ad94fcae79cdcdf723226b439"
   }
 ]
