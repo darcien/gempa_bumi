@@ -41155,5 +41155,17 @@
     "bmkgEarthquakeId": "20260826005913",
     "shakeMapUrl": "https://static.bmkg.go.id/20260826005913.mmi.jpg",
     "fingerprintSha1": "544eb9cc0fd1b325ef6c2aedced4df4f0586047b"
+  },
+  {
+    "earthquakeAt": "2026-08-25T11:29:46.000Z",
+    "latitude": -3.7,
+    "longitude": 127.34,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 46 km Barat Buru Selatan",
+    "feltOnStations": "II-III Pulau Manipa",
+    "bmkgEarthquakeId": "20260825182946",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260825182946.mmi.jpg",
+    "fingerprintSha1": "805baff6bd666a38b1e86c3f1e141cbe87b2398a"
   }
 ]
