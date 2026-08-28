@@ -41311,5 +41311,29 @@
     "bmkgEarthquakeId": "20260827214632",
     "shakeMapUrl": "https://static.bmkg.go.id/20260827214632.mmi.jpg",
     "fingerprintSha1": "2489555ef80f7366ed583b046bb37b22187ff124"
+  },
+  {
+    "earthquakeAt": "2026-08-28T16:50:43.000Z",
+    "latitude": -4.35,
+    "longitude": 139.65,
+    "magnitude": 4,
+    "depthInKm": 118,
+    "locationInIndonesian": "Pusat gempa berada di darat 59 km Utara Yahukimo",
+    "feltOnStations": "II Jayawijaya",
+    "bmkgEarthquakeId": "20260828235043",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260828235043.mmi.jpg",
+    "fingerprintSha1": "85557fdc97083efbbd4b73d8b3b8b75203e6aff4"
+  },
+  {
+    "earthquakeAt": "2026-08-28T11:38:56.000Z",
+    "latitude": 3.81,
+    "longitude": 116.28,
+    "magnitude": 2.8,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km Utara Malinau",
+    "feltOnStations": "II-III Krayan, Kab. Nunukan",
+    "bmkgEarthquakeId": "20260828183856",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260828183856.mmi.jpg",
+    "fingerprintSha1": "0e635a68024af50e0c841b81e548957961d142dc"
   }
 ]
