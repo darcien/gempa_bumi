@@ -41335,5 +41335,29 @@
     "bmkgEarthquakeId": "20260828183856",
     "shakeMapUrl": "https://static.bmkg.go.id/20260828183856.mmi.jpg",
     "fingerprintSha1": "0e635a68024af50e0c841b81e548957961d142dc"
+  },
+  {
+    "earthquakeAt": "2026-08-29T00:50:06.000Z",
+    "latitude": -7.27,
+    "longitude": 109.65,
+    "magnitude": 2.5,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km barat laut Banjarnegara",
+    "feltOnStations": "II Banjarnegara",
+    "bmkgEarthquakeId": "20260829075006",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260829075006.mmi.jpg",
+    "fingerprintSha1": "4043934a4f7dac4d29f91d2e1173ccd475830fcf"
+  },
+  {
+    "earthquakeAt": "2026-08-28T21:45:45.000Z",
+    "latitude": -8.1,
+    "longitude": 120.76,
+    "magnitude": 4.2,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di laut 66 km Timur Laut RUTENG-MANGGARAI",
+    "feltOnStations": "III Kab. Manggarai",
+    "bmkgEarthquakeId": "20260829044545",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260829044545.mmi.jpg",
+    "fingerprintSha1": "e386fcbd271cd761a1857e492579754c63790b5a"
   }
 ]
