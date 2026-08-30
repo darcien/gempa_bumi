@@ -41395,5 +41395,29 @@
     "bmkgEarthquakeId": "20260829204615",
     "shakeMapUrl": "https://static.bmkg.go.id/20260829204615.mmi.jpg",
     "fingerprintSha1": "1b6a0c245fdfbcc99afe1b2339be94e53cd2fa11"
+  },
+  {
+    "earthquakeAt": "2026-08-30T02:54:08.000Z",
+    "latitude": -7.27,
+    "longitude": 109.64,
+    "magnitude": 2.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km barat laut Banjarnegara",
+    "feltOnStations": "II Pandanarum, II Punggelan",
+    "bmkgEarthquakeId": "20260830095408",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260830095408.mmi.jpg",
+    "fingerprintSha1": "5d359f2dad5fe9b2f01bf9a8b7a792430f3d2e19"
+  },
+  {
+    "earthquakeAt": "2026-08-30T01:23:19.000Z",
+    "latitude": -8.31,
+    "longitude": 120.54,
+    "magnitude": 3.7,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 35 km utara Ruteng - Manggarai",
+    "feltOnStations": "II Kab. Manggarai",
+    "bmkgEarthquakeId": "20260830082319",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260830082319.mmi.jpg",
+    "fingerprintSha1": "0e607b5050106886b57c48cf6a05bbf0cebddcde"
   }
 ]
