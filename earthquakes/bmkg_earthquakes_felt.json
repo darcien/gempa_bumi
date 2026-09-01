@@ -41575,5 +41575,17 @@
     "bmkgEarthquakeId": "20260901115009",
     "shakeMapUrl": "https://static.bmkg.go.id/20260901115009.mmi.jpg",
     "fingerprintSha1": "859aa2c39e735813ed2c9df187c0dc613869eb54"
+  },
+  {
+    "earthquakeAt": "2026-09-01T10:53:10.000Z",
+    "latitude": -6.93,
+    "longitude": 107.1,
+    "magnitude": 4.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 13 km Selatan Kabupaten Cianjur",
+    "feltOnStations": "III-IV Cianjur, II-III Kota Sukabumi, II-III Cibadak, II-III Nagrak, II-III Warung Kondang, II Cibubur, II Kota Bandung, II Sukaraja",
+    "bmkgEarthquakeId": "20260901175310",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260901175310.mmi.jpg",
+    "fingerprintSha1": "2d9efb2cb78e389a387eea9e3903365559378b62"
   }
 ]
