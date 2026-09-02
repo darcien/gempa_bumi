@@ -41611,5 +41611,17 @@
     "bmkgEarthquakeId": "20260902011146",
     "shakeMapUrl": "https://static.bmkg.go.id/20260902011146.mmi.jpg",
     "fingerprintSha1": "16fa99e92c642e1ef00d484751f191dc2d3a30b8"
+  },
+  {
+    "earthquakeAt": "2026-09-02T00:04:55.000Z",
+    "latitude": -3.15,
+    "longitude": 139.41,
+    "magnitude": 5.5,
+    "depthInKm": 100,
+    "locationInIndonesian": "Pusat gempa berada di darat 69 km Timur Laut Kobagma",
+    "feltOnStations": "II-III Jayapura, II-III Wamena, II Yakuhimo",
+    "bmkgEarthquakeId": "20260902070455",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260902070455.mmi.jpg",
+    "fingerprintSha1": "15bfe9f06421ab7aeae97408a8b1a15fcf4bb4eb"
   }
 ]
