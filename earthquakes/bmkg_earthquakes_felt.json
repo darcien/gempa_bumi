@@ -41659,5 +41659,17 @@
     "bmkgEarthquakeId": "20260902185656",
     "shakeMapUrl": "https://static.bmkg.go.id/20260902185656.mmi.jpg",
     "fingerprintSha1": "671fec891f8be8cf030238040aedec54176af223"
+  },
+  {
+    "earthquakeAt": "2026-09-02T20:52:36.000Z",
+    "latitude": -9,
+    "longitude": 111.28,
+    "magnitude": 4.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 94 km selatan Pacitan",
+    "feltOnStations": "III Pacitan, II Lumajang, II Blitar, II Malang, II Tulungagung",
+    "bmkgEarthquakeId": "20260903035236",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260903035236.mmi.jpg",
+    "fingerprintSha1": "9ed07504ebb26a54af99f06260879bdb71fc4bd7"
   }
 ]
