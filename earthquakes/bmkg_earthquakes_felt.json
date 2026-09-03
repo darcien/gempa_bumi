@@ -41719,5 +41719,41 @@
     "bmkgEarthquakeId": "20260903202503",
     "shakeMapUrl": "https://static.bmkg.go.id/20260903202503.mmi.jpg",
     "fingerprintSha1": "fd1779c3d9f3436e788aed322cb27082ff1a85f7"
+  },
+  {
+    "earthquakeAt": "2026-09-03T22:36:16.000Z",
+    "latitude": -8.2,
+    "longitude": 120.55,
+    "magnitude": 4.3,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 47 km utara Ruteng-Manggarai",
+    "feltOnStations": "II Kab. Manggarai",
+    "bmkgEarthquakeId": "20260904053616",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260904053616.mmi.jpg",
+    "fingerprintSha1": "50d71c8d1719fecf0daeef3677004895dd23dfa8"
+  },
+  {
+    "earthquakeAt": "2026-09-03T21:05:15.000Z",
+    "latitude": 0.63,
+    "longitude": 122.04,
+    "magnitude": 4.1,
+    "depthInKm": 74,
+    "locationInIndonesian": "Pusat gempa berada didarat 21km TimurLaut Pohuwato",
+    "feltOnStations": "II-III Kab.Gorontalo, III Kota.Gorontalo, III Kab.Pohuwato",
+    "bmkgEarthquakeId": "20260904040515",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260904040515.mmi.jpg",
+    "fingerprintSha1": "1876319c65abe374aee944e6d330d796871e21fe"
+  },
+  {
+    "earthquakeAt": "2026-09-03T21:00:11.000Z",
+    "latitude": -8.33,
+    "longitude": 121.58,
+    "magnitude": 4.6,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada dilaut 48 km Timur Laut Mbay-Nagekeo",
+    "feltOnStations": "II Kab.Sikka, III Kab.Nagekeo",
+    "bmkgEarthquakeId": "20260904040011",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260904040011.mmi.jpg",
+    "fingerprintSha1": "7faf501bba0f56b2afc0466a95cdad49207809d8"
   }
 ]
