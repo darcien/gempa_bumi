@@ -41791,5 +41791,17 @@
     "bmkgEarthquakeId": "20260904172027",
     "shakeMapUrl": "https://static.bmkg.go.id/20260904172027.mmi.jpg",
     "fingerprintSha1": "d6809512080b9a6b08d43f71591c28c0cc39d600"
+  },
+  {
+    "earthquakeAt": "2026-09-04T16:24:40.000Z",
+    "latitude": 1.2,
+    "longitude": 98.93,
+    "magnitude": 4.9,
+    "depthInKm": 75,
+    "locationInIndonesian": "Pusat gempa berada di darat 43 km barat daya Padang Sidempuan",
+    "feltOnStations": "III Pandan Tapanuli Tengah, III Gunung Sitoli",
+    "bmkgEarthquakeId": "20260904232440",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260904232440.mmi.jpg",
+    "fingerprintSha1": "ea7dc7667cf3ebf5bf16dc574c413281c276cd1c"
   }
 ]
