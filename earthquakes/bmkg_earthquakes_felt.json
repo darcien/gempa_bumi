@@ -41755,5 +41755,17 @@
     "bmkgEarthquakeId": "20260904040011",
     "shakeMapUrl": "https://static.bmkg.go.id/20260904040011.mmi.jpg",
     "fingerprintSha1": "7faf501bba0f56b2afc0466a95cdad49207809d8"
+  },
+  {
+    "earthquakeAt": "2026-09-04T05:04:59.000Z",
+    "latitude": -8.42,
+    "longitude": 109.02,
+    "magnitude": 5.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 77 km tenggara Cilacap",
+    "feltOnStations": "III Kebumen, III Bantul, III Cilacap, III Kulonprogo, II-III Pangandaran, II Sleman, II Pacitan, III Purwokerto, II Wonogiri",
+    "bmkgEarthquakeId": "20260904120459",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260904120459.mmi.jpg",
+    "fingerprintSha1": "e0b3580639786c27adbf9720268dece6020e9313"
   }
 ]
