@@ -41767,5 +41767,29 @@
     "bmkgEarthquakeId": "20260904120459",
     "shakeMapUrl": "https://static.bmkg.go.id/20260904120459.mmi.jpg",
     "fingerprintSha1": "e0b3580639786c27adbf9720268dece6020e9313"
+  },
+  {
+    "earthquakeAt": "2026-09-04T13:13:46.000Z",
+    "latitude": -8.39,
+    "longitude": 121.53,
+    "magnitude": 4.1,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di laut 40 km Timur Laut Mbay, Nagekeo",
+    "feltOnStations": "II-III Kab. Sikka",
+    "bmkgEarthquakeId": "20260904201346",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260904201346.mmi.jpg",
+    "fingerprintSha1": "46e95d733c92523f776b0dea70b9928687b26c28"
+  },
+  {
+    "earthquakeAt": "2026-09-04T10:20:27.000Z",
+    "latitude": 3.11,
+    "longitude": 117.41,
+    "magnitude": 3.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 34 km Barat Daya Tarakan",
+    "feltOnStations": "II-III Kota Tarakan",
+    "bmkgEarthquakeId": "20260904172027",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260904172027.mmi.jpg",
+    "fingerprintSha1": "d6809512080b9a6b08d43f71591c28c0cc39d600"
   }
 ]
