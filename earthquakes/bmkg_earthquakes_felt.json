@@ -41851,5 +41851,29 @@
     "bmkgEarthquakeId": "20260905175915",
     "shakeMapUrl": "https://static.bmkg.go.id/20260905175915.mmi.jpg",
     "fingerprintSha1": "4c28a29e13432bc21f01db07228a8e144b9d5869"
+  },
+  {
+    "earthquakeAt": "2026-09-05T14:06:05.000Z",
+    "latitude": 1.05,
+    "longitude": 98.41,
+    "magnitude": 4.7,
+    "depthInKm": 28,
+    "locationInIndonesian": "Pusat gempa berada di laut 80 km timur Nias",
+    "feltOnStations": "II Panyabungan, Mandailing Natal",
+    "bmkgEarthquakeId": "20260905210605",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260905210605.mmi.jpg",
+    "fingerprintSha1": "b4dcc07ec17fbced5f2e253d2196fc516f441a4a"
+  },
+  {
+    "earthquakeAt": "2026-09-05T12:35:02.000Z",
+    "latitude": -8.08,
+    "longitude": 120.7,
+    "magnitude": 4.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 65 km timur laut Ruteng-Manggarai",
+    "feltOnStations": "II Kab. Manggarai",
+    "bmkgEarthquakeId": "20260905193502",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260905193502.mmi.jpg",
+    "fingerprintSha1": "c1e5bf6474ca35f5db97c8ac03ce2c27f5b7ba9a"
   }
 ]
