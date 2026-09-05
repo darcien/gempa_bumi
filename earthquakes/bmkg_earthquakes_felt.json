@@ -41815,5 +41815,29 @@
     "bmkgEarthquakeId": "20260905061746",
     "shakeMapUrl": "https://static.bmkg.go.id/20260905061746.mmi.jpg",
     "fingerprintSha1": "16fc4614ec0ef5eff74cd387d3efd102c819918f"
+  },
+  {
+    "earthquakeAt": "2026-09-05T09:09:28.000Z",
+    "latitude": -8.2,
+    "longitude": 120.61,
+    "magnitude": 4.2,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di laut 49 km utara Ruteng, Manggarai",
+    "feltOnStations": "III Kab. Manggarai",
+    "bmkgEarthquakeId": "20260905160928",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260905160928.mmi.jpg",
+    "fingerprintSha1": "fea9b30d2cb6b2b73eb809dd2876a6fc2cfc32a4"
+  },
+  {
+    "earthquakeAt": "2026-09-05T06:34:49.000Z",
+    "latitude": -0.29,
+    "longitude": 123.18,
+    "magnitude": 4.3,
+    "depthInKm": 124,
+    "locationInIndonesian": "Pusat gempa berada di laut 92 km Selatan Bone Bolango",
+    "feltOnStations": "II-III Luwuk",
+    "bmkgEarthquakeId": "20260905133449",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260905133449.mmi.jpg",
+    "fingerprintSha1": "c51fe703d1306a973a2300c6ee2e4b3210b78253"
   }
 ]
