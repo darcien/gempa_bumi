@@ -41839,5 +41839,17 @@
     "bmkgEarthquakeId": "20260905133449",
     "shakeMapUrl": "https://static.bmkg.go.id/20260905133449.mmi.jpg",
     "fingerprintSha1": "c51fe703d1306a973a2300c6ee2e4b3210b78253"
+  },
+  {
+    "earthquakeAt": "2026-09-05T10:59:15.000Z",
+    "latitude": -4.53,
+    "longitude": 102.56,
+    "magnitude": 4.9,
+    "depthInKm": 21,
+    "locationInIndonesian": "Pusat gempa berada di laut 40 km Barat Bengkulu Selatan",
+    "feltOnStations": "III Kota Bengkulu, III Enggano, II Bengkulu Selatan, II Kepahiang, II Curup",
+    "bmkgEarthquakeId": "20260905175915",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260905175915.mmi.jpg",
+    "fingerprintSha1": "4c28a29e13432bc21f01db07228a8e144b9d5869"
   }
 ]
