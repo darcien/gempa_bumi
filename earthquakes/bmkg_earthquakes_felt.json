@@ -41887,5 +41887,17 @@
     "bmkgEarthquakeId": "20260906090637",
     "shakeMapUrl": "https://static.bmkg.go.id/20260906090637.mmi.jpg",
     "fingerprintSha1": "1e410cd7829b68103a4849aea03254fa8725c870"
+  },
+  {
+    "earthquakeAt": "2026-09-06T06:41:25.000Z",
+    "latitude": -0.38,
+    "longitude": 123.13,
+    "magnitude": 4.9,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di laut 74 km timur laut Banggai",
+    "feltOnStations": "II - III Luwuk",
+    "bmkgEarthquakeId": "20260906134125",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260906134125.mmi.jpg",
+    "fingerprintSha1": "c24e1408aea19fbbbecae7eb372acb50fb5080d5"
   }
 ]
