@@ -41875,5 +41875,17 @@
     "bmkgEarthquakeId": "20260905193502",
     "shakeMapUrl": "https://static.bmkg.go.id/20260905193502.mmi.jpg",
     "fingerprintSha1": "c1e5bf6474ca35f5db97c8ac03ce2c27f5b7ba9a"
+  },
+  {
+    "earthquakeAt": "2026-09-06T02:06:37.000Z",
+    "latitude": -7.73,
+    "longitude": 107.34,
+    "magnitude": 4.2,
+    "depthInKm": 58,
+    "locationInIndonesian": "Pusat gempa berada di laut 81 km Selatan Kab Bandung",
+    "feltOnStations": "III Sindangbarang, III Singajaya, III Pamengpeuk, III Rancabuaya, II Pangalengan",
+    "bmkgEarthquakeId": "20260906090637",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260906090637.mmi.jpg",
+    "fingerprintSha1": "1e410cd7829b68103a4849aea03254fa8725c870"
   }
 ]
