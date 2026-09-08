@@ -41959,5 +41959,17 @@
     "bmkgEarthquakeId": "20260908114029",
     "shakeMapUrl": "https://static.bmkg.go.id/20260908114029.mmi.jpg",
     "fingerprintSha1": "e1e7c82aca4d382c389edfae190b48609bd19999"
+  },
+  {
+    "earthquakeAt": "2026-09-08T06:37:52.000Z",
+    "latitude": -5.33,
+    "longitude": 104.55,
+    "magnitude": 2.6,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di darat 22 km Barat Laut Tanggamus",
+    "feltOnStations": "II Ulu Belu",
+    "bmkgEarthquakeId": "20260908133752",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260908133752.mmi.jpg",
+    "fingerprintSha1": "33e0a709b54c3568a80d2dbf795b5417651ab71a"
   }
 ]
