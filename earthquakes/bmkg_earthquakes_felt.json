@@ -42055,5 +42055,17 @@
     "bmkgEarthquakeId": "20260909132130",
     "shakeMapUrl": "https://static.bmkg.go.id/20260909132130.mmi.jpg",
     "fingerprintSha1": "0005cffbe85bae96f7c2747734ba42174b7b67e7"
+  },
+  {
+    "earthquakeAt": "2026-09-09T15:24:41.000Z",
+    "latitude": -0.24,
+    "longitude": 119.85,
+    "magnitude": 3.5,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 21 km utara Donggala",
+    "feltOnStations": "II - III Donggala",
+    "bmkgEarthquakeId": "20260909222441",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260909222441.mmi.jpg",
+    "fingerprintSha1": "08fc4a6c077b499c0a8569a4081bf04a6051495b"
   }
 ]
