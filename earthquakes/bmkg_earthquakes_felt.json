@@ -42007,5 +42007,29 @@
     "bmkgEarthquakeId": "20260909072323",
     "shakeMapUrl": "https://static.bmkg.go.id/20260909072323.mmi.jpg",
     "fingerprintSha1": "abadbfb113733a087c39fe9f3d009e759a5ea855"
+  },
+  {
+    "earthquakeAt": "2026-09-09T05:09:55.000Z",
+    "latitude": -6.9,
+    "longitude": 105.56,
+    "magnitude": 3.8,
+    "depthInKm": 31,
+    "locationInIndonesian": "Pusat gempa berada di laut 27 km selatan Banten",
+    "feltOnStations": "II Sumur",
+    "bmkgEarthquakeId": "20260909120955",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260909120955.mmi.jpg",
+    "fingerprintSha1": "e5b8047f5c4051e18d296b31581db268d72d5a09"
+  },
+  {
+    "earthquakeAt": "2026-09-09T01:04:26.000Z",
+    "latitude": -9.82,
+    "longitude": 119.55,
+    "magnitude": 4.4,
+    "depthInKm": 21,
+    "locationInIndonesian": "Pusat gempa berada di laut 20 km Timur Wanokaka",
+    "feltOnStations": "III Sumba Tengah, II Sumba Barat, II Sumba Barat Daya",
+    "bmkgEarthquakeId": "20260909080426",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260909080426.mmi.jpg",
+    "fingerprintSha1": "d600cf49bdee03774160ea9dde8bfaff95e6776f"
   }
 ]
