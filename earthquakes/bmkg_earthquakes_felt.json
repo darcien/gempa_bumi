@@ -42079,5 +42079,29 @@
     "bmkgEarthquakeId": "20260910160332",
     "shakeMapUrl": "https://static.bmkg.go.id/20260910160332.mmi.jpg",
     "fingerprintSha1": "b1cbb28d1868d0de7eee402b7e43f4743c578865"
+  },
+  {
+    "earthquakeAt": "2026-09-10T13:54:13.000Z",
+    "latitude": -2.57,
+    "longitude": 140.45,
+    "magnitude": 3.7,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di darat 4 km Barat Daya Sentani",
+    "feltOnStations": "III Kota Jayapura, III Kab. Jayapura",
+    "bmkgEarthquakeId": "20260910205413",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260910205413.mmi.jpg",
+    "fingerprintSha1": "4e3070380040642ed047fa8019a42f242a303440"
+  },
+  {
+    "earthquakeAt": "2026-09-10T13:41:37.000Z",
+    "latitude": -8.49,
+    "longitude": 120.46,
+    "magnitude": 2.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 14 km Utara Ruteng, Manggarai",
+    "feltOnStations": "II-III Kab. Manggarai",
+    "bmkgEarthquakeId": "20260910204137",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260910204137.mmi.jpg",
+    "fingerprintSha1": "da03d77588fb951cc665d80129a71dd426c081ec"
   }
 ]
