@@ -42067,5 +42067,17 @@
     "bmkgEarthquakeId": "20260909222441",
     "shakeMapUrl": "https://static.bmkg.go.id/20260909222441.mmi.jpg",
     "fingerprintSha1": "08fc4a6c077b499c0a8569a4081bf04a6051495b"
+  },
+  {
+    "earthquakeAt": "2026-09-10T09:03:32.000Z",
+    "latitude": -7.3,
+    "longitude": 109.63,
+    "magnitude": 2.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km barat laut Banjarnegara",
+    "feltOnStations": "III Punggelan, III Pandanarum, III Kalibening, II-III Sidamulya, II-III Karangkobar, II-III Pasegeran",
+    "bmkgEarthquakeId": "20260910160332",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260910160332.mmi.jpg",
+    "fingerprintSha1": "b1cbb28d1868d0de7eee402b7e43f4743c578865"
   }
 ]
