@@ -42163,5 +42163,17 @@
     "bmkgEarthquakeId": "20260911185624",
     "shakeMapUrl": "https://static.bmkg.go.id/20260911185624.mmi.jpg",
     "fingerprintSha1": "61b75e49ce3b7d34c1943442b1e35038e0e44b88"
+  },
+  {
+    "earthquakeAt": "2026-09-11T19:43:01.000Z",
+    "latitude": -7.26,
+    "longitude": 109.91,
+    "magnitude": 3.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 Km utara Wonosobo",
+    "feltOnStations": "II Batang , II-III Dieng, II-III Banjarnegara, III Wanayasa, III Wonosobo",
+    "bmkgEarthquakeId": "20260912024301",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260912024301.mmi.jpg",
+    "fingerprintSha1": "31fe1ca8eb8495f81e111b5e2cca23112ca67c1c"
   }
 ]
