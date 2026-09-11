@@ -42139,5 +42139,29 @@
     "bmkgEarthquakeId": "20260911130053",
     "shakeMapUrl": "https://static.bmkg.go.id/20260911130053.mmi.jpg",
     "fingerprintSha1": "71d3aeb5c72a86504f5910b2bc979f75e43d3302"
+  },
+  {
+    "earthquakeAt": "2026-09-11T13:08:11.000Z",
+    "latitude": -0.56,
+    "longitude": 99.84,
+    "magnitude": 3.8,
+    "depthInKm": 70,
+    "locationInIndonesian": "Pusat gempa berada di laut, 34 km barat Pariaman",
+    "feltOnStations": "II Padang, II Pariaman",
+    "bmkgEarthquakeId": "20260911200811",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260911200811.mmi.jpg",
+    "fingerprintSha1": "d92f2d35d67a95a77937c3979877829376b7714a"
+  },
+  {
+    "earthquakeAt": "2026-09-11T11:56:24.000Z",
+    "latitude": -7.44,
+    "longitude": 129.11,
+    "magnitude": 6.2,
+    "depthInKm": 143,
+    "locationInIndonesian": "Pusat gempa berada di laut 166 km timur laut Maluku Barat Daya",
+    "feltOnStations": "III Tiakur",
+    "bmkgEarthquakeId": "20260911185624",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260911185624.mmi.jpg",
+    "fingerprintSha1": "61b75e49ce3b7d34c1943442b1e35038e0e44b88"
   }
 ]
