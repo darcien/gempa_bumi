@@ -42175,5 +42175,17 @@
     "bmkgEarthquakeId": "20260912024301",
     "shakeMapUrl": "https://static.bmkg.go.id/20260912024301.mmi.jpg",
     "fingerprintSha1": "31fe1ca8eb8495f81e111b5e2cca23112ca67c1c"
+  },
+  {
+    "earthquakeAt": "2026-09-11T21:23:56.000Z",
+    "latitude": -5.81,
+    "longitude": 106.56,
+    "magnitude": 5.9,
+    "depthInKm": 376,
+    "locationInIndonesian": "Pusat gempa berada di laut 49 km barat laut Jakarta",
+    "feltOnStations": "III Cilacap, III Nagrak, III Kalapanunggal, II-III Rancaekek, II-III Lembang, II-III Garut, II-III Bandung, II-III Sukabumi, II-III Cianjur, II-III Yogyakarta, II-III Pacitan, II-III Ponorogo, II-III Malang, II-III Kota Bengkulu, II-III Sumur, II-III Padang, II-III Mentawai, II-III Pariaman, II-III Solok Selatan, II Lemong, II Semaka, II Bengkunat, II Nias Tengah",
+    "bmkgEarthquakeId": "20260912042356",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260912042356.mmi.jpg",
+    "fingerprintSha1": "b8109816ac22a774f75df14cca185baa2b6bc31b"
   }
 ]
