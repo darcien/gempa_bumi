@@ -42115,5 +42115,17 @@
     "bmkgEarthquakeId": "20260911014443",
     "shakeMapUrl": "https://static.bmkg.go.id/20260911014443.mmi.jpg",
     "fingerprintSha1": "c6ced0c252a4bc43df2aa15d930f6a11b0b35b19"
+  },
+  {
+    "earthquakeAt": "2026-09-11T00:53:46.000Z",
+    "latitude": -0.32,
+    "longitude": 119.82,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 40 km utara Donggala",
+    "feltOnStations": "III-IV Donggala, II-III Palu, II-III Sigi",
+    "bmkgEarthquakeId": "20260911075346",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260911075346.mmi.jpg",
+    "fingerprintSha1": "2a44110111c28e5f153233e26931cba4806944f9"
   }
 ]
