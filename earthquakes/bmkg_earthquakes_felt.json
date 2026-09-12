@@ -42211,5 +42211,17 @@
     "bmkgEarthquakeId": "20260912133442",
     "shakeMapUrl": "https://static.bmkg.go.id/20260912133442.mmi.jpg",
     "fingerprintSha1": "38f28e0e0fed96d3d8c0da16795f7e7654e4f0f7"
+  },
+  {
+    "earthquakeAt": "2026-09-12T13:05:59.000Z",
+    "latitude": -8.96,
+    "longitude": 116.84,
+    "magnitude": 2.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 23 km Selatan Sumbawa Barat",
+    "feltOnStations": "III Sumbawa Barat",
+    "bmkgEarthquakeId": "20260912200559",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260912200559.mmi.jpg",
+    "fingerprintSha1": "52e15cbda892c27ea70a3802a3f2275319812708"
   }
 ]
