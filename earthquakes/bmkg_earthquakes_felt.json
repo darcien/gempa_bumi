@@ -42235,5 +42235,17 @@
     "bmkgEarthquakeId": "20260912204216",
     "shakeMapUrl": "https://static.bmkg.go.id/20260912204216.mmi.jpg",
     "fingerprintSha1": "55b951aa8aca0177b735311e5fdd4bc605725809"
+  },
+  {
+    "earthquakeAt": "2026-09-13T03:14:42.000Z",
+    "latitude": -8.3,
+    "longitude": 121.52,
+    "magnitude": 4.7,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di laut 48 km Timur laut Mbay, Nagekeo",
+    "feltOnStations": "II-III Kab. Nagekeo, II-III Kab. Sikka, II Kab. Manggarai",
+    "bmkgEarthquakeId": "20260913101442",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260913101442.mmi.jpg",
+    "fingerprintSha1": "6e8e4a6b8b3e13f2fa3c48aae34ad9680b96344e"
   }
 ]
