@@ -42247,5 +42247,29 @@
     "bmkgEarthquakeId": "20260913101442",
     "shakeMapUrl": "https://static.bmkg.go.id/20260913101442.mmi.jpg",
     "fingerprintSha1": "6e8e4a6b8b3e13f2fa3c48aae34ad9680b96344e"
+  },
+  {
+    "earthquakeAt": "2026-09-13T10:06:52.000Z",
+    "latitude": -7.74,
+    "longitude": 106.55,
+    "magnitude": 4.3,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di laut 83 km selatan Kab. Sukabumi",
+    "feltOnStations": "III Kab. Cianjur, II Kab. Sukabumi, II Kab. Bandung Barat",
+    "bmkgEarthquakeId": "20260913170652",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260913170652.mmi.jpg",
+    "fingerprintSha1": "aa1cba2df481d23cfc2a16b7a3e0069ffdd51df1"
+  },
+  {
+    "earthquakeAt": "2026-09-13T09:02:01.000Z",
+    "latitude": -8.2,
+    "longitude": 120.45,
+    "magnitude": 4,
+    "depthInKm": 25,
+    "locationInIndonesian": "Pusat gempa berada di laut 45 km utara Ruteng-Manggarai",
+    "feltOnStations": "II-III Kab. Manggarai",
+    "bmkgEarthquakeId": "20260913160201",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260913160201.mmi.jpg",
+    "fingerprintSha1": "85a1cafcbad9ed16bb81c625b0e303699d827822"
   }
 ]
