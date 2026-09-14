@@ -42283,5 +42283,17 @@
     "bmkgEarthquakeId": "20260914054005",
     "shakeMapUrl": "https://static.bmkg.go.id/20260914054005.mmi.jpg",
     "fingerprintSha1": "d55d37cd666289afd9b4fe15ccc6692e324866d1"
+  },
+  {
+    "earthquakeAt": "2026-09-14T01:42:08.000Z",
+    "latitude": -9.52,
+    "longitude": 112.85,
+    "magnitude": 5.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 156 km tenggara Kab. Malang",
+    "feltOnStations": "II-III Pacitan, II-III Tulungagung, II-III Blitar, II-III Lumajang, II-III Jember, II-III Kediri, II-III Bondowoso, II-III Batu, II-III Banyuwangi, II Badung",
+    "bmkgEarthquakeId": "20260914084208",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260914084208.mmi.jpg",
+    "fingerprintSha1": "301cc620b3fcb4978fb6e3a95b0c408d3ba4ee26"
   }
 ]
