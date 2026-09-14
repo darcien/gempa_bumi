@@ -42295,5 +42295,17 @@
     "bmkgEarthquakeId": "20260914084208",
     "shakeMapUrl": "https://static.bmkg.go.id/20260914084208.mmi.jpg",
     "fingerprintSha1": "301cc620b3fcb4978fb6e3a95b0c408d3ba4ee26"
+  },
+  {
+    "earthquakeAt": "2026-09-14T10:58:04.000Z",
+    "latitude": 2.52,
+    "longitude": 128.09,
+    "magnitude": 6.2,
+    "depthInKm": 145,
+    "locationInIndonesian": "Pusat gempa berada di laut 42 km TimurLaut Pulau Doi",
+    "feltOnStations": "III-IV Morotai, III Halmahera Utara, III Manado",
+    "bmkgEarthquakeId": "20260914175804",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260914175804.mmi.jpg",
+    "fingerprintSha1": "e206bc98f363c67f84f78c42b8f90ca71467c659"
   }
 ]
