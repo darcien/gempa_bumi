@@ -42367,5 +42367,17 @@
     "bmkgEarthquakeId": "20260916081131",
     "shakeMapUrl": "https://static.bmkg.go.id/20260916081131.mmi.jpg",
     "fingerprintSha1": "ef43d516cf8ecf916bb34c00d305703b61f371a2"
+  },
+  {
+    "earthquakeAt": "2026-09-16T10:14:19.000Z",
+    "latitude": -7.26,
+    "longitude": 107.6,
+    "magnitude": 2.6,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 28 km selatan Kab. Bandung",
+    "feltOnStations": "III Pangalengan",
+    "bmkgEarthquakeId": "20260916171419",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260916171419.mmi.jpg",
+    "fingerprintSha1": "db8106b06fdeb040198d26462eb910ee070b9495"
   }
 ]
