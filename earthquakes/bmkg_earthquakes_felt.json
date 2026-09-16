@@ -42355,5 +42355,17 @@
     "bmkgEarthquakeId": "20260916062132",
     "shakeMapUrl": "https://static.bmkg.go.id/20260916062132.mmi.jpg",
     "fingerprintSha1": "38559a9abc5c8675620b9dbc98198744a557c88f"
+  },
+  {
+    "earthquakeAt": "2026-09-16T01:11:31.000Z",
+    "latitude": -7.22,
+    "longitude": 107.62,
+    "magnitude": 2.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 25 km Tenggara Kabupaten Bandung",
+    "feltOnStations": "III Pangalengan, III Kertasari",
+    "bmkgEarthquakeId": "20260916081131",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260916081131.mmi.jpg",
+    "fingerprintSha1": "ef43d516cf8ecf916bb34c00d305703b61f371a2"
   }
 ]
