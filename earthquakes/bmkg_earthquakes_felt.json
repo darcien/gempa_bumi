@@ -42391,5 +42391,17 @@
     "bmkgEarthquakeId": "20260917045920",
     "shakeMapUrl": "https://static.bmkg.go.id/20260917045920.mmi.jpg",
     "fingerprintSha1": "5ab77a5e5511df02a4ea41455b68b02a9b7ee850"
+  },
+  {
+    "earthquakeAt": "2026-09-16T23:21:05.000Z",
+    "latitude": -7.25,
+    "longitude": 107.61,
+    "magnitude": 2.7,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 27 km selatan Kab. Bandung",
+    "feltOnStations": "III Pangalengan, III Talegong, III Cisewu",
+    "bmkgEarthquakeId": "20260917062105",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260917062105.mmi.jpg",
+    "fingerprintSha1": "49bb4c8d6ee6a8aa4102961afde6699421a2da75"
   }
 ]
