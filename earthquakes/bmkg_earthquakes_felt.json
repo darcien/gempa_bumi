@@ -42403,5 +42403,29 @@
     "bmkgEarthquakeId": "20260917062105",
     "shakeMapUrl": "https://static.bmkg.go.id/20260917062105.mmi.jpg",
     "fingerprintSha1": "49bb4c8d6ee6a8aa4102961afde6699421a2da75"
+  },
+  {
+    "earthquakeAt": "2026-09-17T08:28:28.000Z",
+    "latitude": -8.39,
+    "longitude": 121.28,
+    "magnitude": 4.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 32 km utara Nagekeo",
+    "feltOnStations": "III Kab. Nagekeo",
+    "bmkgEarthquakeId": "20260917152828",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260917152828.mmi.jpg",
+    "fingerprintSha1": "f64e0118f7480fdf95ea7e0647ab3be6b14be113"
+  },
+  {
+    "earthquakeAt": "2026-09-17T06:20:53.000Z",
+    "latitude": 1.35,
+    "longitude": 126.44,
+    "magnitude": 5.1,
+    "depthInKm": 24,
+    "locationInIndonesian": "Pusat gempa berada di laut 118 km BaratLaut Jailolo",
+    "feltOnStations": "III-IV Batang Dua, III Manado , III Ternate",
+    "bmkgEarthquakeId": "20260917132053",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260917132053.mmi.jpg",
+    "fingerprintSha1": "aee42c55e607cb1ea2f273decf1b28cf8a8ebed4"
   }
 ]
