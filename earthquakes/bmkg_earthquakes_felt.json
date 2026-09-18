@@ -42427,5 +42427,29 @@
     "bmkgEarthquakeId": "20260917132053",
     "shakeMapUrl": "https://static.bmkg.go.id/20260917132053.mmi.jpg",
     "fingerprintSha1": "aee42c55e607cb1ea2f273decf1b28cf8a8ebed4"
+  },
+  {
+    "earthquakeAt": "2026-09-18T08:22:57.000Z",
+    "latitude": -8.14,
+    "longitude": 120.57,
+    "magnitude": 4.1,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di laut 54 km Utara Ruteng, Manggarai",
+    "feltOnStations": "II-III Kab. Manggarai",
+    "bmkgEarthquakeId": "20260918152257",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260918152257.mmi.jpg",
+    "fingerprintSha1": "3da7d9c215805040ceefb6613c26ee2ab970a83d"
+  },
+  {
+    "earthquakeAt": "2026-09-18T07:42:20.000Z",
+    "latitude": -5.36,
+    "longitude": 104.6,
+    "magnitude": 2.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km Barat Laut Tanggamus",
+    "feltOnStations": "II-III Ulu Belu",
+    "bmkgEarthquakeId": "20260918144220",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260918144220.mmi.jpg",
+    "fingerprintSha1": "fc8b2b50bfff999d003ab9d6c0fe91a867760f15"
   }
 ]
