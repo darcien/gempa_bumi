@@ -42463,5 +42463,17 @@
     "bmkgEarthquakeId": "20260918192056",
     "shakeMapUrl": "https://static.bmkg.go.id/20260918192056.mmi.jpg",
     "fingerprintSha1": "9f8ec343b6d73cdff7234850979eff88373d029b"
+  },
+  {
+    "earthquakeAt": "2026-09-18T16:37:21.000Z",
+    "latitude": -4.26,
+    "longitude": 102.07,
+    "magnitude": 4.6,
+    "depthInKm": 29,
+    "locationInIndonesian": "Pusat gempa berada di laut 60 km Barat Seluma",
+    "feltOnStations": "III-IV Kota Bengkulu, II Kepahiang",
+    "bmkgEarthquakeId": "20260918233721",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260918233721.mmi.jpg",
+    "fingerprintSha1": "b9c0f551dc24063e7e106c9121c2e32099383083"
   }
 ]
