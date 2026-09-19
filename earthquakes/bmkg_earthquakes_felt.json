@@ -42475,5 +42475,17 @@
     "bmkgEarthquakeId": "20260918233721",
     "shakeMapUrl": "https://static.bmkg.go.id/20260918233721.mmi.jpg",
     "fingerprintSha1": "b9c0f551dc24063e7e106c9121c2e32099383083"
+  },
+  {
+    "earthquakeAt": "2026-09-19T00:40:22.000Z",
+    "latitude": -7.33,
+    "longitude": 108.25,
+    "magnitude": 2.6,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km Tenggara Kota Tasikmalaya",
+    "feltOnStations": "III Tasikmalaya, III Ciamis",
+    "bmkgEarthquakeId": "20260919074022",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260919074022.mmi.jpg",
+    "fingerprintSha1": "74b644554d2d13dfb4a2eb67f7653b249fda8b7d"
   }
 ]
