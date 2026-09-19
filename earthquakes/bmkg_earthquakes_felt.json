@@ -42487,5 +42487,29 @@
     "bmkgEarthquakeId": "20260919074022",
     "shakeMapUrl": "https://static.bmkg.go.id/20260919074022.mmi.jpg",
     "fingerprintSha1": "74b644554d2d13dfb4a2eb67f7653b249fda8b7d"
+  },
+  {
+    "earthquakeAt": "2026-09-19T05:46:44.000Z",
+    "latitude": 1.13,
+    "longitude": 120.9,
+    "magnitude": 4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 32 km Timur Laut Toli-Toli",
+    "feltOnStations": "II-III Toli-Toli",
+    "bmkgEarthquakeId": "20260919124644",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260919124644.mmi.jpg",
+    "fingerprintSha1": "c90e1fbcdbb1641bc6a37e08a7228ef679d6e9a3"
+  },
+  {
+    "earthquakeAt": "2026-09-19T04:18:36.000Z",
+    "latitude": -1.6,
+    "longitude": 138.88,
+    "magnitude": 5.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 33 km timur laur Sarmi",
+    "feltOnStations": "III Sarmi",
+    "bmkgEarthquakeId": "20260919111836",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260919111836.mmi.jpg",
+    "fingerprintSha1": "c58381c230a97a4a040d416625795c80742fa894"
   }
 ]
