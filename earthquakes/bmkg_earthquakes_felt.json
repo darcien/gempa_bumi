@@ -42523,5 +42523,17 @@
     "bmkgEarthquakeId": "20260919205603",
     "shakeMapUrl": "https://static.bmkg.go.id/20260919205603.mmi.jpg",
     "fingerprintSha1": "4cdea8fd0f8c474f966b90c142271fa22814dd1f"
+  },
+  {
+    "earthquakeAt": "2026-09-20T10:20:32.000Z",
+    "latitude": -5.82,
+    "longitude": 122.84,
+    "magnitude": 3.9,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di laut 32 km selatan Buton",
+    "feltOnStations": "III Kab. Buton",
+    "bmkgEarthquakeId": "20260920172032",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260920172032.mmi.jpg",
+    "fingerprintSha1": "3ea7854316ba12789a4041120b8ad42fc7009545"
   }
 ]
