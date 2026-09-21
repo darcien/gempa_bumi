@@ -42607,5 +42607,29 @@
     "bmkgEarthquakeId": "20260921084137",
     "shakeMapUrl": "https://static.bmkg.go.id/20260921084137.mmi.jpg",
     "fingerprintSha1": "dd8cf4d09dc77871db451244d809c3ac9a800390"
+  },
+  {
+    "earthquakeAt": "2026-09-21T12:35:22.000Z",
+    "latitude": -0.52,
+    "longitude": 99.37,
+    "magnitude": 4.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 76 km Barat Daya Agam",
+    "feltOnStations": "III-IV Agam, II-III Kab. Padang Pariaman, II-III Kota Pariaman, II-III Kota Padang",
+    "bmkgEarthquakeId": "20260921193522",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260921193522.mmi.jpg",
+    "fingerprintSha1": "d33e9c5faab25c24ef13d5d53162426d83eef027"
+  },
+  {
+    "earthquakeAt": "2026-09-21T07:31:07.000Z",
+    "latitude": -0.7,
+    "longitude": 122.45,
+    "magnitude": 5.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 26 km BaratDaya Pulau Puah",
+    "feltOnStations": "IV-V Luwuk, II-III Kab. Pohuwato",
+    "bmkgEarthquakeId": "20260921143107",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260921143107.mmi.jpg",
+    "fingerprintSha1": "7153aa26e2865656685f9e5d447eba8e82e454da"
   }
 ]
