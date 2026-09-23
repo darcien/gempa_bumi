@@ -42703,5 +42703,17 @@
     "bmkgEarthquakeId": "20260923090244",
     "shakeMapUrl": "https://static.bmkg.go.id/20260923090244.mmi.jpg",
     "fingerprintSha1": "c19d594c8c09b319baf2801d163fa40b54a819f3"
+  },
+  {
+    "earthquakeAt": "2026-09-23T12:16:56.000Z",
+    "latitude": -8.51,
+    "longitude": 123.27,
+    "magnitude": 1.8,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di darat 24 km barat daya Lembata",
+    "feltOnStations": "II-III Kab. Lembata",
+    "bmkgEarthquakeId": "20260923191656",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260923191656.mmi.jpg",
+    "fingerprintSha1": "806826df57ca050331c02f4ff71b6de9b441d401"
   }
 ]
