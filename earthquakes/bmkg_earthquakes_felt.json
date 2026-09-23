@@ -42679,5 +42679,17 @@
     "bmkgEarthquakeId": "20260923032530",
     "shakeMapUrl": "https://static.bmkg.go.id/20260923032530.mmi.jpg",
     "fingerprintSha1": "39ad5c9544a312daf45a45a256095fdf97fc6e98"
+  },
+  {
+    "earthquakeAt": "2026-09-22T22:27:42.000Z",
+    "latitude": -7,
+    "longitude": 105.57,
+    "magnitude": 4.6,
+    "depthInKm": 20,
+    "locationInIndonesian": "Pusat gempa berada di laut 38 Km Selatan Sumur",
+    "feltOnStations": "II - III Sumur",
+    "bmkgEarthquakeId": "20260923052742",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260923052742.mmi.jpg",
+    "fingerprintSha1": "644864c6803805105440221b36d9d3dd5ea05a83"
   }
 ]
