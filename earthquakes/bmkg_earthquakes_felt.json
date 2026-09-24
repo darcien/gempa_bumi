@@ -42715,5 +42715,17 @@
     "bmkgEarthquakeId": "20260923191656",
     "shakeMapUrl": "https://static.bmkg.go.id/20260923191656.mmi.jpg",
     "fingerprintSha1": "806826df57ca050331c02f4ff71b6de9b441d401"
+  },
+  {
+    "earthquakeAt": "2026-09-24T00:26:35.000Z",
+    "latitude": -1.6,
+    "longitude": 138.93,
+    "magnitude": 4.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 36 km timur laut Sarmi",
+    "feltOnStations": "II Sarmi",
+    "bmkgEarthquakeId": "20260924072635",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260924072635.mmi.jpg",
+    "fingerprintSha1": "d018e0e4e765f140a651c10795144c63e6e9a1f3"
   }
 ]
