@@ -42727,5 +42727,17 @@
     "bmkgEarthquakeId": "20260924072635",
     "shakeMapUrl": "https://static.bmkg.go.id/20260924072635.mmi.jpg",
     "fingerprintSha1": "d018e0e4e765f140a651c10795144c63e6e9a1f3"
+  },
+  {
+    "earthquakeAt": "2026-09-24T03:30:28.000Z",
+    "latitude": -8.32,
+    "longitude": 119.25,
+    "magnitude": 4.6,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 57 km timur Kota Bima",
+    "feltOnStations": "II - III Kota Bima, II - III Kabupaten Bima",
+    "bmkgEarthquakeId": "20260924103028",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260924103028.mmi.jpg",
+    "fingerprintSha1": "6d348dfc8bfbb1d3d43ad2ed1e5cbc7ce1b02497"
   }
 ]
