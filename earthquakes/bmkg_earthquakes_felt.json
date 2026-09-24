@@ -42739,5 +42739,17 @@
     "bmkgEarthquakeId": "20260924103028",
     "shakeMapUrl": "https://static.bmkg.go.id/20260924103028.mmi.jpg",
     "fingerprintSha1": "6d348dfc8bfbb1d3d43ad2ed1e5cbc7ce1b02497"
+  },
+  {
+    "earthquakeAt": "2026-09-24T21:01:35.000Z",
+    "latitude": 5.21,
+    "longitude": 95.76,
+    "magnitude": 3.7,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 17 km Timur Jantho Aceh Besar",
+    "feltOnStations": "III Pidie, II Pidie Jaya",
+    "bmkgEarthquakeId": "20260925040135",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260925040135.mmi.jpg",
+    "fingerprintSha1": "211ed176e1733636424ef81579a9b371fc417f1b"
   }
 ]
