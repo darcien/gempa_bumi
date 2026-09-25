@@ -42751,5 +42751,17 @@
     "bmkgEarthquakeId": "20260925040135",
     "shakeMapUrl": "https://static.bmkg.go.id/20260925040135.mmi.jpg",
     "fingerprintSha1": "211ed176e1733636424ef81579a9b371fc417f1b"
+  },
+  {
+    "earthquakeAt": "2026-09-25T08:04:42.000Z",
+    "latitude": -6.9,
+    "longitude": 107.11,
+    "magnitude": 2.4,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km selatan Kab. Cianjur",
+    "feltOnStations": "II - III Kota Cianjur, II - III Cibeber, II - III Warungkondang",
+    "bmkgEarthquakeId": "20260925150442",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260925150442.mmi.jpg",
+    "fingerprintSha1": "42a5b885e0dac82d707cfca6353bb4c23f0c6602"
   }
 ]
