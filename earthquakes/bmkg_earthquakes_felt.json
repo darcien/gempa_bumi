@@ -42763,5 +42763,17 @@
     "bmkgEarthquakeId": "20260925150442",
     "shakeMapUrl": "https://static.bmkg.go.id/20260925150442.mmi.jpg",
     "fingerprintSha1": "42a5b885e0dac82d707cfca6353bb4c23f0c6602"
+  },
+  {
+    "earthquakeAt": "2026-09-25T13:47:30.000Z",
+    "latitude": -7.04,
+    "longitude": 105.22,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 58 km barat daya Sumur",
+    "feltOnStations": "III Sumur, III Muara Binuangeun, III Bayah, III Panggarangan, III Malingping, II - III Anyer, II - III Rangkasbitung",
+    "bmkgEarthquakeId": "20260925204730",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260925204730.mmi.jpg",
+    "fingerprintSha1": "71ad8b178801b2c432071720abd641977960925f"
   }
 ]
