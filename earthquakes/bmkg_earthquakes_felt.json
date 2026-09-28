@@ -42835,5 +42835,29 @@
     "bmkgEarthquakeId": "20260928113048",
     "shakeMapUrl": "https://static.bmkg.go.id/20260928113048.mmi.jpg",
     "fingerprintSha1": "34250bb1e4d52627cfb9d04c09bb88ca4d19c525"
+  },
+  {
+    "earthquakeAt": "2026-09-28T14:43:09.000Z",
+    "latitude": 5.19,
+    "longitude": 94.41,
+    "magnitude": 4.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 127 km Barat Daya Kota Sabang",
+    "feltOnStations": "III-IV Aceh Besar, III-IV Banda Aceh",
+    "bmkgEarthquakeId": "20260928214309",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260928214309.mmi.jpg",
+    "fingerprintSha1": "1861b144e6d09b6c36ac0100691630143275e74c"
+  },
+  {
+    "earthquakeAt": "2026-09-28T10:41:49.000Z",
+    "latitude": -8.09,
+    "longitude": 120.6,
+    "magnitude": 4.2,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di laut 60 km utara Ruteng, Manggarai",
+    "feltOnStations": "II - III Kab. Manggarai",
+    "bmkgEarthquakeId": "20260928174149",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260928174149.mmi.jpg",
+    "fingerprintSha1": "9055b21580a10c783fbff3b9900a4be0c31333f5"
   }
 ]
