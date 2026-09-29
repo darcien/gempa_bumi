@@ -42859,5 +42859,17 @@
     "bmkgEarthquakeId": "20260928174149",
     "shakeMapUrl": "https://static.bmkg.go.id/20260928174149.mmi.jpg",
     "fingerprintSha1": "9055b21580a10c783fbff3b9900a4be0c31333f5"
+  },
+  {
+    "earthquakeAt": "2026-09-29T14:39:13.000Z",
+    "latitude": -4.05,
+    "longitude": 121.58,
+    "magnitude": 3.1,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km Barat Kolaka",
+    "feltOnStations": "III Kolaka",
+    "bmkgEarthquakeId": "20260929213913",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260929213913.mmi.jpg",
+    "fingerprintSha1": "d26371e0405ddad8ed031406013b064fbe80c8fc"
   }
 ]
