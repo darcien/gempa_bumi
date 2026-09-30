@@ -42883,5 +42883,17 @@
     "bmkgEarthquakeId": "20260930083316",
     "shakeMapUrl": "https://static.bmkg.go.id/20260930083316.mmi.jpg",
     "fingerprintSha1": "ac91ca2b1f848875152744a326fced40087f62b3"
+  },
+  {
+    "earthquakeAt": "2026-09-30T02:35:54.000Z",
+    "latitude": 4.84,
+    "longitude": 95.14,
+    "magnitude": 4.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 54 km barat laut Calang-Aceh Jaya",
+    "feltOnStations": "III-IV Calang, III Aceh Besar, III Banda Aceh, II Sigli",
+    "bmkgEarthquakeId": "20260930093554",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260930093554.mmi.jpg",
+    "fingerprintSha1": "0135b73375ccfed410e754b077cb720c75741270"
   }
 ]
