@@ -42871,5 +42871,17 @@
     "bmkgEarthquakeId": "20260929213913",
     "shakeMapUrl": "https://static.bmkg.go.id/20260929213913.mmi.jpg",
     "fingerprintSha1": "d26371e0405ddad8ed031406013b064fbe80c8fc"
+  },
+  {
+    "earthquakeAt": "2026-09-30T01:33:16.000Z",
+    "latitude": -7.28,
+    "longitude": 106.14,
+    "magnitude": 4.6,
+    "depthInKm": 26,
+    "locationInIndonesian": "Pusat gempa berada di laut 40 km barat daya Bayah",
+    "feltOnStations": "III Ciracap, III Cisolok, II-III Kabandungan, II Palabuhan Ratu, II Surade, II Cibadak, II Waluran",
+    "bmkgEarthquakeId": "20260930083316",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260930083316.mmi.jpg",
+    "fingerprintSha1": "ac91ca2b1f848875152744a326fced40087f62b3"
   }
 ]
