@@ -42895,5 +42895,17 @@
     "bmkgEarthquakeId": "20260930093554",
     "shakeMapUrl": "https://static.bmkg.go.id/20260930093554.mmi.jpg",
     "fingerprintSha1": "0135b73375ccfed410e754b077cb720c75741270"
+  },
+  {
+    "earthquakeAt": "2026-09-30T10:58:51.000Z",
+    "latitude": -10.02,
+    "longitude": 123.65,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 26 km Barat Kab. Kupang",
+    "feltOnStations": "IV Kab. Kupang, IV Kota Kupang",
+    "bmkgEarthquakeId": "20260930175851",
+    "shakeMapUrl": "https://static.bmkg.go.id/20260930175851.mmi.jpg",
+    "fingerprintSha1": "268c733411cf6d95e1c8fe1292ac3cd2d2b7e0be"
   }
 ]
