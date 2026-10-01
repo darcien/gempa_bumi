@@ -42919,5 +42919,17 @@
     "bmkgEarthquakeId": "20261001074306",
     "shakeMapUrl": "https://static.bmkg.go.id/20261001074306.mmi.jpg",
     "fingerprintSha1": "554509e0f81c57c87baf3383793d9eca3df8df08"
+  },
+  {
+    "earthquakeAt": "2026-10-01T06:24:52.000Z",
+    "latitude": -2.46,
+    "longitude": 140.38,
+    "magnitude": 3.2,
+    "depthInKm": 25,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km Barat Laut Sentani",
+    "feltOnStations": "II Kab. Jayapura",
+    "bmkgEarthquakeId": "20261001132452",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261001132452.mmi.jpg",
+    "fingerprintSha1": "b29b61e02f283f2795ad448b2f0073b617a27ab9"
   }
 ]
