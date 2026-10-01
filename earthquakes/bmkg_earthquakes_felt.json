@@ -42931,5 +42931,29 @@
     "bmkgEarthquakeId": "20261001132452",
     "shakeMapUrl": "https://static.bmkg.go.id/20261001132452.mmi.jpg",
     "fingerprintSha1": "b29b61e02f283f2795ad448b2f0073b617a27ab9"
+  },
+  {
+    "earthquakeAt": "2026-10-01T14:20:00.000Z",
+    "latitude": -7.07,
+    "longitude": 120.8,
+    "magnitude": 5.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 111 km tenggara Selayar",
+    "feltOnStations": "III Benteng Selayar, IV Jampea Kep. Selayar",
+    "bmkgEarthquakeId": "20261001212000",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261001212000.mmi.jpg",
+    "fingerprintSha1": "aa6d8d1c22d3f04a671bb96110312fc06609cb75"
+  },
+  {
+    "earthquakeAt": "2026-10-01T11:51:40.000Z",
+    "latitude": 0.95,
+    "longitude": 122.69,
+    "magnitude": 3.6,
+    "depthInKm": 47,
+    "locationInIndonesian": "Pusat gempa berada di laut 26 km barat laut Gorontalo Utara",
+    "feltOnStations": "II - III Kab. Gorontalo Utara",
+    "bmkgEarthquakeId": "20261001185140",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261001185140.mmi.jpg",
+    "fingerprintSha1": "6cadd2daa3d206ae11fc9a0469154ecf3632b640"
   }
 ]
