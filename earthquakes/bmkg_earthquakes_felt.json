@@ -42955,5 +42955,17 @@
     "bmkgEarthquakeId": "20261001185140",
     "shakeMapUrl": "https://static.bmkg.go.id/20261001185140.mmi.jpg",
     "fingerprintSha1": "6cadd2daa3d206ae11fc9a0469154ecf3632b640"
+  },
+  {
+    "earthquakeAt": "2026-10-02T00:46:54.000Z",
+    "latitude": -8.67,
+    "longitude": 114.89,
+    "magnitude": 3.8,
+    "depthInKm": 86,
+    "locationInIndonesian": "Pusat gempa berada di laut 29 km barat daya Tabanan",
+    "feltOnStations": "II - III Kuta, II - III Kuta Selatan, II Denpasar",
+    "bmkgEarthquakeId": "20261002074654",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261002074654.mmi.jpg",
+    "fingerprintSha1": "3e7e05ce64ddc8f17add255c3c15fee0e6b86b17"
   }
 ]
