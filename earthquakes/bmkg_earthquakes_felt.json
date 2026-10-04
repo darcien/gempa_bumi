@@ -43087,5 +43087,29 @@
     "bmkgEarthquakeId": "20261004151020",
     "shakeMapUrl": "https://static.bmkg.go.id/20261004151020.mmi.jpg",
     "fingerprintSha1": "41a8bc5e2d0416eeef4787135df895ea5aee3684"
+  },
+  {
+    "earthquakeAt": "2026-10-04T14:59:43.000Z",
+    "latitude": -9.71,
+    "longitude": 118.98,
+    "magnitude": 4.8,
+    "depthInKm": 21,
+    "locationInIndonesian": "Pusat gempa berada di laut 13 km Selatan Kodi-Sumba Barat Daya",
+    "feltOnStations": "III Tambolaka, II-III Waingapu",
+    "bmkgEarthquakeId": "20261004215943",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261004215943.mmi.jpg",
+    "fingerprintSha1": "a93723d004c14fd1f26acf912b57e8f607cbfb89"
+  },
+  {
+    "earthquakeAt": "2026-10-04T14:47:58.000Z",
+    "latitude": -7.45,
+    "longitude": 106.76,
+    "magnitude": 4,
+    "depthInKm": 30,
+    "locationInIndonesian": "Pusat gempa berada di laut 56 km Tenggara Kab. Sukabumi",
+    "feltOnStations": "III Lengkong, III Waluran, III Cimanggu, II-III Kab. Sukabumi",
+    "bmkgEarthquakeId": "20261004214758",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261004214758.mmi.jpg",
+    "fingerprintSha1": "dc432ad622b7c3525b257331f0186d883cf32882"
   }
 ]
