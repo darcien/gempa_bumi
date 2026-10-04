@@ -42991,5 +42991,41 @@
     "bmkgEarthquakeId": "20261002183410",
     "shakeMapUrl": "https://static.bmkg.go.id/20261002183410.mmi.jpg",
     "fingerprintSha1": "9a3318730e61e5adbf12cf0b681e00d04652e8fa"
+  },
+  {
+    "earthquakeAt": "2026-10-04T01:31:56.000Z",
+    "latitude": -7.51,
+    "longitude": 106.73,
+    "magnitude": 4.2,
+    "depthInKm": 36,
+    "locationInIndonesian": "Pusat gempa berada di laut 61 km selatan Kab. Sukabumi",
+    "feltOnStations": "II - III Pelabuhan Ratu, II - III Cianjur, II Cidolog",
+    "bmkgEarthquakeId": "20261004083156",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261004083156.mmi.jpg",
+    "fingerprintSha1": "2a20af1a7ae5e0af99762daf149c0f9c64f17742"
+  },
+  {
+    "earthquakeAt": "2026-10-03T23:37:31.000Z",
+    "latitude": 4.56,
+    "longitude": 94.97,
+    "magnitude": 5.9,
+    "depthInKm": 26,
+    "locationInIndonesian": "Pusat gempa berada di laut 68 km barat daya Calang",
+    "feltOnStations": "III-IV Aceh Besar, III Banda Aceh, III Aceh Barat, II Aceh Selatan, II Pidie Jaya , II Bener Meriah, II Nagan Raya, II Aceh Tengah, II Sigli",
+    "bmkgEarthquakeId": "20261004063731",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261004063731.mmi.jpg",
+    "fingerprintSha1": "2e45069b77b25fc0d1d135ba077bdad0d6388272"
+  },
+  {
+    "earthquakeAt": "2026-10-03T22:55:52.000Z",
+    "latitude": -9.7,
+    "longitude": 118.92,
+    "magnitude": 6.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di Laut 14 km baratdaya Kodi-Sumba baratdaya",
+    "feltOnStations": "V Sumba Barat, IV - V Manggarai Barat, IV Kab. Sumba Timur , III-IV Kab. Manggarai",
+    "bmkgEarthquakeId": "20261004055552",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261004055552.mmi.jpg",
+    "fingerprintSha1": "6cfbb62bd1aaefe5d27949680761269be9b28c57"
   }
 ]
