@@ -43123,5 +43123,17 @@
     "bmkgEarthquakeId": "20261005061911",
     "shakeMapUrl": "https://static.bmkg.go.id/20261005061911.mmi.jpg",
     "fingerprintSha1": "9e2e8ff726dd8be9aaec7ecb63995a8e8b765f40"
+  },
+  {
+    "earthquakeAt": "2026-10-05T02:16:32.000Z",
+    "latitude": -9.13,
+    "longitude": 113.07,
+    "magnitude": 4.6,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di laut 112 km selatan Lumajang",
+    "feltOnStations": "III Lumajang, II Blitar, II Malang, II Jember",
+    "bmkgEarthquakeId": "20261005091632",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261005091632.mmi.jpg",
+    "fingerprintSha1": "a855f7b471c7f56d694de1bf9a6fb9134a141988"
   }
 ]
