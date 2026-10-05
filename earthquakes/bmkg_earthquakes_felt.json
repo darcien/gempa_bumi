@@ -43111,5 +43111,17 @@
     "bmkgEarthquakeId": "20261004214758",
     "shakeMapUrl": "https://static.bmkg.go.id/20261004214758.mmi.jpg",
     "fingerprintSha1": "dc432ad622b7c3525b257331f0186d883cf32882"
+  },
+  {
+    "earthquakeAt": "2026-10-04T23:19:11.000Z",
+    "latitude": -9.64,
+    "longitude": 119,
+    "magnitude": 3.9,
+    "depthInKm": 14,
+    "locationInIndonesian": "Pusat gempa berada di laut 6 Km selatan Kodi, Sumba Barat Daya",
+    "feltOnStations": "III Tambolaka",
+    "bmkgEarthquakeId": "20261005061911",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261005061911.mmi.jpg",
+    "fingerprintSha1": "9e2e8ff726dd8be9aaec7ecb63995a8e8b765f40"
   }
 ]
