@@ -43135,5 +43135,53 @@
     "bmkgEarthquakeId": "20261005091632",
     "shakeMapUrl": "https://static.bmkg.go.id/20261005091632.mmi.jpg",
     "fingerprintSha1": "a855f7b471c7f56d694de1bf9a6fb9134a141988"
+  },
+  {
+    "earthquakeAt": "2026-10-05T13:06:22.000Z",
+    "latitude": -8.27,
+    "longitude": 120.62,
+    "magnitude": 3.8,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 42 km timur laut Ruteng, Manggarai",
+    "feltOnStations": "II - III Kab. Manggarai",
+    "bmkgEarthquakeId": "20261005200622",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261005200622.mmi.jpg",
+    "fingerprintSha1": "e1453958d415cfbdd45dd25679f4cff06f8ce4b0"
+  },
+  {
+    "earthquakeAt": "2026-10-05T13:05:49.000Z",
+    "latitude": -8.19,
+    "longitude": 120.62,
+    "magnitude": 4.3,
+    "depthInKm": 2,
+    "locationInIndonesian": "Pusat gempa berada di laut 49 km Utara Ruteng, Manggarai",
+    "feltOnStations": "III Kab. Manggarai",
+    "bmkgEarthquakeId": "20261005200549",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261005200549.mmi.jpg",
+    "fingerprintSha1": "d008922b7f5a9cd161ab75e54da56d8dc122a56c"
+  },
+  {
+    "earthquakeAt": "2026-10-05T12:46:17.000Z",
+    "latitude": -8.52,
+    "longitude": 122.01,
+    "magnitude": 3.1,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di darat 24 km baratlaut Maumere, Sikka",
+    "feltOnStations": "II-III Sikka",
+    "bmkgEarthquakeId": "20261005194617",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261005194617.mmi.jpg",
+    "fingerprintSha1": "4dc7de8b4214a0ceccb427d964d9473e918efdb2"
+  },
+  {
+    "earthquakeAt": "2026-10-05T12:17:20.000Z",
+    "latitude": -9.77,
+    "longitude": 118.94,
+    "magnitude": 4.3,
+    "depthInKm": 16,
+    "locationInIndonesian": "Pusat gempa berada di laut 20 km selatan Kodi, Sumba Barat Daya",
+    "feltOnStations": "III-IV Kab. Sumba Barat Daya, III Kab. Bima",
+    "bmkgEarthquakeId": "20261005191720",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261005191720.mmi.jpg",
+    "fingerprintSha1": "3d95ad90018f959ae104e8fa95f7ca3b4a31d979"
   }
 ]
