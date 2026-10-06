@@ -43207,5 +43207,53 @@
     "bmkgEarthquakeId": "20261006104245",
     "shakeMapUrl": "https://static.bmkg.go.id/20261006104245.mmi.jpg",
     "fingerprintSha1": "fb4a9d6074ee523bde9ccc5fc69b541caeb2540f"
+  },
+  {
+    "earthquakeAt": "2026-10-06T13:53:22.000Z",
+    "latitude": -6.9,
+    "longitude": 105.36,
+    "magnitude": 3.9,
+    "depthInKm": 28,
+    "locationInIndonesian": "Pusat gempa berada di laut 35 km barat daya Sumur",
+    "feltOnStations": "II-III Sumur",
+    "bmkgEarthquakeId": "20261006205322",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261006205322.mmi.jpg",
+    "fingerprintSha1": "ce5199c2471eec98ba7b6fa7cb0f1e77a2891ea4"
+  },
+  {
+    "earthquakeAt": "2026-10-06T13:11:23.000Z",
+    "latitude": 4.94,
+    "longitude": 118.77,
+    "magnitude": 5.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 219 Km timur laut Tarakan",
+    "feltOnStations": "II-III Tarakan, II-III Nunukan",
+    "bmkgEarthquakeId": "20261006201123",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261006201123.mmi.jpg",
+    "fingerprintSha1": "85309548a51f308e6d236fe8b60fbe4b018d51d2"
+  },
+  {
+    "earthquakeAt": "2026-10-06T12:40:21.000Z",
+    "latitude": -9.76,
+    "longitude": 118.97,
+    "magnitude": 4.3,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di laut 19 km Selatan Kodi",
+    "feltOnStations": "II Kab. Sumba Barat Daya",
+    "bmkgEarthquakeId": "20261006194021",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261006194021.mmi.jpg",
+    "fingerprintSha1": "7d42dc4bfc1e5c3f3c70906c9df48344c95bb420"
+  },
+  {
+    "earthquakeAt": "2026-10-06T11:36:54.000Z",
+    "latitude": -9.72,
+    "longitude": 119.02,
+    "magnitude": 4.1,
+    "depthInKm": 26,
+    "locationInIndonesian": "Pusat gempa berada di laut 15 km selatan Kodi - Sumba Barat Daya",
+    "feltOnStations": "III Sumba Barat Daya, II Kab. Bima",
+    "bmkgEarthquakeId": "20261006183654",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261006183654.mmi.jpg",
+    "fingerprintSha1": "ae24b7a2d3e8dfe29c59ba994d4c4aa06afe2390"
   }
 ]
