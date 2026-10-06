@@ -43255,5 +43255,17 @@
     "bmkgEarthquakeId": "20261006183654",
     "shakeMapUrl": "https://static.bmkg.go.id/20261006183654.mmi.jpg",
     "fingerprintSha1": "ae24b7a2d3e8dfe29c59ba994d4c4aa06afe2390"
+  },
+  {
+    "earthquakeAt": "2026-10-06T20:15:26.000Z",
+    "latitude": -8.77,
+    "longitude": 116.14,
+    "magnitude": 5.2,
+    "depthInKm": 92,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km tenggara Lombok Barat",
+    "feltOnStations": "IV-V Mataram, III-IV Kab. Lombok Tengah, III Kab. Lombok Timur, III Kab. Lombok Utara, III Sumbawa Barat, III Sumbawa, II-III Kuta, II Denpasar",
+    "bmkgEarthquakeId": "20261007031526",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261007031526.mmi.jpg",
+    "fingerprintSha1": "e1ddc9c5fe3eb924939b805057468016905c7243"
   }
 ]
