@@ -43303,5 +43303,29 @@
     "bmkgEarthquakeId": "20261007100928",
     "shakeMapUrl": "https://static.bmkg.go.id/20261007100928.mmi.jpg",
     "fingerprintSha1": "d98401685577e91193d81b0727b38a79b932bfef"
+  },
+  {
+    "earthquakeAt": "2026-10-07T12:03:42.000Z",
+    "latitude": -8.35,
+    "longitude": 121.44,
+    "magnitude": 4.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 39 km Utara Mbay-Nagekeo",
+    "feltOnStations": "II - III Kab. Ende",
+    "bmkgEarthquakeId": "20261007190342",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261007190342.mmi.jpg",
+    "fingerprintSha1": "773d4d73e6cd265fad54f7b12f6910556cd53da9"
+  },
+  {
+    "earthquakeAt": "2026-10-07T07:28:20.000Z",
+    "latitude": -9.68,
+    "longitude": 119,
+    "magnitude": 3.5,
+    "depthInKm": 19,
+    "locationInIndonesian": "Pusat gempa berada di laut 9 km Selatan Kodi, Sumba Barat Daya",
+    "feltOnStations": "II Kab. Sumba Barat Daya",
+    "bmkgEarthquakeId": "20261007142820",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261007142820.mmi.jpg",
+    "fingerprintSha1": "5a50a086044b5c607deffa268940045abe520e85"
   }
 ]
