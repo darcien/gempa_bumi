@@ -43279,5 +43279,29 @@
     "bmkgEarthquakeId": "20261007045646",
     "shakeMapUrl": "https://static.bmkg.go.id/20261007045646.mmi.jpg",
     "fingerprintSha1": "78f5714321128c76ad9e63adf0899321179d0b03"
+  },
+  {
+    "earthquakeAt": "2026-10-07T05:44:23.000Z",
+    "latitude": -0.88,
+    "longitude": 134.16,
+    "magnitude": 4,
+    "depthInKm": 16,
+    "locationInIndonesian": "Pusat gempa berada di laut 13 km Timur Manokwari",
+    "feltOnStations": "III Manokwari",
+    "bmkgEarthquakeId": "20261007124423",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261007124423.mmi.jpg",
+    "fingerprintSha1": "8014e4de71dd7fc6be91b0d8726a25372449e0a9"
+  },
+  {
+    "earthquakeAt": "2026-10-07T03:09:28.000Z",
+    "latitude": -8.07,
+    "longitude": 120.51,
+    "magnitude": 4,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di laut 61 km Utara Ruteng, Manggarai",
+    "feltOnStations": "III-IV Kab. Manggarai",
+    "bmkgEarthquakeId": "20261007100928",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261007100928.mmi.jpg",
+    "fingerprintSha1": "d98401685577e91193d81b0727b38a79b932bfef"
   }
 ]
