@@ -43311,7 +43311,7 @@
     "magnitude": 4.2,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 39 km Utara Mbay-Nagekeo",
-    "feltOnStations": "II - III Kab. Ende",
+    "feltOnStations": "II-III Kab. Ende, II Kab. Sikka, II-III Kab. Nagekeo",
     "bmkgEarthquakeId": "20261007190342",
     "shakeMapUrl": "https://static.bmkg.go.id/20261007190342.mmi.jpg",
     "fingerprintSha1": "773d4d73e6cd265fad54f7b12f6910556cd53da9"
@@ -43327,5 +43327,17 @@
     "bmkgEarthquakeId": "20261007142820",
     "shakeMapUrl": "https://static.bmkg.go.id/20261007142820.mmi.jpg",
     "fingerprintSha1": "5a50a086044b5c607deffa268940045abe520e85"
+  },
+  {
+    "earthquakeAt": "2026-10-08T02:30:17.000Z",
+    "latitude": -9.62,
+    "longitude": 119.44,
+    "magnitude": 3.9,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km Timur Laut Waikabubak",
+    "feltOnStations": "IV-V Kab. Sumba Barat, III-IV Kab. Sumba Tengah",
+    "bmkgEarthquakeId": "20261008093017",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261008093017.mmi.jpg",
+    "fingerprintSha1": "f91de5c96af1f947bf45b4d4396afded2ea97811"
   }
 ]
