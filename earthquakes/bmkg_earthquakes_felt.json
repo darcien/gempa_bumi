@@ -43339,5 +43339,29 @@
     "bmkgEarthquakeId": "20261008093017",
     "shakeMapUrl": "https://static.bmkg.go.id/20261008093017.mmi.jpg",
     "fingerprintSha1": "f91de5c96af1f947bf45b4d4396afded2ea97811"
+  },
+  {
+    "earthquakeAt": "2026-10-08T09:21:53.000Z",
+    "latitude": 0.56,
+    "longitude": 120.44,
+    "magnitude": 3,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di darat 40 km Barat Parigi Moutong",
+    "feltOnStations": "II-III Palasa",
+    "bmkgEarthquakeId": "20261008162153",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261008162153.mmi.jpg",
+    "fingerprintSha1": "9eb405ef22e003d93b33870026a67b97413ebd79"
+  },
+  {
+    "earthquakeAt": "2026-10-08T08:07:56.000Z",
+    "latitude": 5.66,
+    "longitude": 125.19,
+    "magnitude": 5.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 230 km barat laut Tahuna - Kep.Sangihe",
+    "feltOnStations": "II Tahuna",
+    "bmkgEarthquakeId": "20261008150756",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261008150756.mmi.jpg",
+    "fingerprintSha1": "0a529026e5527ad7e8de76b14060b7620f483c19"
   }
 ]
