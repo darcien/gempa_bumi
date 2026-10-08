@@ -43363,5 +43363,29 @@
     "bmkgEarthquakeId": "20261008150756",
     "shakeMapUrl": "https://static.bmkg.go.id/20261008150756.mmi.jpg",
     "fingerprintSha1": "0a529026e5527ad7e8de76b14060b7620f483c19"
+  },
+  {
+    "earthquakeAt": "2026-10-08T18:06:02.000Z",
+    "latitude": -9.31,
+    "longitude": 120.21,
+    "magnitude": 4.7,
+    "depthInKm": 59,
+    "locationInIndonesian": "Pusat gempa berada di laut 39 km utara Waingapu",
+    "feltOnStations": "III Kab. Sumba Timur",
+    "bmkgEarthquakeId": "20261009010602",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261009010602.mmi.jpg",
+    "fingerprintSha1": "87b9acbfcaa790ada407be6bfec47ad863d73543"
+  },
+  {
+    "earthquakeAt": "2026-10-08T15:23:47.000Z",
+    "latitude": -3.51,
+    "longitude": 101.56,
+    "magnitude": 4.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 71 km Barat Bengkulu Utara",
+    "feltOnStations": "III Kota Bengkulu, III Kab. Bengkulu Tengah, III Kab. Bengkulu Utara, III Kab. Mukomuko, III Kab. Seluma",
+    "bmkgEarthquakeId": "20261008222347",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261008222347.mmi.jpg",
+    "fingerprintSha1": "ef6509820ad5a5c3e7142c65a1e90154c9fd85fa"
   }
 ]
