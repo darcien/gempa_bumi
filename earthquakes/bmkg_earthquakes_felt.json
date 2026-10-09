@@ -43399,5 +43399,29 @@
     "bmkgEarthquakeId": "20261009121104",
     "shakeMapUrl": "https://static.bmkg.go.id/20261009121104.mmi.jpg",
     "fingerprintSha1": "a06a78f0d2dafc43c5219bdae732a862b6a479ad"
+  },
+  {
+    "earthquakeAt": "2026-10-09T10:34:55.000Z",
+    "latitude": -3.96,
+    "longitude": 122.4,
+    "magnitude": 2.4,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 12 km barat Kendari",
+    "feltOnStations": "II - III Ranometo",
+    "bmkgEarthquakeId": "20261009173455",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261009173455.mmi.jpg",
+    "fingerprintSha1": "7ba3169891e543ac64d5960474047cf4f81a1abf"
+  },
+  {
+    "earthquakeAt": "2026-10-09T09:47:46.000Z",
+    "latitude": -1.89,
+    "longitude": 100.12,
+    "magnitude": 4.6,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di laut 56 km timur laut Pulau Sipora, Kepulauan Mentawai",
+    "feltOnStations": "III Kepulauan Mentawai",
+    "bmkgEarthquakeId": "20261009164746",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261009164746.mmi.jpg",
+    "fingerprintSha1": "7b30f6efe6f413bf9b1f6a6909fa71326f5cc343"
   }
 ]
