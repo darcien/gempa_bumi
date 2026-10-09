@@ -43387,5 +43387,17 @@
     "bmkgEarthquakeId": "20261008222347",
     "shakeMapUrl": "https://static.bmkg.go.id/20261008222347.mmi.jpg",
     "fingerprintSha1": "ef6509820ad5a5c3e7142c65a1e90154c9fd85fa"
+  },
+  {
+    "earthquakeAt": "2026-10-09T05:11:04.000Z",
+    "latitude": 0.77,
+    "longitude": 126.03,
+    "magnitude": 5.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 125 km Tenggara Bitung",
+    "feltOnStations": "III Tondano, III Bitung",
+    "bmkgEarthquakeId": "20261009121104",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261009121104.mmi.jpg",
+    "fingerprintSha1": "a06a78f0d2dafc43c5219bdae732a862b6a479ad"
   }
 ]
