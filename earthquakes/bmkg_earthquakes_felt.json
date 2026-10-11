@@ -43459,5 +43459,29 @@
     "bmkgEarthquakeId": "20261011171712",
     "shakeMapUrl": "https://static.bmkg.go.id/20261011171712.mmi.jpg",
     "fingerprintSha1": "5c59ddd1e8b959e5de9cfc2f51a411d5203ccf1d"
+  },
+  {
+    "earthquakeAt": "2026-10-11T22:07:28.000Z",
+    "latitude": -4.08,
+    "longitude": 136.34,
+    "magnitude": 4.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km tenggara Deiyai",
+    "feltOnStations": "III Enarotali",
+    "bmkgEarthquakeId": "20261012050728",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261012050728.mmi.jpg",
+    "fingerprintSha1": "e1308f56a1c8f1fd6f989b3f4bd508c45380886a"
+  },
+  {
+    "earthquakeAt": "2026-10-11T21:34:53.000Z",
+    "latitude": 0.64,
+    "longitude": 121.75,
+    "magnitude": 5.7,
+    "depthInKm": 76,
+    "locationInIndonesian": "Pusat gempa berada di darat 29 km barat laut Pohuwato",
+    "feltOnStations": "III-IV Buol, III-IV Tolitoli, III Kab. Gorontalo, II - III Kota Gorontalo, II - III Kab. Bone Bolango, III Kab. Boalemo, III Kab. Pohuwato",
+    "bmkgEarthquakeId": "20261012043453",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261012043453.mmi.jpg",
+    "fingerprintSha1": "312cd3db608c91718ae3ca75c8d084f4c8dcfb63"
   }
 ]
