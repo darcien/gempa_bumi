@@ -43447,5 +43447,17 @@
     "bmkgEarthquakeId": "20261010185323",
     "shakeMapUrl": "https://static.bmkg.go.id/20261010185323.mmi.jpg",
     "fingerprintSha1": "a0607fc8937b8b69109a42f726ae52416cde8533"
+  },
+  {
+    "earthquakeAt": "2026-10-11T10:17:12.000Z",
+    "latitude": 0.09,
+    "longitude": 100.16,
+    "magnitude": 4,
+    "depthInKm": 16,
+    "locationInIndonesian": "Pusat gempa berada di darat 5 km selatan Pasaman",
+    "feltOnStations": "II - III Kota Padang Panjang, II - III Kota Bukittinggi, III Kabupaten Pasaman",
+    "bmkgEarthquakeId": "20261011171712",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261011171712.mmi.jpg",
+    "fingerprintSha1": "5c59ddd1e8b959e5de9cfc2f51a411d5203ccf1d"
   }
 ]
