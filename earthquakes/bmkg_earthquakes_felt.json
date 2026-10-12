@@ -43507,5 +43507,41 @@
     "bmkgEarthquakeId": "20261012121947",
     "shakeMapUrl": "https://static.bmkg.go.id/20261012121947.mmi.jpg",
     "fingerprintSha1": "9730526d61a05517415e002345c98a953723b66a"
+  },
+  {
+    "earthquakeAt": "2026-10-12T16:56:33.000Z",
+    "latitude": -9.75,
+    "longitude": 118.93,
+    "magnitude": 4.3,
+    "depthInKm": 19,
+    "locationInIndonesian": "Pusat gempa berada di laut 19 km Selatan Kodi, Sumba Barat Daya",
+    "feltOnStations": "III-IV Kab. Sumba Barat Daya",
+    "bmkgEarthquakeId": "20261012235633",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261012235633.mmi.jpg",
+    "fingerprintSha1": "53f7992f264ccd2c1512586301d62ef2b9381e4d"
+  },
+  {
+    "earthquakeAt": "2026-10-12T14:27:04.000Z",
+    "latitude": -8.24,
+    "longitude": 120.54,
+    "magnitude": 3.3,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di laut 43 km Utara Ruteng, Manggarai",
+    "feltOnStations": "II-III Kab. Manggarai",
+    "bmkgEarthquakeId": "20261012212704",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261012212704.mmi.jpg",
+    "fingerprintSha1": "37e4de3c12a77a81dde27d422d46d56108f2fd71"
+  },
+  {
+    "earthquakeAt": "2026-10-12T11:58:07.000Z",
+    "latitude": -9.2,
+    "longitude": 113.02,
+    "magnitude": 4.6,
+    "depthInKm": 21,
+    "locationInIndonesian": "Pusat gempa berada di laut 121 km BaratDaya Lumajang, Jawa Timur",
+    "feltOnStations": "III Lumajang, III Malang, III Jember, II Blitar",
+    "bmkgEarthquakeId": "20261012185807",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261012185807.mmi.jpg",
+    "fingerprintSha1": "7c67fc25e23ab2ef43864c07f2e68bb681ad8db5"
   }
 ]
