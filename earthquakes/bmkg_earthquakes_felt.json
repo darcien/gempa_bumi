@@ -43483,5 +43483,29 @@
     "bmkgEarthquakeId": "20261012043453",
     "shakeMapUrl": "https://static.bmkg.go.id/20261012043453.mmi.jpg",
     "fingerprintSha1": "312cd3db608c91718ae3ca75c8d084f4c8dcfb63"
+  },
+  {
+    "earthquakeAt": "2026-10-12T05:28:13.000Z",
+    "latitude": -8.53,
+    "longitude": 112.27,
+    "magnitude": 4.1,
+    "depthInKm": 101,
+    "locationInIndonesian": "Pusat gempa berada di laut 44 km selatan Kab. Blitar",
+    "feltOnStations": "III Malang, III Blitar, II Trenggalek, II Lumajang",
+    "bmkgEarthquakeId": "20261012122813",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261012122813.mmi.jpg",
+    "fingerprintSha1": "cbc75a7ddddab92ada6ba2bc5dec117b9520ab08"
+  },
+  {
+    "earthquakeAt": "2026-10-12T05:19:47.000Z",
+    "latitude": -7.16,
+    "longitude": 105.77,
+    "magnitude": 4.6,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di laut 38 km Barat Daya Muarabinuangeun",
+    "feltOnStations": "II-III Palabuhan Ratu, II Labuan, II Ciemas, II Gekbrong",
+    "bmkgEarthquakeId": "20261012121947",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261012121947.mmi.jpg",
+    "fingerprintSha1": "9730526d61a05517415e002345c98a953723b66a"
   }
 ]
