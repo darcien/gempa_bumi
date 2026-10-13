@@ -43567,5 +43567,29 @@
     "bmkgEarthquakeId": "20261013110021",
     "shakeMapUrl": "https://static.bmkg.go.id/20261013110021.mmi.jpg",
     "fingerprintSha1": "e6aeb680ed5743b9d0dfc69763dc0f60ed609109"
+  },
+  {
+    "earthquakeAt": "2026-10-13T10:22:02.000Z",
+    "latitude": -9.06,
+    "longitude": 111.37,
+    "magnitude": 4.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 103 km selatan Pacitan",
+    "feltOnStations": "III Trenggalek",
+    "bmkgEarthquakeId": "20261013172202",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261013172202.mmi.jpg",
+    "fingerprintSha1": "2d21e300e32befbdabf2a08c770762f4e718238c"
+  },
+  {
+    "earthquakeAt": "2026-10-13T09:48:27.000Z",
+    "latitude": -9.83,
+    "longitude": 118.98,
+    "magnitude": 4.3,
+    "depthInKm": 9,
+    "locationInIndonesian": "Pusat gempa berada di laut 27 km selatan Kodi, Sumba Barat Daya",
+    "feltOnStations": "III Kab. Sumba Barat Daya",
+    "bmkgEarthquakeId": "20261013164827",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261013164827.mmi.jpg",
+    "fingerprintSha1": "a29f882c17da663ef3434827b13db909e2a0ecb5"
   }
 ]
