@@ -43543,5 +43543,29 @@
     "bmkgEarthquakeId": "20261012185807",
     "shakeMapUrl": "https://static.bmkg.go.id/20261012185807.mmi.jpg",
     "fingerprintSha1": "7c67fc25e23ab2ef43864c07f2e68bb681ad8db5"
+  },
+  {
+    "earthquakeAt": "2026-10-13T06:42:28.000Z",
+    "latitude": -9.75,
+    "longitude": 119,
+    "magnitude": 4.6,
+    "depthInKm": 16,
+    "locationInIndonesian": "Pusat gempa berada di laut 15 km selatan Kodi-Sumba Barat Daya",
+    "feltOnStations": "III Kab. Sumba Barat Daya",
+    "bmkgEarthquakeId": "20261013134228",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261013134228.mmi.jpg",
+    "fingerprintSha1": "d932f032896a8381c9781a2a263d80f01aca9722"
+  },
+  {
+    "earthquakeAt": "2026-10-13T04:00:21.000Z",
+    "latitude": -9.45,
+    "longitude": 113.95,
+    "magnitude": 4.9,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 141 km barat daya Jembrana",
+    "feltOnStations": "III Jember, II - III Kuta Selatan, II - III Denpasar, II - III Karangasem, II Lumajang, II Malang, II Blitar, II Bondowoso",
+    "bmkgEarthquakeId": "20261013110021",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261013110021.mmi.jpg",
+    "fingerprintSha1": "e6aeb680ed5743b9d0dfc69763dc0f60ed609109"
   }
 ]
