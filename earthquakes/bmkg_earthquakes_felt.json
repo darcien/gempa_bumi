@@ -43615,5 +43615,17 @@
     "bmkgEarthquakeId": "20261015174943",
     "shakeMapUrl": "https://static.bmkg.go.id/20261015174943.mmi.jpg",
     "fingerprintSha1": "4da66bb84ea35041a593fb3505d7ac173c5569bd"
+  },
+  {
+    "earthquakeAt": "2026-10-15T10:58:23.000Z",
+    "latitude": -6.73,
+    "longitude": 106.61,
+    "magnitude": 4.1,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 26 km barat daya kota Bogor",
+    "feltOnStations": "IV Pamijahan, IV Kabandungan",
+    "bmkgEarthquakeId": "20261015175823",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261015175823.mmi.jpg",
+    "fingerprintSha1": "2a2487977887dfe22da723379570a9e681a1088e"
   }
 ]
