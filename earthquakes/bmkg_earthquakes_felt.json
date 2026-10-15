@@ -43603,5 +43603,17 @@
     "bmkgEarthquakeId": "20261014173057",
     "shakeMapUrl": "https://static.bmkg.go.id/20261014173057.mmi.jpg",
     "fingerprintSha1": "8a619161aacff8f2cd49ca61b95490d9342cd843"
+  },
+  {
+    "earthquakeAt": "2026-10-15T10:49:43.000Z",
+    "latitude": -6.77,
+    "longitude": 106.6,
+    "magnitude": 3.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 25 km utara Kab. Sukabumi",
+    "feltOnStations": "III Kalapanunggal, III Leuwiliang, III Cipeuteuy",
+    "bmkgEarthquakeId": "20261015174943",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261015174943.mmi.jpg",
+    "fingerprintSha1": "4da66bb84ea35041a593fb3505d7ac173c5569bd"
   }
 ]
