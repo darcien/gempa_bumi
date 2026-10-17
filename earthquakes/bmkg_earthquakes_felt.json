@@ -43683,9 +43683,21 @@
     "magnitude": 4.6,
     "depthInKm": 10,
     "locationInIndonesian": "Pusat gempa berada di laut 49 km Barat KODI-SUMBABARATDAYA",
-    "feltOnStations": "III Sumba Barat Daya, III Kota Bima, III Kab. Bima, III Sumbawa",
+    "feltOnStations": "III Sumba Barat Daya, III Kota Bima, III Kab. Bima, III Sumbawa, III Sumba Barat",
     "bmkgEarthquakeId": "20261017194617",
     "shakeMapUrl": "https://static.bmkg.go.id/20261017194617.mmi.jpg",
     "fingerprintSha1": "5099db04d7b7cb6595733a4e0b51b5538cfb220f"
+  },
+  {
+    "earthquakeAt": "2026-10-17T15:45:27.000Z",
+    "latitude": -1.98,
+    "longitude": 121.33,
+    "magnitude": 2.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 39 km selatan Morowali Utara",
+    "feltOnStations": "II - III Kolonodale",
+    "bmkgEarthquakeId": "20261017224527",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261017224527.mmi.jpg",
+    "fingerprintSha1": "685bbf0d03a2cd341370a38ced0f421f54fd285c"
   }
 ]
