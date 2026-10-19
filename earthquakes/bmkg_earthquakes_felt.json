@@ -43723,5 +43723,53 @@
     "bmkgEarthquakeId": "20261018150008",
     "shakeMapUrl": "https://static.bmkg.go.id/20261018150008.mmi.jpg",
     "fingerprintSha1": "d98c90d35eebe0e91cb9065610e51140528696e7"
+  },
+  {
+    "earthquakeAt": "2026-10-19T13:46:11.000Z",
+    "latitude": 4.16,
+    "longitude": 97.51,
+    "magnitude": 4.2,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 26 km Timur Laut Kab. Gayo Lues",
+    "feltOnStations": "III Kab. Gayo Lues, II Aceh Timur",
+    "bmkgEarthquakeId": "20261019204611",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261019204611.mmi.jpg",
+    "fingerprintSha1": "dd3e92112825f9801b1cb84c2a03976120f1a618"
+  },
+  {
+    "earthquakeAt": "2026-10-19T12:06:02.000Z",
+    "latitude": -7.99,
+    "longitude": 120.09,
+    "magnitude": 4.5,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di laut 60 km Utara Labuanbajo",
+    "feltOnStations": "II Kab. Manggarai",
+    "bmkgEarthquakeId": "20261019190602",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261019190602.mmi.jpg",
+    "fingerprintSha1": "3aa7c3085275367205876f7eebfc03a98830b06b"
+  },
+  {
+    "earthquakeAt": "2026-10-19T10:10:56.000Z",
+    "latitude": -7.97,
+    "longitude": 120.06,
+    "magnitude": 4.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 61 km utara Labuan Bajo",
+    "feltOnStations": "II Kab. Manggarai",
+    "bmkgEarthquakeId": "20261019171056",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261019171056.mmi.jpg",
+    "fingerprintSha1": "786bdf8bd6fe1b7d04769d15f585cebfeed46b0f"
+  },
+  {
+    "earthquakeAt": "2026-10-19T09:45:57.000Z",
+    "latitude": -8.12,
+    "longitude": 120.05,
+    "magnitude": 4.8,
+    "depthInKm": 19,
+    "locationInIndonesian": "Pusat gempa berada di laut 45 km timur laut Labuan Bajo",
+    "feltOnStations": "I-II Kab. Manggarai",
+    "bmkgEarthquakeId": "20261019164557",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261019164557.mmi.jpg",
+    "fingerprintSha1": "5d082c536f7f6c60c2b69c3e8efd3a4bc37f1645"
   }
 ]
