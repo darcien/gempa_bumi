@@ -43771,5 +43771,29 @@
     "bmkgEarthquakeId": "20261019164557",
     "shakeMapUrl": "https://static.bmkg.go.id/20261019164557.mmi.jpg",
     "fingerprintSha1": "5d082c536f7f6c60c2b69c3e8efd3a4bc37f1645"
+  },
+  {
+    "earthquakeAt": "2026-10-20T11:28:11.000Z",
+    "latitude": -8.37,
+    "longitude": 116.99,
+    "magnitude": 3.7,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di laut 6 km Barat Laut Pulau Saringi",
+    "feltOnStations": "III Kab. Sumbawa",
+    "bmkgEarthquakeId": "20261020182811",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261020182811.mmi.jpg",
+    "fingerprintSha1": "0520aacd106fdcd3bd60962e6b9fac9afb877d4b"
+  },
+  {
+    "earthquakeAt": "2026-10-20T09:56:38.000Z",
+    "latitude": -10.19,
+    "longitude": 123.71,
+    "magnitude": 3.4,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 30km Barat Daya Kab. Kupang",
+    "feltOnStations": "III Kab. Kupang, III Kota Kupang",
+    "bmkgEarthquakeId": "20261020165638",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261020165638.mmi.jpg",
+    "fingerprintSha1": "0b989a55dded9bc8e0b9accb585ff9776fc83a3a"
   }
 ]
