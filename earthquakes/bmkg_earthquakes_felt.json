@@ -43795,5 +43795,17 @@
     "bmkgEarthquakeId": "20261020165638",
     "shakeMapUrl": "https://static.bmkg.go.id/20261020165638.mmi.jpg",
     "fingerprintSha1": "0b989a55dded9bc8e0b9accb585ff9776fc83a3a"
+  },
+  {
+    "earthquakeAt": "2026-10-20T16:29:35.000Z",
+    "latitude": 3.79,
+    "longitude": 95.72,
+    "magnitude": 5.4,
+    "depthInKm": 74,
+    "locationInIndonesian": "Pusat gempa berada di laut 59 km barat daya Meulaboh",
+    "feltOnStations": "III Kab. Aceh Selatan, III Kab. Simeulue, III-IV Kab. Aceh Barat, III-IV Kab. Aceh Barat Daya, II Kab. Bener Meriah, II-III Kota Banda Aceh, II-III Kab. Aceh Besar , III-IV Kab. Nagan Raya",
+    "bmkgEarthquakeId": "20261020232935",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261020232935.mmi.jpg",
+    "fingerprintSha1": "bab49c3b31e40d3ecc9c28c03be1d336dd7834b4"
   }
 ]
