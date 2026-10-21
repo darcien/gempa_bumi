@@ -43807,5 +43807,29 @@
     "bmkgEarthquakeId": "20261020232935",
     "shakeMapUrl": "https://static.bmkg.go.id/20261020232935.mmi.jpg",
     "fingerprintSha1": "bab49c3b31e40d3ecc9c28c03be1d336dd7834b4"
+  },
+  {
+    "earthquakeAt": "2026-10-21T11:58:36.000Z",
+    "latitude": -5.4,
+    "longitude": 104.68,
+    "magnitude": 2.5,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km utara Tanggamus",
+    "feltOnStations": "II Tanggamus",
+    "bmkgEarthquakeId": "20261021185836",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261021185836.mmi.jpg",
+    "fingerprintSha1": "5b42d5ea88686f55bc3d2a5815544193dbce06db"
+  },
+  {
+    "earthquakeAt": "2026-10-21T11:03:28.000Z",
+    "latitude": -5.39,
+    "longitude": 104.68,
+    "magnitude": 3.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km utara Tanggamus",
+    "feltOnStations": "III Ulu Belu, Tanggamus, III Pulau Panggung, Tanggamus",
+    "bmkgEarthquakeId": "20261021180328",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261021180328.mmi.jpg",
+    "fingerprintSha1": "9b536a57d59e51d954da73b69ec28190ab8fe875"
   }
 ]
