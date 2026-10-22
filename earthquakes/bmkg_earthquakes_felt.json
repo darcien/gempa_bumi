@@ -43831,5 +43831,17 @@
     "bmkgEarthquakeId": "20261021180328",
     "shakeMapUrl": "https://static.bmkg.go.id/20261021180328.mmi.jpg",
     "fingerprintSha1": "9b536a57d59e51d954da73b69ec28190ab8fe875"
+  },
+  {
+    "earthquakeAt": "2026-10-22T10:57:49.000Z",
+    "latitude": -3.11,
+    "longitude": 102.14,
+    "magnitude": 5.2,
+    "depthInKm": 120,
+    "locationInIndonesian": "Pusat gempa berada di darat 6 km BaratLaut Lebong",
+    "feltOnStations": "III Kota Bengkulu, II - III Curup, III Arga Makmur",
+    "bmkgEarthquakeId": "20261022175749",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261022175749.mmi.jpg",
+    "fingerprintSha1": "c75eb6ea0dc257425878032794873bc318e77a00"
   }
 ]
