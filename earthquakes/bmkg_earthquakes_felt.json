@@ -43843,5 +43843,17 @@
     "bmkgEarthquakeId": "20261022175749",
     "shakeMapUrl": "https://static.bmkg.go.id/20261022175749.mmi.jpg",
     "fingerprintSha1": "c75eb6ea0dc257425878032794873bc318e77a00"
+  },
+  {
+    "earthquakeAt": "2026-10-25T07:40:01.000Z",
+    "latitude": 4.24,
+    "longitude": 97.65,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 44 km barat Kab. Aceh Tamiang",
+    "feltOnStations": "IV Gayo Lues",
+    "bmkgEarthquakeId": "20261025144001",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261025144001.mmi.jpg",
+    "fingerprintSha1": "05574d9f7f856f785cee55771e1802ec6b62298e"
   }
 ]
