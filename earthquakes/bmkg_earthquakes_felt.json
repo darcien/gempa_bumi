@@ -43867,5 +43867,17 @@
     "bmkgEarthquakeId": "20261025194726",
     "shakeMapUrl": "https://static.bmkg.go.id/20261025194726.mmi.jpg",
     "fingerprintSha1": "e086dfd1854e9d14c16ef926f45fca45a05fb198"
+  },
+  {
+    "earthquakeAt": "2026-10-26T04:53:42.000Z",
+    "latitude": -8.45,
+    "longitude": 121.45,
+    "magnitude": 4.9,
+    "depthInKm": 13,
+    "locationInIndonesian": "Pusat gempa berada di laut 30 km timur laut Mbay, Nagekeo",
+    "feltOnStations": "III Bajawa, III Maumere, II - III Ruteng",
+    "bmkgEarthquakeId": "20261026115342",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261026115342.mmi.jpg",
+    "fingerprintSha1": "b90b9402d53921a27f4fb7e39c81a530bebfc4de"
   }
 ]
