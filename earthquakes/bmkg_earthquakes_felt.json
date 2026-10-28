@@ -43891,5 +43891,17 @@
     "bmkgEarthquakeId": "20261027214313",
     "shakeMapUrl": "https://static.bmkg.go.id/20261027214313.mmi.jpg",
     "fingerprintSha1": "20868425829e8c7d6255a9fa4248fe198064590c"
+  },
+  {
+    "earthquakeAt": "2026-10-28T08:23:46.000Z",
+    "latitude": -5.45,
+    "longitude": 104.62,
+    "magnitude": 4.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km Barat Laut Tanggamus",
+    "feltOnStations": "III Kotaagung, II Kotabumi, II Pringsewu, II Ulu Belu, II Gisting",
+    "bmkgEarthquakeId": "20261028152346",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261028152346.mmi.jpg",
+    "fingerprintSha1": "86fd66edaa2401da5f1aad4435310951116453f1"
   }
 ]
