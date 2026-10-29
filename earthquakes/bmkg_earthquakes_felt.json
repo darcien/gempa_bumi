@@ -43927,5 +43927,17 @@
     "bmkgEarthquakeId": "20261029050647",
     "shakeMapUrl": "https://static.bmkg.go.id/20261029050647.mmi.jpg",
     "fingerprintSha1": "c3c56fb49fa828a1424525e71c557a86b5540930"
+  },
+  {
+    "earthquakeAt": "2026-10-29T03:26:49.000Z",
+    "latitude": -5.45,
+    "longitude": 141.9,
+    "magnitude": 6,
+    "depthInKm": 120,
+    "locationInIndonesian": "Pusat gempa berada di darat 153 km tenggara Oksibil",
+    "feltOnStations": "III Boven Digoel, II Jayapura, II Merauke",
+    "bmkgEarthquakeId": "20261029102649",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261029102649.mmi.jpg",
+    "fingerprintSha1": "e220712f25441b3d26e84eb5ea46bf034c7871c1"
   }
 ]
