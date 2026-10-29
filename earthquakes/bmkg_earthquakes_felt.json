@@ -43939,5 +43939,17 @@
     "bmkgEarthquakeId": "20261029102649",
     "shakeMapUrl": "https://static.bmkg.go.id/20261029102649.mmi.jpg",
     "fingerprintSha1": "e220712f25441b3d26e84eb5ea46bf034c7871c1"
+  },
+  {
+    "earthquakeAt": "2026-10-29T18:58:30.000Z",
+    "latitude": 4.18,
+    "longitude": 97.55,
+    "magnitude": 4.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 31 km Timur Laut Kabupaten Gayolues",
+    "feltOnStations": "III Takengon",
+    "bmkgEarthquakeId": "20261030015830",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261030015830.mmi.jpg",
+    "fingerprintSha1": "faf50e238aadae270b1eec118be3acf119024cd7"
   }
 ]
