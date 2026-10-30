@@ -43963,5 +43963,17 @@
     "bmkgEarthquakeId": "20261030130345",
     "shakeMapUrl": "https://static.bmkg.go.id/20261030130345.mmi.jpg",
     "fingerprintSha1": "f4b6f930ce374df02668c74d2e7761f90128bbf7"
+  },
+  {
+    "earthquakeAt": "2026-10-30T10:29:39.000Z",
+    "latitude": 2.57,
+    "longitude": 98.66,
+    "magnitude": 3.5,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 7 km barat daya Samosir",
+    "feltOnStations": "II Pangururan, II Kec. Ronggur Nihuta",
+    "bmkgEarthquakeId": "20261030172939",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261030172939.mmi.jpg",
+    "fingerprintSha1": "58da3869524cc7261f5a3331c09a99787357770d"
   }
 ]
