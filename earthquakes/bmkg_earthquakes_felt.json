@@ -43951,5 +43951,17 @@
     "bmkgEarthquakeId": "20261030015830",
     "shakeMapUrl": "https://static.bmkg.go.id/20261030015830.mmi.jpg",
     "fingerprintSha1": "faf50e238aadae270b1eec118be3acf119024cd7"
+  },
+  {
+    "earthquakeAt": "2026-10-30T06:03:45.000Z",
+    "latitude": -0.72,
+    "longitude": 131.38,
+    "magnitude": 3.7,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di 20 km Timur Laut Kota Sorong",
+    "feltOnStations": "II-III Sorong",
+    "bmkgEarthquakeId": "20261030130345",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261030130345.mmi.jpg",
+    "fingerprintSha1": "f4b6f930ce374df02668c74d2e7761f90128bbf7"
   }
 ]
