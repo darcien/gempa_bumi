@@ -43999,5 +43999,17 @@
     "bmkgEarthquakeId": "20261031123920",
     "shakeMapUrl": "https://static.bmkg.go.id/20261031123920.mmi.jpg",
     "fingerprintSha1": "84ce5c53cc3f256f0919756f6777949a0782af71"
+  },
+  {
+    "earthquakeAt": "2026-10-31T20:48:49.000Z",
+    "latitude": -3.92,
+    "longitude": 122.63,
+    "magnitude": 2.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 14 km Timur Laut Kendari",
+    "feltOnStations": "II - III Kota Kendari",
+    "bmkgEarthquakeId": "20261101034849",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261101034849.mmi.jpg",
+    "fingerprintSha1": "7bd83576cb1bc0a1dd61a4dd9e0b6c323a6541c0"
   }
 ]
