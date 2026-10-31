@@ -1,6 +1,6 @@
+import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
 import { test } from "node:test";
-import { assertEquals, assertExists } from "@std/assert";
 import feltSample from "./bmkg_felt_response_sample.json" with { type: "json" };
 import {
   type BmkgEarthquakeId,
@@ -16,32 +16,32 @@ import {
 
 test("coordinatesSchema - parse positive latitude and longitude", () => {
   const result = coordinatesSchema.parse("1.47,126.34");
-  assertEquals(result, { latitude: 1.47, longitude: 126.34 });
+  assert.deepStrictEqual(result, { latitude: 1.47, longitude: 126.34 });
 });
 
 test("coordinatesSchema - parse negative latitude and positive longitude", () => {
   const result = coordinatesSchema.parse("-4.46,102.60");
-  assertEquals(result, { latitude: -4.46, longitude: 102.6 });
+  assert.deepStrictEqual(result, { latitude: -4.46, longitude: 102.6 });
 });
 
 test("coordinatesSchema - parse negative latitude and longitude", () => {
   const result = coordinatesSchema.parse("-8.06,119.24");
-  assertEquals(result, { latitude: -8.06, longitude: 119.24 });
+  assert.deepStrictEqual(result, { latitude: -8.06, longitude: 119.24 });
 });
 
 test("depthSchema - parse depth in kilometers", () => {
   const result = depthSchema.parse("30 km");
-  assertEquals(result, 30);
+  assert.deepStrictEqual(result, 30);
 });
 
 test("depthSchema - parse single digit depth", () => {
   const result = depthSchema.parse("2 km");
-  assertEquals(result, 2);
+  assert.deepStrictEqual(result, 2);
 });
 
 test("depthSchema - parse triple digit depth", () => {
   const result = depthSchema.parse("102 km");
-  assertEquals(result, 102);
+  assert.deepStrictEqual(result, 102);
 });
 
 test("bmkgApiResSchema - parse complete raw.json sample data", () => {
@@ -50,7 +50,7 @@ test("bmkgApiResSchema - parse complete raw.json sample data", () => {
   const result = schema.parse(feltSample);
 
   // Should parse all 15 earthquakes from raw.json
-  assertEquals(result.length, 15);
+  assert.deepStrictEqual(result.length, 15);
 });
 
 test("bmkgApiResSchema - parse first earthquake from raw.json", () => {
@@ -61,33 +61,36 @@ test("bmkgApiResSchema - parse first earthquake from raw.json", () => {
   const firstEarthquake = result[0];
 
   // Check all required fields exist
-  assertExists(firstEarthquake.bmkgEarthquakeId);
-  assertExists(firstEarthquake.fingerprintSha1);
-  assertExists(firstEarthquake.earthquakeAt);
-  assertExists(firstEarthquake.shakeMapUrl);
+  assert.ok(firstEarthquake.bmkgEarthquakeId != null);
+  assert.ok(firstEarthquake.fingerprintSha1 != null);
+  assert.ok(firstEarthquake.earthquakeAt != null);
+  assert.ok(firstEarthquake.shakeMapUrl != null);
 
   // Check parsed values
-  assertEquals(firstEarthquake.latitude, -4.46);
-  assertEquals(firstEarthquake.longitude, 102.6);
-  assertEquals(firstEarthquake.magnitude, 4.6);
-  assertEquals(firstEarthquake.depthInKm, 30);
-  assertEquals(
+  assert.deepStrictEqual(firstEarthquake.latitude, -4.46);
+  assert.deepStrictEqual(firstEarthquake.longitude, 102.6);
+  assert.deepStrictEqual(firstEarthquake.magnitude, 4.6);
+  assert.deepStrictEqual(firstEarthquake.depthInKm, 30);
+  assert.deepStrictEqual(
     firstEarthquake.locationInIndonesian,
     "Pusat gempa berada di laut 34 km barat Bengkulu Selatan",
   );
-  assertEquals(
+  assert.deepStrictEqual(
     firstEarthquake.feltOnStations,
     "II-III Bengkulu Utara, II-III Bengkulu Selatan",
   );
 
   // Check date parsing
-  assertEquals(firstEarthquake.earthquakeAt, "2025-12-24T05:30:34.000Z");
+  assert.deepStrictEqual(
+    firstEarthquake.earthquakeAt,
+    "2025-12-24T05:30:34.000Z",
+  );
 
   // Check computed bmkgEarthquakeId (WIB is UTC+7, so 05:30:34 UTC = 12:30:34 WIB)
-  assertEquals(firstEarthquake.bmkgEarthquakeId, "20251224123034");
+  assert.deepStrictEqual(firstEarthquake.bmkgEarthquakeId, "20251224123034");
 
   // Check shake map URL
-  assertEquals(
+  assert.deepStrictEqual(
     firstEarthquake.shakeMapUrl,
     "https://static.bmkg.go.id/20251224123034.mmi.jpg",
   );
@@ -100,10 +103,10 @@ test("bmkgApiResSchema - parse earthquake with negative coordinates", () => {
 
   const earthquake = result[1]; // Second earthquake: -8.06,119.24
 
-  assertEquals(earthquake.latitude, -8.06);
-  assertEquals(earthquake.longitude, 119.24);
-  assertEquals(earthquake.magnitude, 4.0);
-  assertEquals(earthquake.depthInKm, 17);
+  assert.deepStrictEqual(earthquake.latitude, -8.06);
+  assert.deepStrictEqual(earthquake.longitude, 119.24);
+  assert.deepStrictEqual(earthquake.magnitude, 4.0);
+  assert.deepStrictEqual(earthquake.depthInKm, 17);
 });
 
 test("bmkgApiResSchema - parse earthquake with positive coordinates", () => {
@@ -113,10 +116,10 @@ test("bmkgApiResSchema - parse earthquake with positive coordinates", () => {
 
   const earthquake = result[2]; // Third earthquake: 1.47,126.34
 
-  assertEquals(earthquake.latitude, 1.47);
-  assertEquals(earthquake.longitude, 126.34);
-  assertEquals(earthquake.magnitude, 5.6);
-  assertEquals(earthquake.depthInKm, 27);
+  assert.deepStrictEqual(earthquake.latitude, 1.47);
+  assert.deepStrictEqual(earthquake.longitude, 126.34);
+  assert.deepStrictEqual(earthquake.magnitude, 5.6);
+  assert.deepStrictEqual(earthquake.depthInKm, 27);
 });
 
 test("bmkgApiResSchema - handle future earthquake with meta flag", () => {
@@ -128,8 +131,11 @@ test("bmkgApiResSchema - handle future earthquake with meta flag", () => {
   const firstEarthquake = result[0];
 
   // Should have meta flag for future earthquake
-  assertExists(firstEarthquake.meta);
-  assertEquals(firstEarthquake.meta?.erroneousDataReason, "FUTURE_EARTHQUAKE");
+  assert.ok(firstEarthquake.meta != null);
+  assert.deepStrictEqual(
+    firstEarthquake.meta?.erroneousDataReason,
+    "FUTURE_EARTHQUAKE",
+  );
 });
 
 test("bmkgApiResSchema - no meta flag for past earthquakes", () => {
@@ -141,7 +147,7 @@ test("bmkgApiResSchema - no meta flag for past earthquakes", () => {
   const firstEarthquake = result[0];
 
   // Should not have meta flag
-  assertEquals(firstEarthquake.meta, undefined);
+  assert.deepStrictEqual(firstEarthquake.meta, undefined);
 });
 
 test("bmkgApiResSchema - fingerprint SHA1 is consistent", () => {
@@ -152,8 +158,11 @@ test("bmkgApiResSchema - fingerprint SHA1 is consistent", () => {
   const firstEarthquake = result[0];
 
   // Fingerprint should be a 40-character hex string (SHA1)
-  assertEquals(firstEarthquake.fingerprintSha1.length, 40);
-  assertEquals(/^[a-f0-9]+$/.test(firstEarthquake.fingerprintSha1), true);
+  assert.deepStrictEqual(firstEarthquake.fingerprintSha1.length, 40);
+  assert.deepStrictEqual(
+    /^[a-f0-9]+$/.test(firstEarthquake.fingerprintSha1),
+    true,
+  );
 });
 
 test("mergeFeltEarthquakes - merge by bmkgEarthquakeId", () => {
@@ -192,12 +201,12 @@ test("mergeFeltEarthquakes - merge by bmkgEarthquakeId", () => {
   });
 
   // Should have 1 earthquake (merged)
-  assertEquals(result.length, 1);
+  assert.deepStrictEqual(result.length, 1);
 
   // Should use fresh data
-  assertEquals(result[0].locationInIndonesian, "New location");
-  assertEquals(result[0].feltOnStations, "New stations");
-  assertEquals(result[0].bmkgEarthquakeId, "20251224123034");
+  assert.deepStrictEqual(result[0].locationInIndonesian, "New location");
+  assert.deepStrictEqual(result[0].feltOnStations, "New stations");
+  assert.deepStrictEqual(result[0].bmkgEarthquakeId, "20251224123034");
 });
 
 test("mergeFeltEarthquakes - add new earthquake", () => {
@@ -236,12 +245,12 @@ test("mergeFeltEarthquakes - add new earthquake", () => {
   });
 
   // Should have 2 earthquakes (1 old + 1 new)
-  assertEquals(result.length, 2);
+  assert.deepStrictEqual(result.length, 2);
 
   // Check both earthquakes exist
   const ids = result.map((e) => e.bmkgEarthquakeId);
-  assertEquals(ids.includes("20251224123034"), true);
-  assertEquals(ids.includes("20251223111036"), true);
+  assert.deepStrictEqual(ids.includes("20251224123034"), true);
+  assert.deepStrictEqual(ids.includes("20251223111036"), true);
 });
 
 test("mergeFeltEarthquakes - merge by fingerprintSha1", () => {
@@ -280,12 +289,12 @@ test("mergeFeltEarthquakes - merge by fingerprintSha1", () => {
   });
 
   // Should have 1 earthquake (merged)
-  assertEquals(result.length, 1);
+  assert.deepStrictEqual(result.length, 1);
 
   // Should use fresh data
-  assertEquals(result[0].locationInIndonesian, "New location");
-  assertEquals(result[0].feltOnStations, "New stations");
-  assertEquals(result[0].fingerprintSha1, "abc123");
+  assert.deepStrictEqual(result[0].locationInIndonesian, "New location");
+  assert.deepStrictEqual(result[0].feltOnStations, "New stations");
+  assert.deepStrictEqual(result[0].fingerprintSha1, "abc123");
 });
 
 test("mergeFeltEarthquakes - empty stale earthquakes", () => {
@@ -311,8 +320,8 @@ test("mergeFeltEarthquakes - empty stale earthquakes", () => {
   });
 
   // Should have 1 earthquake
-  assertEquals(result.length, 1);
-  assertEquals(result[0].bmkgEarthquakeId, "20251224123034");
+  assert.deepStrictEqual(result.length, 1);
+  assert.deepStrictEqual(result[0].bmkgEarthquakeId, "20251224123034");
 });
 
 test("mergeFeltEarthquakes - empty fresh earthquakes", () => {
@@ -338,8 +347,8 @@ test("mergeFeltEarthquakes - empty fresh earthquakes", () => {
   });
 
   // Should keep stale earthquake
-  assertEquals(result.length, 1);
-  assertEquals(result[0].bmkgEarthquakeId, "20251224123034");
+  assert.deepStrictEqual(result.length, 1);
+  assert.deepStrictEqual(result[0].bmkgEarthquakeId, "20251224123034");
 });
 
 function makeEarthquake(overrides: Partial<Earthquake> = {}): Earthquake {
@@ -369,7 +378,7 @@ test("mergeFeltEarthquakes - keep stale meta when fresh has no meta", () => {
     mergeKey: "bmkgEarthquakeId",
   });
 
-  assertEquals(result, [
+  assert.deepStrictEqual(result, [
     makeEarthquake({
       locationInIndonesian: "New location",
       meta: { erroneousDataReason: "FUTURE_EARTHQUAKE" },
@@ -387,7 +396,7 @@ test("mergeFeltEarthquakes - add fresh meta when stale has no meta", () => {
     mergeKey: "bmkgEarthquakeId",
   });
 
-  assertEquals(result, [
+  assert.deepStrictEqual(result, [
     makeEarthquake({ meta: { erroneousDataReason: "FUTURE_EARTHQUAKE" } }),
   ]);
 });
@@ -404,7 +413,7 @@ test("mergeFeltEarthquakes - merge meta when both have meta", () => {
     mergeKey: "bmkgEarthquakeId",
   });
 
-  assertEquals(result, [
+  assert.deepStrictEqual(result, [
     makeEarthquake({
       meta: {
         legacyNote: "kept",
@@ -431,7 +440,7 @@ test("mergeFeltEarthquakes - keep stale key order in JSON output", () => {
     mergeKey: "bmkgEarthquakeId",
   });
 
-  assertEquals(
+  assert.deepStrictEqual(
     JSON.stringify(result),
     JSON.stringify([
       {
@@ -449,18 +458,21 @@ test("mergeFeltEarthquakes - keep stale key order in JSON output", () => {
 // These tests cover the examples that had no test.
 test("computeBmkgEarthquakeId - convert UTC to WIB", () => {
   const id = computeBmkgEarthquakeId(new Date("2022-12-18T22:50:14.000Z"));
-  assertEquals(id, "20221219055014");
+  assert.deepStrictEqual(id, "20221219055014");
 });
 
 test("computeBmkgEarthquakeId - pad single digit date components", () => {
   const id = computeBmkgEarthquakeId(new Date("2022-01-09T02:03:05.000Z"));
-  assertEquals(id, "20220109090305");
-  assertEquals(id.length, 14);
+  assert.deepStrictEqual(id, "20220109090305");
+  assert.deepStrictEqual(id.length, 14);
 });
 
 test("getBmkgShakeMapUrl - build shake map URL", () => {
   const url = getBmkgShakeMapUrl("20221219055014" as BmkgEarthquakeId);
-  assertEquals(url, "https://static.bmkg.go.id/20221219055014.mmi.jpg");
+  assert.deepStrictEqual(
+    url,
+    "https://static.bmkg.go.id/20221219055014.mmi.jpg",
+  );
 });
 
 test("computeFingerprintSha1 - reproduce every stored fingerprint", async () => {
@@ -479,7 +491,7 @@ test("computeFingerprintSha1 - reproduce every stored fingerprint", async () => 
         depthInKm: e.depthInKm,
       }) !== e.fingerprintSha1,
   );
-  assertEquals(
+  assert.deepStrictEqual(
     mismatched.map((e) => e.bmkgEarthquakeId),
     [],
   );

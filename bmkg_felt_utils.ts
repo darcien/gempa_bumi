@@ -84,23 +84,23 @@ function padTimeComponent(part: number) {
  * @example
  * ```ts
  * import { computeBmkgEarthquakeId } from "./bmkg_felt_utils.ts";
- * import { assertEquals } from "@std/assert";
+ * import assert from "node:assert/strict";
  *
  * const earthquakeAt = new Date("2022-12-18T22:50:14.000Z");
  * const id = computeBmkgEarthquakeId(earthquakeAt);
- * assertEquals(id, "20221219055014");
+ * assert.deepStrictEqual(id, "20221219055014");
  * ```
  *
  * @example
  * ```ts
  * import { computeBmkgEarthquakeId } from "./bmkg_felt_utils.ts";
- * import { assertEquals } from "@std/assert";
+ * import assert from "node:assert/strict";
  *
  * // Pads single digit date components
  * const earthquakeAt = new Date("2022-01-09T02:03:05.000Z");
  * const id = computeBmkgEarthquakeId(earthquakeAt);
- * assertEquals(id, "20220109090305");
- * assertEquals(id.length, 14);
+ * assert.deepStrictEqual(id, "20220109090305");
+ * assert.deepStrictEqual(id.length, 14);
  * ```
  */
 export function computeBmkgEarthquakeId(earthquakeAt: Date): BmkgEarthquakeId {
@@ -124,11 +124,11 @@ export function computeBmkgEarthquakeId(earthquakeAt: Date): BmkgEarthquakeId {
  * @example
  * ```ts
  * import { getBmkgShakeMapUrl, type BmkgEarthquakeId } from "./bmkg_felt_utils.ts";
- * import { assertEquals } from "@std/assert";
+ * import assert from "node:assert/strict";
  *
  * const id = "20221219055014" as BmkgEarthquakeId;
  * const url = getBmkgShakeMapUrl(id);
- * assertEquals(url, "https://static.bmkg.go.id/20221219055014.mmi.jpg");
+ * assert.deepStrictEqual(url, "https://static.bmkg.go.id/20221219055014.mmi.jpg");
  * ```
  */
 export function getBmkgShakeMapUrl(bmkgEarthquakeId: BmkgEarthquakeId): string {
@@ -141,19 +141,19 @@ export function getBmkgShakeMapUrl(bmkgEarthquakeId: BmkgEarthquakeId): string {
  * @example
  * ```ts
  * import { coordinatesSchema } from "./bmkg_felt_utils.ts";
- * import { assertEquals } from "@std/assert";
+ * import assert from "node:assert/strict";
  *
  * const result = coordinatesSchema.parse("1.47,126.34");
- * assertEquals(result, { latitude: 1.47, longitude: 126.34 });
+ * assert.deepStrictEqual(result, { latitude: 1.47, longitude: 126.34 });
  * ```
  *
  * @example
  * ```ts
  * import { coordinatesSchema } from "./bmkg_felt_utils.ts";
- * import { assertEquals } from "@std/assert";
+ * import assert from "node:assert/strict";
  *
  * const result = coordinatesSchema.parse("-4.46,102.60");
- * assertEquals(result, { latitude: -4.46, longitude: 102.60 });
+ * assert.deepStrictEqual(result, { latitude: -4.46, longitude: 102.60 });
  * ```
  */
 export const coordinatesSchema = z
@@ -174,19 +174,19 @@ export const coordinatesSchema = z
  * @example
  * ```ts
  * import { depthSchema } from "./bmkg_felt_utils.ts";
- * import { assertEquals } from "@std/assert";
+ * import assert from "node:assert/strict";
  *
  * const result = depthSchema.parse("30 km");
- * assertEquals(result, 30);
+ * assert.deepStrictEqual(result, 30);
  * ```
  *
  * @example
  * ```ts
  * import { depthSchema } from "./bmkg_felt_utils.ts";
- * import { assertEquals } from "@std/assert";
+ * import assert from "node:assert/strict";
  *
  * const result = depthSchema.parse("102 km");
- * assertEquals(result, 102);
+ * assert.deepStrictEqual(result, 102);
  * ```
  */
 export const depthSchema = z
