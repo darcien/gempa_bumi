@@ -7,7 +7,7 @@
  */
 
 import { createHash } from "node:crypto";
-import { z } from "@zod/zod";
+import { z } from "zod";
 
 /**
  * The number of milliseconds in an hour.

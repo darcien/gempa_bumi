@@ -20,6 +20,6 @@
     "typescript": "7.0.2"
   },
   "dependencies": {
-    "@zod/zod": "npm:zod@4.2.1"
+    "zod": "4.2.1"
   }
 }
