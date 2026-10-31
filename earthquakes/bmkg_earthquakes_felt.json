@@ -43975,5 +43975,29 @@
     "bmkgEarthquakeId": "20261030172939",
     "shakeMapUrl": "https://static.bmkg.go.id/20261030172939.mmi.jpg",
     "fingerprintSha1": "58da3869524cc7261f5a3331c09a99787357770d"
+  },
+  {
+    "earthquakeAt": "2026-10-31T08:23:13.000Z",
+    "latitude": -2.87,
+    "longitude": 122.21,
+    "magnitude": 3.5,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di laut 13 km tenggara Bahodopi",
+    "feltOnStations": "II - III Morowali",
+    "bmkgEarthquakeId": "20261031152313",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261031152313.mmi.jpg",
+    "fingerprintSha1": "7fdac70944a8c3547aca879fa3f8daa1fc0268b3"
+  },
+  {
+    "earthquakeAt": "2026-10-31T05:39:20.000Z",
+    "latitude": -9.45,
+    "longitude": 118.11,
+    "magnitude": 4.8,
+    "depthInKm": 28,
+    "locationInIndonesian": "Pusat gempa berada di laut 97 km barat Kodi, Sumba Barat Daya",
+    "feltOnStations": "III Sumbawa",
+    "bmkgEarthquakeId": "20261031123920",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261031123920.mmi.jpg",
+    "fingerprintSha1": "84ce5c53cc3f256f0919756f6777949a0782af71"
   }
 ]
