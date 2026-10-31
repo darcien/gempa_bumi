@@ -7,7 +7,6 @@
  */
 
 import { createHash } from "node:crypto";
-import { deepMerge } from "@std/collections/deep-merge";
 import { z } from "@zod/zod";
 
 /**
@@ -285,15 +284,25 @@ export type Earthquake = {
   meta?: { erroneousDataReason?: ErroneousDataReason };
 };
 
-const DEEP_MERGE_OPTIONS = {
-  arrays: "replace",
-  maps: "replace",
-  sets: "replace",
-} as const;
+/**
+ * Merges a stale earthquake record with the fresh record for the same key.
+ * Fresh values replace stale values. Keys that only the stale record has stay.
+ * `meta` is the only nested field, and it is merged one level deep.
+ * The result keeps the key order of the stale record, then adds new fresh keys.
+ * This gives the same result as `deepMerge()` from `@std/collections`,
+ * which this function replaces.
+ */
+function mergeEarthquake(stale: Earthquake, fresh: Earthquake): Earthquake {
+  const merged = { ...stale, ...fresh };
+  if (stale.meta && fresh.meta) {
+    merged.meta = { ...stale.meta, ...fresh.meta };
+  }
+  return merged;
+}
 
 /**
  * Merges stale (existing) earthquake data with fresh (new) earthquake data.
- * Uses deep merge to update existing records and add new ones.
+ * Updates existing records with `mergeEarthquake()` and adds new ones.
  *
  * @param staleEarthquakes - Existing earthquake records
  * @param freshEarthquakes - New earthquake records from API
@@ -317,7 +326,7 @@ export function mergeFeltEarthquakes(
     const key = fresh[mergeKey];
     const old = merged.get(key);
     if (old) {
-      merged.set(key, deepMerge(old, fresh, DEEP_MERGE_OPTIONS));
+      merged.set(key, mergeEarthquake(old, fresh));
     } else {
       merged.set(key, fresh);
     }
