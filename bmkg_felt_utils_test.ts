@@ -165,6 +165,59 @@ test("bmkgApiResSchema - fingerprint SHA1 is consistent", () => {
   );
 });
 
+test("bmkgApiResSchema - accept a missing unused field", () => {
+  const schema = createBmkgApiResSchema(new Date("2025-12-25T00:00:00Z"));
+  const expected = schema.parse(feltSample);
+  for (const key of ["Tanggal", "Jam", "Lintang", "Bujur"]) {
+    const input = structuredClone(feltSample);
+    for (const earthquake of input.Infogempa.gempa) {
+      delete (earthquake as Record<string, unknown>)[key];
+    }
+    assert.deepStrictEqual(schema.parse(input), expected, key);
+  }
+});
+
+test("bmkgApiResSchema - accept each DateTime form", () => {
+  // These forms passed on zod 4.2.1. A zod upgrade must not reject them.
+  const schema = createBmkgApiResSchema(new Date("2025-12-25T00:00:00Z"));
+  const cases: Array<[string, string]> = [
+    ["2025-12-24T05:30:34+00:00", "2025-12-24T05:30:34.000Z"],
+    ["2025-12-24T05:30+00:00", "2025-12-24T05:30:00.000Z"],
+    ["2025-12-24T05:30:34.5+00:00", "2025-12-24T05:30:34.500Z"],
+    ["2025-12-24T12:30:34+07:00", "2025-12-24T05:30:34.000Z"],
+    ["2025-12-24T05:30:34Z", "2025-12-24T05:30:34.000Z"],
+    ["2025-12-24T05:30Z", "2025-12-24T05:30:00.000Z"],
+  ];
+  for (const [dateTime, expected] of cases) {
+    const input = structuredClone(feltSample);
+    const [first] = input.Infogempa.gempa;
+    assert.ok(first != null);
+    first.DateTime = dateTime;
+    assert.strictEqual(
+      schema.parse(input)[0]?.earthquakeAt,
+      expected,
+      dateTime,
+    );
+  }
+});
+
+test("bmkgApiResSchema - reject an invalid DateTime", () => {
+  const schema = createBmkgApiResSchema(new Date("2025-12-25T00:00:00Z"));
+  for (const dateTime of [
+    "2025-12-24T05:30:34",
+    "2025-12-24 05:30:34+00:00",
+    "2025-12-24T05+00:00",
+    "2025-12-24T05:30.5+00:00",
+    "2025-02-30T05:30:34+00:00",
+  ]) {
+    const input = structuredClone(feltSample);
+    const [first] = input.Infogempa.gempa;
+    assert.ok(first != null);
+    first.DateTime = dateTime;
+    assert.throws(() => schema.parse(input), { name: "ZodError" }, dateTime);
+  }
+});
+
 test("mergeFeltEarthquakes - merge by bmkgEarthquakeId", () => {
   const staleEarthquakes: Earthquake[] = [
     {

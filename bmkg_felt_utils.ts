@@ -206,12 +206,22 @@ export function createBmkgApiResSchema(now: Date = new Date()) {
       Infogempa: z.object({
         gempa: z.array(
           z.object({
-            Tanggal: z.unknown(),
-            Jam: z.unknown(),
-            DateTime: z.iso.datetime({ offset: true }).pipe(z.coerce.date()),
+            // The code does not read Tanggal, Jam, Lintang, and Bujur.
+            // Since zod 4.4, `z.unknown()` fails on a missing key, so
+            // these fields are optional to accept a missing key.
+            Tanggal: z.unknown().optional(),
+            Jam: z.unknown().optional(),
+            // Since zod 4.5, `z.iso.datetime()` requires seconds. The union also
+            // accepts a time without seconds, as zod 4.2.1 did.
+            DateTime: z
+              .union([
+                z.iso.datetime({ offset: true }),
+                z.iso.datetime({ offset: true, precision: -1 }),
+              ])
+              .pipe(z.coerce.date()),
             Coordinates: coordinatesSchema,
-            Lintang: z.unknown(),
-            Bujur: z.unknown(),
+            Lintang: z.unknown().optional(),
+            Bujur: z.unknown().optional(),
             Magnitude: z.string().transform((value) => parseFloat(value)),
             Kedalaman: depthSchema,
             Wilayah: z.string(),
