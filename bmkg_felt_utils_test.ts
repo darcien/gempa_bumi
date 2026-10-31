@@ -1,44 +1,50 @@
+import { readFile } from "node:fs/promises";
+import { test } from "node:test";
 import { assertEquals, assertExists } from "@std/assert";
+import feltSample from "./bmkg_felt_response_sample.json" with { type: "json" };
 import {
+  type BmkgEarthquakeId,
+  computeBmkgEarthquakeId,
+  computeFingerprintSha1,
   coordinatesSchema,
   createBmkgApiResSchema,
   depthSchema,
   type Earthquake,
+  getBmkgShakeMapUrl,
   mergeFeltEarthquakes,
 } from "./bmkg_felt_utils.ts";
-import feltSample from "./bmkg_felt_response_sample.json" with { type: "json" };
 
-Deno.test("coordinatesSchema - parse positive latitude and longitude", () => {
+test("coordinatesSchema - parse positive latitude and longitude", () => {
   const result = coordinatesSchema.parse("1.47,126.34");
   assertEquals(result, { latitude: 1.47, longitude: 126.34 });
 });
 
-Deno.test("coordinatesSchema - parse negative latitude and positive longitude", () => {
+test("coordinatesSchema - parse negative latitude and positive longitude", () => {
   const result = coordinatesSchema.parse("-4.46,102.60");
-  assertEquals(result, { latitude: -4.46, longitude: 102.60 });
+  assertEquals(result, { latitude: -4.46, longitude: 102.6 });
 });
 
-Deno.test("coordinatesSchema - parse negative latitude and longitude", () => {
+test("coordinatesSchema - parse negative latitude and longitude", () => {
   const result = coordinatesSchema.parse("-8.06,119.24");
   assertEquals(result, { latitude: -8.06, longitude: 119.24 });
 });
 
-Deno.test("depthSchema - parse depth in kilometers", () => {
+test("depthSchema - parse depth in kilometers", () => {
   const result = depthSchema.parse("30 km");
   assertEquals(result, 30);
 });
 
-Deno.test("depthSchema - parse single digit depth", () => {
+test("depthSchema - parse single digit depth", () => {
   const result = depthSchema.parse("2 km");
   assertEquals(result, 2);
 });
 
-Deno.test("depthSchema - parse triple digit depth", () => {
+test("depthSchema - parse triple digit depth", () => {
   const result = depthSchema.parse("102 km");
   assertEquals(result, 102);
 });
 
-Deno.test("bmkgApiResSchema - parse complete raw.json sample data", () => {
+test("bmkgApiResSchema - parse complete raw.json sample data", () => {
   const fixedNow = new Date("2025-12-25T00:00:00Z");
   const schema = createBmkgApiResSchema(fixedNow);
   const result = schema.parse(feltSample);
@@ -47,7 +53,7 @@ Deno.test("bmkgApiResSchema - parse complete raw.json sample data", () => {
   assertEquals(result.length, 15);
 });
 
-Deno.test("bmkgApiResSchema - parse first earthquake from raw.json", () => {
+test("bmkgApiResSchema - parse first earthquake from raw.json", () => {
   const fixedNow = new Date("2025-12-25T00:00:00Z");
   const schema = createBmkgApiResSchema(fixedNow);
   const result = schema.parse(feltSample);
@@ -87,7 +93,7 @@ Deno.test("bmkgApiResSchema - parse first earthquake from raw.json", () => {
   );
 });
 
-Deno.test("bmkgApiResSchema - parse earthquake with negative coordinates", () => {
+test("bmkgApiResSchema - parse earthquake with negative coordinates", () => {
   const fixedNow = new Date("2025-12-25T00:00:00Z");
   const schema = createBmkgApiResSchema(fixedNow);
   const result = schema.parse(feltSample);
@@ -100,7 +106,7 @@ Deno.test("bmkgApiResSchema - parse earthquake with negative coordinates", () =>
   assertEquals(earthquake.depthInKm, 17);
 });
 
-Deno.test("bmkgApiResSchema - parse earthquake with positive coordinates", () => {
+test("bmkgApiResSchema - parse earthquake with positive coordinates", () => {
   const fixedNow = new Date("2025-12-25T00:00:00Z");
   const schema = createBmkgApiResSchema(fixedNow);
   const result = schema.parse(feltSample);
@@ -113,7 +119,7 @@ Deno.test("bmkgApiResSchema - parse earthquake with positive coordinates", () =>
   assertEquals(earthquake.depthInKm, 27);
 });
 
-Deno.test("bmkgApiResSchema - handle future earthquake with meta flag", () => {
+test("bmkgApiResSchema - handle future earthquake with meta flag", () => {
   // Set "now" to before the earthquakes to trigger future earthquake flag
   const fixedNow = new Date("2025-12-01T00:00:00Z");
   const schema = createBmkgApiResSchema(fixedNow);
@@ -126,7 +132,7 @@ Deno.test("bmkgApiResSchema - handle future earthquake with meta flag", () => {
   assertEquals(firstEarthquake.meta?.erroneousDataReason, "FUTURE_EARTHQUAKE");
 });
 
-Deno.test("bmkgApiResSchema - no meta flag for past earthquakes", () => {
+test("bmkgApiResSchema - no meta flag for past earthquakes", () => {
   // Set "now" to after the earthquakes
   const fixedNow = new Date("2025-12-26T00:00:00Z");
   const schema = createBmkgApiResSchema(fixedNow);
@@ -138,7 +144,7 @@ Deno.test("bmkgApiResSchema - no meta flag for past earthquakes", () => {
   assertEquals(firstEarthquake.meta, undefined);
 });
 
-Deno.test("bmkgApiResSchema - fingerprint SHA1 is consistent", () => {
+test("bmkgApiResSchema - fingerprint SHA1 is consistent", () => {
   const fixedNow = new Date("2025-12-25T00:00:00Z");
   const schema = createBmkgApiResSchema(fixedNow);
   const result = schema.parse(feltSample);
@@ -150,7 +156,7 @@ Deno.test("bmkgApiResSchema - fingerprint SHA1 is consistent", () => {
   assertEquals(/^[a-f0-9]+$/.test(firstEarthquake.fingerprintSha1), true);
 });
 
-Deno.test("mergeFeltEarthquakes - merge by bmkgEarthquakeId", () => {
+test("mergeFeltEarthquakes - merge by bmkgEarthquakeId", () => {
   const staleEarthquakes: Earthquake[] = [
     {
       bmkgEarthquakeId: "20251224123034",
@@ -194,7 +200,7 @@ Deno.test("mergeFeltEarthquakes - merge by bmkgEarthquakeId", () => {
   assertEquals(result[0].bmkgEarthquakeId, "20251224123034");
 });
 
-Deno.test("mergeFeltEarthquakes - add new earthquake", () => {
+test("mergeFeltEarthquakes - add new earthquake", () => {
   const staleEarthquakes: Earthquake[] = [
     {
       bmkgEarthquakeId: "20251224123034",
@@ -238,7 +244,7 @@ Deno.test("mergeFeltEarthquakes - add new earthquake", () => {
   assertEquals(ids.includes("20251223111036"), true);
 });
 
-Deno.test("mergeFeltEarthquakes - merge by fingerprintSha1", () => {
+test("mergeFeltEarthquakes - merge by fingerprintSha1", () => {
   const staleEarthquakes: Earthquake[] = [
     {
       bmkgEarthquakeId: "20251224123034",
@@ -282,7 +288,7 @@ Deno.test("mergeFeltEarthquakes - merge by fingerprintSha1", () => {
   assertEquals(result[0].fingerprintSha1, "abc123");
 });
 
-Deno.test("mergeFeltEarthquakes - empty stale earthquakes", () => {
+test("mergeFeltEarthquakes - empty stale earthquakes", () => {
   const staleEarthquakes: Earthquake[] = [];
 
   const freshEarthquakes: Earthquake[] = [
@@ -309,7 +315,7 @@ Deno.test("mergeFeltEarthquakes - empty stale earthquakes", () => {
   assertEquals(result[0].bmkgEarthquakeId, "20251224123034");
 });
 
-Deno.test("mergeFeltEarthquakes - empty fresh earthquakes", () => {
+test("mergeFeltEarthquakes - empty fresh earthquakes", () => {
   const staleEarthquakes: Earthquake[] = [
     {
       bmkgEarthquakeId: "20251224123034",
@@ -334,4 +340,44 @@ Deno.test("mergeFeltEarthquakes - empty fresh earthquakes", () => {
   // Should keep stale earthquake
   assertEquals(result.length, 1);
   assertEquals(result[0].bmkgEarthquakeId, "20251224123034");
+});
+
+// Node.js does not run the JSDoc examples as tests (`deno test --doc` did).
+// These tests cover the examples that had no test.
+test("computeBmkgEarthquakeId - convert UTC to WIB", () => {
+  const id = computeBmkgEarthquakeId(new Date("2022-12-18T22:50:14.000Z"));
+  assertEquals(id, "20221219055014");
+});
+
+test("computeBmkgEarthquakeId - pad single digit date components", () => {
+  const id = computeBmkgEarthquakeId(new Date("2022-01-09T02:03:05.000Z"));
+  assertEquals(id, "20220109090305");
+  assertEquals(id.length, 14);
+});
+
+test("getBmkgShakeMapUrl - build shake map URL", () => {
+  const url = getBmkgShakeMapUrl("20221219055014" as BmkgEarthquakeId);
+  assertEquals(url, "https://static.bmkg.go.id/20221219055014.mmi.jpg");
+});
+
+test("computeFingerprintSha1 - reproduce every stored fingerprint", async () => {
+  // The stored fingerprints were made on Deno. A change in the
+  // serialization changes the hash, and the merge then rewrites old rows.
+  const stored: Array<Earthquake> = JSON.parse(
+    await readFile("./earthquakes/bmkg_earthquakes_felt.json", "utf8"),
+  );
+  const mismatched = stored.filter(
+    (e) =>
+      computeFingerprintSha1({
+        earthquakeAt: e.earthquakeAt,
+        latitude: e.latitude,
+        longitude: e.longitude,
+        magnitude: e.magnitude,
+        depthInKm: e.depthInKm,
+      }) !== e.fingerprintSha1,
+  );
+  assertEquals(
+    mismatched.map((e) => e.bmkgEarthquakeId),
+    [],
+  );
 });

@@ -1,9 +1,11 @@
+import { readFile, writeFile } from "node:fs/promises";
+
 export async function readJsonFile(path: string) {
-  const text = await Deno.readTextFile(path);
+  const text = await readFile(path, "utf8");
   return JSON.parse(text);
 }
 
-// deno-lint-ignore no-explicit-any
+// biome-ignore lint/suspicious/noExplicitAny: callers pass any JSON value.
 export async function writeJsonFile(path: string, value: any) {
-  await Deno.writeTextFile(path, JSON.stringify(value, null, 2));
+  await writeFile(path, JSON.stringify(value, null, 2));
 }

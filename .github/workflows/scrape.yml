@@ -13,13 +13,15 @@ jobs:
     steps:
       - name: Check out this repo
         uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
-      - uses: denoland/setup-deno@e95548e56dfa95d4e1a28d6f422fafe75c4c26fb # v2.0.3
-        with:
-          deno-version: v2.x
-          cache: true
+      # Node.js is preinstalled on ubuntu-slim, so the job does not
+      # download a runtime. Only production dependencies are installed.
+      - name: Install dependencies
+        run: |-
+          node --version
+          npm ci --omit=dev --no-audit --no-fund
       - name: Fetch latest data
         run: |-
-          deno run --allow-all bmkg_felt.ts
+          node bmkg_felt.ts
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"

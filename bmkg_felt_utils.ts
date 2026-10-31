@@ -6,7 +6,7 @@
  * and merging earthquake datasets.
  */
 
-import hash from "hash";
+import { createHash } from "node:crypto";
 import { deepMerge } from "@std/collections/deep-merge";
 import { z } from "@zod/zod";
 
@@ -24,6 +24,52 @@ const bmkgEarthquakeIdSymbol: unique symbol = Symbol();
 export type BmkgEarthquakeId = string & {
   [bmkgEarthquakeIdSymbol]: "bmkgEarthquakeId";
 };
+
+/**
+ * Fields used to compute `fingerprintSha1`.
+ */
+export type FingerprintInput = {
+  earthquakeAt: string;
+  latitude: number;
+  longitude: number;
+  magnitude: number;
+  depthInKm: number;
+};
+
+/**
+ * Serialization prefix for a plain object, as written by
+ * `deno.land/x/object_hash@2.0.3.1` when it runs on Deno.
+ * Deno deletes `Object.prototype.__proto__`, so `__proto__` is `Undefined`.
+ * The npm `object-hash` package on Node.js serializes `Object.prototype`
+ * here instead, and gives a different hash. Do not replace this function
+ * with npm `object-hash`.
+ */
+const FINGERPRINT_OBJECT_PREFIX =
+  "object:8:" +
+  "string:9:prototype:Undefined," +
+  "string:9:__proto__:Undefined," +
+  "string:11:constructor:fn:string:8:[native]string:20:function-name:Objectobject:0:,";
+
+/**
+ * Computes the SHA-1 fingerprint of an earthquake.
+ * The output is identical to `hash.sha1()` from
+ * `deno.land/x/object_hash@2.0.3.1` on Deno, which made all stored fingerprints.
+ */
+export function computeFingerprintSha1(input: FingerprintInput): string {
+  let serialized = FINGERPRINT_OBJECT_PREFIX;
+  for (const key of Object.keys(input).sort() as Array<
+    keyof FingerprintInput
+  >) {
+    const value = input[key];
+    serialized += `string:${key.length}:${key}:`;
+    serialized +=
+      typeof value === "number"
+        ? `number:${value}`
+        : `string:${value.length}:${value}`;
+    serialized += ",";
+  }
+  return createHash("sha1").update(serialized, "utf8").digest("hex");
+}
 
 function padTimeComponent(part: number) {
   return String(part).padStart(2, "0");
@@ -197,7 +243,7 @@ export function createBmkgApiResSchema(now: Date = new Date()) {
           earthquakeAt: earthquakeAtIso,
           bmkgEarthquakeId,
           shakeMapUrl,
-          fingerprintSha1: hash.sha1({
+          fingerprintSha1: computeFingerprintSha1({
             earthquakeAt: earthquakeAtIso,
             latitude: fresh.latitude,
             longitude: fresh.longitude,
@@ -208,16 +254,14 @@ export function createBmkgApiResSchema(now: Date = new Date()) {
             ? { meta: { erroneousDataReason: "FUTURE_EARTHQUAKE" as const } }
             : null),
         } satisfies Earthquake;
-      })
+      }),
     );
 }
 
 /**
  * Key used for merging earthquake datasets.
  */
-export type MergeKey =
-  | "fingerprintSha1"
-  | "bmkgEarthquakeId";
+export type MergeKey = "fingerprintSha1" | "bmkgEarthquakeId";
 
 /**
  * Reason for marking earthquake data as erroneous.
@@ -273,10 +317,7 @@ export function mergeFeltEarthquakes(
     const key = fresh[mergeKey];
     const old = merged.get(key);
     if (old) {
-      merged.set(
-        key,
-        deepMerge(old, fresh, DEEP_MERGE_OPTIONS),
-      );
+      merged.set(key, deepMerge(old, fresh, DEEP_MERGE_OPTIONS));
     } else {
       merged.set(key, fresh);
     }

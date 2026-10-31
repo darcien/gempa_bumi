@@ -5,16 +5,17 @@
  *
  * @example Run the script
  * ```sh
- * deno run --allow-net --allow-read --allow-write --allow-env bmkg_felt.ts
+ * node bmkg_felt.ts
  * ```
  */
 
-import { logIfCi } from "./ci_utils.ts";
-import { readJsonFile, writeJsonFile } from "./utils.ts";
+import process from "node:process";
 import {
   createBmkgApiResSchema,
   mergeFeltEarthquakes,
 } from "./bmkg_felt_utils.ts";
+import { logIfCi } from "./ci_utils.ts";
+import { readJsonFile, writeJsonFile } from "./utils.ts";
 
 const EARTHQUAKE_FELT_JSON_PATH = "./earthquakes/bmkg_earthquakes_felt.json";
 
@@ -52,5 +53,5 @@ try {
   await syncFeltEarthquakes();
 } catch (error) {
   console.error(error);
-  Deno.exit(1);
+  process.exitCode = 1;
 }
