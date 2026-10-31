@@ -413,14 +413,48 @@ test("mergeFeltEarthquakes - merge meta when both have meta", () => {
     mergeKey: "bmkgEarthquakeId",
   });
 
-  assert.deepStrictEqual(result, [
-    makeEarthquake({
-      meta: {
-        legacyNote: "kept",
-        erroneousDataReason: "FUTURE_EARTHQUAKE",
-      } as Earthquake["meta"],
-    }),
-  ]);
+  // Compare JSON text, because `deepStrictEqual` ignores key order.
+  assert.strictEqual(
+    JSON.stringify(result),
+    JSON.stringify([
+      makeEarthquake({
+        meta: {
+          legacyNote: "kept",
+          erroneousDataReason: "FUTURE_EARTHQUAKE",
+        } as Earthquake["meta"],
+      }),
+    ]),
+  );
+});
+
+test("mergeFeltEarthquakes - add no meta when neither has meta", () => {
+  // An empty `meta` in every row would rewrite the data file on each run.
+  const stale = makeEarthquake();
+  const fresh = makeEarthquake({ locationInIndonesian: "New location" });
+
+  const result = mergeFeltEarthquakes([stale], [fresh], {
+    mergeKey: "bmkgEarthquakeId",
+  });
+
+  assert.strictEqual(
+    JSON.stringify(result),
+    JSON.stringify([makeEarthquake({ locationInIndonesian: "New location" })]),
+  );
+});
+
+test("mergeFeltEarthquakes - do not mutate input records", () => {
+  const stale = makeEarthquake({ meta: {} });
+  const fresh = makeEarthquake({
+    locationInIndonesian: "New location",
+    meta: { erroneousDataReason: "FUTURE_EARTHQUAKE" },
+  });
+  const staleBefore = structuredClone(stale);
+  const freshBefore = structuredClone(fresh);
+
+  mergeFeltEarthquakes([stale], [fresh], { mergeKey: "bmkgEarthquakeId" });
+
+  assert.deepStrictEqual(stale, staleBefore);
+  assert.deepStrictEqual(fresh, freshBefore);
 });
 
 test("mergeFeltEarthquakes - keep stale key order in JSON output", () => {

@@ -290,7 +290,11 @@ export type Earthquake = {
  * `meta` is the only nested field, and it is merged one level deep.
  * The result keeps the key order of the stale record, then adds new fresh keys.
  * This gives the same result as `deepMerge()` from `@std/collections`,
- * which this function replaces.
+ * which this function replaces, only while these conditions are true:
+ * - `meta` is a plain object or is not set.
+ * - All other fields are primitive values.
+ * - No record has a `__proto__` key.
+ * If a new field holds an object, update this function.
  */
 function mergeEarthquake(stale: Earthquake, fresh: Earthquake): Earthquake {
   const merged = { ...stale, ...fresh };
