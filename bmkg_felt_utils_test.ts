@@ -342,6 +342,109 @@ test("mergeFeltEarthquakes - empty fresh earthquakes", () => {
   assertEquals(result[0].bmkgEarthquakeId, "20251224123034");
 });
 
+function makeEarthquake(overrides: Partial<Earthquake> = {}): Earthquake {
+  return {
+    bmkgEarthquakeId: "20251224123034",
+    fingerprintSha1: "abc123",
+    earthquakeAt: "2025-12-24T05:30:34.000Z",
+    latitude: -4.46,
+    longitude: 102.6,
+    magnitude: 4.6,
+    depthInKm: 30,
+    locationInIndonesian: "Location",
+    feltOnStations: "Stations",
+    shakeMapUrl: "https://static.bmkg.go.id/20251224123034.mmi.jpg",
+    ...overrides,
+  };
+}
+
+test("mergeFeltEarthquakes - keep stale meta when fresh has no meta", () => {
+  // A stored FUTURE_EARTHQUAKE flag stays after the earthquake time passes.
+  const stale = makeEarthquake({
+    meta: { erroneousDataReason: "FUTURE_EARTHQUAKE" },
+  });
+  const fresh = makeEarthquake({ locationInIndonesian: "New location" });
+
+  const result = mergeFeltEarthquakes([stale], [fresh], {
+    mergeKey: "bmkgEarthquakeId",
+  });
+
+  assertEquals(result, [
+    makeEarthquake({
+      locationInIndonesian: "New location",
+      meta: { erroneousDataReason: "FUTURE_EARTHQUAKE" },
+    }),
+  ]);
+});
+
+test("mergeFeltEarthquakes - add fresh meta when stale has no meta", () => {
+  const stale = makeEarthquake();
+  const fresh = makeEarthquake({
+    meta: { erroneousDataReason: "FUTURE_EARTHQUAKE" },
+  });
+
+  const result = mergeFeltEarthquakes([stale], [fresh], {
+    mergeKey: "bmkgEarthquakeId",
+  });
+
+  assertEquals(result, [
+    makeEarthquake({ meta: { erroneousDataReason: "FUTURE_EARTHQUAKE" } }),
+  ]);
+});
+
+test("mergeFeltEarthquakes - merge meta when both have meta", () => {
+  // `legacyNote` is only in stale meta, so a replace drops it.
+  const staleMeta = { legacyNote: "kept" } as Earthquake["meta"];
+  const stale = makeEarthquake({ meta: staleMeta });
+  const fresh = makeEarthquake({
+    meta: { erroneousDataReason: "FUTURE_EARTHQUAKE" },
+  });
+
+  const result = mergeFeltEarthquakes([stale], [fresh], {
+    mergeKey: "bmkgEarthquakeId",
+  });
+
+  assertEquals(result, [
+    makeEarthquake({
+      meta: {
+        legacyNote: "kept",
+        erroneousDataReason: "FUTURE_EARTHQUAKE",
+      } as Earthquake["meta"],
+    }),
+  ]);
+});
+
+test("mergeFeltEarthquakes - keep stale key order in JSON output", () => {
+  // The output is written to the data file. A change in key order
+  // rewrites every stored row in the next commit.
+  const stale = {
+    ...makeEarthquake({ meta: { erroneousDataReason: "FUTURE_EARTHQUAKE" } }),
+    legacyField: "kept",
+  } as Earthquake;
+  const { bmkgEarthquakeId, ...rest } = makeEarthquake({
+    feltOnStations: "New stations",
+  });
+  // Same fields, but `bmkgEarthquakeId` is last.
+  const fresh: Earthquake = { ...rest, bmkgEarthquakeId };
+
+  const result = mergeFeltEarthquakes([stale], [fresh], {
+    mergeKey: "bmkgEarthquakeId",
+  });
+
+  assertEquals(
+    JSON.stringify(result),
+    JSON.stringify([
+      {
+        ...makeEarthquake({
+          feltOnStations: "New stations",
+          meta: { erroneousDataReason: "FUTURE_EARTHQUAKE" },
+        }),
+        legacyField: "kept",
+      },
+    ]),
+  );
+});
+
 // Node.js does not run the JSDoc examples as tests (`deno test --doc` did).
 // These tests cover the examples that had no test.
 test("computeBmkgEarthquakeId - convert UTC to WIB", () => {
