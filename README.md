@@ -1,5 +1,8 @@
 # gempa_bumi
 
+[![scraper](https://img.shields.io/github/actions/workflow/status/darcien/gempa_bumi/scrape.yml?event=schedule&label=scraper&style=flat-square)](https://github.com/darcien/gempa_bumi/actions/workflows/scrape.yml)
+[![last scraper run](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fdarcien%2Fgempa_bumi%2Factions%2Fworkflows%2Fscrape.yml%2Fruns%3Fper_page%3D1%26event%3Dschedule&query=%24.workflow_runs%5B0%5D.run_started_at&label=last%20scraper%20run&style=flat-square)](https://github.com/darcien/gempa_bumi/actions/workflows/scrape.yml)
+
 Historical data of earthquakes scraped from
 [Indonesia's BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)](https://www.bmkg.go.id/).
 
