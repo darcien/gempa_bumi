@@ -44011,5 +44011,17 @@
     "bmkgEarthquakeId": "20261101034849",
     "shakeMapUrl": "https://static.bmkg.go.id/20261101034849.mmi.jpg",
     "fingerprintSha1": "7bd83576cb1bc0a1dd61a4dd9e0b6c323a6541c0"
+  },
+  {
+    "earthquakeAt": "2026-11-01T05:38:59.000Z",
+    "latitude": 4.79,
+    "longitude": 96.2,
+    "magnitude": 4.1,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 24 km Barat Daya Kab. Pidie Jaya-Aceh",
+    "feltOnStations": "",
+    "bmkgEarthquakeId": "20261101123859",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261101123859.mmi.jpg",
+    "fingerprintSha1": "87e6b4c7fb9b3e71660ef34b5ae21716b96db7a6"
   }
 ]
