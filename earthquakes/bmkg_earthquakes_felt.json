@@ -44035,5 +44035,29 @@
     "bmkgEarthquakeId": "20261102075311",
     "shakeMapUrl": "https://static.bmkg.go.id/20261102075311.mmi.jpg",
     "fingerprintSha1": "4430d185b5e3a16e12e4b88d002f01ba342756f4"
+  },
+  {
+    "earthquakeAt": "2026-11-02T09:58:58.000Z",
+    "latitude": -2.49,
+    "longitude": 140.66,
+    "magnitude": 2.6,
+    "depthInKm": 8,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km Utara Kota Jayapura",
+    "feltOnStations": "III Jayapura",
+    "bmkgEarthquakeId": "20261102165858",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261102165858.mmi.jpg",
+    "fingerprintSha1": "e9cd622e60fd21e5409d228653b4556a0a73c088"
+  },
+  {
+    "earthquakeAt": "2026-11-02T08:13:10.000Z",
+    "latitude": 1.31,
+    "longitude": 124.83,
+    "magnitude": 5.3,
+    "depthInKm": 148,
+    "locationInIndonesian": "Pusat gempa berada di darat 1 km Barat Daya Tomohon",
+    "feltOnStations": "II - III Ternate, II Minahasa",
+    "bmkgEarthquakeId": "20261102151310",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261102151310.mmi.jpg",
+    "fingerprintSha1": "2298a015fb98225acc15b67c084556958fff2157"
   }
 ]
