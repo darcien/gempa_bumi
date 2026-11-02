@@ -44023,5 +44023,17 @@
     "bmkgEarthquakeId": "20261101123859",
     "shakeMapUrl": "https://static.bmkg.go.id/20261101123859.mmi.jpg",
     "fingerprintSha1": "87e6b4c7fb9b3e71660ef34b5ae21716b96db7a6"
+  },
+  {
+    "earthquakeAt": "2026-11-02T00:53:11.000Z",
+    "latitude": -7.08,
+    "longitude": 130.07,
+    "magnitude": 5.5,
+    "depthInKm": 130,
+    "locationInIndonesian": "Pusat gempa berada di laut 169 km BaratLaut Tanimbar",
+    "feltOnStations": "II Saumlaki",
+    "bmkgEarthquakeId": "20261102075311",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261102075311.mmi.jpg",
+    "fingerprintSha1": "4430d185b5e3a16e12e4b88d002f01ba342756f4"
   }
 ]
