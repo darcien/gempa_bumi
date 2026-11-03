@@ -44059,5 +44059,29 @@
     "bmkgEarthquakeId": "20261102151310",
     "shakeMapUrl": "https://static.bmkg.go.id/20261102151310.mmi.jpg",
     "fingerprintSha1": "2298a015fb98225acc15b67c084556958fff2157"
+  },
+  {
+    "earthquakeAt": "2026-11-03T15:37:50.000Z",
+    "latitude": -0.2,
+    "longitude": 123.32,
+    "magnitude": 4.8,
+    "depthInKm": 87,
+    "locationInIndonesian": "Pusat gempa berada di laut 86 km Selatan Kota Gorontalo",
+    "feltOnStations": "III Kab. Gorontalo, II - III Kab. Bone Bolango, II - III Kab. Gorontalo Utara, II - III Kota Gorontalo, II - III Kab. Banggai, II - III Kab. Banggai Kepulauan",
+    "bmkgEarthquakeId": "20261103223750",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261103223750.mmi.jpg",
+    "fingerprintSha1": "50b146002216df99258611e7e8cb9d756a36fde0"
+  },
+  {
+    "earthquakeAt": "2026-11-03T11:43:49.000Z",
+    "latitude": -8.27,
+    "longitude": 120.63,
+    "magnitude": 4.2,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 42 km Timur Laut Ruteng, Manggarai",
+    "feltOnStations": "II - III Kab. Nagekeo, II - III Kab. Manggarai",
+    "bmkgEarthquakeId": "20261103184349",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261103184349.mmi.jpg",
+    "fingerprintSha1": "035c4ef7ee1bf59be865e010b0304071a9ff9cf7"
   }
 ]
