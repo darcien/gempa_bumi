@@ -44083,5 +44083,17 @@
     "bmkgEarthquakeId": "20261103184349",
     "shakeMapUrl": "https://static.bmkg.go.id/20261103184349.mmi.jpg",
     "fingerprintSha1": "035c4ef7ee1bf59be865e010b0304071a9ff9cf7"
+  },
+  {
+    "earthquakeAt": "2026-11-03T20:28:35.000Z",
+    "latitude": -2.08,
+    "longitude": 121.02,
+    "magnitude": 4.1,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di darat 61 km utara Luwu Timur",
+    "feltOnStations": "II - III Morowali Utara",
+    "bmkgEarthquakeId": "20261104032835",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261104032835.mmi.jpg",
+    "fingerprintSha1": "cedda1ed989f1d4722efcfd1f7cf016083332ab3"
   }
 ]
