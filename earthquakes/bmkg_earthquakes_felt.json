@@ -44095,5 +44095,29 @@
     "bmkgEarthquakeId": "20261104032835",
     "shakeMapUrl": "https://static.bmkg.go.id/20261104032835.mmi.jpg",
     "fingerprintSha1": "cedda1ed989f1d4722efcfd1f7cf016083332ab3"
+  },
+  {
+    "earthquakeAt": "2026-11-04T00:50:34.000Z",
+    "latitude": -7.94,
+    "longitude": 120.89,
+    "magnitude": 4.4,
+    "depthInKm": 15,
+    "locationInIndonesian": "Pusat gempa berada di laut 88 km timur laut Ruteng, Manggarai",
+    "feltOnStations": "III Kab. Manggarai",
+    "bmkgEarthquakeId": "20261104075034",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261104075034.mmi.jpg",
+    "fingerprintSha1": "39f6475cb35c51dc2fbeaa30c8089efdba4e0ae6"
+  },
+  {
+    "earthquakeAt": "2026-11-04T00:46:08.000Z",
+    "latitude": -3.22,
+    "longitude": 135.53,
+    "magnitude": 4.6,
+    "depthInKm": 23,
+    "locationInIndonesian": "Pusat gempa berada di laut 16 km utara Nabire",
+    "feltOnStations": "II - III Nabire",
+    "bmkgEarthquakeId": "20261104074608",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261104074608.mmi.jpg",
+    "fingerprintSha1": "9fe191e579080721a8d7ae12c14c1e6de4b11108"
   }
 ]
