@@ -44143,5 +44143,41 @@
     "bmkgEarthquakeId": "20261106173055",
     "shakeMapUrl": "https://static.bmkg.go.id/20261106173055.mmi.jpg",
     "fingerprintSha1": "95b05b9de97371817d50ecf56e401772d3a67247"
+  },
+  {
+    "earthquakeAt": "2026-11-06T19:07:01.000Z",
+    "latitude": -1.13,
+    "longitude": 120.22,
+    "magnitude": 4.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 47 km Timur Laut Sigi",
+    "feltOnStations": "IV Sigi, III Palu",
+    "bmkgEarthquakeId": "20261107020701",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261107020701.mmi.jpg",
+    "fingerprintSha1": "811bbb2bec30a3904a1fb1fd68888b44c8400165"
+  },
+  {
+    "earthquakeAt": "2026-11-06T18:32:08.000Z",
+    "latitude": -8.48,
+    "longitude": 115.87,
+    "magnitude": 3.5,
+    "depthInKm": 18,
+    "locationInIndonesian": "Pusat gempa berada di laut 34 km barat daya Lombok Utara",
+    "feltOnStations": "II Mataram, II Lombok Barat, II Lombok Tengah",
+    "bmkgEarthquakeId": "20261107013208",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261107013208.mmi.jpg",
+    "fingerprintSha1": "25ebf691fa1fc8d8fd1c393e946e856532cfc177"
+  },
+  {
+    "earthquakeAt": "2026-11-06T17:38:52.000Z",
+    "latitude": -2.96,
+    "longitude": 122.31,
+    "magnitude": 3.3,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 54 km Tenggara Morowali",
+    "feltOnStations": "II - III Bungku Morowali",
+    "bmkgEarthquakeId": "20261107003852",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261107003852.mmi.jpg",
+    "fingerprintSha1": "3a641c38d65c9b3ea2f94f61e71c2fa21e81b2f8"
   }
 ]
