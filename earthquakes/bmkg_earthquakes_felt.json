@@ -44131,5 +44131,17 @@
     "bmkgEarthquakeId": "20261104145634",
     "shakeMapUrl": "https://static.bmkg.go.id/20261104145634.mmi.jpg",
     "fingerprintSha1": "0d450ccbf4ffecb16e9671f747d07f6c08bb7ba9"
+  },
+  {
+    "earthquakeAt": "2026-11-06T10:30:55.000Z",
+    "latitude": -1.19,
+    "longitude": 98.73,
+    "magnitude": 4.3,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di darat 130 km barat laut Kep. Mentawai",
+    "feltOnStations": "III Siberut Barat, III Siberut Utara, II Siberut Tengah, I Kab. Nias Selatan",
+    "bmkgEarthquakeId": "20261106173055",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261106173055.mmi.jpg",
+    "fingerprintSha1": "95b05b9de97371817d50ecf56e401772d3a67247"
   }
 ]
