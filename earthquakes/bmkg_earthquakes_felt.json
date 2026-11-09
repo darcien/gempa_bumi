@@ -44203,5 +44203,17 @@
     "bmkgEarthquakeId": "20261108015412",
     "shakeMapUrl": "https://static.bmkg.go.id/20261108015412.mmi.jpg",
     "fingerprintSha1": "867c2f6a6a54796162976c220857a244c6e50ca3"
+  },
+  {
+    "earthquakeAt": "2026-11-09T00:44:58.000Z",
+    "latitude": 1.06,
+    "longitude": 127.47,
+    "magnitude": 2.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 1 km timur Jailolo",
+    "feltOnStations": "II Kab. Halmahera Barat",
+    "bmkgEarthquakeId": "20261109074458",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261109074458.mmi.jpg",
+    "fingerprintSha1": "f294f818b359a28580fa675ac6e171f0955f66b8"
   }
 ]
