@@ -44215,5 +44215,29 @@
     "bmkgEarthquakeId": "20261109074458",
     "shakeMapUrl": "https://static.bmkg.go.id/20261109074458.mmi.jpg",
     "fingerprintSha1": "f294f818b359a28580fa675ac6e171f0955f66b8"
+  },
+  {
+    "earthquakeAt": "2026-11-09T10:38:54.000Z",
+    "latitude": -8.34,
+    "longitude": 121.52,
+    "magnitude": 3.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 44 km timur laut Mbay-Nagekeo",
+    "feltOnStations": "II - III Kab. Nagekeo",
+    "bmkgEarthquakeId": "20261109173854",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261109173854.mmi.jpg",
+    "fingerprintSha1": "dafe46e6411f92322ee99a8694053c7ad17bb60a"
+  },
+  {
+    "earthquakeAt": "2026-11-09T09:48:29.000Z",
+    "latitude": -2.93,
+    "longitude": 130.44,
+    "magnitude": 5.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 20 km barat laut Seram Bagian Timur",
+    "feltOnStations": "III-IV Kecamatan Bula",
+    "bmkgEarthquakeId": "20261109164829",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261109164829.mmi.jpg",
+    "fingerprintSha1": "b864cbdced1ce2229e72ccae236ab72a537c054f"
   }
 ]
