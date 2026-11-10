@@ -44263,5 +44263,29 @@
     "bmkgEarthquakeId": "20261110074912",
     "shakeMapUrl": "https://static.bmkg.go.id/20261110074912.mmi.jpg",
     "fingerprintSha1": "c217812200cb2c02d641fba664245e50902bb7c2"
+  },
+  {
+    "earthquakeAt": "2026-11-10T14:31:38.000Z",
+    "latitude": -7.04,
+    "longitude": 106.98,
+    "magnitude": 4,
+    "depthInKm": 102,
+    "locationInIndonesian": "Pusat gempa berada di darat 15 km selatan Kota Sukabumi",
+    "feltOnStations": "III Cianjur, II Sukabumi, II - III Ciwidey, II - III Pangalengan, II - III Nagrak, II Kec. Kebonpedes, II Cihanjuang, II Padalarang, II Cihideung, II Ngamprah, II Cisarua, II Lembang, II Karawang Selatan",
+    "bmkgEarthquakeId": "20261110213138",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261110213138.mmi.jpg",
+    "fingerprintSha1": "6dc1882acd07a2df01bd4d039cdaebbf39fc00de"
+  },
+  {
+    "earthquakeAt": "2026-11-10T08:34:04.000Z",
+    "latitude": -0.19,
+    "longitude": 132.98,
+    "magnitude": 5.3,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 69 km barat laut Kebar Manokwari",
+    "feltOnStations": "II - III Manokwari",
+    "bmkgEarthquakeId": "20261110153404",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261110153404.mmi.jpg",
+    "fingerprintSha1": "782b2288329b9369dc51761c5d2707773590590b"
   }
 ]
