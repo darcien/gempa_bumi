@@ -44335,5 +44335,29 @@
     "bmkgEarthquakeId": "20261112181630",
     "shakeMapUrl": "https://static.bmkg.go.id/20261112181630.mmi.jpg",
     "fingerprintSha1": "a142a770ffc256d3c59feadf271c423637a12595"
+  },
+  {
+    "earthquakeAt": "2026-11-12T19:14:40.000Z",
+    "latitude": -8.2,
+    "longitude": 116.76,
+    "magnitude": 4.6,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di laut 32 km barat laut Pulau Panjang",
+    "feltOnStations": "III Kab. Sumbawa, III Kab. Sumbawa Barat, III Kab. Lombok Utara, III Kab. Lombok Timur, II Kota Mataram",
+    "bmkgEarthquakeId": "20261113021440",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261113021440.mmi.jpg",
+    "fingerprintSha1": "938c9af993431b1dc1ed83b8d859ab46e64ca540"
+  },
+  {
+    "earthquakeAt": "2026-11-12T14:19:05.000Z",
+    "latitude": -3.95,
+    "longitude": 121.66,
+    "magnitude": 1.9,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di darat 13 km utara Kolaka",
+    "feltOnStations": "II Kolaka",
+    "bmkgEarthquakeId": "20261112211905",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261112211905.mmi.jpg",
+    "fingerprintSha1": "cb402bd14c06bf568cd830ede5d6f4ce1b3877b1"
   }
 ]
