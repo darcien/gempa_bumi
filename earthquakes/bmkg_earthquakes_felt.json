@@ -44359,5 +44359,17 @@
     "bmkgEarthquakeId": "20261112211905",
     "shakeMapUrl": "https://static.bmkg.go.id/20261112211905.mmi.jpg",
     "fingerprintSha1": "cb402bd14c06bf568cd830ede5d6f4ce1b3877b1"
+  },
+  {
+    "earthquakeAt": "2026-11-13T04:49:34.000Z",
+    "latitude": -8.22,
+    "longitude": 116.77,
+    "magnitude": 4.9,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di laut 29 km Barat Laut PULAUPANJANG",
+    "feltOnStations": "IV Kab. Lombok Timur, III Kab. Lombok Tengah, III Kab. Lombok Barat, II-III Kota Mataram, II Kab. Sumbawa",
+    "bmkgEarthquakeId": "20261113114934",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261113114934.mmi.jpg",
+    "fingerprintSha1": "b6e883550a07904f765170cd45d4776f15e1a1e7"
   }
 ]
