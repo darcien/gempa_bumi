@@ -44407,5 +44407,29 @@
     "bmkgEarthquakeId": "20261116183657",
     "shakeMapUrl": "https://static.bmkg.go.id/20261116183657.mmi.jpg",
     "fingerprintSha1": "372b00560b89b9c931a6de5f15b8fd1d7e27fb38"
+  },
+  {
+    "earthquakeAt": "2026-11-16T23:30:16.000Z",
+    "latitude": -7,
+    "longitude": 106.95,
+    "magnitude": 2.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 10 km selatan Kota Sukabumi",
+    "feltOnStations": "III Nyalindung",
+    "bmkgEarthquakeId": "20261117063016",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261117063016.mmi.jpg",
+    "fingerprintSha1": "33ffde2170b6acb9664f9932c200237f021726bc"
+  },
+  {
+    "earthquakeAt": "2026-11-16T21:11:20.000Z",
+    "latitude": -6.03,
+    "longitude": 131.62,
+    "magnitude": 7.1,
+    "depthInKm": 115,
+    "locationInIndonesian": "Pusat gempa berada di 130km BaratDaya Maluku Tenggara",
+    "feltOnStations": "III Saumlaki, III Tiakur, III Dobo, III Sorong, III Manokwari, III Manokwari Selatan, III Bintuni, III Tual, III Fakfak, III Kaimana, II Nabire, II Serui",
+    "bmkgEarthquakeId": "20261117041120",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261117041120.mmi.jpg",
+    "fingerprintSha1": "bf4f621e16d8ffbc4eb7800efe54cfe419eb5ce8"
   }
 ]
