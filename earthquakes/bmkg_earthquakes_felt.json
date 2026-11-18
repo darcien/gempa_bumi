@@ -44443,5 +44443,65 @@
     "bmkgEarthquakeId": "20261117074917",
     "shakeMapUrl": "https://static.bmkg.go.id/20261117074917.mmi.jpg",
     "fingerprintSha1": "5eeb90c1521a055e91d7cb2752a3dab6a6837797"
+  },
+  {
+    "earthquakeAt": "2026-11-18T04:43:31.000Z",
+    "latitude": -8.19,
+    "longitude": 120.55,
+    "magnitude": 4.8,
+    "depthInKm": 7,
+    "locationInIndonesian": "Pusat gempa berada di laut 48 km utara Ruteng, Manggarai",
+    "feltOnStations": "III-IV Kab. Manggarai",
+    "bmkgEarthquakeId": "20261118114331",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261118114331.mmi.jpg",
+    "fingerprintSha1": "560f3f09e71e60a0225e0e85e6e0871080b1a5d9"
+  },
+  {
+    "earthquakeAt": "2026-11-18T04:41:32.000Z",
+    "latitude": -8.17,
+    "longitude": 120.54,
+    "magnitude": 5.8,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 49 km timur laut Ruteng-Manggarai",
+    "feltOnStations": "IV-V Kab. Manggarai, II-III Kab. Ngada, III-IV Kab. Sumba Timur , III-IV Kab. Sumba Barat Daya, III-IV Kab. Manggarai Barat",
+    "bmkgEarthquakeId": "20261118114132",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261118114132.mmi.jpg",
+    "fingerprintSha1": "3cbcbd558157c729b7141cfd8c3165f1b5b26bfd"
+  },
+  {
+    "earthquakeAt": "2026-11-18T04:21:37.000Z",
+    "latitude": -8.16,
+    "longitude": 120.58,
+    "magnitude": 4.9,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 52 km utara Ruteng-Manggarai",
+    "feltOnStations": "III-IV Kab. Manggarai",
+    "bmkgEarthquakeId": "20261118112137",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261118112137.mmi.jpg",
+    "fingerprintSha1": "168c60320fa9f5baa7ae0419cc795639a9c92c44"
+  },
+  {
+    "earthquakeAt": "2026-11-18T04:11:52.000Z",
+    "latitude": -8.08,
+    "longitude": 120.54,
+    "magnitude": 4.3,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di laut 60 km utara Ruteng, Manggarai",
+    "feltOnStations": "II - III Kab. Manggarai",
+    "bmkgEarthquakeId": "20261118111152",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261118111152.mmi.jpg",
+    "fingerprintSha1": "8816e3a9bf3d3e6bbf57119b971f3539de7fa30d"
+  },
+  {
+    "earthquakeAt": "2026-11-18T03:24:03.000Z",
+    "latitude": -2.83,
+    "longitude": 136.73,
+    "magnitude": 5.3,
+    "depthInKm": 56,
+    "locationInIndonesian": "Pusat gempa berada di darat 75 km Barat Laut Intan Jaya",
+    "feltOnStations": "II-III Nabire",
+    "bmkgEarthquakeId": "20261118102403",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261118102403.mmi.jpg",
+    "fingerprintSha1": "73d581d0af638b41188255c31e0cb5c779024d99"
   }
 ]
