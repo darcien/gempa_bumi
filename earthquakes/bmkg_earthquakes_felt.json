@@ -44659,5 +44659,29 @@
     "bmkgEarthquakeId": "20261118115554",
     "shakeMapUrl": "https://static.bmkg.go.id/20261118115554.mmi.jpg",
     "fingerprintSha1": "ef6510abdd95e44b6fd42bf91f0960c4134ff94e"
+  },
+  {
+    "earthquakeAt": "2026-11-18T16:11:00.000Z",
+    "latitude": -8.1,
+    "longitude": 120.49,
+    "magnitude": 4,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di laut 57 km utara Ruteng - Manggarai",
+    "feltOnStations": "II Kab. Manggarai",
+    "bmkgEarthquakeId": "20261118231100",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261118231100.mmi.jpg",
+    "fingerprintSha1": "159a94dc61296bdc4642770927599525a586feab"
+  },
+  {
+    "earthquakeAt": "2026-11-18T15:43:09.000Z",
+    "latitude": -4.04,
+    "longitude": 122.46,
+    "magnitude": 2,
+    "depthInKm": 4,
+    "locationInIndonesian": "Pusat gempa berada di darat 9 km barat daya Kendari",
+    "feltOnStations": "II Kendari",
+    "bmkgEarthquakeId": "20261118224309",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261118224309.mmi.jpg",
+    "fingerprintSha1": "76fc31c74c3b4273016f7bfacd956e863e8985e4"
   }
 ]
