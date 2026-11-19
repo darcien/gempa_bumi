@@ -44695,5 +44695,29 @@
     "bmkgEarthquakeId": "20261119083448",
     "shakeMapUrl": "https://static.bmkg.go.id/20261119083448.mmi.jpg",
     "fingerprintSha1": "8b2fe6c43d644c229399a27a954f956049b1f3c5"
+  },
+  {
+    "earthquakeAt": "2026-11-19T09:08:41.000Z",
+    "latitude": -8.34,
+    "longitude": 117.52,
+    "magnitude": 3.5,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di darat 19 km timur laut Sumbawa",
+    "feltOnStations": "II - III Sumbawa",
+    "bmkgEarthquakeId": "20261119160841",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261119160841.mmi.jpg",
+    "fingerprintSha1": "9edae5e3155d65edabb16948a1d84fd23f140cb4"
+  },
+  {
+    "earthquakeAt": "2026-11-19T06:31:50.000Z",
+    "latitude": -2.49,
+    "longitude": 121.25,
+    "magnitude": 3.6,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di darat 20 km timur laut Luwu Timur",
+    "feltOnStations": "III Malili",
+    "bmkgEarthquakeId": "20261119133150",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261119133150.mmi.jpg",
+    "fingerprintSha1": "5e65480d5ff1f5c6ae6607a9d2922e93494e0f48"
   }
 ]
