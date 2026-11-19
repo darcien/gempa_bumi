@@ -44683,5 +44683,17 @@
     "bmkgEarthquakeId": "20261118224309",
     "shakeMapUrl": "https://static.bmkg.go.id/20261118224309.mmi.jpg",
     "fingerprintSha1": "76fc31c74c3b4273016f7bfacd956e863e8985e4"
+  },
+  {
+    "earthquakeAt": "2026-11-19T01:34:48.000Z",
+    "latitude": 0.47,
+    "longitude": 96.56,
+    "magnitude": 5.4,
+    "depthInKm": 12,
+    "locationInIndonesian": "Pusat gempa berada di laut 114 km Barat Daya Nias Barat",
+    "feltOnStations": "II Nias Selatan",
+    "bmkgEarthquakeId": "20261119083448",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261119083448.mmi.jpg",
+    "fingerprintSha1": "8b2fe6c43d644c229399a27a954f956049b1f3c5"
   }
 ]
