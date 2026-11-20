@@ -44731,5 +44731,53 @@
     "bmkgEarthquakeId": "20261120044240",
     "shakeMapUrl": "https://static.bmkg.go.id/20261120044240.mmi.jpg",
     "fingerprintSha1": "b0636c4cb99ad16e9470e79e26f651720edc5101"
+  },
+  {
+    "earthquakeAt": "2026-11-20T17:50:26.000Z",
+    "latitude": -7.51,
+    "longitude": 106.85,
+    "magnitude": 4.6,
+    "depthInKm": 17,
+    "locationInIndonesian": "Pusat gempa berada di laut 66 km selatan Kota Sukabumi",
+    "feltOnStations": "III Lengkong, III Pabuaran, III Ciemas, III Cidolog, II - III Palabuanratu, II - III Nagrak, II Kota Cimahi, II Ciparay, II Pangalengan, II Kab. Bandung",
+    "bmkgEarthquakeId": "20261121005026",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261121005026.mmi.jpg",
+    "fingerprintSha1": "faed3d59e1280d510d8990fc2f7829c8fe81d001"
+  },
+  {
+    "earthquakeAt": "2026-11-20T13:51:01.000Z",
+    "latitude": -8.1,
+    "longitude": 120.49,
+    "magnitude": 3.6,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di laut 57 km utara Ruteng-Manggarai",
+    "feltOnStations": "II - III Kab. Manggarai",
+    "bmkgEarthquakeId": "20261120205101",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261120205101.mmi.jpg",
+    "fingerprintSha1": "5730ccc13718d255e1c44a8c10148d8f53c4a2df"
+  },
+  {
+    "earthquakeAt": "2026-11-20T11:34:42.000Z",
+    "latitude": -3.88,
+    "longitude": 122.51,
+    "magnitude": 3.2,
+    "depthInKm": 6,
+    "locationInIndonesian": "Pusat gempa berada di laut 10 km Utara Kendari",
+    "feltOnStations": "III Kota Kendari, II - III Konawe Selatan",
+    "bmkgEarthquakeId": "20261120183442",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261120183442.mmi.jpg",
+    "fingerprintSha1": "a7c40f7b14f04e8864ee6b66e9b2a2d970a940fc"
+  },
+  {
+    "earthquakeAt": "2026-11-20T11:33:00.000Z",
+    "latitude": -3.93,
+    "longitude": 122.51,
+    "magnitude": 3.7,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 5 km Utara Kendari",
+    "feltOnStations": "III-IV Kota Kendari, II-III Konawe Selatan, III Konawe Utara",
+    "bmkgEarthquakeId": "20261120183300",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261120183300.mmi.jpg",
+    "fingerprintSha1": "81b8fec02330ca0b347797e4ad725d9bacd1dd25"
   }
 ]
