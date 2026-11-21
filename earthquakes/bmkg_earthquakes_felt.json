@@ -44815,5 +44815,17 @@
     "bmkgEarthquakeId": "20261121164211",
     "shakeMapUrl": "https://static.bmkg.go.id/20261121164211.mmi.jpg",
     "fingerprintSha1": "c42b3198403e8a9e9cbd26783ca51e246cfbd756"
+  },
+  {
+    "earthquakeAt": "2026-11-21T19:52:18.000Z",
+    "latitude": -1.27,
+    "longitude": 100.28,
+    "magnitude": 4.2,
+    "depthInKm": 55,
+    "locationInIndonesian": "Pusat gempa berada di laut 34 km Barat Pesisir Selatan",
+    "feltOnStations": "II - III Kota Padang, II - III Pesisir Selatan, I - II Solok",
+    "bmkgEarthquakeId": "20261122025218",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261122025218.mmi.jpg",
+    "fingerprintSha1": "7628b7e68d2740e5c350d1ec05c30cc647548037"
   }
 ]
