@@ -44803,5 +44803,17 @@
     "bmkgEarthquakeId": "20261121051605",
     "shakeMapUrl": "https://static.bmkg.go.id/20261121051605.mmi.jpg",
     "fingerprintSha1": "7f876ede32c2c6983359a01c781cc6aae75d4f02"
+  },
+  {
+    "earthquakeAt": "2026-11-21T09:42:11.000Z",
+    "latitude": -7.88,
+    "longitude": 127.51,
+    "magnitude": 7.2,
+    "depthInKm": 125,
+    "locationInIndonesian": "Pusat gempa berada di laut 43 km barat laut Maluku Barat Daya",
+    "feltOnStations": "IV Tiakur, III Saumlaki, III Waingapu, II-III Kupang, III Kab. Alor, IV Romang, IV Pulau Babar, II-III Kota Kupang, II-III Kab. Kupang, II-III Kab. Timur Tengah Utara, II-III Kab. Malaka, II-III Kab. Melu, II-III Kab. Lembata",
+    "bmkgEarthquakeId": "20261121164211",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261121164211.mmi.jpg",
+    "fingerprintSha1": "c42b3198403e8a9e9cbd26783ca51e246cfbd756"
   }
 ]
