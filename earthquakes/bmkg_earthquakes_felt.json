@@ -44839,5 +44839,17 @@
     "bmkgEarthquakeId": "20261122061601",
     "shakeMapUrl": "https://static.bmkg.go.id/20261122061601.mmi.jpg",
     "fingerprintSha1": "03fe32d4f824d41c4fc98d61329894a1c767756d"
+  },
+  {
+    "earthquakeAt": "2026-11-22T07:54:39.000Z",
+    "latitude": 3.12,
+    "longitude": 126.57,
+    "magnitude": 5.4,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 98 km BaratDaya Melonguane",
+    "feltOnStations": "II Tahuna",
+    "bmkgEarthquakeId": "20261122145439",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261122145439.mmi.jpg",
+    "fingerprintSha1": "ce94ad6b6886b3aad07f274c09b0a46df541cef4"
   }
 ]
