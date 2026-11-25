@@ -44851,5 +44851,29 @@
     "bmkgEarthquakeId": "20261122145439",
     "shakeMapUrl": "https://static.bmkg.go.id/20261122145439.mmi.jpg",
     "fingerprintSha1": "ce94ad6b6886b3aad07f274c09b0a46df541cef4"
+  },
+  {
+    "earthquakeAt": "2026-11-25T12:08:11.000Z",
+    "latitude": -0.43,
+    "longitude": 123.08,
+    "magnitude": 5.5,
+    "depthInKm": 56,
+    "locationInIndonesian": "Pusat gempa berada di laut 56 km timur laut Pulau Puah",
+    "feltOnStations": "III Luwuk, III Kota Gorontalo, III Kab. Gorontalo, III Bone Bolango, III Gorontalo Utara, III Pohuwato, III Minahasa Tenggara, III Boalemo",
+    "bmkgEarthquakeId": "20261125190811",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261125190811.mmi.jpg",
+    "fingerprintSha1": "69abbea707738c8e2b392fcabc7cb42358130a1b"
+  },
+  {
+    "earthquakeAt": "2026-11-25T05:33:27.000Z",
+    "latitude": -8.14,
+    "longitude": 120.49,
+    "magnitude": 4,
+    "depthInKm": 5,
+    "locationInIndonesian": "Pusat gempa berada di laut 53 km utara Ruteng-Manggarai",
+    "feltOnStations": "II Kab. Manggarai",
+    "bmkgEarthquakeId": "20261125123327",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261125123327.mmi.jpg",
+    "fingerprintSha1": "e150c1234edf6fa57834f7dc863d312aa576e488"
   }
 ]
