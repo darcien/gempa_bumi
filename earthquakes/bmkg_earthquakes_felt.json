@@ -44899,5 +44899,53 @@
     "bmkgEarthquakeId": "20261126224036",
     "shakeMapUrl": "https://static.bmkg.go.id/20261126224036.mmi.jpg",
     "fingerprintSha1": "10ee3b532af66277614b2042e7058d820a97f8f3"
+  },
+  {
+    "earthquakeAt": "2026-11-27T03:59:44.000Z",
+    "latitude": 4.74,
+    "longitude": 96.74,
+    "magnitude": 2.6,
+    "depthInKm": 3,
+    "locationInIndonesian": "Pusat gempa berada di darat 13 km barat Bener Meriah",
+    "feltOnStations": "II - III Bener Meriah",
+    "bmkgEarthquakeId": "20261127105944",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261127105944.mmi.jpg",
+    "fingerprintSha1": "9ed745821968e5e351619443b42dd84a507a3a39"
+  },
+  {
+    "earthquakeAt": "2026-11-27T03:56:37.000Z",
+    "latitude": -8.55,
+    "longitude": 116.04,
+    "magnitude": 3.1,
+    "depthInKm": 10,
+    "locationInIndonesian": "Pusat gempa berada di laut 18 km barat laut Lombok Barat",
+    "feltOnStations": "III Kota Mataram , III Kab. Lombok Barat",
+    "bmkgEarthquakeId": "20261127105637",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261127105637.mmi.jpg",
+    "fingerprintSha1": "8bcb96c4922332da06f2536403ae4582f4cb953e"
+  },
+  {
+    "earthquakeAt": "2026-11-27T03:51:14.000Z",
+    "latitude": -2.49,
+    "longitude": 140.66,
+    "magnitude": 2.8,
+    "depthInKm": 16,
+    "locationInIndonesian": "Pusat gempa berada di darat 8 km barat laut Kota Jayapura",
+    "feltOnStations": "III Kota Jayapura",
+    "bmkgEarthquakeId": "20261127105114",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261127105114.mmi.jpg",
+    "fingerprintSha1": "4022f02527ba2a09912a3bdacdd5e04d563e3085"
+  },
+  {
+    "earthquakeAt": "2026-11-27T02:39:21.000Z",
+    "latitude": -7.79,
+    "longitude": 120.49,
+    "magnitude": 4.3,
+    "depthInKm": 21,
+    "locationInIndonesian": "Pusat gempa berada dilaut 92 km utara Ruteng-Manggarai",
+    "feltOnStations": "II Manggarai",
+    "bmkgEarthquakeId": "20261127093921",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261127093921.mmi.jpg",
+    "fingerprintSha1": "361ba227b195c7834a6b1374af4a4f61bb801701"
   }
 ]
