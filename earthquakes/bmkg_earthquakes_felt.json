@@ -44959,5 +44959,17 @@
     "bmkgEarthquakeId": "20261128022805",
     "shakeMapUrl": "https://static.bmkg.go.id/20261128022805.mmi.jpg",
     "fingerprintSha1": "0df71249cd1a7180c72729ebbf41888fc68ff007"
+  },
+  {
+    "earthquakeAt": "2026-11-28T08:30:40.000Z",
+    "latitude": 5.03,
+    "longitude": 94.5,
+    "magnitude": 4.6,
+    "depthInKm": 11,
+    "locationInIndonesian": "Pusat gempa berada di laut 125 km barat Jantho-Aceh Besar",
+    "feltOnStations": "II - III Banda Aceh, II - III Aceh Besar",
+    "bmkgEarthquakeId": "20261128153040",
+    "shakeMapUrl": "https://static.bmkg.go.id/20261128153040.mmi.jpg",
+    "fingerprintSha1": "6cebe783397a3bd9fe8ee7e7ebf16b211f4b586c"
   }
 ]
